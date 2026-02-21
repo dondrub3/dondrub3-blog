@@ -1,0 +1,31 @@
+/* 自定义CSS - 移动端优化 */
+
+/* 首页描述文本在移动端自动换行 */
+.home-info .entry-content p {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+/* 确保长文本在移动端正确显示 */
+@media (max-width: 768px) {
+    .home-info .entry-content p {
+        font-size: 1rem;
+        line-height: 1.6;
+        text-align: justify;
+    }
+    
+    /* 确保列表项在移动端正确显示 */
+    .home-info .entry-content ul {
+        padding-left: 1.2rem;
+    }
+    
+    .home-info .entry-content li {
+        margin-bottom: 0.5rem;
+    }
+}
+
+/* 为长英文单词添加断词支持 */
+.home-info .entry-content {
+    word-break: break-word;
+}
