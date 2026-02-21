@@ -6,8 +6,15 @@
     <description>Recent content on Dondrub3 | 3P实验室</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 21 Feb 2026 23:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 02:50:00 +0800</lastBuildDate>
     <atom:link href="https://dondrub3.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试 GitHub Actions 构建</title>
+      <link>https://dondrub3.com/posts/test-github-actions/</link>
+      <pubDate>Sun, 22 Feb 2026 02:50:00 +0800</pubDate>
+      <guid>https://dondrub3.com/posts/test-github-actions/</guid>
+      <description>测试 GitHub Actions 是否正常工作</description>
+    </item>
     <item>
       <title>当AI产品设计遇上用户心理：智谱GLM Coding Plan事件的心理学解读</title>
       <link>https://dondrub3.com/posts/2026-02-21-ai-product-psychology/</link>
