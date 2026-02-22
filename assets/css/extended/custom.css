@@ -2,9 +2,11 @@
 
 /* 首页描述文本在移动端自动换行 */
 .home-info .entry-content p {
+    /* 确保文本自动换行 */
     word-wrap: break-word;
     overflow-wrap: break-word;
-    hyphens: auto;
+    /* 针对长英文单词特别处理 */
+    word-break: break-word;
 }
 
 /* 确保长文本在移动端正确显示 */
@@ -13,6 +15,18 @@
         font-size: 1rem;
         line-height: 1.6;
         text-align: justify;
+        /* 移动端强制断词，防止英文单词溢出 */
+        word-break: break-all;
+        overflow-wrap: break-word;
+        /* 移除连字符断词，在中文环境下可能不工作 */
+        hyphens: none;
+    }
+    
+    /* 特别处理第一段（包含英文单词的段落） */
+    .home-info .entry-content p:first-of-type {
+        /* 最激进的断词方案，确保括号和英文单词不溢出 */
+        word-break: break-all;
+        overflow-wrap: anywhere;
     }
     
     /* 确保列表项在移动端正确显示 */
@@ -25,7 +39,8 @@
     }
 }
 
-/* 为长英文单词添加断词支持 */
+/* 为整个内容区域添加断词支持 */
 .home-info .entry-content {
     word-break: break-word;
+    overflow-wrap: break-word;
 }
