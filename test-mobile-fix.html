@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>移动端换行测试</title>
+    <style>
+        /* 模拟移动端样式 */
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 375px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .test-content {
+            border: 1px solid #ccc;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        
+        /* 修复后的样式 */
+        .fixed p {
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            hyphens: auto;
+        }
+        
+        /* 修复前的样式（模拟<pre><code>） */
+        .broken pre code {
+            white-space: pre;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>移动端换行修复测试</h1>
+    
+    <div class="test-content broken">
+        <h2>修复前（被渲染为&lt;pre&gt;&lt;code&gt;）</h2>
+        <pre><code>这里是东周的个人博客，专注于哲学(Philosophy)、物理(Physics)、心理学(Psychology)的交叉探索。
+
+- 🧠 **交易心理**：行为金融与量化决策
+- ⚛️ **物理思维**：复杂系统与市场规律  
+- 🤔 **哲学追问**：存在、意义与价值
+
+用科学的眼光看世界，用哲学的心智思考人生。</code></pre>
+        <p><strong>问题</strong>：内容被包裹在&lt;pre&gt;&lt;code&gt;标签中，不会自动换行。</p>
+    </div>
+    
+    <div class="test-content fixed">
+        <h2>修复后（正确渲染为&lt;p&gt;和&lt;ul&gt;）</h2>
+        <p>这里是东周的个人博客，专注于哲学(Philosophy)、物理(Physics)、心理学(Psychology)的交叉探索。</p>
+        <ul>
+            <li>🧠 <strong>交易心理</strong>：行为金融与量化决策</li>
+            <li>⚛️ <strong>物理思维</strong>：复杂系统与市场规律</li>
+            <li>🤔 <strong>哲学追问</strong>：存在、意义与价值</li>
+        </ul>
+        <p>用科学的眼光看世界，用哲学的心智思考人生。</p>
+        <p><strong>效果</strong>：内容正确渲染，移动端自动换行。</p>
+    </div>
+    
+    <div class="test-content">
+        <h2>验证方法</h2>
+        <ol>
+            <li>在浏览器中打开此页面</li>
+            <li>使用开发者工具切换到移动端视图（375px宽度）</li>
+            <li>观察"修复前"部分内容溢出</li>
+            <li>观察"修复后"部分内容自动换行</li>
+            <li>访问 <a href="https://dondrub3.com/">https://dondrub3.com/</a> 验证实际效果</li>
+        </ol>
+    </div>
+</body>
+</html>

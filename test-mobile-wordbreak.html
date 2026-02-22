@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>移动端英文单词断词测试</title>
+    <style>
+        /* 模拟移动端样式 */
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 375px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        
+        .test-section {
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        h2 {
+            color: #333;
+            border-bottom: 2px solid #4CAF50;
+            padding-bottom: 10px;
+        }
+        
+        /* 修复前的样式 */
+        .before-fix p {
+            word-wrap: normal;
+            overflow-wrap: normal;
+            word-break: normal;
+        }
+        
+        /* 修复后的样式 */
+        .after-fix p {
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+        
+        /* 移动端特别处理 */
+        @media (max-width: 768px) {
+            .after-fix p {
+                word-break: break-all;
+                overflow-wrap: break-word;
+            }
+            
+            .after-fix p:first-of-type {
+                word-break: break-all;
+                overflow-wrap: anywhere;
+            }
+        }
+        
+        .problem-text {
+            color: #d32f2f;
+            font-weight: bold;
+        }
+        
+        .solution-text {
+            color: #388e3c;
+            font-weight: bold;
+        }
+        
+        .code-block {
+            background: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 4px;
+            padding: 15px;
+            font-family: monospace;
+            margin: 10px 0;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>移动端英文单词断词测试</h1>
+    
+    <div class="test-section before-fix">
+        <h2>修复前的问题</h2>
+        <p class="problem-text">"这里是东周的个人博客，专注于哲学(Philosophy)、物理(Physics)、心理学(Psychology)的交叉探索。"</p>
+        <p><strong>问题描述</strong>：英文单词在括号内，移动端不会自动断词，导致文本溢出。</p>
+        <p><strong>CSS状态</strong>：<code>word-break: normal</code>, <code>overflow-wrap: normal</code></p>
+        <div class="code-block">
+            .home-info .entry-content p {<br>
+            &nbsp;&nbsp;word-break: normal;<br>
+            &nbsp;&nbsp;overflow-wrap: normal;<br>
+            }
+        </div>
+    </div>
+    
+    <div class="test-section after-fix">
+        <h2>修复后的效果</h2>
+        <p class="solution-text">"这里是东周的个人博客，专注于哲学(Philosophy)、物理(Physics)、心理学(Psychology)的交叉探索。"</p>
+        <p><strong>解决方案</strong>：使用CSS强制断词，确保英文单词在移动端正确换行。</p>
+        <p><strong>CSS修复</strong>：</p>
+        <div class="code-block">
+            /* 基础断词 */<br>
+            .home-info .entry-content p {<br>
+            &nbsp;&nbsp;word-wrap: break-word;<br>
+            &nbsp;&nbsp;overflow-wrap: break-word;<br>
+            &nbsp;&nbsp;word-break: break-word;<br>
+            }<br><br>
+            /* 移动端特别处理 */<br>
+            @media (max-width: 768px) {<br>
+            &nbsp;&nbsp;.home-info .entry-content p {<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;word-break: break-all;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;overflow-wrap: break-word;<br>
+            &nbsp;&nbsp;}<br><br>
+            &nbsp;&nbsp;/* 特别处理第一段 */<br>
+            &nbsp;&nbsp;.home-info .entry-content p:first-of-type {<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;word-break: break-all;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;overflow-wrap: anywhere;<br>
+            &nbsp;&nbsp;}<br>
+            }
+        </div>
+    </div>
+    
+    <div class="test-section">
+        <h2>验证方法</h2>
+        <ol>
+            <li>在浏览器中打开此页面</li>
+            <li>使用开发者工具切换到移动端视图（375px宽度）</li>
+            <li>观察"修复前"部分：英文单词可能溢出</li>
+            <li>观察"修复后"部分：英文单词应该正确换行</li>
+            <li>实际测试：访问 <a href="https://dondrub3.com/">https://dondrub3.com/</a></li>
+        </ol>
+        
+        <h3>CSS属性说明：</h3>
+        <ul>
+            <li><code>word-break: break-all</code>：在任意字符处断词，最激进</li>
+            <li><code>word-break: break-word</code>：在单词内断词，较美观</li>
+            <li><code>overflow-wrap: break-word</code>：在需要时断词</li>
+            <li><code>overflow-wrap: anywhere</code>：在任何位置断词</li>
+        </ul>
+    </div>
+    
+    <div class="test-section">
+        <h2>备选方案</h2>
+        <p>如果CSS修复不够理想，可以考虑：</p>
+        <ol>
+            <li><strong>修改文本</strong>：在英文单词中添加连字符或空格</li>
+            <li><strong>使用软连字符</strong>：Philosophy → Philo&shy;sophy</li>
+            <li><strong>调整布局</strong>：减少字体大小或增加容器宽度</li>
+            <li><strong>响应式设计</strong>：在不同屏幕尺寸使用不同文本</li>
+        </ol>
+    </div>
+</body>
+</html>

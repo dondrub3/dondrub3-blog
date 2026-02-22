@@ -1,0 +1,1995 @@
+From 85c3f860d497a7de9a99039ab293151c2bbecc4b Mon Sep 17 00:00:00 2001
+From: Dondrub3 <anandz1919@gmail.com>
+Date: Sun, 22 Feb 2026 02:52:11 +0800
+Subject: [PATCH 1/2] =?UTF-8?q?=E6=B7=BB=E5=8A=A0=E6=B5=8B=E8=AF=95?=
+ =?UTF-8?q?=E6=96=87=E7=AB=A0=EF=BC=8C=E8=A7=A6=E5=8F=91=20GitHub=20Action?=
+ =?UTF-8?q?s?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ content/posts/test-github-actions.md | 34 ++++++++++++++++++++++++++++
+ 1 file changed, 34 insertions(+)
+ create mode 100644 content/posts/test-github-actions.md
+
+diff --git a/content/posts/test-github-actions.md b/content/posts/test-github-actions.md
+new file mode 100644
+index 0000000..03d9f50
+--- /dev/null
++++ b/content/posts/test-github-actions.md
+@@ -0,0 +1,34 @@
++---
++title: "测试 GitHub Actions 构建"
++date: 2026-02-22T02:50:00+08:00
++draft: false
++author: "东周"
++categories: ["测试"]
++tags: ["GitHub Actions", "Hugo", "部署"]
++description: "测试 GitHub Actions 是否正常工作"
++---
++
++## 测试目的
++
++验证 GitHub Actions 工作流是否正确配置，能够自动构建和部署 Hugo 博客。
++
++## 测试步骤
++
++1. 提交此文件到 `main` 分支
++2. GitHub Actions 应该自动触发构建
++3. 构建成功后部署到 GitHub Pages
++4. 验证网站是否更新
++
++## 预期结果
++
++- GitHub Actions 工作流成功运行
++- Hugo 正确构建网站
++- 网站内容更新包含此测试文章
++- 所有链接和功能正常工作
++
++## 技术验证
++
++- Hugo 版本: 0.146.0+
++- PaperMod 主题兼容性
++- GitHub Pages 部署
++- DNS 和 HTTPS 配置
+\ No newline at end of file
+-- 
+2.43.0
+
+
+From eaed07492e1916b4eee038809d683e7a35d35140 Mon Sep 17 00:00:00 2001
+From: Dondrub3 <anandz1919@gmail.com>
+Date: Sun, 22 Feb 2026 03:14:15 +0800
+Subject: [PATCH 2/2] =?UTF-8?q?=E6=9B=B4=E6=96=B0=E7=BD=91=E7=AB=99?=
+ =?UTF-8?q?=E5=86=85=E5=AE=B9=EF=BC=9A=E6=B7=BB=E5=8A=A0=E9=83=A8=E7=BD=B2?=
+ =?UTF-8?q?=E6=A3=80=E6=9F=A5=E6=B8=85=E5=8D=95=E5=92=8C=E6=B5=8B=E8=AF=95?=
+ =?UTF-8?q?=E6=96=87=E7=AB=A0?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ DEPLOY_CHECKLIST.md                           |  32 ++
+ public/categories/index.html                  |   3 +
+ public/categories/index.xml                   |   9 +-
+ .../\346\265\213\350\257\225/index.html"      | 235 +++++++++
+ .../\346\265\213\350\257\225/index.xml"       |  19 +
+ .../page/1/index.html"                        |  10 +
+ public/index.html                             |  13 +
+ public/index.json                             |   2 +-
+ public/index.xml                              |   9 +-
+ .../index.html                                |   7 +
+ public/posts/index.html                       |  13 +
+ public/posts/index.xml                        |   9 +-
+ public/posts/test-github-actions/index.html   | 448 ++++++++++++++++++
+ public/sitemap.xml                            |  27 +-
+ public/tags/github-actions/index.html         | 235 +++++++++
+ public/tags/github-actions/index.xml          |  19 +
+ public/tags/github-actions/page/1/index.html  |  10 +
+ public/tags/hugo/index.html                   | 235 +++++++++
+ public/tags/hugo/index.xml                    |  19 +
+ public/tags/hugo/page/1/index.html            |  10 +
+ public/tags/index.html                        |   9 +
+ public/tags/index.xml                         |  23 +-
+ .../tags/\351\203\250\347\275\262/index.html" | 235 +++++++++
+ .../tags/\351\203\250\347\275\262/index.xml"  |  19 +
+ .../page/1/index.html"                        |  10 +
+ 25 files changed, 1649 insertions(+), 11 deletions(-)
+ create mode 100644 DEPLOY_CHECKLIST.md
+ create mode 100644 "public/categories/\346\265\213\350\257\225/index.html"
+ create mode 100644 "public/categories/\346\265\213\350\257\225/index.xml"
+ create mode 100644 "public/categories/\346\265\213\350\257\225/page/1/index.html"
+ create mode 100644 public/posts/test-github-actions/index.html
+ create mode 100644 public/tags/github-actions/index.html
+ create mode 100644 public/tags/github-actions/index.xml
+ create mode 100644 public/tags/github-actions/page/1/index.html
+ create mode 100644 public/tags/hugo/index.html
+ create mode 100644 public/tags/hugo/index.xml
+ create mode 100644 public/tags/hugo/page/1/index.html
+ create mode 100644 "public/tags/\351\203\250\347\275\262/index.html"
+ create mode 100644 "public/tags/\351\203\250\347\275\262/index.xml"
+ create mode 100644 "public/tags/\351\203\250\347\275\262/page/1/index.html"
+
+diff --git a/DEPLOY_CHECKLIST.md b/DEPLOY_CHECKLIST.md
+new file mode 100644
+index 0000000..48ccbd4
+--- /dev/null
++++ b/DEPLOY_CHECKLIST.md
+@@ -0,0 +1,32 @@
++# GitHub Actions 部署检查清单
++
++## 前置条件
++- [x] Hugo v0.146.0+ 已安装
++- [x] PaperMod 主题配置正确
++- [x] 本地构建成功
++- [x] GitHub Actions 工作流配置正确
++
++## 部署步骤
++1. [ ] 推送更改到 main 分支
++2. [ ] 监控 GitHub Actions 运行状态
++3. [ ] 验证构建成功
++4. [ ] 检查 GitHub Pages 部署
++5. [ ] 访问网站验证更新
++
++## 验证项目
++- [ ] 首页加载正常
++- [ ] 所有文章可访问
++- [ ] 导航菜单工作正常
++- [ ] 响应式设计正常
++- [ ] HTTPS 证书有效
++
++## 故障排除
++1. 如果 GitHub Actions 失败：
++   - 检查 Hugo 版本兼容性
++   - 检查主题配置
++   - 查看构建日志
++
++2. 如果网站未更新：
++   - 检查 GitHub Pages 设置
++   - 验证 DNS 配置
++   - 清除浏览器缓存
+diff --git a/public/categories/index.html b/public/categories/index.html
+index 54a8bc5..82f5a6a 100644
+--- a/public/categories/index.html
++++ b/public/categories/index.html
+@@ -143,6 +143,9 @@
+     <li>
+         <a href="https://dondrub3.com/categories/%E5%BF%83%E7%90%86%E5%AD%A6/">心理学 <sup><strong><sup>1</sup></strong></sup> </a>
+     </li>
++    <li>
++        <a href="https://dondrub3.com/categories/%E6%B5%8B%E8%AF%95/">测试 <sup><strong><sup>1</sup></strong></sup> </a>
++    </li>
+ </ul>
+     </main>
+     
+diff --git a/public/categories/index.xml b/public/categories/index.xml
+index d058712..677f030 100644
+--- a/public/categories/index.xml
++++ b/public/categories/index.xml
+@@ -6,8 +6,15 @@
+     <description>Recent content in Categories on Dondrub3 | 3P实验室</description>
+     <generator>Hugo -- 0.146.0</generator>
+     <language>zh-cn</language>
+-    <lastBuildDate>Sat, 21 Feb 2026 23:30:00 +0800</lastBuildDate>
++    <lastBuildDate>Sun, 22 Feb 2026 02:50:00 +0800</lastBuildDate>
+     <atom:link href="https://dondrub3.com/categories/index.xml" rel="self" type="application/rss+xml" />
++    <item>
++      <title>测试</title>
++      <link>https://dondrub3.com/categories/%E6%B5%8B%E8%AF%95/</link>
++      <pubDate>Sun, 22 Feb 2026 02:50:00 +0800</pubDate>
++      <guid>https://dondrub3.com/categories/%E6%B5%8B%E8%AF%95/</guid>
++      <description></description>
++    </item>
+     <item>
+       <title>心理学</title>
+       <link>https://dondrub3.com/categories/%E5%BF%83%E7%90%86%E5%AD%A6/</link>
+diff --git "a/public/categories/\346\265\213\350\257\225/index.html" "b/public/categories/\346\265\213\350\257\225/index.html"
+new file mode 100644
+index 0000000..e89cc99
+--- /dev/null
++++ "b/public/categories/\346\265\213\350\257\225/index.html"
+@@ -0,0 +1,235 @@
++<!DOCTYPE html>
++<html lang="en" dir="auto" data-theme="auto">
++
++<head><meta charset="utf-8">
++<meta http-equiv="X-UA-Compatible" content="IE=edge">
++<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
++<meta name="robots" content="index, follow">
++<title>测试 | Dondrub3 | 3P实验室</title>
++<meta name="keywords" content="">
++<meta name="description" content="哲学 · 物理 · 心理学 | 量化交易与心智探索">
++<meta name="author" content="东周">
++<link rel="canonical" href="https://dondrub3.com/categories/%E6%B5%8B%E8%AF%95/">
++<link crossorigin="anonymous" href="/assets/css/stylesheet.da3211e5ef867bf2b75fd5a6515cfed7195c011e8ab735694e203810a827097b.css" integrity="sha256-2jIR5e&#43;Ge/K3X9WmUVz&#43;1xlcAR6KtzVpTiA4EKgnCXs=" rel="preload stylesheet" as="style">
++<link rel="icon" href="https://dondrub3.com/favicon.ico">
++<link rel="icon" type="image/png" sizes="16x16" href="https://dondrub3.com/favicon-16x16.png">
++<link rel="icon" type="image/png" sizes="32x32" href="https://dondrub3.com/favicon-32x32.png">
++<link rel="apple-touch-icon" href="https://dondrub3.com/apple-touch-icon.png">
++<link rel="mask-icon" href="https://dondrub3.com/safari-pinned-tab.svg">
++<meta name="theme-color" content="#2e2e33">
++<meta name="msapplication-TileColor" content="#2e2e33">
++<link rel="alternate" type="application/rss+xml" href="https://dondrub3.com/categories/%E6%B5%8B%E8%AF%95/index.xml" title="rss">
++<link rel="alternate" hreflang="en" href="https://dondrub3.com/categories/%E6%B5%8B%E8%AF%95/">
++<noscript>
++    <style>
++        #theme-toggle,
++        .top-link {
++            display: none;
++        }
++
++    </style>
++    <style>
++        @media (prefers-color-scheme: dark) {
++            :root {
++                --theme: rgb(29, 30, 32);
++                --entry: rgb(46, 46, 51);
++                --primary: rgb(218, 218, 219);
++                --secondary: rgb(155, 156, 157);
++                --tertiary: rgb(65, 66, 68);
++                --content: rgb(196, 196, 197);
++                --code-block-bg: rgb(46, 46, 51);
++                --code-bg: rgb(55, 56, 62);
++                --border: rgb(51, 51, 51);
++                color-scheme: dark;
++            }
++
++            .list {
++                background: var(--theme);
++            }
++
++            .toc {
++                background: var(--entry);
++            }
++        }
++
++        @media (prefers-color-scheme: light) {
++            .list::-webkit-scrollbar-thumb {
++                border-color: var(--code-bg);
++            }
++        }
++
++    </style>
++</noscript>
++<script>
++    if (localStorage.getItem("pref-theme") === "dark") {
++        document.querySelector("html").dataset.theme = 'dark';
++    } else if (localStorage.getItem("pref-theme") === "light") {
++       document.querySelector("html").dataset.theme = 'light';
++    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
++        document.querySelector("html").dataset.theme = 'dark';
++    } else {
++        document.querySelector("html").dataset.theme = 'light';
++    }
++
++</script><meta property="og:url" content="https://dondrub3.com/categories/%E6%B5%8B%E8%AF%95/">
++  <meta property="og:site_name" content="Dondrub3 | 3P实验室">
++  <meta property="og:title" content="测试">
++  <meta property="og:description" content="哲学 · 物理 · 心理学 | 量化交易与心智探索">
++  <meta property="og:locale" content="zh-cn">
++  <meta property="og:type" content="website">
++<meta name="twitter:card" content="summary">
++<meta name="twitter:title" content="测试">
++<meta name="twitter:description" content="哲学 · 物理 · 心理学 | 量化交易与心智探索">
++
++</head>
++<body class="list" id="top">
++    <header class="header">
++    <nav class="nav">
++        <div class="logo">
++            <a href="https://dondrub3.com/" accesskey="h" title="Dondrub3 | 3P实验室 (Alt + H)">Dondrub3 | 3P实验室</a>
++            <div class="logo-switches">
++                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
++                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
++                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
++                        stroke-linejoin="round">
++                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
++                    </svg>
++                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
++                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
++                        stroke-linejoin="round">
++                        <circle cx="12" cy="12" r="5"></circle>
++                        <line x1="12" y1="1" x2="12" y2="3"></line>
++                        <line x1="12" y1="21" x2="12" y2="23"></line>
++                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
++                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
++                        <line x1="1" y1="12" x2="3" y2="12"></line>
++                        <line x1="21" y1="12" x2="23" y2="12"></line>
++                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
++                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
++                    </svg>
++                </button>
++            </div>
++        </div>
++        <ul id="menu">
++            <li>
++                <a href="https://dondrub3.com/posts/" title="文章">
++                    <span>文章</span>
++                </a>
++            </li>
++            <li>
++                <a href="https://dondrub3.com/categories/" title="分类">
++                    <span>分类</span>
++                </a>
++            </li>
++            <li>
++                <a href="https://dondrub3.com/tags/" title="标签">
++                    <span>标签</span>
++                </a>
++            </li>
++            <li>
++                <a href="https://dondrub3.com/about/" title="关于">
++                    <span>关于</span>
++                </a>
++            </li>
++        </ul>
++    </nav>
++</header>
++<main class="main"> 
++<header class="page-header"><div class="breadcrumbs"><a href="https://dondrub3.com/">Home</a>&nbsp;»&nbsp;<a href="https://dondrub3.com/categories/">Categories</a></div>
++  <h1>
++    测试
++  </h1>
++</header>
++
++<article class="post-entry tag-entry"> 
++  <header class="entry-header">
++    <h2 class="entry-hint-parent">测试 GitHub Actions 构建
++    </h2>
++  </header>
++  <div class="entry-content">
++    <p>测试目的 验证 GitHub Actions 工作流是否正确配置，能够自动构建和部署 Hugo 博客。
++测试步骤 提交此文件到 main 分支 GitHub Actions 应该自动触发构建 构建成功后部署到 GitHub Pages 验证网站是否更新 预期结果 GitHub Actions 工作流成功运行 Hugo 正确构建网站 网站内容更新包含此测试文章 所有链接和功能正常工作 技术验证 Hugo 版本: 0.146.0&#43; PaperMod 主题兼容性 GitHub Pages 部署 DNS 和 HTTPS 配置 </p>
++  </div>
++  <footer class="entry-footer"><span title='2026-02-22 02:50:00 +0800 CST'>February 22, 2026</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>东周</span></footer>
++  <a class="entry-link" aria-label="post link to 测试 GitHub Actions 构建" href="https://dondrub3.com/posts/test-github-actions/"></a>
++</article>
++    </main>
++    
++<footer class="footer">
++        <span>&copy; 2026 <a href="https://dondrub3.com/">Dondrub3 | 3P实验室</a></span> · 
++
++    <span>
++        Powered by
++        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
++        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
++    </span>
++</footer>
++<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
++    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
++        <path d="M12 6H0l6-6z" />
++    </svg>
++</a>
++
++<script>
++    let menu = document.getElementById('menu');
++    if (menu) {
++        
++        const scrollPosition = localStorage.getItem("menu-scroll-position");
++        if (scrollPosition) {
++            menu.scrollLeft = parseInt(scrollPosition, 10);
++        }
++        
++        menu.onscroll = function () {
++            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
++        }
++    }
++
++    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
++        anchor.addEventListener("click", function (e) {
++            e.preventDefault();
++            var id = this.getAttribute("href").substr(1);
++            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
++                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
++                    behavior: "smooth"
++                });
++            } else {
++                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
++            }
++            if (id === "top") {
++                history.replaceState(null, null, " ");
++            } else {
++                history.pushState(null, null, `#${id}`);
++            }
++        });
++    });
++
++</script>
++<script>
++    var mybutton = document.getElementById("top-link");
++    window.onscroll = function () {
++        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
++            mybutton.style.visibility = "visible";
++            mybutton.style.opacity = "1";
++        } else {
++            mybutton.style.visibility = "hidden";
++            mybutton.style.opacity = "0";
++        }
++    };
++
++</script>
++<script>
++    document.getElementById("theme-toggle").addEventListener("click", () => {
++        const html = document.querySelector("html");
++        if (html.dataset.theme === "dark") {
++            html.dataset.theme = 'light';
++            localStorage.setItem("pref-theme", 'light');
++        } else {
++            html.dataset.theme = 'dark';
++            localStorage.setItem("pref-theme", 'dark');
++        }
++    })
++
++</script>
++</body>
++
++</html>
+diff --git "a/public/categories/\346\265\213\350\257\225/index.xml" "b/public/categories/\346\265\213\350\257\225/index.xml"
+new file mode 100644
+index 0000000..fa4a3b7
+--- /dev/null
++++ "b/public/categories/\346\265\213\350\257\225/index.xml"
+@@ -0,0 +1,19 @@
++<?xml version="1.0" encoding="utf-8" standalone="yes"?>
++<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
++  <channel>
++    <title>测试 on Dondrub3 | 3P实验室</title>
++    <link>https://dondrub3.com/categories/%E6%B5%8B%E8%AF%95/</link>
++    <description>Recent content in 测试 on Dondrub3 | 3P实验室</description>
++    <generator>Hugo -- 0.146.0</generator>
++    <language>zh-cn</language>
++    <lastBuildDate>Sun, 22 Feb 2026 02:50:00 +0800</lastBuildDate>
++    <atom:link href="https://dondrub3.com/categories/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
++    <item>
++      <title>测试 GitHub Actions 构建</title>
++      <link>https://dondrub3.com/posts/test-github-actions/</link>
++      <pubDate>Sun, 22 Feb 2026 02:50:00 +0800</pubDate>
++      <guid>https://dondrub3.com/posts/test-github-actions/</guid>
++      <description>测试 GitHub Actions 是否正常工作</description>
++    </item>
++  </channel>
++</rss>
+diff --git "a/public/categories/\346\265\213\350\257\225/page/1/index.html" "b/public/categories/\346\265\213\350\257\225/page/1/index.html"
+new file mode 100644
+index 0000000..41e82a7
+--- /dev/null
++++ "b/public/categories/\346\265\213\350\257\225/page/1/index.html"
+@@ -0,0 +1,10 @@
++<!DOCTYPE html>
++<html lang="zh-cn">
++  <head>
++    <title>https://dondrub3.com/categories/%E6%B5%8B%E8%AF%95/</title>
++    <link rel="canonical" href="https://dondrub3.com/categories/%E6%B5%8B%E8%AF%95/">
++    <meta name="robots" content="noindex">
++    <meta charset="utf-8">
++    <meta http-equiv="refresh" content="0; url=https://dondrub3.com/categories/%E6%B5%8B%E8%AF%95/">
++  </head>
++</html>
+diff --git a/public/index.html b/public/index.html
+index bed0848..ed5acaa 100644
+--- a/public/index.html
++++ b/public/index.html
+@@ -172,6 +172,19 @@
+     </footer>
+ </article>
+ 
++<article class="post-entry"> 
++  <header class="entry-header">
++    <h2 class="entry-hint-parent">测试 GitHub Actions 构建
++    </h2>
++  </header>
++  <div class="entry-content">
++    <p>测试目的 验证 GitHub Actions 工作流是否正确配置，能够自动构建和部署 Hugo 博客。
++测试步骤 提交此文件到 main 分支 GitHub Actions 应该自动触发构建 构建成功后部署到 GitHub Pages 验证网站是否更新 预期结果 GitHub Actions 工作流成功运行 Hugo 正确构建网站 网站内容更新包含此测试文章 所有链接和功能正常工作 技术验证 Hugo 版本: 0.146.0&#43; PaperMod 主题兼容性 GitHub Pages 部署 DNS 和 HTTPS 配置 </p>
++  </div>
++  <footer class="entry-footer"><span title='2026-02-22 02:50:00 +0800 CST'>February 22, 2026</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>东周</span></footer>
++  <a class="entry-link" aria-label="post link to 测试 GitHub Actions 构建" href="https://dondrub3.com/posts/test-github-actions/"></a>
++</article>
++
+ <article class="post-entry"> 
+   <header class="entry-header">
+     <h2 class="entry-hint-parent">当AI产品设计遇上用户心理：智谱GLM Coding Plan事件的心理学解读
+diff --git a/public/index.json b/public/index.json
+index fb4cc5c..be3e201 100644
+--- a/public/index.json
++++ b/public/index.json
+@@ -1 +1 @@
+-[{"content":"事件背景 今天，智谱AI针对其GLM Coding Plan产品问题发布官方致歉声明，并公布了详细的补偿方案。事件源于用户发现该产品的实际功能与宣传存在较大差距，引发了广泛的用户不满和舆论关注。\n智谱AI在声明中承认了产品设计中的不足，并承诺为受影响用户提供相应的补偿措施。这一事件不仅是一个技术产品问题，更是一个值得深入分析的心理学案例。\n认知心理学：预期违背与心理契约破裂 1. 预期违背的心理机制 用户对AI产品往往抱有特定的心理预期。当产品功能与宣传不符时，会发生预期违背（Expectation Violation），这种违背会触发强烈的负面情绪反应。\n心理学研究表明，预期违背会激活大脑的错误检测系统，产生认知失调。用户需要重新调整自己的心理模型来适应现实，这个过程伴随着心理不适和负面情绪。\n2. 心理契约的隐性存在 用户与产品之间存在着隐性的心理契约（Psychological Contract）。这种契约包括：\n交易性契约：功能与价格的匹配 关系性契约：信任与长期合作的期望 发展性契约：产品进步与用户成长的同步 当产品未能履行这些隐性契约时，用户会感到被背叛，这种感受比单纯的功能不足更具破坏性。\n社会心理学：稀缺性感知与公平心理 1. 稀缺性营销的心理效应 GLM Coding Plan采用了稀缺性营销策略，这种策略会激活用户的稀缺性感知。心理学中的稀缺原理指出，人们对稀缺资源的渴望会超越理性评估。\n然而，当稀缺性被证明是人为制造时，用户会产生被操纵感，这种感受会转化为愤怒和不信任。\n2. 公平心理与补偿需求 用户对公平有着天生的敏感性。公平理论（Equity Theory）指出，人们会将自己的投入产出比与他人进行比较。当感知到不公平时，会产生强烈的恢复公平的动机。\n智谱的补偿方案需要满足用户的公平心理需求，这不仅是经济补偿，更是心理补偿。\n信任心理学：透明度不足与信任危机 1. 信任建立的心理学基础 信任建立在三个心理学基础上：\n能力信任：相信对方有能力履行承诺 善意信任：相信对方有良好的意图 正直信任：相信对方会遵守道德原则 GLM Coding Plan事件同时冲击了这三种信任基础。\n2. 透明度与信任修复 透明度是信任修复的关键。心理学研究表明，完全的透明度（包括承认错误、解释原因、展示改进过程）比部分透明度更能有效修复信任。\n智谱的致歉声明需要达到心理透明度的标准，即不仅要说明\u0026quot;发生了什么\u0026quot;，还要解释\u0026quot;为什么会发生\u0026quot;以及\u0026quot;如何确保不再发生\u0026quot;。\n行为经济学：损失厌恶与升级机制设计 1. 损失厌恶的心理权重 损失厌恶（Loss Aversion）是行为经济学的核心概念：人们对损失的敏感度是对收益敏感度的2-2.5倍。在GLM Coding Plan事件中，用户感知到的损失包括：\n经济损失：支付了未获得的服务 心理损失：信任被辜负、时间被浪费 机会损失：错过了其他更好的选择 2. 升级机制的心理陷阱 产品的升级机制（Upselling）如果设计不当，会触发用户的心理抗拒。当用户感觉被\u0026quot;诱骗\u0026quot;升级时，会产生逆反心理，即使升级本身可能有价值。\nAI时代的心理学挑战与解决方案 1. AI产品特有的心理挑战 AI产品面临着独特的心理学挑战：\n黑箱焦虑：用户不理解AI的决策过程 过度拟人化：用户对AI产生不切实际的情感期待 责任归属模糊：当AI出错时，责任归属不明确 2. 心理学驱动的产品设计原则 基于心理学研究，AI产品设计应遵循以下原则：\n原则一：管理用户预期 明确说明AI的能力边界 避免过度承诺 提供真实的使用案例 原则二：建立渐进式信任 从小承诺开始，逐步建立信任 提供透明的决策解释 建立可靠的错误处理机制 原则三：设计心理安全的用户体验 允许用户控制AI的行为程度 提供清晰的退出机制 建立有效的用户反馈渠道 原则四：重视修复心理学 承认错误的勇气比完美更重要 补偿方案要考虑心理价值而不仅仅是经济价值 修复过程要公开透明 对AI产品设计的启示 1. 从\u0026quot;功能中心\u0026quot;到\u0026quot;心理中心\u0026quot;的转变 未来的AI产品设计需要从单纯的功能优化转向心理体验优化。这意味着：\n理解用户的心理模型和期望 设计符合心理规律的用户旅程 建立情感连接而不仅仅是功能连接 2. 心理学素养成为AI产品经理的核心能力 AI产品经理需要具备基本的心理学素养，包括：\n认知心理学：理解用户如何感知、记忆、决策 社会心理学：理解用户在社会情境中的行为 情感心理学：理解用户的情感需求和反应 3. 建立心理学的产品评估体系 在产品开发的每个阶段加入心理学评估：\n概念阶段：评估用户心理预期 设计阶段：评估心理安全性和信任度 发布阶段：监测心理反应和情感连接 迭代阶段：基于心理反馈进行优化 结语：在技术与心理的交汇处 智谱GLM Coding Plan事件是一个警示，提醒我们AI产品开发不仅是技术挑战，更是心理学挑战。在技术快速发展的今天，我们更需要关注技术如何影响人的心理，以及如何设计符合心理规律的技术产品。\n真正的AI产品创新发生在技术与心理的交汇处。只有深入理解用户的心理世界，才能设计出不仅功能强大，而且心理健康的AI产品。\n这次事件虽然带来了短期的挑战，但也为整个AI行业提供了宝贵的心理学教训。通过从心理学角度深入分析，我们可以将挑战转化为进步的动力，推动AI产品设计向更加人性化、心理化的方向发展。\n本文从心理学角度分析2026年2月21日智谱GLM Coding Plan事件，探讨AI产品设计中的心理学原理和挑战。\n","permalink":"https://dondrub3.com/posts/2026-02-21-ai-product-psychology/","summary":"\u003ch2 id=\"事件背景\"\u003e事件背景\u003c/h2\u003e\n\u003cp\u003e今天，智谱AI针对其GLM Coding Plan产品问题发布官方致歉声明，并公布了详细的补偿方案。事件源于用户发现该产品的实际功能与宣传存在较大差距，引发了广泛的用户不满和舆论关注。\u003c/p\u003e\n\u003cp\u003e智谱AI在声明中承认了产品设计中的不足，并承诺为受影响用户提供相应的补偿措施。这一事件不仅是一个技术产品问题，更是一个值得深入分析的心理学案例。\u003c/p\u003e\n\u003ch2 id=\"认知心理学预期违背与心理契约破裂\"\u003e认知心理学：预期违背与心理契约破裂\u003c/h2\u003e\n\u003ch3 id=\"1-预期违背的心理机制\"\u003e1. 预期违背的心理机制\u003c/h3\u003e\n\u003cp\u003e用户对AI产品往往抱有特定的\u003cstrong\u003e心理预期\u003c/strong\u003e。当产品功能与宣传不符时，会发生\u003cstrong\u003e预期违背\u003c/strong\u003e（Expectation Violation），这种违背会触发强烈的负面情绪反应。\u003c/p\u003e\n\u003cp\u003e心理学研究表明，预期违背会激活大脑的\u003cstrong\u003e错误检测系统\u003c/strong\u003e，产生认知失调。用户需要重新调整自己的心理模型来适应现实，这个过程伴随着心理不适和负面情绪。\u003c/p\u003e\n\u003ch3 id=\"2-心理契约的隐性存在\"\u003e2. 心理契约的隐性存在\u003c/h3\u003e\n\u003cp\u003e用户与产品之间存在着隐性的\u003cstrong\u003e心理契约\u003c/strong\u003e（Psychological Contract）。这种契约包括：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003e交易性契约\u003c/strong\u003e：功能与价格的匹配\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e关系性契约\u003c/strong\u003e：信任与长期合作的期望\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e发展性契约\u003c/strong\u003e：产品进步与用户成长的同步\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e当产品未能履行这些隐性契约时，用户会感到被背叛，这种感受比单纯的功能不足更具破坏性。\u003c/p\u003e\n\u003ch2 id=\"社会心理学稀缺性感知与公平心理\"\u003e社会心理学：稀缺性感知与公平心理\u003c/h2\u003e\n\u003ch3 id=\"1-稀缺性营销的心理效应\"\u003e1. 稀缺性营销的心理效应\u003c/h3\u003e\n\u003cp\u003eGLM Coding Plan采用了\u003cstrong\u003e稀缺性营销\u003c/strong\u003e策略，这种策略会激活用户的\u003cstrong\u003e稀缺性感知\u003c/strong\u003e。心理学中的稀缺原理指出，人们对稀缺资源的渴望会超越理性评估。\u003c/p\u003e\n\u003cp\u003e然而，当稀缺性被证明是人为制造时，用户会产生\u003cstrong\u003e被操纵感\u003c/strong\u003e，这种感受会转化为愤怒和不信任。\u003c/p\u003e\n\u003ch3 id=\"2-公平心理与补偿需求\"\u003e2. 公平心理与补偿需求\u003c/h3\u003e\n\u003cp\u003e用户对公平有着天生的敏感性。\u003cstrong\u003e公平理论\u003c/strong\u003e（Equity Theory）指出，人们会将自己的投入产出比与他人进行比较。当感知到不公平时，会产生强烈的恢复公平的动机。\u003c/p\u003e\n\u003cp\u003e智谱的补偿方案需要满足用户的\u003cstrong\u003e公平心理需求\u003c/strong\u003e，这不仅是经济补偿，更是心理补偿。\u003c/p\u003e\n\u003ch2 id=\"信任心理学透明度不足与信任危机\"\u003e信任心理学：透明度不足与信任危机\u003c/h2\u003e\n\u003ch3 id=\"1-信任建立的心理学基础\"\u003e1. 信任建立的心理学基础\u003c/h3\u003e\n\u003cp\u003e信任建立在三个心理学基础上：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003e能力信任\u003c/strong\u003e：相信对方有能力履行承诺\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e善意信任\u003c/strong\u003e：相信对方有良好的意图\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e正直信任\u003c/strong\u003e：相信对方会遵守道德原则\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eGLM Coding Plan事件同时冲击了这三种信任基础。\u003c/p\u003e\n\u003ch3 id=\"2-透明度与信任修复\"\u003e2. 透明度与信任修复\u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003e透明度\u003c/strong\u003e是信任修复的关键。心理学研究表明，完全的透明度（包括承认错误、解释原因、展示改进过程）比部分透明度更能有效修复信任。\u003c/p\u003e\n\u003cp\u003e智谱的致歉声明需要达到\u003cstrong\u003e心理透明度\u003c/strong\u003e的标准，即不仅要说明\u0026quot;发生了什么\u0026quot;，还要解释\u0026quot;为什么会发生\u0026quot;以及\u0026quot;如何确保不再发生\u0026quot;。\u003c/p\u003e\n\u003ch2 id=\"行为经济学损失厌恶与升级机制设计\"\u003e行为经济学：损失厌恶与升级机制设计\u003c/h2\u003e\n\u003ch3 id=\"1-损失厌恶的心理权重\"\u003e1. 损失厌恶的心理权重\u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003e损失厌恶\u003c/strong\u003e（Loss Aversion）是行为经济学的核心概念：人们对损失的敏感度是对收益敏感度的2-2.5倍。在GLM Coding Plan事件中，用户感知到的损失包括：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e经济损失：支付了未获得的服务\u003c/li\u003e\n\u003cli\u003e心理损失：信任被辜负、时间被浪费\u003c/li\u003e\n\u003cli\u003e机会损失：错过了其他更好的选择\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"2-升级机制的心理陷阱\"\u003e2. 升级机制的心理陷阱\u003c/h3\u003e\n\u003cp\u003e产品的\u003cstrong\u003e升级机制\u003c/strong\u003e（Upselling）如果设计不当，会触发用户的\u003cstrong\u003e心理抗拒\u003c/strong\u003e。当用户感觉被\u0026quot;诱骗\u0026quot;升级时，会产生逆反心理，即使升级本身可能有价值。\u003c/p\u003e\n\u003ch2 id=\"ai时代的心理学挑战与解决方案\"\u003eAI时代的心理学挑战与解决方案\u003c/h2\u003e\n\u003ch3 id=\"1-ai产品特有的心理挑战\"\u003e1. AI产品特有的心理挑战\u003c/h3\u003e\n\u003cp\u003eAI产品面临着独特的心理学挑战：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003e黑箱焦虑\u003c/strong\u003e：用户不理解AI的决策过程\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e过度拟人化\u003c/strong\u003e：用户对AI产生不切实际的情感期待\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e责任归属模糊\u003c/strong\u003e：当AI出错时，责任归属不明确\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"2-心理学驱动的产品设计原则\"\u003e2. 心理学驱动的产品设计原则\u003c/h3\u003e\n\u003cp\u003e基于心理学研究，AI产品设计应遵循以下原则：\u003c/p\u003e\n\u003ch4 id=\"原则一管理用户预期\"\u003e原则一：管理用户预期\u003c/h4\u003e\n\u003cul\u003e\n\u003cli\u003e明确说明AI的能力边界\u003c/li\u003e\n\u003cli\u003e避免过度承诺\u003c/li\u003e\n\u003cli\u003e提供真实的使用案例\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch4 id=\"原则二建立渐进式信任\"\u003e原则二：建立渐进式信任\u003c/h4\u003e\n\u003cul\u003e\n\u003cli\u003e从小承诺开始，逐步建立信任\u003c/li\u003e\n\u003cli\u003e提供透明的决策解释\u003c/li\u003e\n\u003cli\u003e建立可靠的错误处理机制\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch4 id=\"原则三设计心理安全的用户体验\"\u003e原则三：设计心理安全的用户体验\u003c/h4\u003e\n\u003cul\u003e\n\u003cli\u003e允许用户控制AI的行为程度\u003c/li\u003e\n\u003cli\u003e提供清晰的退出机制\u003c/li\u003e\n\u003cli\u003e建立有效的用户反馈渠道\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch4 id=\"原则四重视修复心理学\"\u003e原则四：重视修复心理学\u003c/h4\u003e\n\u003cul\u003e\n\u003cli\u003e承认错误的勇气比完美更重要\u003c/li\u003e\n\u003cli\u003e补偿方案要考虑心理价值而不仅仅是经济价值\u003c/li\u003e\n\u003cli\u003e修复过程要公开透明\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2 id=\"对ai产品设计的启示\"\u003e对AI产品设计的启示\u003c/h2\u003e\n\u003ch3 id=\"1-从功能中心到心理中心的转变\"\u003e1. 从\u0026quot;功能中心\u0026quot;到\u0026quot;心理中心\u0026quot;的转变\u003c/h3\u003e\n\u003cp\u003e未来的AI产品设计需要从单纯的功能优化转向\u003cstrong\u003e心理体验优化\u003c/strong\u003e。这意味着：\u003c/p\u003e","title":"当AI产品设计遇上用户心理：智谱GLM Coding Plan事件的心理学解读"}]
+\ No newline at end of file
++[{"content":"测试目的 验证 GitHub Actions 工作流是否正确配置，能够自动构建和部署 Hugo 博客。\n测试步骤 提交此文件到 main 分支 GitHub Actions 应该自动触发构建 构建成功后部署到 GitHub Pages 验证网站是否更新 预期结果 GitHub Actions 工作流成功运行 Hugo 正确构建网站 网站内容更新包含此测试文章 所有链接和功能正常工作 技术验证 Hugo 版本: 0.146.0+ PaperMod 主题兼容性 GitHub Pages 部署 DNS 和 HTTPS 配置 ","permalink":"https://dondrub3.com/posts/test-github-actions/","summary":"\u003ch2 id=\"测试目的\"\u003e测试目的\u003c/h2\u003e\n\u003cp\u003e验证 GitHub Actions 工作流是否正确配置，能够自动构建和部署 Hugo 博客。\u003c/p\u003e\n\u003ch2 id=\"测试步骤\"\u003e测试步骤\u003c/h2\u003e\n\u003col\u003e\n\u003cli\u003e提交此文件到 \u003ccode\u003emain\u003c/code\u003e 分支\u003c/li\u003e\n\u003cli\u003eGitHub Actions 应该自动触发构建\u003c/li\u003e\n\u003cli\u003e构建成功后部署到 GitHub Pages\u003c/li\u003e\n\u003cli\u003e验证网站是否更新\u003c/li\u003e\n\u003c/ol\u003e\n\u003ch2 id=\"预期结果\"\u003e预期结果\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eGitHub Actions 工作流成功运行\u003c/li\u003e\n\u003cli\u003eHugo 正确构建网站\u003c/li\u003e\n\u003cli\u003e网站内容更新包含此测试文章\u003c/li\u003e\n\u003cli\u003e所有链接和功能正常工作\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2 id=\"技术验证\"\u003e技术验证\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eHugo 版本: 0.146.0+\u003c/li\u003e\n\u003cli\u003ePaperMod 主题兼容性\u003c/li\u003e\n\u003cli\u003eGitHub Pages 部署\u003c/li\u003e\n\u003cli\u003eDNS 和 HTTPS 配置\u003c/li\u003e\n\u003c/ul\u003e","title":"测试 GitHub Actions 构建"},{"content":"事件背景 今天，智谱AI针对其GLM Coding Plan产品问题发布官方致歉声明，并公布了详细的补偿方案。事件源于用户发现该产品的实际功能与宣传存在较大差距，引发了广泛的用户不满和舆论关注。\n智谱AI在声明中承认了产品设计中的不足，并承诺为受影响用户提供相应的补偿措施。这一事件不仅是一个技术产品问题，更是一个值得深入分析的心理学案例。\n认知心理学：预期违背与心理契约破裂 1. 预期违背的心理机制 用户对AI产品往往抱有特定的心理预期。当产品功能与宣传不符时，会发生预期违背（Expectation Violation），这种违背会触发强烈的负面情绪反应。\n心理学研究表明，预期违背会激活大脑的错误检测系统，产生认知失调。用户需要重新调整自己的心理模型来适应现实，这个过程伴随着心理不适和负面情绪。\n2. 心理契约的隐性存在 用户与产品之间存在着隐性的心理契约（Psychological Contract）。这种契约包括：\n交易性契约：功能与价格的匹配 关系性契约：信任与长期合作的期望 发展性契约：产品进步与用户成长的同步 当产品未能履行这些隐性契约时，用户会感到被背叛，这种感受比单纯的功能不足更具破坏性。\n社会心理学：稀缺性感知与公平心理 1. 稀缺性营销的心理效应 GLM Coding Plan采用了稀缺性营销策略，这种策略会激活用户的稀缺性感知。心理学中的稀缺原理指出，人们对稀缺资源的渴望会超越理性评估。\n然而，当稀缺性被证明是人为制造时，用户会产生被操纵感，这种感受会转化为愤怒和不信任。\n2. 公平心理与补偿需求 用户对公平有着天生的敏感性。公平理论（Equity Theory）指出，人们会将自己的投入产出比与他人进行比较。当感知到不公平时，会产生强烈的恢复公平的动机。\n智谱的补偿方案需要满足用户的公平心理需求，这不仅是经济补偿，更是心理补偿。\n信任心理学：透明度不足与信任危机 1. 信任建立的心理学基础 信任建立在三个心理学基础上：\n能力信任：相信对方有能力履行承诺 善意信任：相信对方有良好的意图 正直信任：相信对方会遵守道德原则 GLM Coding Plan事件同时冲击了这三种信任基础。\n2. 透明度与信任修复 透明度是信任修复的关键。心理学研究表明，完全的透明度（包括承认错误、解释原因、展示改进过程）比部分透明度更能有效修复信任。\n智谱的致歉声明需要达到心理透明度的标准，即不仅要说明\u0026quot;发生了什么\u0026quot;，还要解释\u0026quot;为什么会发生\u0026quot;以及\u0026quot;如何确保不再发生\u0026quot;。\n行为经济学：损失厌恶与升级机制设计 1. 损失厌恶的心理权重 损失厌恶（Loss Aversion）是行为经济学的核心概念：人们对损失的敏感度是对收益敏感度的2-2.5倍。在GLM Coding Plan事件中，用户感知到的损失包括：\n经济损失：支付了未获得的服务 心理损失：信任被辜负、时间被浪费 机会损失：错过了其他更好的选择 2. 升级机制的心理陷阱 产品的升级机制（Upselling）如果设计不当，会触发用户的心理抗拒。当用户感觉被\u0026quot;诱骗\u0026quot;升级时，会产生逆反心理，即使升级本身可能有价值。\nAI时代的心理学挑战与解决方案 1. AI产品特有的心理挑战 AI产品面临着独特的心理学挑战：\n黑箱焦虑：用户不理解AI的决策过程 过度拟人化：用户对AI产生不切实际的情感期待 责任归属模糊：当AI出错时，责任归属不明确 2. 心理学驱动的产品设计原则 基于心理学研究，AI产品设计应遵循以下原则：\n原则一：管理用户预期 明确说明AI的能力边界 避免过度承诺 提供真实的使用案例 原则二：建立渐进式信任 从小承诺开始，逐步建立信任 提供透明的决策解释 建立可靠的错误处理机制 原则三：设计心理安全的用户体验 允许用户控制AI的行为程度 提供清晰的退出机制 建立有效的用户反馈渠道 原则四：重视修复心理学 承认错误的勇气比完美更重要 补偿方案要考虑心理价值而不仅仅是经济价值 修复过程要公开透明 对AI产品设计的启示 1. 从\u0026quot;功能中心\u0026quot;到\u0026quot;心理中心\u0026quot;的转变 未来的AI产品设计需要从单纯的功能优化转向心理体验优化。这意味着：\n理解用户的心理模型和期望 设计符合心理规律的用户旅程 建立情感连接而不仅仅是功能连接 2. 心理学素养成为AI产品经理的核心能力 AI产品经理需要具备基本的心理学素养，包括：\n认知心理学：理解用户如何感知、记忆、决策 社会心理学：理解用户在社会情境中的行为 情感心理学：理解用户的情感需求和反应 3. 建立心理学的产品评估体系 在产品开发的每个阶段加入心理学评估：\n概念阶段：评估用户心理预期 设计阶段：评估心理安全性和信任度 发布阶段：监测心理反应和情感连接 迭代阶段：基于心理反馈进行优化 结语：在技术与心理的交汇处 智谱GLM Coding Plan事件是一个警示，提醒我们AI产品开发不仅是技术挑战，更是心理学挑战。在技术快速发展的今天，我们更需要关注技术如何影响人的心理，以及如何设计符合心理规律的技术产品。\n真正的AI产品创新发生在技术与心理的交汇处。只有深入理解用户的心理世界，才能设计出不仅功能强大，而且心理健康的AI产品。\n这次事件虽然带来了短期的挑战，但也为整个AI行业提供了宝贵的心理学教训。通过从心理学角度深入分析，我们可以将挑战转化为进步的动力，推动AI产品设计向更加人性化、心理化的方向发展。\n本文从心理学角度分析2026年2月21日智谱GLM Coding Plan事件，探讨AI产品设计中的心理学原理和挑战。\n","permalink":"https://dondrub3.com/posts/2026-02-21-ai-product-psychology/","summary":"\u003ch2 id=\"事件背景\"\u003e事件背景\u003c/h2\u003e\n\u003cp\u003e今天，智谱AI针对其GLM Coding Plan产品问题发布官方致歉声明，并公布了详细的补偿方案。事件源于用户发现该产品的实际功能与宣传存在较大差距，引发了广泛的用户不满和舆论关注。\u003c/p\u003e\n\u003cp\u003e智谱AI在声明中承认了产品设计中的不足，并承诺为受影响用户提供相应的补偿措施。这一事件不仅是一个技术产品问题，更是一个值得深入分析的心理学案例。\u003c/p\u003e\n\u003ch2 id=\"认知心理学预期违背与心理契约破裂\"\u003e认知心理学：预期违背与心理契约破裂\u003c/h2\u003e\n\u003ch3 id=\"1-预期违背的心理机制\"\u003e1. 预期违背的心理机制\u003c/h3\u003e\n\u003cp\u003e用户对AI产品往往抱有特定的\u003cstrong\u003e心理预期\u003c/strong\u003e。当产品功能与宣传不符时，会发生\u003cstrong\u003e预期违背\u003c/strong\u003e（Expectation Violation），这种违背会触发强烈的负面情绪反应。\u003c/p\u003e\n\u003cp\u003e心理学研究表明，预期违背会激活大脑的\u003cstrong\u003e错误检测系统\u003c/strong\u003e，产生认知失调。用户需要重新调整自己的心理模型来适应现实，这个过程伴随着心理不适和负面情绪。\u003c/p\u003e\n\u003ch3 id=\"2-心理契约的隐性存在\"\u003e2. 心理契约的隐性存在\u003c/h3\u003e\n\u003cp\u003e用户与产品之间存在着隐性的\u003cstrong\u003e心理契约\u003c/strong\u003e（Psychological Contract）。这种契约包括：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003e交易性契约\u003c/strong\u003e：功能与价格的匹配\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e关系性契约\u003c/strong\u003e：信任与长期合作的期望\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e发展性契约\u003c/strong\u003e：产品进步与用户成长的同步\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e当产品未能履行这些隐性契约时，用户会感到被背叛，这种感受比单纯的功能不足更具破坏性。\u003c/p\u003e\n\u003ch2 id=\"社会心理学稀缺性感知与公平心理\"\u003e社会心理学：稀缺性感知与公平心理\u003c/h2\u003e\n\u003ch3 id=\"1-稀缺性营销的心理效应\"\u003e1. 稀缺性营销的心理效应\u003c/h3\u003e\n\u003cp\u003eGLM Coding Plan采用了\u003cstrong\u003e稀缺性营销\u003c/strong\u003e策略，这种策略会激活用户的\u003cstrong\u003e稀缺性感知\u003c/strong\u003e。心理学中的稀缺原理指出，人们对稀缺资源的渴望会超越理性评估。\u003c/p\u003e\n\u003cp\u003e然而，当稀缺性被证明是人为制造时，用户会产生\u003cstrong\u003e被操纵感\u003c/strong\u003e，这种感受会转化为愤怒和不信任。\u003c/p\u003e\n\u003ch3 id=\"2-公平心理与补偿需求\"\u003e2. 公平心理与补偿需求\u003c/h3\u003e\n\u003cp\u003e用户对公平有着天生的敏感性。\u003cstrong\u003e公平理论\u003c/strong\u003e（Equity Theory）指出，人们会将自己的投入产出比与他人进行比较。当感知到不公平时，会产生强烈的恢复公平的动机。\u003c/p\u003e\n\u003cp\u003e智谱的补偿方案需要满足用户的\u003cstrong\u003e公平心理需求\u003c/strong\u003e，这不仅是经济补偿，更是心理补偿。\u003c/p\u003e\n\u003ch2 id=\"信任心理学透明度不足与信任危机\"\u003e信任心理学：透明度不足与信任危机\u003c/h2\u003e\n\u003ch3 id=\"1-信任建立的心理学基础\"\u003e1. 信任建立的心理学基础\u003c/h3\u003e\n\u003cp\u003e信任建立在三个心理学基础上：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003e能力信任\u003c/strong\u003e：相信对方有能力履行承诺\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e善意信任\u003c/strong\u003e：相信对方有良好的意图\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e正直信任\u003c/strong\u003e：相信对方会遵守道德原则\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eGLM Coding Plan事件同时冲击了这三种信任基础。\u003c/p\u003e\n\u003ch3 id=\"2-透明度与信任修复\"\u003e2. 透明度与信任修复\u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003e透明度\u003c/strong\u003e是信任修复的关键。心理学研究表明，完全的透明度（包括承认错误、解释原因、展示改进过程）比部分透明度更能有效修复信任。\u003c/p\u003e\n\u003cp\u003e智谱的致歉声明需要达到\u003cstrong\u003e心理透明度\u003c/strong\u003e的标准，即不仅要说明\u0026quot;发生了什么\u0026quot;，还要解释\u0026quot;为什么会发生\u0026quot;以及\u0026quot;如何确保不再发生\u0026quot;。\u003c/p\u003e\n\u003ch2 id=\"行为经济学损失厌恶与升级机制设计\"\u003e行为经济学：损失厌恶与升级机制设计\u003c/h2\u003e\n\u003ch3 id=\"1-损失厌恶的心理权重\"\u003e1. 损失厌恶的心理权重\u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003e损失厌恶\u003c/strong\u003e（Loss Aversion）是行为经济学的核心概念：人们对损失的敏感度是对收益敏感度的2-2.5倍。在GLM Coding Plan事件中，用户感知到的损失包括：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e经济损失：支付了未获得的服务\u003c/li\u003e\n\u003cli\u003e心理损失：信任被辜负、时间被浪费\u003c/li\u003e\n\u003cli\u003e机会损失：错过了其他更好的选择\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"2-升级机制的心理陷阱\"\u003e2. 升级机制的心理陷阱\u003c/h3\u003e\n\u003cp\u003e产品的\u003cstrong\u003e升级机制\u003c/strong\u003e（Upselling）如果设计不当，会触发用户的\u003cstrong\u003e心理抗拒\u003c/strong\u003e。当用户感觉被\u0026quot;诱骗\u0026quot;升级时，会产生逆反心理，即使升级本身可能有价值。\u003c/p\u003e\n\u003ch2 id=\"ai时代的心理学挑战与解决方案\"\u003eAI时代的心理学挑战与解决方案\u003c/h2\u003e\n\u003ch3 id=\"1-ai产品特有的心理挑战\"\u003e1. AI产品特有的心理挑战\u003c/h3\u003e\n\u003cp\u003eAI产品面临着独特的心理学挑战：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003e黑箱焦虑\u003c/strong\u003e：用户不理解AI的决策过程\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e过度拟人化\u003c/strong\u003e：用户对AI产生不切实际的情感期待\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e责任归属模糊\u003c/strong\u003e：当AI出错时，责任归属不明确\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"2-心理学驱动的产品设计原则\"\u003e2. 心理学驱动的产品设计原则\u003c/h3\u003e\n\u003cp\u003e基于心理学研究，AI产品设计应遵循以下原则：\u003c/p\u003e\n\u003ch4 id=\"原则一管理用户预期\"\u003e原则一：管理用户预期\u003c/h4\u003e\n\u003cul\u003e\n\u003cli\u003e明确说明AI的能力边界\u003c/li\u003e\n\u003cli\u003e避免过度承诺\u003c/li\u003e\n\u003cli\u003e提供真实的使用案例\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch4 id=\"原则二建立渐进式信任\"\u003e原则二：建立渐进式信任\u003c/h4\u003e\n\u003cul\u003e\n\u003cli\u003e从小承诺开始，逐步建立信任\u003c/li\u003e\n\u003cli\u003e提供透明的决策解释\u003c/li\u003e\n\u003cli\u003e建立可靠的错误处理机制\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch4 id=\"原则三设计心理安全的用户体验\"\u003e原则三：设计心理安全的用户体验\u003c/h4\u003e\n\u003cul\u003e\n\u003cli\u003e允许用户控制AI的行为程度\u003c/li\u003e\n\u003cli\u003e提供清晰的退出机制\u003c/li\u003e\n\u003cli\u003e建立有效的用户反馈渠道\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch4 id=\"原则四重视修复心理学\"\u003e原则四：重视修复心理学\u003c/h4\u003e\n\u003cul\u003e\n\u003cli\u003e承认错误的勇气比完美更重要\u003c/li\u003e\n\u003cli\u003e补偿方案要考虑心理价值而不仅仅是经济价值\u003c/li\u003e\n\u003cli\u003e修复过程要公开透明\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2 id=\"对ai产品设计的启示\"\u003e对AI产品设计的启示\u003c/h2\u003e\n\u003ch3 id=\"1-从功能中心到心理中心的转变\"\u003e1. 从\u0026quot;功能中心\u0026quot;到\u0026quot;心理中心\u0026quot;的转变\u003c/h3\u003e\n\u003cp\u003e未来的AI产品设计需要从单纯的功能优化转向\u003cstrong\u003e心理体验优化\u003c/strong\u003e。这意味着：\u003c/p\u003e","title":"当AI产品设计遇上用户心理：智谱GLM Coding Plan事件的心理学解读"}]
+\ No newline at end of file
+diff --git a/public/index.xml b/public/index.xml
+index 1505c55..99a9800 100644
+--- a/public/index.xml
++++ b/public/index.xml
+@@ -6,8 +6,15 @@
+     <description>Recent content on Dondrub3 | 3P实验室</description>
+     <generator>Hugo -- 0.146.0</generator>
+     <language>zh-cn</language>
+-    <lastBuildDate>Sat, 21 Feb 2026 23:30:00 +0800</lastBuildDate>
++    <lastBuildDate>Sun, 22 Feb 2026 02:50:00 +0800</lastBuildDate>
+     <atom:link href="https://dondrub3.com/index.xml" rel="self" type="application/rss+xml" />
++    <item>
++      <title>测试 GitHub Actions 构建</title>
++      <link>https://dondrub3.com/posts/test-github-actions/</link>
++      <pubDate>Sun, 22 Feb 2026 02:50:00 +0800</pubDate>
++      <guid>https://dondrub3.com/posts/test-github-actions/</guid>
++      <description>测试 GitHub Actions 是否正常工作</description>
++    </item>
+     <item>
+       <title>当AI产品设计遇上用户心理：智谱GLM Coding Plan事件的心理学解读</title>
+       <link>https://dondrub3.com/posts/2026-02-21-ai-product-psychology/</link>
+diff --git a/public/posts/2026-02-21-ai-product-psychology/index.html b/public/posts/2026-02-21-ai-product-psychology/index.html
+index 381fcf5..af9c26b 100644
+--- a/public/posts/2026-02-21-ai-product-psychology/index.html
++++ b/public/posts/2026-02-21-ai-product-psychology/index.html
+@@ -329,6 +329,13 @@
+       <li><a href="https://dondrub3.com/tags/%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C/">用户体验</a></li>
+       <li><a href="https://dondrub3.com/tags/%E8%A1%8C%E4%B8%BA%E7%BB%8F%E6%B5%8E%E5%AD%A6/">行为经济学</a></li>
+     </ul>
++<nav class="paginav">
++  <a class="prev" href="https://dondrub3.com/posts/test-github-actions/">
++    <span class="title">« Prev</span>
++    <br>
++    <span>测试 GitHub Actions 构建</span>
++  </a>
++</nav>
+ 
+ 
+ <ul class="share-buttons">
+diff --git a/public/posts/index.html b/public/posts/index.html
+index 2b64498..3e46a7b 100644
+--- a/public/posts/index.html
++++ b/public/posts/index.html
+@@ -156,6 +156,19 @@
+   </h1>
+ </header>
+ 
++<article class="post-entry"> 
++  <header class="entry-header">
++    <h2 class="entry-hint-parent">测试 GitHub Actions 构建
++    </h2>
++  </header>
++  <div class="entry-content">
++    <p>测试目的 验证 GitHub Actions 工作流是否正确配置，能够自动构建和部署 Hugo 博客。
++测试步骤 提交此文件到 main 分支 GitHub Actions 应该自动触发构建 构建成功后部署到 GitHub Pages 验证网站是否更新 预期结果 GitHub Actions 工作流成功运行 Hugo 正确构建网站 网站内容更新包含此测试文章 所有链接和功能正常工作 技术验证 Hugo 版本: 0.146.0&#43; PaperMod 主题兼容性 GitHub Pages 部署 DNS 和 HTTPS 配置 </p>
++  </div>
++  <footer class="entry-footer"><span title='2026-02-22 02:50:00 +0800 CST'>February 22, 2026</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>东周</span></footer>
++  <a class="entry-link" aria-label="post link to 测试 GitHub Actions 构建" href="https://dondrub3.com/posts/test-github-actions/"></a>
++</article>
++
+ <article class="post-entry"> 
+   <header class="entry-header">
+     <h2 class="entry-hint-parent">当AI产品设计遇上用户心理：智谱GLM Coding Plan事件的心理学解读
+diff --git a/public/posts/index.xml b/public/posts/index.xml
+index 21bd124..401e6c0 100644
+--- a/public/posts/index.xml
++++ b/public/posts/index.xml
+@@ -6,8 +6,15 @@
+     <description>Recent content in Posts on Dondrub3 | 3P实验室</description>
+     <generator>Hugo -- 0.146.0</generator>
+     <language>zh-cn</language>
+-    <lastBuildDate>Sat, 21 Feb 2026 23:30:00 +0800</lastBuildDate>
++    <lastBuildDate>Sun, 22 Feb 2026 02:50:00 +0800</lastBuildDate>
+     <atom:link href="https://dondrub3.com/posts/index.xml" rel="self" type="application/rss+xml" />
++    <item>
++      <title>测试 GitHub Actions 构建</title>
++      <link>https://dondrub3.com/posts/test-github-actions/</link>
++      <pubDate>Sun, 22 Feb 2026 02:50:00 +0800</pubDate>
++      <guid>https://dondrub3.com/posts/test-github-actions/</guid>
++      <description>测试 GitHub Actions 是否正常工作</description>
++    </item>
+     <item>
+       <title>当AI产品设计遇上用户心理：智谱GLM Coding Plan事件的心理学解读</title>
+       <link>https://dondrub3.com/posts/2026-02-21-ai-product-psychology/</link>
+diff --git a/public/posts/test-github-actions/index.html b/public/posts/test-github-actions/index.html
+new file mode 100644
+index 0000000..7d3c617
+--- /dev/null
++++ b/public/posts/test-github-actions/index.html
+@@ -0,0 +1,448 @@
++<!DOCTYPE html>
++<html lang="en" dir="auto" data-theme="auto">
++
++<head><meta charset="utf-8">
++<meta http-equiv="X-UA-Compatible" content="IE=edge">
++<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
++<meta name="robots" content="index, follow">
++<title>测试 GitHub Actions 构建 | Dondrub3 | 3P实验室</title>
++<meta name="keywords" content="GitHub Actions, Hugo, 部署">
++<meta name="description" content="测试 GitHub Actions 是否正常工作">
++<meta name="author" content="东周">
++<link rel="canonical" href="https://dondrub3.com/posts/test-github-actions/">
++<link crossorigin="anonymous" href="/assets/css/stylesheet.da3211e5ef867bf2b75fd5a6515cfed7195c011e8ab735694e203810a827097b.css" integrity="sha256-2jIR5e&#43;Ge/K3X9WmUVz&#43;1xlcAR6KtzVpTiA4EKgnCXs=" rel="preload stylesheet" as="style">
++<link rel="icon" href="https://dondrub3.com/favicon.ico">
++<link rel="icon" type="image/png" sizes="16x16" href="https://dondrub3.com/favicon-16x16.png">
++<link rel="icon" type="image/png" sizes="32x32" href="https://dondrub3.com/favicon-32x32.png">
++<link rel="apple-touch-icon" href="https://dondrub3.com/apple-touch-icon.png">
++<link rel="mask-icon" href="https://dondrub3.com/safari-pinned-tab.svg">
++<meta name="theme-color" content="#2e2e33">
++<meta name="msapplication-TileColor" content="#2e2e33">
++<link rel="alternate" hreflang="en" href="https://dondrub3.com/posts/test-github-actions/">
++<noscript>
++    <style>
++        #theme-toggle,
++        .top-link {
++            display: none;
++        }
++
++    </style>
++    <style>
++        @media (prefers-color-scheme: dark) {
++            :root {
++                --theme: rgb(29, 30, 32);
++                --entry: rgb(46, 46, 51);
++                --primary: rgb(218, 218, 219);
++                --secondary: rgb(155, 156, 157);
++                --tertiary: rgb(65, 66, 68);
++                --content: rgb(196, 196, 197);
++                --code-block-bg: rgb(46, 46, 51);
++                --code-bg: rgb(55, 56, 62);
++                --border: rgb(51, 51, 51);
++                color-scheme: dark;
++            }
++
++            .list {
++                background: var(--theme);
++            }
++
++            .toc {
++                background: var(--entry);
++            }
++        }
++
++        @media (prefers-color-scheme: light) {
++            .list::-webkit-scrollbar-thumb {
++                border-color: var(--code-bg);
++            }
++        }
++
++    </style>
++</noscript>
++<script>
++    if (localStorage.getItem("pref-theme") === "dark") {
++        document.querySelector("html").dataset.theme = 'dark';
++    } else if (localStorage.getItem("pref-theme") === "light") {
++       document.querySelector("html").dataset.theme = 'light';
++    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
++        document.querySelector("html").dataset.theme = 'dark';
++    } else {
++        document.querySelector("html").dataset.theme = 'light';
++    }
++
++</script><meta property="og:url" content="https://dondrub3.com/posts/test-github-actions/">
++  <meta property="og:site_name" content="Dondrub3 | 3P实验室">
++  <meta property="og:title" content="测试 GitHub Actions 构建">
++  <meta property="og:description" content="测试 GitHub Actions 是否正常工作">
++  <meta property="og:locale" content="zh-cn">
++  <meta property="og:type" content="article">
++    <meta property="article:section" content="posts">
++    <meta property="article:published_time" content="2026-02-22T02:50:00+08:00">
++    <meta property="article:modified_time" content="2026-02-22T02:50:00+08:00">
++    <meta property="article:tag" content="GitHub Actions">
++    <meta property="article:tag" content="Hugo">
++    <meta property="article:tag" content="部署">
++<meta name="twitter:card" content="summary">
++<meta name="twitter:title" content="测试 GitHub Actions 构建">
++<meta name="twitter:description" content="测试 GitHub Actions 是否正常工作">
++
++
++<script type="application/ld+json">
++{
++  "@context": "https://schema.org",
++  "@type": "BreadcrumbList",
++  "itemListElement": [
++    {
++      "@type": "ListItem",
++      "position":  1 ,
++      "name": "Posts",
++      "item": "https://dondrub3.com/posts/"
++    }, 
++    {
++      "@type": "ListItem",
++      "position":  2 ,
++      "name": "测试 GitHub Actions 构建",
++      "item": "https://dondrub3.com/posts/test-github-actions/"
++    }
++  ]
++}
++</script>
++<script type="application/ld+json">
++{
++  "@context": "https://schema.org",
++  "@type": "BlogPosting",
++  "headline": "测试 GitHub Actions 构建",
++  "name": "测试 GitHub Actions 构建",
++  "description": "测试 GitHub Actions 是否正常工作",
++  "keywords": [
++    "GitHub Actions", "Hugo", "部署"
++  ],
++  "articleBody": "测试目的 验证 GitHub Actions 工作流是否正确配置，能够自动构建和部署 Hugo 博客。\n测试步骤 提交此文件到 main 分支 GitHub Actions 应该自动触发构建 构建成功后部署到 GitHub Pages 验证网站是否更新 预期结果 GitHub Actions 工作流成功运行 Hugo 正确构建网站 网站内容更新包含此测试文章 所有链接和功能正常工作 技术验证 Hugo 版本: 0.146.0+ PaperMod 主题兼容性 GitHub Pages 部署 DNS 和 HTTPS 配置 ",
++  "wordCount" : "39",
++  "inLanguage": "en",
++  "datePublished": "2026-02-22T02:50:00+08:00",
++  "dateModified": "2026-02-22T02:50:00+08:00",
++  "author":{
++    "@type": "Person",
++    "name": "东周"
++  },
++  "mainEntityOfPage": {
++    "@type": "WebPage",
++    "@id": "https://dondrub3.com/posts/test-github-actions/"
++  },
++  "publisher": {
++    "@type": "Organization",
++    "name": "Dondrub3 | 3P实验室",
++    "logo": {
++      "@type": "ImageObject",
++      "url": "https://dondrub3.com/favicon.ico"
++    }
++  }
++}
++</script>
++</head>
++<body id="top">
++    <header class="header">
++    <nav class="nav">
++        <div class="logo">
++            <a href="https://dondrub3.com/" accesskey="h" title="Dondrub3 | 3P实验室 (Alt + H)">Dondrub3 | 3P实验室</a>
++            <div class="logo-switches">
++                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
++                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
++                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
++                        stroke-linejoin="round">
++                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
++                    </svg>
++                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
++                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
++                        stroke-linejoin="round">
++                        <circle cx="12" cy="12" r="5"></circle>
++                        <line x1="12" y1="1" x2="12" y2="3"></line>
++                        <line x1="12" y1="21" x2="12" y2="23"></line>
++                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
++                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
++                        <line x1="1" y1="12" x2="3" y2="12"></line>
++                        <line x1="21" y1="12" x2="23" y2="12"></line>
++                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
++                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
++                    </svg>
++                </button>
++            </div>
++        </div>
++        <ul id="menu">
++            <li>
++                <a href="https://dondrub3.com/posts/" title="文章">
++                    <span>文章</span>
++                </a>
++            </li>
++            <li>
++                <a href="https://dondrub3.com/categories/" title="分类">
++                    <span>分类</span>
++                </a>
++            </li>
++            <li>
++                <a href="https://dondrub3.com/tags/" title="标签">
++                    <span>标签</span>
++                </a>
++            </li>
++            <li>
++                <a href="https://dondrub3.com/about/" title="关于">
++                    <span>关于</span>
++                </a>
++            </li>
++        </ul>
++    </nav>
++</header>
++<main class="main">
++
++<article class="post-single">
++  <header class="post-header">
++    <div class="breadcrumbs"><a href="https://dondrub3.com/">Home</a>&nbsp;»&nbsp;<a href="https://dondrub3.com/posts/">Posts</a></div>
++    <h1 class="post-title entry-hint-parent">
++      测试 GitHub Actions 构建
++    </h1>
++    <div class="post-description">
++      测试 GitHub Actions 是否正常工作
++    </div>
++    <div class="post-meta"><span title='2026-02-22 02:50:00 +0800 CST'>February 22, 2026</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>东周</span>
++
++</div>
++  </header> 
++  <div class="post-content"><h2 id="测试目的">测试目的<a hidden class="anchor" aria-hidden="true" href="#测试目的">#</a></h2>
++<p>验证 GitHub Actions 工作流是否正确配置，能够自动构建和部署 Hugo 博客。</p>
++<h2 id="测试步骤">测试步骤<a hidden class="anchor" aria-hidden="true" href="#测试步骤">#</a></h2>
++<ol>
++<li>提交此文件到 <code>main</code> 分支</li>
++<li>GitHub Actions 应该自动触发构建</li>
++<li>构建成功后部署到 GitHub Pages</li>
++<li>验证网站是否更新</li>
++</ol>
++<h2 id="预期结果">预期结果<a hidden class="anchor" aria-hidden="true" href="#预期结果">#</a></h2>
++<ul>
++<li>GitHub Actions 工作流成功运行</li>
++<li>Hugo 正确构建网站</li>
++<li>网站内容更新包含此测试文章</li>
++<li>所有链接和功能正常工作</li>
++</ul>
++<h2 id="技术验证">技术验证<a hidden class="anchor" aria-hidden="true" href="#技术验证">#</a></h2>
++<ul>
++<li>Hugo 版本: 0.146.0+</li>
++<li>PaperMod 主题兼容性</li>
++<li>GitHub Pages 部署</li>
++<li>DNS 和 HTTPS 配置</li>
++</ul>
++
++
++  </div>
++
++  <footer class="post-footer">
++    <ul class="post-tags">
++      <li><a href="https://dondrub3.com/tags/github-actions/">GitHub Actions</a></li>
++      <li><a href="https://dondrub3.com/tags/hugo/">Hugo</a></li>
++      <li><a href="https://dondrub3.com/tags/%E9%83%A8%E7%BD%B2/">部署</a></li>
++    </ul>
++<nav class="paginav">
++  <a class="next" href="https://dondrub3.com/posts/2026-02-21-ai-product-psychology/">
++    <span class="title">Next »</span>
++    <br>
++    <span>当AI产品设计遇上用户心理：智谱GLM Coding Plan事件的心理学解读</span>
++  </a>
++</nav>
++
++
++<ul class="share-buttons">
++    <li>
++        <a target="_blank" rel="noopener noreferrer" aria-label="share 测试 GitHub Actions 构建 on x"
++            href="https://x.com/intent/tweet/?text=%e6%b5%8b%e8%af%95%20GitHub%20Actions%20%e6%9e%84%e5%bb%ba&amp;url=https%3a%2f%2fdondrub3.com%2fposts%2ftest-github-actions%2f&amp;hashtags=GitHubActions%2cHugo%2c%e9%83%a8%e7%bd%b2">
++            <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
++                <path
++                    d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />
++            </svg>
++        </a>
++    </li>
++    <li>
++        <a target="_blank" rel="noopener noreferrer" aria-label="share 测试 GitHub Actions 构建 on linkedin"
++            href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fdondrub3.com%2fposts%2ftest-github-actions%2f&amp;title=%e6%b5%8b%e8%af%95%20GitHub%20Actions%20%e6%9e%84%e5%bb%ba&amp;summary=%e6%b5%8b%e8%af%95%20GitHub%20Actions%20%e6%9e%84%e5%bb%ba&amp;source=https%3a%2f%2fdondrub3.com%2fposts%2ftest-github-actions%2f">
++            <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
++                <path
++                    d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-386.892,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Zm-288.985,423.278l0,-225.717l-75.04,0l0,225.717l75.04,0Zm270.539,0l0,-129.439c0,-69.333 -37.018,-101.586 -86.381,-101.586c-39.804,0 -57.634,21.891 -67.617,37.266l0,-31.958l-75.021,0c0.995,21.181 0,225.717 0,225.717l75.02,0l0,-126.056c0,-6.748 0.486,-13.492 2.474,-18.315c5.414,-13.475 17.767,-27.434 38.494,-27.434c27.135,0 38.007,20.707 38.007,51.037l0,120.768l75.024,0Zm-307.552,-334.556c-25.674,0 -42.448,16.879 -42.448,39.002c0,21.658 16.264,39.002 41.455,39.002l0.484,0c26.165,0 42.452,-17.344 42.452,-39.002c-0.485,-22.092 -16.241,-38.954 -41.943,-39.002Z" />
++            </svg>
++        </a>
++    </li>
++    <li>
++        <a target="_blank" rel="noopener noreferrer" aria-label="share 测试 GitHub Actions 构建 on reddit"
++            href="https://reddit.com/submit?url=https%3a%2f%2fdondrub3.com%2fposts%2ftest-github-actions%2f&title=%e6%b5%8b%e8%af%95%20GitHub%20Actions%20%e6%9e%84%e5%bb%ba">
++            <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
++                <path
++                    d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-386.892,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Zm-3.446,265.638c0,-22.964 -18.616,-41.58 -41.58,-41.58c-11.211,0 -21.361,4.457 -28.841,11.666c-28.424,-20.508 -67.586,-33.757 -111.204,-35.278l18.941,-89.121l61.884,13.157c0.756,15.734 13.642,28.29 29.56,28.29c16.407,0 29.706,-13.299 29.706,-29.701c0,-16.403 -13.299,-29.702 -29.706,-29.702c-11.666,0 -21.657,6.792 -26.515,16.578l-69.105,-14.69c-1.922,-0.418 -3.939,-0.042 -5.585,1.036c-1.658,1.073 -2.811,2.761 -3.224,4.686l-21.152,99.438c-44.258,1.228 -84.046,14.494 -112.837,35.232c-7.468,-7.164 -17.589,-11.591 -28.757,-11.591c-22.965,0 -41.585,18.616 -41.585,41.58c0,16.896 10.095,31.41 24.568,37.918c-0.639,4.135 -0.99,8.328 -0.99,12.576c0,63.977 74.469,115.836 166.33,115.836c91.861,0 166.334,-51.859 166.334,-115.836c0,-4.218 -0.347,-8.387 -0.977,-12.493c14.564,-6.47 24.735,-21.034 24.735,-38.001Zm-119.474,108.193c-20.27,20.241 -59.115,21.816 -70.534,21.816c-11.428,0 -50.277,-1.575 -70.522,-21.82c-3.007,-3.008 -3.007,-7.882 0,-10.889c3.003,-2.999 7.882,-3.003 10.885,0c12.777,12.781 40.11,17.317 59.637,17.317c19.522,0 46.86,-4.536 59.657,-17.321c3.016,-2.999 7.886,-2.995 10.885,0.008c3.008,3.011 3.003,7.882 -0.008,10.889Zm-5.23,-48.781c-16.373,0 -29.701,-13.324 -29.701,-29.698c0,-16.381 13.328,-29.714 29.701,-29.714c16.378,0 29.706,13.333 29.706,29.714c0,16.374 -13.328,29.698 -29.706,29.698Zm-160.386,-29.702c0,-16.381 13.328,-29.71 29.714,-29.71c16.369,0 29.689,13.329 29.689,29.71c0,16.373 -13.32,29.693 -29.689,29.693c-16.386,0 -29.714,-13.32 -29.714,-29.693Z" />
++            </svg>
++        </a>
++    </li>
++    <li>
++        <a target="_blank" rel="noopener noreferrer" aria-label="share 测试 GitHub Actions 构建 on facebook"
++            href="https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fdondrub3.com%2fposts%2ftest-github-actions%2f">
++            <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
++                <path
++                    d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-106.468,0l0,-192.915l66.6,0l12.672,-82.621l-79.272,0l0,-53.617c0,-22.603 11.073,-44.636 46.58,-44.636l36.042,0l0,-70.34c0,0 -32.71,-5.582 -63.982,-5.582c-65.288,0 -107.96,39.569 -107.96,111.204l0,62.971l-72.573,0l0,82.621l72.573,0l0,192.915l-191.104,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Z" />
++            </svg>
++        </a>
++    </li>
++    <li>
++        <a target="_blank" rel="noopener noreferrer" aria-label="share 测试 GitHub Actions 构建 on whatsapp"
++            href="https://api.whatsapp.com/send?text=%e6%b5%8b%e8%af%95%20GitHub%20Actions%20%e6%9e%84%e5%bb%ba%20-%20https%3a%2f%2fdondrub3.com%2fposts%2ftest-github-actions%2f">
++            <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
++                <path
++                    d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-386.892,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Zm-58.673,127.703c-33.842,-33.881 -78.847,-52.548 -126.798,-52.568c-98.799,0 -179.21,80.405 -179.249,179.234c-0.013,31.593 8.241,62.428 23.927,89.612l-25.429,92.884l95.021,-24.925c26.181,14.28 55.659,21.807 85.658,21.816l0.074,0c98.789,0 179.206,-80.413 179.247,-179.243c0.018,-47.895 -18.61,-92.93 -52.451,-126.81Zm-126.797,275.782l-0.06,0c-26.734,-0.01 -52.954,-7.193 -75.828,-20.767l-5.441,-3.229l-56.386,14.792l15.05,-54.977l-3.542,-5.637c-14.913,-23.72 -22.791,-51.136 -22.779,-79.287c0.033,-82.142 66.867,-148.971 149.046,-148.971c39.793,0.014 77.199,15.531 105.329,43.692c28.128,28.16 43.609,65.592 43.594,105.4c-0.034,82.149 -66.866,148.983 -148.983,148.984Zm81.721,-111.581c-4.479,-2.242 -26.499,-13.075 -30.604,-14.571c-4.105,-1.495 -7.091,-2.241 -10.077,2.241c-2.986,4.483 -11.569,14.572 -14.182,17.562c-2.612,2.988 -5.225,3.364 -9.703,1.12c-4.479,-2.241 -18.91,-6.97 -36.017,-22.23c-13.314,-11.876 -22.304,-26.542 -24.916,-31.026c-2.612,-4.484 -0.279,-6.908 1.963,-9.14c2.016,-2.007 4.48,-5.232 6.719,-7.847c2.24,-2.615 2.986,-4.484 4.479,-7.472c1.493,-2.99 0.747,-5.604 -0.374,-7.846c-1.119,-2.241 -10.077,-24.288 -13.809,-33.256c-3.635,-8.733 -7.327,-7.55 -10.077,-7.688c-2.609,-0.13 -5.598,-0.158 -8.583,-0.158c-2.986,0 -7.839,1.121 -11.944,5.604c-4.105,4.484 -15.675,15.32 -15.675,37.364c0,22.046 16.048,43.342 18.287,46.332c2.24,2.99 31.582,48.227 76.511,67.627c10.685,4.615 19.028,7.371 25.533,9.434c10.728,3.41 20.492,2.929 28.209,1.775c8.605,-1.285 26.499,-10.833 30.231,-21.295c3.732,-10.464 3.732,-19.431 2.612,-21.298c-1.119,-1.869 -4.105,-2.99 -8.583,-5.232Z" />
++            </svg>
++        </a>
++    </li>
++    <li>
++        <a target="_blank" rel="noopener noreferrer" aria-label="share 测试 GitHub Actions 构建 on telegram"
++            href="https://telegram.me/share/url?text=%e6%b5%8b%e8%af%95%20GitHub%20Actions%20%e6%9e%84%e5%bb%ba&amp;url=https%3a%2f%2fdondrub3.com%2fposts%2ftest-github-actions%2f">
++            <svg version="1.1" xml:space="preserve" viewBox="2 2 28 28" height="30px" width="30px" fill="currentColor">
++                <path
++                    d="M26.49,29.86H5.5a3.37,3.37,0,0,1-2.47-1,3.35,3.35,0,0,1-1-2.47V5.48A3.36,3.36,0,0,1,3,3,3.37,3.37,0,0,1,5.5,2h21A3.38,3.38,0,0,1,29,3a3.36,3.36,0,0,1,1,2.46V26.37a3.35,3.35,0,0,1-1,2.47A3.38,3.38,0,0,1,26.49,29.86Zm-5.38-6.71a.79.79,0,0,0,.85-.66L24.73,9.24a.55.55,0,0,0-.18-.46.62.62,0,0,0-.41-.17q-.08,0-16.53,6.11a.59.59,0,0,0-.41.59.57.57,0,0,0,.43.52l4,1.24,1.61,4.83a.62.62,0,0,0,.63.43.56.56,0,0,0,.4-.17L16.54,20l4.09,3A.9.9,0,0,0,21.11,23.15ZM13.8,20.71l-1.21-4q8.72-5.55,8.78-5.55c.15,0,.23,0,.23.16a.18.18,0,0,1,0,.06s-2.51,2.3-7.52,6.8Z" />
++            </svg>
++        </a>
++    </li>
++    <li>
++        <a target="_blank" rel="noopener noreferrer" aria-label="share 测试 GitHub Actions 构建 on ycombinator"
++            href="https://news.ycombinator.com/submitlink?t=%e6%b5%8b%e8%af%95%20GitHub%20Actions%20%e6%9e%84%e5%bb%ba&u=https%3a%2f%2fdondrub3.com%2fposts%2ftest-github-actions%2f">
++            <svg version="1.1" xml:space="preserve" width="30px" height="30px" viewBox="0 0 512 512" fill="currentColor"
++                xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
++                <path
++                    d="M449.446 0C483.971 0 512 28.03 512 62.554L512 449.446C512 483.97 483.97 512 449.446 512L62.554 512C28.03 512 0 483.97 0 449.446L0 62.554C0 28.03 28.029 0 62.554 0L449.446 0ZM183.8767 87.9921H121.8427L230.6673 292.4508V424.0079H281.3328V292.4508L390.1575 87.9921H328.1233L256 238.2489z" />
++            </svg>
++        </a>
++    </li>
++</ul>
++
++  </footer>
++</article>
++    </main>
++    
++<footer class="footer">
++        <span>&copy; 2026 <a href="https://dondrub3.com/">Dondrub3 | 3P实验室</a></span> · 
++
++    <span>
++        Powered by
++        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
++        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
++    </span>
++</footer>
++<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
++    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
++        <path d="M12 6H0l6-6z" />
++    </svg>
++</a>
++
++<script>
++    let menu = document.getElementById('menu');
++    if (menu) {
++        
++        const scrollPosition = localStorage.getItem("menu-scroll-position");
++        if (scrollPosition) {
++            menu.scrollLeft = parseInt(scrollPosition, 10);
++        }
++        
++        menu.onscroll = function () {
++            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
++        }
++    }
++
++    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
++        anchor.addEventListener("click", function (e) {
++            e.preventDefault();
++            var id = this.getAttribute("href").substr(1);
++            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
++                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
++                    behavior: "smooth"
++                });
++            } else {
++                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
++            }
++            if (id === "top") {
++                history.replaceState(null, null, " ");
++            } else {
++                history.pushState(null, null, `#${id}`);
++            }
++        });
++    });
++
++</script>
++<script>
++    var mybutton = document.getElementById("top-link");
++    window.onscroll = function () {
++        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
++            mybutton.style.visibility = "visible";
++            mybutton.style.opacity = "1";
++        } else {
++            mybutton.style.visibility = "hidden";
++            mybutton.style.opacity = "0";
++        }
++    };
++
++</script>
++<script>
++    document.getElementById("theme-toggle").addEventListener("click", () => {
++        const html = document.querySelector("html");
++        if (html.dataset.theme === "dark") {
++            html.dataset.theme = 'light';
++            localStorage.setItem("pref-theme", 'light');
++        } else {
++            html.dataset.theme = 'dark';
++            localStorage.setItem("pref-theme", 'dark');
++        }
++    })
++
++</script>
++<script>
++    document.querySelectorAll('pre > code').forEach((codeblock) => {
++        const container = codeblock.parentNode.parentNode;
++
++        const copybutton = document.createElement('button');
++        copybutton.classList.add('copy-code');
++        copybutton.innerHTML = 'copy';
++
++        function copyingDone() {
++            copybutton.innerHTML = 'copied!';
++            setTimeout(() => {
++                copybutton.innerHTML = 'copy';
++            }, 2000);
++        }
++
++        copybutton.addEventListener('click', (cb) => {
++            if ('clipboard' in navigator) {
++                navigator.clipboard.writeText(codeblock.textContent);
++                copyingDone();
++                return;
++            }
++
++            const range = document.createRange();
++            range.selectNodeContents(codeblock);
++            const selection = window.getSelection();
++            selection.removeAllRanges();
++            selection.addRange(range);
++            try {
++                document.execCommand('copy');
++                copyingDone();
++            } catch (e) { };
++            selection.removeRange(range);
++        });
++
++        if (container.classList.contains("highlight")) {
++            container.appendChild(copybutton);
++        } else if (container.parentNode.firstChild == container) {
++            
++        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
++            
++            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
++        } else {
++            
++            codeblock.parentNode.appendChild(copybutton);
++        }
++    });
++</script>
++</body>
++
++</html>
+diff --git a/public/sitemap.xml b/public/sitemap.xml
+index 6560ea9..92c879b 100644
+--- a/public/sitemap.xml
++++ b/public/sitemap.xml
+@@ -2,19 +2,34 @@
+ <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+   <url>
+-    <loc>https://dondrub3.com/tags/ai/</loc>
+-    <lastmod>2026-02-21T23:30:00+08:00</lastmod>
+-  </url><url>
+     <loc>https://dondrub3.com/categories/</loc>
+-    <lastmod>2026-02-21T23:30:00+08:00</lastmod>
++    <lastmod>2026-02-22T02:50:00+08:00</lastmod>
+   </url><url>
+     <loc>https://dondrub3.com/</loc>
+-    <lastmod>2026-02-21T23:30:00+08:00</lastmod>
++    <lastmod>2026-02-22T02:50:00+08:00</lastmod>
++  </url><url>
++    <loc>https://dondrub3.com/tags/github-actions/</loc>
++    <lastmod>2026-02-22T02:50:00+08:00</lastmod>
++  </url><url>
++    <loc>https://dondrub3.com/tags/hugo/</loc>
++    <lastmod>2026-02-22T02:50:00+08:00</lastmod>
+   </url><url>
+     <loc>https://dondrub3.com/posts/</loc>
+-    <lastmod>2026-02-21T23:30:00+08:00</lastmod>
++    <lastmod>2026-02-22T02:50:00+08:00</lastmod>
+   </url><url>
+     <loc>https://dondrub3.com/tags/</loc>
++    <lastmod>2026-02-22T02:50:00+08:00</lastmod>
++  </url><url>
++    <loc>https://dondrub3.com/categories/%E6%B5%8B%E8%AF%95/</loc>
++    <lastmod>2026-02-22T02:50:00+08:00</lastmod>
++  </url><url>
++    <loc>https://dondrub3.com/posts/test-github-actions/</loc>
++    <lastmod>2026-02-22T02:50:00+08:00</lastmod>
++  </url><url>
++    <loc>https://dondrub3.com/tags/%E9%83%A8%E7%BD%B2/</loc>
++    <lastmod>2026-02-22T02:50:00+08:00</lastmod>
++  </url><url>
++    <loc>https://dondrub3.com/tags/ai/</loc>
+     <lastmod>2026-02-21T23:30:00+08:00</lastmod>
+   </url><url>
+     <loc>https://dondrub3.com/tags/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/</loc>
+diff --git a/public/tags/github-actions/index.html b/public/tags/github-actions/index.html
+new file mode 100644
+index 0000000..bd31e33
+--- /dev/null
++++ b/public/tags/github-actions/index.html
+@@ -0,0 +1,235 @@
++<!DOCTYPE html>
++<html lang="en" dir="auto" data-theme="auto">
++
++<head><meta charset="utf-8">
++<meta http-equiv="X-UA-Compatible" content="IE=edge">
++<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
++<meta name="robots" content="index, follow">
++<title>GitHub Actions | Dondrub3 | 3P实验室</title>
++<meta name="keywords" content="">
++<meta name="description" content="哲学 · 物理 · 心理学 | 量化交易与心智探索">
++<meta name="author" content="东周">
++<link rel="canonical" href="https://dondrub3.com/tags/github-actions/">
++<link crossorigin="anonymous" href="/assets/css/stylesheet.da3211e5ef867bf2b75fd5a6515cfed7195c011e8ab735694e203810a827097b.css" integrity="sha256-2jIR5e&#43;Ge/K3X9WmUVz&#43;1xlcAR6KtzVpTiA4EKgnCXs=" rel="preload stylesheet" as="style">
++<link rel="icon" href="https://dondrub3.com/favicon.ico">
++<link rel="icon" type="image/png" sizes="16x16" href="https://dondrub3.com/favicon-16x16.png">
++<link rel="icon" type="image/png" sizes="32x32" href="https://dondrub3.com/favicon-32x32.png">
++<link rel="apple-touch-icon" href="https://dondrub3.com/apple-touch-icon.png">
++<link rel="mask-icon" href="https://dondrub3.com/safari-pinned-tab.svg">
++<meta name="theme-color" content="#2e2e33">
++<meta name="msapplication-TileColor" content="#2e2e33">
++<link rel="alternate" type="application/rss+xml" href="https://dondrub3.com/tags/github-actions/index.xml" title="rss">
++<link rel="alternate" hreflang="en" href="https://dondrub3.com/tags/github-actions/">
++<noscript>
++    <style>
++        #theme-toggle,
++        .top-link {
++            display: none;
++        }
++
++    </style>
++    <style>
++        @media (prefers-color-scheme: dark) {
++            :root {
++                --theme: rgb(29, 30, 32);
++                --entry: rgb(46, 46, 51);
++                --primary: rgb(218, 218, 219);
++                --secondary: rgb(155, 156, 157);
++                --tertiary: rgb(65, 66, 68);
++                --content: rgb(196, 196, 197);
++                --code-block-bg: rgb(46, 46, 51);
++                --code-bg: rgb(55, 56, 62);
++                --border: rgb(51, 51, 51);
++                color-scheme: dark;
++            }
++
++            .list {
++                background: var(--theme);
++            }
++
++            .toc {
++                background: var(--entry);
++            }
++        }
++
++        @media (prefers-color-scheme: light) {
++            .list::-webkit-scrollbar-thumb {
++                border-color: var(--code-bg);
++            }
++        }
++
++    </style>
++</noscript>
++<script>
++    if (localStorage.getItem("pref-theme") === "dark") {
++        document.querySelector("html").dataset.theme = 'dark';
++    } else if (localStorage.getItem("pref-theme") === "light") {
++       document.querySelector("html").dataset.theme = 'light';
++    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
++        document.querySelector("html").dataset.theme = 'dark';
++    } else {
++        document.querySelector("html").dataset.theme = 'light';
++    }
++
++</script><meta property="og:url" content="https://dondrub3.com/tags/github-actions/">
++  <meta property="og:site_name" content="Dondrub3 | 3P实验室">
++  <meta property="og:title" content="GitHub Actions">
++  <meta property="og:description" content="哲学 · 物理 · 心理学 | 量化交易与心智探索">
++  <meta property="og:locale" content="zh-cn">
++  <meta property="og:type" content="website">
++<meta name="twitter:card" content="summary">
++<meta name="twitter:title" content="GitHub Actions">
++<meta name="twitter:description" content="哲学 · 物理 · 心理学 | 量化交易与心智探索">
++
++</head>
++<body class="list" id="top">
++    <header class="header">
++    <nav class="nav">
++        <div class="logo">
++            <a href="https://dondrub3.com/" accesskey="h" title="Dondrub3 | 3P实验室 (Alt + H)">Dondrub3 | 3P实验室</a>
++            <div class="logo-switches">
++                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
++                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
++                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
++                        stroke-linejoin="round">
++                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
++                    </svg>
++                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
++                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
++                        stroke-linejoin="round">
++                        <circle cx="12" cy="12" r="5"></circle>
++                        <line x1="12" y1="1" x2="12" y2="3"></line>
++                        <line x1="12" y1="21" x2="12" y2="23"></line>
++                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
++                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
++                        <line x1="1" y1="12" x2="3" y2="12"></line>
++                        <line x1="21" y1="12" x2="23" y2="12"></line>
++                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
++                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
++                    </svg>
++                </button>
++            </div>
++        </div>
++        <ul id="menu">
++            <li>
++                <a href="https://dondrub3.com/posts/" title="文章">
++                    <span>文章</span>
++                </a>
++            </li>
++            <li>
++                <a href="https://dondrub3.com/categories/" title="分类">
++                    <span>分类</span>
++                </a>
++            </li>
++            <li>
++                <a href="https://dondrub3.com/tags/" title="标签">
++                    <span>标签</span>
++                </a>
++            </li>
++            <li>
++                <a href="https://dondrub3.com/about/" title="关于">
++                    <span>关于</span>
++                </a>
++            </li>
++        </ul>
++    </nav>
++</header>
++<main class="main"> 
++<header class="page-header"><div class="breadcrumbs"><a href="https://dondrub3.com/">Home</a>&nbsp;»&nbsp;<a href="https://dondrub3.com/tags/">Tags</a></div>
++  <h1>
++    GitHub Actions
++  </h1>
++</header>
++
++<article class="post-entry tag-entry"> 
++  <header class="entry-header">
++    <h2 class="entry-hint-parent">测试 GitHub Actions 构建
++    </h2>
++  </header>
++  <div class="entry-content">
++    <p>测试目的 验证 GitHub Actions 工作流是否正确配置，能够自动构建和部署 Hugo 博客。
++测试步骤 提交此文件到 main 分支 GitHub Actions 应该自动触发构建 构建成功后部署到 GitHub Pages 验证网站是否更新 预期结果 GitHub Actions 工作流成功运行 Hugo 正确构建网站 网站内容更新包含此测试文章 所有链接和功能正常工作 技术验证 Hugo 版本: 0.146.0&#43; PaperMod 主题兼容性 GitHub Pages 部署 DNS 和 HTTPS 配置 </p>
++  </div>
++  <footer class="entry-footer"><span title='2026-02-22 02:50:00 +0800 CST'>February 22, 2026</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>东周</span></footer>
++  <a class="entry-link" aria-label="post link to 测试 GitHub Actions 构建" href="https://dondrub3.com/posts/test-github-actions/"></a>
++</article>
++    </main>
++    
++<footer class="footer">
++        <span>&copy; 2026 <a href="https://dondrub3.com/">Dondrub3 | 3P实验室</a></span> · 
++
++    <span>
++        Powered by
++        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
++        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
++    </span>
++</footer>
++<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
++    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
++        <path d="M12 6H0l6-6z" />
++    </svg>
++</a>
++
++<script>
++    let menu = document.getElementById('menu');
++    if (menu) {
++        
++        const scrollPosition = localStorage.getItem("menu-scroll-position");
++        if (scrollPosition) {
++            menu.scrollLeft = parseInt(scrollPosition, 10);
++        }
++        
++        menu.onscroll = function () {
++            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
++        }
++    }
++
++    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
++        anchor.addEventListener("click", function (e) {
++            e.preventDefault();
++            var id = this.getAttribute("href").substr(1);
++            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
++                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
++                    behavior: "smooth"
++                });
++            } else {
++                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
++            }
++            if (id === "top") {
++                history.replaceState(null, null, " ");
++            } else {
++                history.pushState(null, null, `#${id}`);
++            }
++        });
++    });
++
++</script>
++<script>
++    var mybutton = document.getElementById("top-link");
++    window.onscroll = function () {
++        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
++            mybutton.style.visibility = "visible";
++            mybutton.style.opacity = "1";
++        } else {
++            mybutton.style.visibility = "hidden";
++            mybutton.style.opacity = "0";
++        }
++    };
++
++</script>
++<script>
++    document.getElementById("theme-toggle").addEventListener("click", () => {
++        const html = document.querySelector("html");
++        if (html.dataset.theme === "dark") {
++            html.dataset.theme = 'light';
++            localStorage.setItem("pref-theme", 'light');
++        } else {
++            html.dataset.theme = 'dark';
++            localStorage.setItem("pref-theme", 'dark');
++        }
++    })
++
++</script>
++</body>
++
++</html>
+diff --git a/public/tags/github-actions/index.xml b/public/tags/github-actions/index.xml
+new file mode 100644
+index 0000000..7449ec9
+--- /dev/null
++++ b/public/tags/github-actions/index.xml
+@@ -0,0 +1,19 @@
++<?xml version="1.0" encoding="utf-8" standalone="yes"?>
++<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
++  <channel>
++    <title>GitHub Actions on Dondrub3 | 3P实验室</title>
++    <link>https://dondrub3.com/tags/github-actions/</link>
++    <description>Recent content in GitHub Actions on Dondrub3 | 3P实验室</description>
++    <generator>Hugo -- 0.146.0</generator>
++    <language>zh-cn</language>
++    <lastBuildDate>Sun, 22 Feb 2026 02:50:00 +0800</lastBuildDate>
++    <atom:link href="https://dondrub3.com/tags/github-actions/index.xml" rel="self" type="application/rss+xml" />
++    <item>
++      <title>测试 GitHub Actions 构建</title>
++      <link>https://dondrub3.com/posts/test-github-actions/</link>
++      <pubDate>Sun, 22 Feb 2026 02:50:00 +0800</pubDate>
++      <guid>https://dondrub3.com/posts/test-github-actions/</guid>
++      <description>测试 GitHub Actions 是否正常工作</description>
++    </item>
++  </channel>
++</rss>
+diff --git a/public/tags/github-actions/page/1/index.html b/public/tags/github-actions/page/1/index.html
+new file mode 100644
+index 0000000..cee5d04
+--- /dev/null
++++ b/public/tags/github-actions/page/1/index.html
+@@ -0,0 +1,10 @@
++<!DOCTYPE html>
++<html lang="zh-cn">
++  <head>
++    <title>https://dondrub3.com/tags/github-actions/</title>
++    <link rel="canonical" href="https://dondrub3.com/tags/github-actions/">
++    <meta name="robots" content="noindex">
++    <meta charset="utf-8">
++    <meta http-equiv="refresh" content="0; url=https://dondrub3.com/tags/github-actions/">
++  </head>
++</html>
+diff --git a/public/tags/hugo/index.html b/public/tags/hugo/index.html
+new file mode 100644
+index 0000000..f8123af
+--- /dev/null
++++ b/public/tags/hugo/index.html
+@@ -0,0 +1,235 @@
++<!DOCTYPE html>
++<html lang="en" dir="auto" data-theme="auto">
++
++<head><meta charset="utf-8">
++<meta http-equiv="X-UA-Compatible" content="IE=edge">
++<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
++<meta name="robots" content="index, follow">
++<title>Hugo | Dondrub3 | 3P实验室</title>
++<meta name="keywords" content="">
++<meta name="description" content="哲学 · 物理 · 心理学 | 量化交易与心智探索">
++<meta name="author" content="东周">
++<link rel="canonical" href="https://dondrub3.com/tags/hugo/">
++<link crossorigin="anonymous" href="/assets/css/stylesheet.da3211e5ef867bf2b75fd5a6515cfed7195c011e8ab735694e203810a827097b.css" integrity="sha256-2jIR5e&#43;Ge/K3X9WmUVz&#43;1xlcAR6KtzVpTiA4EKgnCXs=" rel="preload stylesheet" as="style">
++<link rel="icon" href="https://dondrub3.com/favicon.ico">
++<link rel="icon" type="image/png" sizes="16x16" href="https://dondrub3.com/favicon-16x16.png">
++<link rel="icon" type="image/png" sizes="32x32" href="https://dondrub3.com/favicon-32x32.png">
++<link rel="apple-touch-icon" href="https://dondrub3.com/apple-touch-icon.png">
++<link rel="mask-icon" href="https://dondrub3.com/safari-pinned-tab.svg">
++<meta name="theme-color" content="#2e2e33">
++<meta name="msapplication-TileColor" content="#2e2e33">
++<link rel="alternate" type="application/rss+xml" href="https://dondrub3.com/tags/hugo/index.xml" title="rss">
++<link rel="alternate" hreflang="en" href="https://dondrub3.com/tags/hugo/">
++<noscript>
++    <style>
++        #theme-toggle,
++        .top-link {
++            display: none;
++        }
++
++    </style>
++    <style>
++        @media (prefers-color-scheme: dark) {
++            :root {
++                --theme: rgb(29, 30, 32);
++                --entry: rgb(46, 46, 51);
++                --primary: rgb(218, 218, 219);
++                --secondary: rgb(155, 156, 157);
++                --tertiary: rgb(65, 66, 68);
++                --content: rgb(196, 196, 197);
++                --code-block-bg: rgb(46, 46, 51);
++                --code-bg: rgb(55, 56, 62);
++                --border: rgb(51, 51, 51);
++                color-scheme: dark;
++            }
++
++            .list {
++                background: var(--theme);
++            }
++
++            .toc {
++                background: var(--entry);
++            }
++        }
++
++        @media (prefers-color-scheme: light) {
++            .list::-webkit-scrollbar-thumb {
++                border-color: var(--code-bg);
++            }
++        }
++
++    </style>
++</noscript>
++<script>
++    if (localStorage.getItem("pref-theme") === "dark") {
++        document.querySelector("html").dataset.theme = 'dark';
++    } else if (localStorage.getItem("pref-theme") === "light") {
++       document.querySelector("html").dataset.theme = 'light';
++    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
++        document.querySelector("html").dataset.theme = 'dark';
++    } else {
++        document.querySelector("html").dataset.theme = 'light';
++    }
++
++</script><meta property="og:url" content="https://dondrub3.com/tags/hugo/">
++  <meta property="og:site_name" content="Dondrub3 | 3P实验室">
++  <meta property="og:title" content="Hugo">
++  <meta property="og:description" content="哲学 · 物理 · 心理学 | 量化交易与心智探索">
++  <meta property="og:locale" content="zh-cn">
++  <meta property="og:type" content="website">
++<meta name="twitter:card" content="summary">
++<meta name="twitter:title" content="Hugo">
++<meta name="twitter:description" content="哲学 · 物理 · 心理学 | 量化交易与心智探索">
++
++</head>
++<body class="list" id="top">
++    <header class="header">
++    <nav class="nav">
++        <div class="logo">
++            <a href="https://dondrub3.com/" accesskey="h" title="Dondrub3 | 3P实验室 (Alt + H)">Dondrub3 | 3P实验室</a>
++            <div class="logo-switches">
++                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
++                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
++                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
++                        stroke-linejoin="round">
++                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
++                    </svg>
++                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
++                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
++                        stroke-linejoin="round">
++                        <circle cx="12" cy="12" r="5"></circle>
++                        <line x1="12" y1="1" x2="12" y2="3"></line>
++                        <line x1="12" y1="21" x2="12" y2="23"></line>
++                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
++                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
++                        <line x1="1" y1="12" x2="3" y2="12"></line>
++                        <line x1="21" y1="12" x2="23" y2="12"></line>
++                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
++                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
++                    </svg>
++                </button>
++            </div>
++        </div>
++        <ul id="menu">
++            <li>
++                <a href="https://dondrub3.com/posts/" title="文章">
++                    <span>文章</span>
++                </a>
++            </li>
++            <li>
++                <a href="https://dondrub3.com/categories/" title="分类">
++                    <span>分类</span>
++                </a>
++            </li>
++            <li>
++                <a href="https://dondrub3.com/tags/" title="标签">
++                    <span>标签</span>
++                </a>
++            </li>
++            <li>
++                <a href="https://dondrub3.com/about/" title="关于">
++                    <span>关于</span>
++                </a>
++            </li>
++        </ul>
++    </nav>
++</header>
++<main class="main"> 
++<header class="page-header"><div class="breadcrumbs"><a href="https://dondrub3.com/">Home</a>&nbsp;»&nbsp;<a href="https://dondrub3.com/tags/">Tags</a></div>
++  <h1>
++    Hugo
++  </h1>
++</header>
++
++<article class="post-entry tag-entry"> 
++  <header class="entry-header">
++    <h2 class="entry-hint-parent">测试 GitHub Actions 构建
++    </h2>
++  </header>
++  <div class="entry-content">
++    <p>测试目的 验证 GitHub Actions 工作流是否正确配置，能够自动构建和部署 Hugo 博客。
++测试步骤 提交此文件到 main 分支 GitHub Actions 应该自动触发构建 构建成功后部署到 GitHub Pages 验证网站是否更新 预期结果 GitHub Actions 工作流成功运行 Hugo 正确构建网站 网站内容更新包含此测试文章 所有链接和功能正常工作 技术验证 Hugo 版本: 0.146.0&#43; PaperMod 主题兼容性 GitHub Pages 部署 DNS 和 HTTPS 配置 </p>
++  </div>
++  <footer class="entry-footer"><span title='2026-02-22 02:50:00 +0800 CST'>February 22, 2026</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>东周</span></footer>
++  <a class="entry-link" aria-label="post link to 测试 GitHub Actions 构建" href="https://dondrub3.com/posts/test-github-actions/"></a>
++</article>
++    </main>
++    
++<footer class="footer">
++        <span>&copy; 2026 <a href="https://dondrub3.com/">Dondrub3 | 3P实验室</a></span> · 
++
++    <span>
++        Powered by
++        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
++        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
++    </span>
++</footer>
++<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
++    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
++        <path d="M12 6H0l6-6z" />
++    </svg>
++</a>
++
++<script>
++    let menu = document.getElementById('menu');
++    if (menu) {
++        
++        const scrollPosition = localStorage.getItem("menu-scroll-position");
++        if (scrollPosition) {
++            menu.scrollLeft = parseInt(scrollPosition, 10);
++        }
++        
++        menu.onscroll = function () {
++            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
++        }
++    }
++
++    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
++        anchor.addEventListener("click", function (e) {
++            e.preventDefault();
++            var id = this.getAttribute("href").substr(1);
++            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
++                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
++                    behavior: "smooth"
++                });
++            } else {
++                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
++            }
++            if (id === "top") {
++                history.replaceState(null, null, " ");
++            } else {
++                history.pushState(null, null, `#${id}`);
++            }
++        });
++    });
++
++</script>
++<script>
++    var mybutton = document.getElementById("top-link");
++    window.onscroll = function () {
++        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
++            mybutton.style.visibility = "visible";
++            mybutton.style.opacity = "1";
++        } else {
++            mybutton.style.visibility = "hidden";
++            mybutton.style.opacity = "0";
++        }
++    };
++
++</script>
++<script>
++    document.getElementById("theme-toggle").addEventListener("click", () => {
++        const html = document.querySelector("html");
++        if (html.dataset.theme === "dark") {
++            html.dataset.theme = 'light';
++            localStorage.setItem("pref-theme", 'light');
++        } else {
++            html.dataset.theme = 'dark';
++            localStorage.setItem("pref-theme", 'dark');
++        }
++    })
++
++</script>
++</body>
++
++</html>
+diff --git a/public/tags/hugo/index.xml b/public/tags/hugo/index.xml
+new file mode 100644
+index 0000000..0fd8c8b
+--- /dev/null
++++ b/public/tags/hugo/index.xml
+@@ -0,0 +1,19 @@
++<?xml version="1.0" encoding="utf-8" standalone="yes"?>
++<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
++  <channel>
++    <title>Hugo on Dondrub3 | 3P实验室</title>
++    <link>https://dondrub3.com/tags/hugo/</link>
++    <description>Recent content in Hugo on Dondrub3 | 3P实验室</description>
++    <generator>Hugo -- 0.146.0</generator>
++    <language>zh-cn</language>
++    <lastBuildDate>Sun, 22 Feb 2026 02:50:00 +0800</lastBuildDate>
++    <atom:link href="https://dondrub3.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
++    <item>
++      <title>测试 GitHub Actions 构建</title>
++      <link>https://dondrub3.com/posts/test-github-actions/</link>
++      <pubDate>Sun, 22 Feb 2026 02:50:00 +0800</pubDate>
++      <guid>https://dondrub3.com/posts/test-github-actions/</guid>
++      <description>测试 GitHub Actions 是否正常工作</description>
++    </item>
++  </channel>
++</rss>
+diff --git a/public/tags/hugo/page/1/index.html b/public/tags/hugo/page/1/index.html
+new file mode 100644
+index 0000000..a399427
+--- /dev/null
++++ b/public/tags/hugo/page/1/index.html
+@@ -0,0 +1,10 @@
++<!DOCTYPE html>
++<html lang="zh-cn">
++  <head>
++    <title>https://dondrub3.com/tags/hugo/</title>
++    <link rel="canonical" href="https://dondrub3.com/tags/hugo/">
++    <meta name="robots" content="noindex">
++    <meta charset="utf-8">
++    <meta http-equiv="refresh" content="0; url=https://dondrub3.com/tags/hugo/">
++  </head>
++</html>
+diff --git a/public/tags/index.html b/public/tags/index.html
+index 67abc0d..b3bc579 100644
+--- a/public/tags/index.html
++++ b/public/tags/index.html
+@@ -143,6 +143,12 @@
+     <li>
+         <a href="https://dondrub3.com/tags/ai/">AI <sup><strong><sup>1</sup></strong></sup> </a>
+     </li>
++    <li>
++        <a href="https://dondrub3.com/tags/github-actions/">GitHub Actions <sup><strong><sup>1</sup></strong></sup> </a>
++    </li>
++    <li>
++        <a href="https://dondrub3.com/tags/hugo/">Hugo <sup><strong><sup>1</sup></strong></sup> </a>
++    </li>
+     <li>
+         <a href="https://dondrub3.com/tags/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/">产品设计 <sup><strong><sup>1</sup></strong></sup> </a>
+     </li>
+@@ -155,6 +161,9 @@
+     <li>
+         <a href="https://dondrub3.com/tags/%E8%A1%8C%E4%B8%BA%E7%BB%8F%E6%B5%8E%E5%AD%A6/">行为经济学 <sup><strong><sup>1</sup></strong></sup> </a>
+     </li>
++    <li>
++        <a href="https://dondrub3.com/tags/%E9%83%A8%E7%BD%B2/">部署 <sup><strong><sup>1</sup></strong></sup> </a>
++    </li>
+ </ul>
+     </main>
+     
+diff --git a/public/tags/index.xml b/public/tags/index.xml
+index 048e50d..1ccca3b 100644
+--- a/public/tags/index.xml
++++ b/public/tags/index.xml
+@@ -6,8 +6,29 @@
+     <description>Recent content in Tags on Dondrub3 | 3P实验室</description>
+     <generator>Hugo -- 0.146.0</generator>
+     <language>zh-cn</language>
+-    <lastBuildDate>Sat, 21 Feb 2026 23:30:00 +0800</lastBuildDate>
++    <lastBuildDate>Sun, 22 Feb 2026 02:50:00 +0800</lastBuildDate>
+     <atom:link href="https://dondrub3.com/tags/index.xml" rel="self" type="application/rss+xml" />
++    <item>
++      <title>GitHub Actions</title>
++      <link>https://dondrub3.com/tags/github-actions/</link>
++      <pubDate>Sun, 22 Feb 2026 02:50:00 +0800</pubDate>
++      <guid>https://dondrub3.com/tags/github-actions/</guid>
++      <description></description>
++    </item>
++    <item>
++      <title>Hugo</title>
++      <link>https://dondrub3.com/tags/hugo/</link>
++      <pubDate>Sun, 22 Feb 2026 02:50:00 +0800</pubDate>
++      <guid>https://dondrub3.com/tags/hugo/</guid>
++      <description></description>
++    </item>
++    <item>
++      <title>部署</title>
++      <link>https://dondrub3.com/tags/%E9%83%A8%E7%BD%B2/</link>
++      <pubDate>Sun, 22 Feb 2026 02:50:00 +0800</pubDate>
++      <guid>https://dondrub3.com/tags/%E9%83%A8%E7%BD%B2/</guid>
++      <description></description>
++    </item>
+     <item>
+       <title>AI</title>
+       <link>https://dondrub3.com/tags/ai/</link>
+diff --git "a/public/tags/\351\203\250\347\275\262/index.html" "b/public/tags/\351\203\250\347\275\262/index.html"
+new file mode 100644
+index 0000000..3a9a479
+--- /dev/null
++++ "b/public/tags/\351\203\250\347\275\262/index.html"
+@@ -0,0 +1,235 @@
++<!DOCTYPE html>
++<html lang="en" dir="auto" data-theme="auto">
++
++<head><meta charset="utf-8">
++<meta http-equiv="X-UA-Compatible" content="IE=edge">
++<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
++<meta name="robots" content="index, follow">
++<title>部署 | Dondrub3 | 3P实验室</title>
++<meta name="keywords" content="">
++<meta name="description" content="哲学 · 物理 · 心理学 | 量化交易与心智探索">
++<meta name="author" content="东周">
++<link rel="canonical" href="https://dondrub3.com/tags/%E9%83%A8%E7%BD%B2/">
++<link crossorigin="anonymous" href="/assets/css/stylesheet.da3211e5ef867bf2b75fd5a6515cfed7195c011e8ab735694e203810a827097b.css" integrity="sha256-2jIR5e&#43;Ge/K3X9WmUVz&#43;1xlcAR6KtzVpTiA4EKgnCXs=" rel="preload stylesheet" as="style">
++<link rel="icon" href="https://dondrub3.com/favicon.ico">
++<link rel="icon" type="image/png" sizes="16x16" href="https://dondrub3.com/favicon-16x16.png">
++<link rel="icon" type="image/png" sizes="32x32" href="https://dondrub3.com/favicon-32x32.png">
++<link rel="apple-touch-icon" href="https://dondrub3.com/apple-touch-icon.png">
++<link rel="mask-icon" href="https://dondrub3.com/safari-pinned-tab.svg">
++<meta name="theme-color" content="#2e2e33">
++<meta name="msapplication-TileColor" content="#2e2e33">
++<link rel="alternate" type="application/rss+xml" href="https://dondrub3.com/tags/%E9%83%A8%E7%BD%B2/index.xml" title="rss">
++<link rel="alternate" hreflang="en" href="https://dondrub3.com/tags/%E9%83%A8%E7%BD%B2/">
++<noscript>
++    <style>
++        #theme-toggle,
++        .top-link {
++            display: none;
++        }
++
++    </style>
++    <style>
++        @media (prefers-color-scheme: dark) {
++            :root {
++                --theme: rgb(29, 30, 32);
++                --entry: rgb(46, 46, 51);
++                --primary: rgb(218, 218, 219);
++                --secondary: rgb(155, 156, 157);
++                --tertiary: rgb(65, 66, 68);
++                --content: rgb(196, 196, 197);
++                --code-block-bg: rgb(46, 46, 51);
++                --code-bg: rgb(55, 56, 62);
++                --border: rgb(51, 51, 51);
++                color-scheme: dark;
++            }
++
++            .list {
++                background: var(--theme);
++            }
++
++            .toc {
++                background: var(--entry);
++            }
++        }
++
++        @media (prefers-color-scheme: light) {
++            .list::-webkit-scrollbar-thumb {
++                border-color: var(--code-bg);
++            }
++        }
++
++    </style>
++</noscript>
++<script>
++    if (localStorage.getItem("pref-theme") === "dark") {
++        document.querySelector("html").dataset.theme = 'dark';
++    } else if (localStorage.getItem("pref-theme") === "light") {
++       document.querySelector("html").dataset.theme = 'light';
++    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
++        document.querySelector("html").dataset.theme = 'dark';
++    } else {
++        document.querySelector("html").dataset.theme = 'light';
++    }
++
++</script><meta property="og:url" content="https://dondrub3.com/tags/%E9%83%A8%E7%BD%B2/">
++  <meta property="og:site_name" content="Dondrub3 | 3P实验室">
++  <meta property="og:title" content="部署">
++  <meta property="og:description" content="哲学 · 物理 · 心理学 | 量化交易与心智探索">
++  <meta property="og:locale" content="zh-cn">
++  <meta property="og:type" content="website">
++<meta name="twitter:card" content="summary">
++<meta name="twitter:title" content="部署">
++<meta name="twitter:description" content="哲学 · 物理 · 心理学 | 量化交易与心智探索">
++
++</head>
++<body class="list" id="top">
++    <header class="header">
++    <nav class="nav">
++        <div class="logo">
++            <a href="https://dondrub3.com/" accesskey="h" title="Dondrub3 | 3P实验室 (Alt + H)">Dondrub3 | 3P实验室</a>
++            <div class="logo-switches">
++                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
++                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
++                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
++                        stroke-linejoin="round">
++                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
++                    </svg>
++                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
++                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
++                        stroke-linejoin="round">
++                        <circle cx="12" cy="12" r="5"></circle>
++                        <line x1="12" y1="1" x2="12" y2="3"></line>
++                        <line x1="12" y1="21" x2="12" y2="23"></line>
++                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
++                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
++                        <line x1="1" y1="12" x2="3" y2="12"></line>
++                        <line x1="21" y1="12" x2="23" y2="12"></line>
++                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
++                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
++                    </svg>
++                </button>
++            </div>
++        </div>
++        <ul id="menu">
++            <li>
++                <a href="https://dondrub3.com/posts/" title="文章">
++                    <span>文章</span>
++                </a>
++            </li>
++            <li>
++                <a href="https://dondrub3.com/categories/" title="分类">
++                    <span>分类</span>
++                </a>
++            </li>
++            <li>
++                <a href="https://dondrub3.com/tags/" title="标签">
++                    <span>标签</span>
++                </a>
++            </li>
++            <li>
++                <a href="https://dondrub3.com/about/" title="关于">
++                    <span>关于</span>
++                </a>
++            </li>
++        </ul>
++    </nav>
++</header>
++<main class="main"> 
++<header class="page-header"><div class="breadcrumbs"><a href="https://dondrub3.com/">Home</a>&nbsp;»&nbsp;<a href="https://dondrub3.com/tags/">Tags</a></div>
++  <h1>
++    部署
++  </h1>
++</header>
++
++<article class="post-entry tag-entry"> 
++  <header class="entry-header">
++    <h2 class="entry-hint-parent">测试 GitHub Actions 构建
++    </h2>
++  </header>
++  <div class="entry-content">
++    <p>测试目的 验证 GitHub Actions 工作流是否正确配置，能够自动构建和部署 Hugo 博客。
++测试步骤 提交此文件到 main 分支 GitHub Actions 应该自动触发构建 构建成功后部署到 GitHub Pages 验证网站是否更新 预期结果 GitHub Actions 工作流成功运行 Hugo 正确构建网站 网站内容更新包含此测试文章 所有链接和功能正常工作 技术验证 Hugo 版本: 0.146.0&#43; PaperMod 主题兼容性 GitHub Pages 部署 DNS 和 HTTPS 配置 </p>
++  </div>
++  <footer class="entry-footer"><span title='2026-02-22 02:50:00 +0800 CST'>February 22, 2026</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>东周</span></footer>
++  <a class="entry-link" aria-label="post link to 测试 GitHub Actions 构建" href="https://dondrub3.com/posts/test-github-actions/"></a>
++</article>
++    </main>
++    
++<footer class="footer">
++        <span>&copy; 2026 <a href="https://dondrub3.com/">Dondrub3 | 3P实验室</a></span> · 
++
++    <span>
++        Powered by
++        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
++        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
++    </span>
++</footer>
++<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
++    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
++        <path d="M12 6H0l6-6z" />
++    </svg>
++</a>
++
++<script>
++    let menu = document.getElementById('menu');
++    if (menu) {
++        
++        const scrollPosition = localStorage.getItem("menu-scroll-position");
++        if (scrollPosition) {
++            menu.scrollLeft = parseInt(scrollPosition, 10);
++        }
++        
++        menu.onscroll = function () {
++            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
++        }
++    }
++
++    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
++        anchor.addEventListener("click", function (e) {
++            e.preventDefault();
++            var id = this.getAttribute("href").substr(1);
++            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
++                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
++                    behavior: "smooth"
++                });
++            } else {
++                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
++            }
++            if (id === "top") {
++                history.replaceState(null, null, " ");
++            } else {
++                history.pushState(null, null, `#${id}`);
++            }
++        });
++    });
++
++</script>
++<script>
++    var mybutton = document.getElementById("top-link");
++    window.onscroll = function () {
++        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
++            mybutton.style.visibility = "visible";
++            mybutton.style.opacity = "1";
++        } else {
++            mybutton.style.visibility = "hidden";
++            mybutton.style.opacity = "0";
++        }
++    };
++
++</script>
++<script>
++    document.getElementById("theme-toggle").addEventListener("click", () => {
++        const html = document.querySelector("html");
++        if (html.dataset.theme === "dark") {
++            html.dataset.theme = 'light';
++            localStorage.setItem("pref-theme", 'light');
++        } else {
++            html.dataset.theme = 'dark';
++            localStorage.setItem("pref-theme", 'dark');
++        }
++    })
++
++</script>
++</body>
++
++</html>
+diff --git "a/public/tags/\351\203\250\347\275\262/index.xml" "b/public/tags/\351\203\250\347\275\262/index.xml"
+new file mode 100644
+index 0000000..1dd5362
+--- /dev/null
++++ "b/public/tags/\351\203\250\347\275\262/index.xml"
+@@ -0,0 +1,19 @@
++<?xml version="1.0" encoding="utf-8" standalone="yes"?>
++<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
++  <channel>
++    <title>部署 on Dondrub3 | 3P实验室</title>
++    <link>https://dondrub3.com/tags/%E9%83%A8%E7%BD%B2/</link>
++    <description>Recent content in 部署 on Dondrub3 | 3P实验室</description>
++    <generator>Hugo -- 0.146.0</generator>
++    <language>zh-cn</language>
++    <lastBuildDate>Sun, 22 Feb 2026 02:50:00 +0800</lastBuildDate>
++    <atom:link href="https://dondrub3.com/tags/%E9%83%A8%E7%BD%B2/index.xml" rel="self" type="application/rss+xml" />
++    <item>
++      <title>测试 GitHub Actions 构建</title>
++      <link>https://dondrub3.com/posts/test-github-actions/</link>
++      <pubDate>Sun, 22 Feb 2026 02:50:00 +0800</pubDate>
++      <guid>https://dondrub3.com/posts/test-github-actions/</guid>
++      <description>测试 GitHub Actions 是否正常工作</description>
++    </item>
++  </channel>
++</rss>
+diff --git "a/public/tags/\351\203\250\347\275\262/page/1/index.html" "b/public/tags/\351\203\250\347\275\262/page/1/index.html"
+new file mode 100644
+index 0000000..f116790
+--- /dev/null
++++ "b/public/tags/\351\203\250\347\275\262/page/1/index.html"
+@@ -0,0 +1,10 @@
++<!DOCTYPE html>
++<html lang="zh-cn">
++  <head>
++    <title>https://dondrub3.com/tags/%E9%83%A8%E7%BD%B2/</title>
++    <link rel="canonical" href="https://dondrub3.com/tags/%E9%83%A8%E7%BD%B2/">
++    <meta name="robots" content="noindex">
++    <meta charset="utf-8">
++    <meta http-equiv="refresh" content="0; url=https://dondrub3.com/tags/%E9%83%A8%E7%BD%B2/">
++  </head>
++</html>
+-- 
+2.43.0
+
