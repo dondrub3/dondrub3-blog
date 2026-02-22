@@ -21,7 +21,7 @@ theme = 'PaperMod'
   [params.homeInfoParams]
     Title = "欢迎来到 3P 实验室"
     Content = """
-    这里是东周的个人博客，专注于哲学(Philosophy)、物理(Physics)、心理学(Psychology)的交叉探索。
+    <p>这里是东周的个人博客，专注于哲学(Philosophy)、物理(Physics)、心理学(Psychology)的交叉探索。</p>
     
     - 🧠 交易心理：行为金融与量化决策
     - ⚛️ 物理思维：复杂系统与市场规律  
