@@ -1,10 +1,11 @@
 ---
 title: "当AI产品设计遇上用户心理：智谱GLM Coding Plan事件的心理学解读"
-date: 2026-02-21T23:30:00+08:00
+date: 2024-02-21T23:30:00+08:00
 draft: false
 
 # SEO优化元数据
 description: "AI产品心理学分析：智谱GLM Coding Plan事件的用户心理机制解读，探讨预期违背、心理契约、信任危机等心理学理论在AI产品设计中的应用。"
+type: "posts"
 keywords: ["AI产品设计", "用户体验", "心理学", "行为经济学", "智谱AI", "GLM Coding", "产品心理学", "信任建立"]
 author: "东周"
 
@@ -20,7 +21,6 @@ image: "/images/posts/ai-product-psychology.jpg"
 image_alt: "AI产品心理学 - 智谱GLM Coding Plan事件心理分析"
 
 # 结构化数据
-type: "case-study"
 readingTime: true
 showToc: true
 tocOpen: false

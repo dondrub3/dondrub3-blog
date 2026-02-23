@@ -1,10 +1,11 @@
 ---
 title: "最高法院裁决与群体心理：当法律遇上集体情绪"
-date: 2026-02-20T12:00:00+08:00
+date: 2024-02-20T12:00:00+08:00
 draft: false
 
 # SEO优化元数据
 description: "心理学深度分析：美国最高法院裁定特朗普关税违法的社会心理影响，探讨权威认同、不确定性焦虑、群体极化等心理机制在市场反应和政治决策中的作用。"
+type: "posts"
 keywords: ["社会心理学", "群体心理", "决策心理学", "特朗普", "最高法院", "关税", "市场心理", "政治心理学"]
 author: "东周"
 
@@ -20,7 +21,6 @@ image: "/images/posts/trump-tariff-psychology.jpg"
 image_alt: "特朗普关税心理学分析 - 最高法院裁决与群体心理"
 
 # 结构化数据
-type: "article"
 readingTime: true
 showToc: true
 tocOpen: false

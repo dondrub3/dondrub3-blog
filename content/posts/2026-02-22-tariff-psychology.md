@@ -1,10 +1,11 @@
 ---
 title: "当法律遇上心理惯性：从美国最高法院关税裁决看决策心理"
-date: 2026-02-22T16:00:00+08:00
+date: 2024-02-22T16:00:00+08:00
 draft: false
 
 # SEO优化元数据
 description: "决策心理学深度分析：美国最高法院关税裁决背后的心理惯性机制，探讨认知偏差、损失厌恶、群体极化等心理学理论在国际政策决策中的应用。"
+type: "posts"
 keywords: ["决策心理学", "认知偏差", "损失厌恶", "群体极化", "关税", "最高法院", "国际关系", "心理学分析"]
 author: "东周"
 
@@ -20,7 +21,6 @@ image: "/images/posts/tariff-psychology.jpg"
 image_alt: "关税决策心理学 - 最高法院裁决与心理惯性分析"
 
 # 结构化数据
-type: "article"
 readingTime: true
 showToc: true
 tocOpen: false

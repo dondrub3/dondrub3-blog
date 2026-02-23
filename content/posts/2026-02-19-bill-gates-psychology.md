@@ -1,10 +1,11 @@
 ---
 title: "公众人物的道德困境：从比尔·盖茨取消AI峰会演讲看决策心理学"
-date: 2026-02-19T12:00:00+08:00
+date: 2024-02-19T12:00:00+08:00
 draft: false
 
 # SEO优化元数据
 description: "深度心理学分析：比尔·盖茨因爱泼斯坦关联取消AI峰会演讲的决策心理机制，探讨认知失调、社会认同、道德推脱等心理学理论在公众人物决策中的应用。"
+type: "posts"
 keywords: ["决策心理学", "社会心理学", "道德困境", "比尔·盖茨", "认知失调", "公众人物", "心理学分析", "行为决策"]
 author: "东周"
 
@@ -20,7 +21,6 @@ image: "/images/posts/bill-gates-psychology.jpg"
 image_alt: "比尔·盖茨心理学分析 - 决策心理与道德困境"
 
 # 结构化数据
-type: "article"
 readingTime: true
 showToc: true
 tocOpen: false

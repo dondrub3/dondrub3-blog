@@ -3,6 +3,9 @@ languageCode = 'zh-cn'
 title = 'Dondrub3 | 3P实验室'
 theme = 'PaperMod'
 
+# 构建设置
+buildFuture = true  # 构建未来日期的文章
+
 [params]
   description = "哲学 · 物理 · 心理学 | 量化交易与心智探索"
   keywords = ["哲学", "物理", "心理学", "量化交易", "交易心理", "AI", "心智科学"]
@@ -25,6 +28,7 @@ theme = 'PaperMod'
   ShowCodeCopyButtons = true
   
   # 首页设置
+  disableSpecial1stPost = true  # 禁用特殊的首页第一篇文章样式
   [params.homeInfoParams]
     Title = "欢迎来到 3P 实验室"
     Content = "这里是东周的个人博客，专注于哲学(Philosophy)、物理(Physics)、心理学(Psychology)的交叉探索。\n\n- 🧠 **交易心理**：行为金融与量化决策\n- ⚛️ **物理思维**：复杂系统与市场规律  \n- 🤔 **哲学追问**：存在、意义与价值\n\n用科学的眼光看世界，用哲学的心智思考人生。"
@@ -42,6 +46,9 @@ theme = 'PaperMod'
   
   # 分析统计（可选）
   # googleAnalytics = "G-XXXXXXXXXX"
+  
+  # 主要文章部分
+  mainSections = ["posts"]
 
 [menu]
   [[menu.main]]
@@ -78,4 +85,4 @@ theme = 'PaperMod'
     
 # 分页设置
 [pagination]
-  pagerSize = 10
+  pagerSize = 3  # 首页每页显示3篇文章
