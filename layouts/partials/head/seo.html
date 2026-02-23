@@ -1,0 +1,123 @@
+{{- /* Enhanced SEO and Structured Data */ -}}
+{{- $title := .Title -}}
+{{- $description := .Description | default .Site.Params.description -}}
+{{- $url := .Permalink -}}
+{{- $image := .Params.image | default .Site.Params.image | default "/images/og-image.jpg" -}}
+{{- $image = $image | absURL -}}
+{{- $siteName := .Site.Title -}}
+{{- $author := .Params.author | default .Site.Params.author -}}
+{{- $datePublished := .Date.Format "2006-01-02T15:04:05Z07:00" -}}
+{{- $dateModified := .Lastmod.Format "2006-01-02T15:04:05Z07:00" -}}
+{{- $keywords := .Params.tags | default .Site.Params.keywords -}}
+
+{{- /* Basic Meta Tags */ -}}
+<title>{{ if .IsHome }}{{ $siteName }}{{ else }}{{ $title }} | {{ $siteName }}{{ end }}</title>
+<meta name="description" content="{{ $description }}">
+<meta name="keywords" content="{{ delimit $keywords ", " }}">
+<meta name="author" content="{{ $author }}">
+
+{{- /* Open Graph */ -}}
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:url" content="{{ $url }}">
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta property="og:site_name" content="{{ $siteName }}">
+<meta property="og:image" content="{{ $image }}">
+<meta property="og:locale" content="zh_CN">
+
+{{- /* Twitter Card */ -}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $description }}">
+<meta name="twitter:image" content="{{ $image }}">
+
+{{- /* Structured Data - Organization */ -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://dondrub3.com/#organization",
+      "name": "{{ $siteName }}",
+      "url": "https://dondrub3.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://dondrub3.com/images/logo.png"
+      },
+      "description": "{{ $description }}",
+      "sameAs": [
+        "https://github.com/dondrub3"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://dondrub3.com/#website",
+      "url": "https://dondrub3.com/",
+      "name": "{{ $siteName }}",
+      "description": "{{ $description }}",
+      "publisher": {
+        "@id": "https://dondrub3.com/#organization"
+      },
+      "inLanguage": "zh-CN"
+    }
+    {{- if not .IsHome -}}
+    ,{
+      "@type": "BlogPosting",
+      "@id": "{{ $url }}#blogposting",
+      "headline": "{{ $title }}",
+      "description": "{{ $description }}",
+      "url": "{{ $url }}",
+      "datePublished": "{{ $datePublished }}",
+      "dateModified": "{{ $dateModified }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ $author }}",
+        "url": "https://dondrub3.com/about/"
+      },
+      "publisher": {
+        "@id": "https://dondrub3.com/#organization"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ $url }}"
+      },
+      "inLanguage": "zh-CN",
+      "keywords": "{{ delimit $keywords ", " }}",
+      "articleSection": "{{ index .Params.categories 0 | default "心理学" }}",
+      "wordCount": "{{ .WordCount }}"
+    }
+    {{- end -}}
+  ]
+}
+</script>
+
+{{- /* Breadcrumb Structured Data */ -}}
+{{- if not .IsHome -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "首页",
+      "item": "https://dondrub3.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "文章",
+      "item": "https://dondrub3.com/posts/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ $title }}",
+      "item": "{{ $url }}"
+    }
+  ]
+}
+</script>
+{{- end -}}

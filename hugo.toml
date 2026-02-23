@@ -7,6 +7,13 @@ theme = 'PaperMod'
   description = "哲学 · 物理 · 心理学 | 量化交易与心智探索"
   keywords = ["哲学", "物理", "心理学", "量化交易", "交易心理", "AI", "心智科学"]
   author = "东周"
+  image = "/images/og-image.jpg"
+  
+  # SEO优化
+  [params.seo]
+    twitter = "@dondrub3"
+    opengraph = true
+    schema = true
   
   # 主题设置
   defaultTheme = "auto"
