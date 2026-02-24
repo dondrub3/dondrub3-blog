@@ -80,6 +80,9 @@ buildFuture = true  # 构建未来日期的文章
   home = ["HTML", "RSS", "JSON"]
   
 [markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      goat = false  # 禁用 Goat ascii 图表渲染，避免代码块被转为 SVG
   [markup.highlight]
     style = "github"
     
