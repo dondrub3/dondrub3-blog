@@ -1,6 +1,6 @@
 ---
 title: "当AI产品设计遇上用户心理：智谱GLM Coding Plan事件的心理学解读"
-date: 2024-02-21T23:30:00+08:00
+date: 2026-02-21T23:30:00+08:00
 draft: false
 
 # SEO优化元数据
