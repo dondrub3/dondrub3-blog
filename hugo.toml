@@ -51,29 +51,43 @@ buildFuture = true  # 构建未来日期的文章
   mainSections = ["posts"]
 
 [menu]
+  # 核心3P分类 - 直接展示在导航栏
   [[menu.main]]
-    identifier = "posts"
-    name = "文章"
-    url = "/posts/"
+    identifier = "trading-3p"
+    name = "交易3P"
+    url = "/categories/交易3P分析/"
     weight = 1
     
   [[menu.main]]
-    identifier = "categories"
-    name = "分类"
-    url = "/categories/"
+    identifier = "decision-3p"
+    name = "决策3P"
+    url = "/categories/决策3P分析/"
     weight = 2
     
   [[menu.main]]
-    identifier = "tags"
-    name = "标签"
-    url = "/tags/"
+    identifier = "philosophy"
+    name = "哲学"
+    url = "/categories/哲学/"
     weight = 3
+    
+  # 其他导航
+  [[menu.main]]
+    identifier = "posts"
+    name = "全部文章"
+    url = "/posts/"
+    weight = 4
+    
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签云"
+    url = "/tags/"
+    weight = 5
     
   [[menu.main]]
     identifier = "about"
     name = "关于"
     url = "/about/"
-    weight = 4
+    weight = 6
 
 # 输出格式
 [outputs]
