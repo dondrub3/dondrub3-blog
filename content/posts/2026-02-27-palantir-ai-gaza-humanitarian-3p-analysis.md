@@ -5,6 +5,9 @@ draft: false
 categories: ["量化交易", "技术伦理", "地缘政治"]
 tags: ["AI伦理", "Palantir", "人道主义援助", "技术双重用途", "市场风险", "交易心理学"]
 description: "深度分析Palantir AI在加沙人道主义援助中的应用，从Philosophy、Physics、Psychology三个维度探讨技术伦理边界、市场风险定价与交易决策框架。"
+keywords: ["Palantir", "AI伦理", "人道主义援助", "技术双重用途", "市场风险", "交易决策", "地缘政治", "3P分析"]
+author: "东周"
+image: "/images/posts/palantir-ai-gaza-analysis.jpg"
 ---
 
 ## 热点背景介绍

@@ -4,6 +4,10 @@ date: 2026-03-01T08:00:00+08:00
 draft: false
 tags: ["哲学", "时间哲学", "存在主义", "物理学", "心理学", "3P分析"]
 categories: ["哲学"]
+description: "时间是每个人最熟悉又最陌生的概念。本文从Philosophy、Physics、Psychology三个维度，深度探索时间的本质：从哲学的形而上学追问，到物理学的时空结构，再到心理学的时间感知，为读者提供完整的时间认知框架和存在意义思考。"
+keywords: ["时间哲学", "存在主义", "物理学时间", "心理学时间", "3P框架", "形而上学", "时间感知", "存在意义"]
+author: "东周"
+image: "/images/posts/time-philosophy-analysis.jpg"
 ---
 
 ## 引言：时间的谜题

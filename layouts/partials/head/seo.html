@@ -15,6 +15,9 @@
 <meta name="description" content="{{ $description }}">
 <meta name="keywords" content="{{ delimit $keywords ", " }}">
 <meta name="author" content="{{ $author }}">
+<link rel="alternate" hreflang="zh" href="{{ $url }}">
+<link rel="alternate" hreflang="zh-CN" href="{{ $url }}">
+<link rel="alternate" hreflang="x-default" href="{{ $url }}">
 
 {{- /* Open Graph */ -}}
 <meta property="og:title" content="{{ $title }}">

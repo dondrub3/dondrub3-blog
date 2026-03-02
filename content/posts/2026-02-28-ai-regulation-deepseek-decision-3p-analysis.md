@@ -4,6 +4,10 @@ date: 2026-02-28T16:00:00+08:00
 draft: false
 tags: ["决策3P", "AI监管", "DeepSeek", "科技伦理", "企业战略"]
 categories: ["决策3P"]
+description: "DeepSeek事件引发全球AI监管风暴，科技公司面临创新与合规的两难选择。本文从Philosophy、Physics、Psychology三个维度，深度分析企业在监管不确定性中的决策逻辑、系统约束和心理陷阱，为科技公司提供完整的战略决策框架。"
+keywords: ["AI监管", "DeepSeek", "决策3P", "科技伦理", "企业战略", "风险管理", "技术创新", "合规决策"]
+author: "东周"
+image: "/images/posts/deepseek-regulation-analysis.jpg"
 ---
 
 ## 热点背景

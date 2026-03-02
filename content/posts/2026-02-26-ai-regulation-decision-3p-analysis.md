@@ -5,6 +5,9 @@ draft: false
 categories: ["决策分析", "心理学", "商业策略"]
 tags: ["AI监管", "决策框架", "3P分析", "科技政策", "风险管理"]
 description: "当全球AI监管政策全面收紧，科技巨头面临前所未有的决策困境。本文从Philosophy、Physics、Psychology三个维度，深度分析企业在监管压力下的决策逻辑、系统约束和心理陷阱，为复杂环境下的高质量决策提供完整框架。"
+keywords: ["AI监管", "决策心理学", "科技政策", "风险管理", "企业战略", "3P框架", "技术伦理", "商业决策"]
+author: "东周"
+image: "/images/posts/ai-regulation-decision.jpg"
 ---
 
 # AI监管收紧：科技巨头的决策困境与3P框架分析
