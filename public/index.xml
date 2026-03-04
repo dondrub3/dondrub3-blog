@@ -1,4 +1,84 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Dondrub3 | 3P实验室</title><link>https://dondrub3.com/</link><description>Recent content on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh-cn</language><lastBuildDate>Tue, 03 Mar 2026 16:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/index.xml" rel="self" type="application/rss+xml"/><item><title>市场不确定性的3P交易框架：在混沌中寻找秩序</title><link>https://dondrub3.com/posts/2026-03-03-market-uncertainty-trading-3p-analysis/</link><pubDate>Tue, 03 Mar 2026 16:00:00 +0800</pubDate><guid>https://dondrub3.com/posts/2026-03-03-market-uncertainty-trading-3p-analysis/</guid><description>&lt;h2 id="市场背景不确定性成为新常态">市场背景：不确定性成为新常态&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Dondrub3 | 3P实验室</title><link>https://dondrub3.com/</link><description>Recent content on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh-cn</language><lastBuildDate>Wed, 04 Mar 2026 16:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/index.xml" rel="self" type="application/rss+xml"/><item><title>量化交易监管新规的3P分析：算法责任、市场效率与心理博弈</title><link>https://dondrub3.com/posts/2026-03-04-quant-trading-regulation-3p-analysis/</link><pubDate>Wed, 04 Mar 2026 16:00:00 +0800</pubDate><guid>https://dondrub3.com/posts/2026-03-04-quant-trading-regulation-3p-analysis/</guid><description>&lt;h2 id="监管背景算法时代的金融治理挑战">监管背景：算法时代的金融治理挑战&lt;/h2>
+&lt;p>2026年初，全球主要金融市场相继出台针对量化交易的新监管框架。从美国的SEC算法备案制度到中国的&amp;quot;穿透式监管&amp;quot;要求，监管机构正试图在技术创新与市场稳定之间寻找平衡点。&lt;/p>
+&lt;p>量化交易已占全球股票交易量的70%以上，算法驱动的闪崩、流动性枯竭、市场操纵等事件频发，让&amp;quot;黑箱算法&amp;quot;成为监管焦点。本文从3P视角（Philosophy/Physics/Psychology）深度分析量化交易监管新规，探讨算法时代的金融治理之道。&lt;/p>
+&lt;hr>
+&lt;h2 id="philosophy哲学视角算法责任的伦理边界">Philosophy（哲学视角）：算法责任的伦理边界&lt;/h2>
+&lt;h3 id="核心命题代码执行交易时的责任归属哲学">核心命题：代码执行交易时的责任归属哲学&lt;/h3>
+&lt;p>&lt;strong>算法作为道德主体的哲学困境&lt;/strong>&lt;/p>
+&lt;p>当一行代码在毫秒内完成百万美元的交易决策，谁该为这个决策负责？是编写代码的程序员，是设计策略的量化研究员，是批准使用的风控总监，还是算法本身？&lt;/p>
+&lt;p>传统责任理论建立在&amp;quot;人类主体性&amp;quot;基础上，但算法模糊了这个边界：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>康德&lt;/strong>：道德行为需要理性主体的自由意志&lt;/li>
+&lt;li>&lt;strong>算法&lt;/strong>：基于统计模式的无意识执行，没有&amp;quot;意志&amp;quot;可言&lt;/li>
+&lt;li>&lt;strong>监管困境&lt;/strong>：如何为没有自由意志的实体分配责任？&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>透明化与隐私的伦理平衡&lt;/strong>&lt;/p>
+&lt;p>新规要求算法备案和透明度提升，这引发了一个根本的伦理问题：多少透明度是&amp;quot;足够&amp;quot;的？&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>功利主义视角&lt;/strong>：最大化市场整体利益，需要足够的透明度防止系统性风险&lt;/li>
+&lt;li>&lt;strong>权利主义视角&lt;/strong>：算法作为商业机密，企业有保护知识产权的权利&lt;/li>
+&lt;li>&lt;strong>美德伦理学视角&lt;/strong>：透明化应该促进信任和公平，而非惩罚创新&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>监管的正当性哲学基础&lt;/strong>&lt;/p>
+&lt;p>监管机构干预市场的正当性建立在两个哲学基础上：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>保护弱者原则&lt;/strong>：防止信息和技术不对称导致的剥削&lt;/li>
+&lt;li>&lt;strong>系统稳定原则&lt;/strong>：维护市场作为公共产品的整体健康&lt;/li>
+&lt;/ol>
+&lt;p>但这两个原则之间存在张力：过度保护可能扼杀创新，过度自由可能导致崩溃。新规试图在这条钢丝上行走。&lt;/p>
+&lt;p>&lt;strong>实用哲学启示&lt;/strong>&lt;/p>
+&lt;p>量化团队应该建立的三个伦理框架：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>算法伦理审查&lt;/strong>：每套策略上线前进行伦理影响评估&lt;/li>
+&lt;li>&lt;strong>责任分配机制&lt;/strong>：明确从代码到决策链的责任归属&lt;/li>
+&lt;li>&lt;strong>透明度分级&lt;/strong>：区分必须公开的核心逻辑和可保护的商业机密&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h2 id="physics物理规律视角监管政策的市场动力学">Physics（物理/规律视角）：监管政策的市场动力学&lt;/h2>
+&lt;h3 id="核心命题监管如何改变市场微观结构">核心命题：监管如何改变市场微观结构&lt;/h3>
+&lt;p>&lt;strong>监管政策的信息传递效率分析&lt;/strong>&lt;/p>
+&lt;p>新规要求算法备案，这本质上是一个信息传递过程：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>信息源&lt;/strong>：量化团队的策略逻辑&lt;/li>
+&lt;li>&lt;strong>信道&lt;/strong>：备案系统、监管数据库&lt;/li>
+&lt;li>&lt;strong>接收者&lt;/strong>：监管机构、市场参与者（部分透明时）&lt;/li>
+&lt;/ul>
+&lt;p>根据香农信息论，这个系统的效率取决于：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>编码效率&lt;/strong>：备案格式能否准确表达策略本质&lt;/li>
+&lt;li>&lt;strong>信道容量&lt;/strong>：监管系统处理信息的能力&lt;/li>
+&lt;li>&lt;strong>解码准确性&lt;/strong>：监管机构理解复杂算法的能力&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>市场微观结构的数学演化&lt;/strong>&lt;/p>
+&lt;p>监管政策会改变市场的&amp;quot;物理定律&amp;quot;：&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>流动性分布函数变化&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>高频策略受限 → 做市商减少 → 买卖价差扩大&lt;/li>
+&lt;li>算法备案成本 → 小型量化团队退出 → 市场集中度提高&lt;/li>
+&lt;li>公式：$$L(t) = L_0 \cdot e^{-\alpha \cdot R(t)}$$
+其中 $L(t)$ 是t时刻流动性，$R(t)$ 是监管强度&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>价格发现效率的博弈论模型&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>透明化要求改变了信息不对称结构&lt;/li>
+&lt;li>算法间的博弈从&amp;quot;完全信息博弈&amp;quot;转向&amp;quot;不完全信息博弈&amp;quot;&lt;/li>
+&lt;li>纳什均衡点发生偏移，市场效率可能先降后升&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>系统性风险的网络模型&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>量化策略间的相关性形成复杂网络&lt;/li>
+&lt;li>监管通过降低网络连接度来减少传染风险&lt;/li>
+&lt;li>但过度降低可能导致&amp;quot;流动性黑洞&amp;quot;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>监管套利消失后的新均衡&lt;/strong>&lt;/p></description></item><item><title>市场不确定性的3P交易框架：在混沌中寻找秩序</title><link>https://dondrub3.com/posts/2026-03-03-market-uncertainty-trading-3p-analysis/</link><pubDate>Tue, 03 Mar 2026 16:00:00 +0800</pubDate><guid>https://dondrub3.com/posts/2026-03-03-market-uncertainty-trading-3p-analysis/</guid><description>&lt;h2 id="市场背景不确定性成为新常态">市场背景：不确定性成为新常态&lt;/h2>
 &lt;p>2025年初，全球市场经历了前所未有的波动。特朗普关税政策的反复、AI技术的快速迭代、地缘政治的持续紧张，让&amp;quot;不确定性&amp;quot;成为交易者最频繁使用的词汇。传统技术分析和基本面分析在这种环境下频频失效，交易者迫切需要新的认知框架。&lt;/p>
 &lt;p>本文从3P视角（Philosophy/Physics/Psychology）构建一套应对市场不确定性的交易系统，帮助交易者在混沌中找到秩序，在混乱中保持清醒。&lt;/p>
 &lt;hr>
