@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>认知偏差 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/tags/%E8%AE%A4%E7%9F%A5%E5%81%8F%E5%B7%AE/</link><description>Recent content in 认知偏差 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh-cn</language><lastBuildDate>Sun, 22 Feb 2026 16:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/tags/%E8%AE%A4%E7%9F%A5%E5%81%8F%E5%B7%AE/index.xml" rel="self" type="application/rss+xml"/><item><title>当法律遇上心理惯性：从美国最高法院关税裁决看决策心理</title><link>https://dondrub3.com/posts/2026-02-22-tariff-psychology/</link><pubDate>Sun, 22 Feb 2026 16:00:00 +0800</pubDate><guid>https://dondrub3.com/posts/2026-02-22-tariff-psychology/</guid><description>美国最高法院裁定IEEPA路径加征关税违宪，但政策调整面临巨大心理阻力。本文从心理学角度分析决策惯性、损失厌恶和群体极化如何影响国际政策调整。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>认知偏差 on Dondrub3 | 3P实验室</title>
+    <link>https://dondrub3.com/tags/%E8%AE%A4%E7%9F%A5%E5%81%8F%E5%B7%AE/</link>
+    <description>Recent content in 认知偏差 on Dondrub3 | 3P实验室</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 22 Feb 2026 16:00:00 +0800</lastBuildDate>
+    <atom:link href="https://dondrub3.com/tags/%E8%AE%A4%E7%9F%A5%E5%81%8F%E5%B7%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>当法律遇上心理惯性：从美国最高法院关税裁决看决策心理</title>
+      <link>https://dondrub3.com/posts/2026-02-22-tariff-psychology/</link>
+      <pubDate>Sun, 22 Feb 2026 16:00:00 +0800</pubDate>
+      <guid>https://dondrub3.com/posts/2026-02-22-tariff-psychology/</guid>
+      <description>美国最高法院裁定IEEPA路径加征关税违宪，但政策调整面临巨大心理阻力。本文从心理学角度分析决策惯性、损失厌恶和群体极化如何影响国际政策调整。</description>
+    </item>
+  </channel>
+</rss>
