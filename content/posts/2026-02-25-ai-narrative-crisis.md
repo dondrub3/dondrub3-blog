@@ -3,11 +3,7 @@ title: "AI股的\"信仰危机\"：当叙事遭遇验证"
 date: 2026-02-25T16:00:00+08:00
 draft: false
 tags: ["AI", "交易心理", "市场分析", "3P框架"]
-categories: ["交易3P分析", "市场深度"]
-description: "AI板块从狂热期进入验证期，市场面临叙事与基本面的冲突。本文从Physics、Psychology、Philosophy三个维度，深度分析AI股估值逻辑的变化、市场心理的转折和投资哲学的演进，为投资者提供完整的决策框架。"
-keywords: ["AI投资", "交易心理学", "市场叙事", "估值逻辑", "技术周期", "行为金融学", "投资哲学", "3P框架"]
-author: "东周"
-image: "/images/posts/ai-narrative-crisis.jpg"
+categories: ["交易心理学"]
 ---
 
 ## 引子：一份报告引发的万亿震荡
