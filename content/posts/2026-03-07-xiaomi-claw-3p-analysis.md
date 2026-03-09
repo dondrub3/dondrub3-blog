@@ -1,3 +1,12 @@
+---
+title: "当AI Agent来到手机端：从Xiaomi Claw看技术、心理与哲学的三重变革"
+date: 2026-03-07T16:00:00+08:00
+draft: false
+tags: ["AI", "Xiaomi Claw", "端侧AI", "3P分析", "技术趋势", "投资分析"]
+categories: ["决策3P分析"]
+summary: "从小米Xiaomi Claw手机端AI Agent的发布，深入分析技术演进、心理变革与哲学思考的三重维度。"
+---
+
 # 当AI Agent来到手机端：从Xiaomi Claw看技术、心理与哲学的三重变革
 
 > 小米低调投下"深水炸弹"，移动端AI Agent成为新战场。这不仅是技术的迭代，更是一场关于人类与机器关系的深层思考。
