@@ -1,1 +1,114 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>认知偏差 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/tags/%E8%AE%A4%E7%9F%A5%E5%81%8F%E5%B7%AE/</link><description>Recent content in 认知偏差 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh-cn</language><lastBuildDate>Sun, 22 Feb 2026 16:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/tags/%E8%AE%A4%E7%9F%A5%E5%81%8F%E5%B7%AE/index.xml" rel="self" type="application/rss+xml"/><item><title>当法律遇上心理惯性：从美国最高法院关税裁决看决策心理</title><link>https://dondrub3.com/posts/2026-02-22-tariff-psychology/</link><pubDate>Sun, 22 Feb 2026 16:00:00 +0800</pubDate><guid>https://dondrub3.com/posts/2026-02-22-tariff-psychology/</guid><description>美国最高法院裁定IEEPA路径加征关税违宪，但政策调整面临巨大心理阻力。本文从心理学角度分析决策惯性、损失厌恶和群体极化如何影响国际政策调整。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>认知偏差 on Dondrub3 | 3P实验室</title>
+    <link>http://localhost:1314/tags/%E8%AE%A4%E7%9F%A5%E5%81%8F%E5%B7%AE/</link>
+    <description>Recent content in 认知偏差 on Dondrub3 | 3P实验室</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1314/tags/%E8%AE%A4%E7%9F%A5%E5%81%8F%E5%B7%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新闻说油价 surge，市场却没反应——地缘叙事的认知陷阱</title>
+      <link>http://localhost:1314/posts/2026-03-12-oil-narrative-trap/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/posts/2026-03-12-oil-narrative-trap/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;当中东局势再次成为头条，新闻标题高喊&amp;quot;油价飙升&amp;quot;，但市场走势却未必如叙事那般线性。今天我们从认知偏差的角度，拆解地缘冲突与价格反应之间的微妙关系。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-physics-供应冲击的物理法则&#34;&gt;🔬 Physics: 供应冲击的物理法则&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;霍尔木兹海峡的数学意义&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中东地区占全球石油产量的约30%，霍尔木兹海峡承担着全球约20%的石油运输量。当&amp;quot;真实承诺4&amp;quot;行动持续进行，伊朗对伊拉克北部美军基地和以色列目标发动导弹袭击时，&lt;strong&gt;供应中断风险&lt;/strong&gt;确实在上升。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但物理法则告诉我们：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;风险溢价 ≠ 实际价格变动&lt;/li&gt;
+&lt;li&gt;预期中的供应冲击 ≠ 真实的供应短缺&lt;/li&gt;
+&lt;li&gt;新闻标题的&amp;quot;surge&amp;quot; ≠ 市场价格的&amp;quot;surge&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;数据验证：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;韩国3月1-10日出口同比增长55.6%，显示亚洲制造业需求依然强劲&lt;/li&gt;
+&lt;li&gt;美国优先炼油公司与印度信实达成3000亿美元得州炼油厂项目，反映能源基础设施长期布局&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Physics的冷酷在于：&lt;/strong&gt; 无论新闻如何渲染，真实的供需平衡需要数据验证，而非标题确认。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-psychology-叙事与现实的认知鸿沟&#34;&gt;🧠 Psychology: 叙事与现实的认知鸿沟&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;为什么我们容易被&amp;quot;油价飙升&amp;quot;的标题误导？&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;可得性启发（Availability Heuristic）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;中东冲突 = 油价上涨的刻板印象&lt;/li&gt;
+&lt;li&gt;新闻重复播报 = 大脑放大事件重要性&lt;/li&gt;
+&lt;li&gt;结果：我们高估了油价实际上涨的概率&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;确认偏差（Confirmation Bias）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;持有能源股的投资者：&amp;ldquo;看，我说油价会涨！&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;空仓的投资者：选择性忽视，或寻找相反证据&lt;/li&gt;
+&lt;li&gt;结果：同一事件，不同解读，都认为自己是对的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;叙事谬误（Narrative Fallacy）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;中东打仗 → 油价上涨&amp;quot;是一个简单的因果故事&lt;/li&gt;
+&lt;li&gt;但真实市场：地缘政治只是众多变量之一&lt;/li&gt;
+&lt;li&gt;结果：我们偏爱简单的故事，而非复杂的真相&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Psychology的洞察：&lt;/strong&gt; 市场参与者的第一反应往往是对叙事的反应，而非对事实的反应。精明的交易者需要分辨：这是真正的供需变化，还是集体心理的共振？&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-philosophy-不确定性的本质思考&#34;&gt;🏛️ Philosophy: 不确定性的本质思考&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;当新闻与数据背离，我们该信谁？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中东局势的反复震荡，本质上反映的是信息时代的认知困境：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;信息过载：&lt;/strong&gt; 我们被海量新闻包围，但信号与噪音的比例在下降&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;即时性陷阱：&lt;/strong&gt; 24小时新闻周期要求&amp;quot;现在就有故事&amp;rdquo;，但真相需要时间沉淀&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;叙事工业化：&lt;/strong&gt; 媒体需要点击率，夸张标题是理性选择，但未必是事实选择&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Philosophy的追问：&lt;/strong&gt; 在这个信息爆炸的时代，&amp;ldquo;知道得更多&amp;quot;是否等于&amp;quot;知道得更准确&amp;rdquo;？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;更深层的思考：&lt;/strong&gt; 当国家级并购基金、AI算力竞赛、能源转型这些宏大叙事同时展开，单一的地缘冲突可能只是多极世界重构过程中的一个注脚。交易者需要在这种大背景下定位每一次&amp;quot;危机&amp;quot;的真实权重。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-交易机会与风险&#34;&gt;💡 交易机会与风险&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;基于认知偏差分析的可操作策略：&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;方向&lt;/th&gt;
+          &lt;th&gt;逻辑&lt;/th&gt;
+          &lt;th&gt;风险&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;观望&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;验证新闻与数据的背离程度&lt;/td&gt;
+          &lt;td&gt;错过真正的供应冲击行情&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;反叙事&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;如果市场未如新闻预期反应，可能存在反向机会&lt;/td&gt;
+          &lt;td&gt;与集体情绪对抗的心理压力&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;等待验证&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;等待实际油价数据确认趋势&lt;/td&gt;
+          &lt;td&gt;延迟入场，降低收益&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;关键验证清单：&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>当法律遇上心理惯性：从美国最高法院关税裁决看决策心理</title>
+      <link>http://localhost:1314/posts/2026-02-22-tariff-psychology/</link>
+      <pubDate>Sun, 22 Feb 2026 16:00:00 +0800</pubDate>
+      <guid>http://localhost:1314/posts/2026-02-22-tariff-psychology/</guid>
+      <description>美国最高法院裁定IEEPA路径加征关税违宪，但政策调整面临巨大心理阻力。本文从心理学角度分析决策惯性、损失厌恶和群体极化如何影响国际政策调整。</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>认知科学 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/tags/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6/</link><description>Recent content in 认知科学 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh-cn</language><lastBuildDate>Sun, 08 Mar 2026 14:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/tags/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6/index.xml" rel="self" type="application/rss+xml"/><item><title>片段式主体性与人机编织范式：当认知边界开始流动</title><link>https://dondrub3.com/posts/2026-03-08-fragmented-subjectivity/</link><pubDate>Sun, 08 Mar 2026 14:00:00 +0800</pubDate><guid>https://dondrub3.com/posts/2026-03-08-fragmented-subjectivity/</guid><description>探索人机协作时代的主体性重构：从完整自我到分布式认知，我们如何理解人与AI共同编织的认知网络？</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>认知科学 on Dondrub3 | 3P实验室</title>
+    <link>http://localhost:1314/tags/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6/</link>
+    <description>Recent content in 认知科学 on Dondrub3 | 3P实验室</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 08 Mar 2026 14:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1314/tags/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>片段式主体性与人机编织范式：当认知边界开始流动</title>
+      <link>http://localhost:1314/posts/2026-03-08-fragmented-subjectivity/</link>
+      <pubDate>Sun, 08 Mar 2026 14:00:00 +0800</pubDate>
+      <guid>http://localhost:1314/posts/2026-03-08-fragmented-subjectivity/</guid>
+      <description>探索人机协作时代的主体性重构：从完整自我到分布式认知，我们如何理解人与AI共同编织的认知网络？</description>
+    </item>
+  </channel>
+</rss>

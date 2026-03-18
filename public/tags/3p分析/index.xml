@@ -1,1 +1,134 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>3P分析 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/tags/3p%E5%88%86%E6%9E%90/</link><description>Recent content in 3P分析 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh-cn</language><lastBuildDate>Mon, 09 Mar 2026 14:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/tags/3p%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml"/><item><title>当油价冲破100美元：一场关于能源、权力与人性的3P思考</title><link>https://dondrub3.com/posts/2026-03-09-oil-100-3p-analysis/</link><pubDate>Mon, 09 Mar 2026 14:00:00 +0800</pubDate><guid>https://dondrub3.com/posts/2026-03-09-oil-100-3p-analysis/</guid><description>从Physics、Psychology、Philosophy三个维度深度解析油价突破100美元背后的能源博弈、市场心理和哲学反思。</description></item><item><title>美伊冲突的3P透视：当导弹遇上地缘政治的底层代码</title><link>https://dondrub3.com/posts/2026-03-08-iran-conflict-3p-analysis/</link><pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate><guid>https://dondrub3.com/posts/2026-03-08-iran-conflict-3p-analysis/</guid><description>从Physics/Philosophy/Psychology三个维度深度解析美伊冲突的本质</description></item><item><title>当AI Agent来到手机端：从Xiaomi Claw看技术、心理与哲学的三重变革</title><link>https://dondrub3.com/posts/2026-03-07-xiaomi-claw-3p-analysis/</link><pubDate>Sat, 07 Mar 2026 16:00:00 +0800</pubDate><guid>https://dondrub3.com/posts/2026-03-07-xiaomi-claw-3p-analysis/</guid><description>从小米Xiaomi Claw手机端AI Agent的发布，深入分析技术演进、心理变革与哲学思考的三重维度。</description></item><item><title>地缘政治风险的3P交易框架：从霍尔木兹海峡紧张局势看投资机遇与风险</title><link>https://dondrub3.com/posts/2026-03-04-hormuz-strait-geopolitical-risk-3p-analysis/</link><pubDate>Wed, 04 Mar 2026 16:00:00 +0800</pubDate><guid>https://dondrub3.com/posts/2026-03-04-hormuz-strait-geopolitical-risk-3p-analysis/</guid><description>本文从哲学、物理、心理学三个维度，深度分析霍尔木兹海峡地缘政治紧张局势对全球市场的冲击，构建一套完整的3P交易框架，帮助投资者在风险中识别机遇，在不确定性中保持清醒。</description></item><item><title>时间的哲学：从存在到意义——3P框架下的时间本质探索</title><link>https://dondrub3.com/posts/2026-03-01-time-philosophy-3p-analysis/</link><pubDate>Sun, 01 Mar 2026 08:00:00 +0800</pubDate><guid>https://dondrub3.com/posts/2026-03-01-time-philosophy-3p-analysis/</guid><description>时间是每个人最熟悉又最陌生的概念。本文从Philosophy、Physics、Psychology三个维度，深度探索时间的本质：从哲学的形而上学追问，到物理学的时空结构，再到心理学的时间感知，为读者提供完整的时间认知框架和存在意义思考。</description></item><item><title>AI监管收紧：科技巨头的决策困境与3P框架分析</title><link>https://dondrub3.com/posts/2026-02-26-ai-regulation-decision-3p-analysis/</link><pubDate>Thu, 26 Feb 2026 16:00:00 +0800</pubDate><guid>https://dondrub3.com/posts/2026-02-26-ai-regulation-decision-3p-analysis/</guid><description>当全球AI监管政策全面收紧，科技巨头面临前所未有的决策困境。本文从Philosophy、Physics、Psychology三个维度，深度分析企业在监管压力下的决策逻辑、系统约束和心理陷阱，为复杂环境下的高质量决策提供完整框架。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>3P分析 on Dondrub3 | 3P实验室</title>
+    <link>http://localhost:1314/tags/3p%E5%88%86%E6%9E%90/</link>
+    <description>Recent content in 3P分析 on Dondrub3 | 3P实验室</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1314/tags/3p%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI医疗的双重困境：当微软的AI读取病历，字节跳动却在抢英伟达芯片</title>
+      <link>http://localhost:1314/posts/2026-03-14-ai-medical-ethics/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/posts/2026-03-14-ai-medical-ethics/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;微软推出能读病历的AI，字节跳动拿到英伟达顶级芯片。两条新闻同一天出现，巧合还是必然？&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;导语两个平行世界&#34;&gt;导语：两个平行世界&lt;/h2&gt;
+&lt;p&gt;2024年3月，两个看似无关的事件同时冲击着科技圈：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;事件A&lt;/strong&gt;：微软宣布其AI医疗工具可读取患者病历并提供诊断建议，已在部分医院试点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;事件B&lt;/strong&gt;：《华尔街日报》披露，字节跳动通过新加坡子公司，绕过美国出口管制获得英伟达H20芯片——专为中国市场设计的&amp;quot;阉割版&amp;quot;顶级AI芯片。&lt;/p&gt;
+&lt;p&gt;一个关乎生命健康，一个关乎算力霸权。它们之间有什么联系？&lt;/p&gt;
+&lt;p&gt;答案藏在3P框架里：技术的可能性（Physics）、人类的接受度（Psychology）、以及谁有权使用（Philosophy）。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-physics-算力即权力&#34;&gt;🔬 Physics: 算力即权力&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;医疗AI的物理现实&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;微软的AI医疗工具看似是软件创新，实则是算力堆砌的结果：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;模型规模&lt;/strong&gt;：GPT-4级别的医疗模型需要数千张H100 GPU训练&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;推理成本&lt;/strong&gt;：单次诊断查询的算力成本约$0.50-2.00&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据吞吐&lt;/strong&gt;：一家三甲医院日均10万次查询，年算力成本超千万美元&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;英伟达的隐形征税&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这就是事件B的关键——没有英伟达芯片，就没有事件A的AI医疗。&lt;/p&gt;
+&lt;p&gt;具体数据：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;H100芯片单价约$30,000-40,000&lt;/li&gt;
+&lt;li&gt;训练一个医疗大模型需要2,000-5,000张H100&lt;/li&gt;
+&lt;li&gt;全球90%的AI训练负载运行在英伟达GPU上&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;供应链的地缘政治&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;台积电生产 → 英伟达设计 → 美国出口管制 → 中国公司绕道获取&lt;/p&gt;
+&lt;p&gt;这个链条的每一环都是物理约束：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;台积电的3nm工艺无法被快速复制&lt;/li&gt;
+&lt;li&gt;英伟达的CUDA生态形成锁定效应&lt;/li&gt;
+&lt;li&gt;出口管制创造黑市溢价（H20比H100贵30-50%）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Physics的冷酷：技术民主化的前提是算力民主化，而算力民主化在短期内不可能。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-psychology-信任的游戏&#34;&gt;🧠 Psychology: 信任的游戏&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;患者的算法厌恶&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2023年MIT一项实验显示：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;当AI和人类医生犯同样错误时，患者对AI的信任度下降40%&lt;/li&gt;
+&lt;li&gt;但当AI表现优于人类时，信任度仅提升15%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这就是&lt;strong&gt;算法厌恶&lt;/strong&gt;——人们对机器错误更苛刻。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;医生的防御性医疗&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;更有趣的是医生的心理：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;85%的医生表示愿意使用AI辅助诊断&lt;/li&gt;
+&lt;li&gt;但只有23%愿意让AI做最终决策&lt;/li&gt;
+&lt;li&gt;原因是&amp;quot;责任归属模糊&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这种心理导致&lt;strong&gt;防御性使用&lt;/strong&gt;：AI建议仅供参考，医生仍需独立判断——实际上增加了工作负担。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;企业的FOMO竞赛&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;微软推出医疗AI的时机值得玩味：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google Health 2021年失败后沉寂&lt;/li&gt;
+&lt;li&gt;亚马逊2022年关闭Amazon Care&lt;/li&gt;
+&lt;li&gt;苹果HealthKit不温不火&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;微软为何此时入场？因为&lt;strong&gt;不入场就是输&lt;/strong&gt;。这是典型的FOMO（Fear Of Missing Out）驱动。&lt;/p&gt;
+&lt;p&gt;字节跳动抢芯片也是同理——没有算力，连参赛资格都没有。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Psychology的洞察：技术竞争的本质是心理战，谁先让对方相信&amp;quot;这是未来&amp;quot;，谁就赢了。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-philosophy-谁的生命更重要&#34;&gt;🏛️ Philosophy: 谁的生命更重要？&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;诊断责任的真空&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>地缘政治冲击下的市场心理：从中东局势看油价飙升的3P解读</title>
+      <link>http://localhost:1314/posts/2026-03-11-middle-east-oil-3p-analysis/</link>
+      <pubDate>Wed, 11 Mar 2026 08:15:00 +0800</pubDate>
+      <guid>http://localhost:1314/posts/2026-03-11-middle-east-oil-3p-analysis/</guid>
+      <description>从Physics/Psychology/Philosophy三个维度，深度解读中东局势对油价及全球市场的影响</description>
+    </item>
+    <item>
+      <title>当油价冲破100美元：一场关于能源、权力与人性的3P思考</title>
+      <link>http://localhost:1314/posts/2026-03-09-oil-100-3p-analysis/</link>
+      <pubDate>Mon, 09 Mar 2026 14:00:00 +0800</pubDate>
+      <guid>http://localhost:1314/posts/2026-03-09-oil-100-3p-analysis/</guid>
+      <description>从Physics、Psychology、Philosophy三个维度深度解析油价突破100美元背后的能源博弈、市场心理和哲学反思。</description>
+    </item>
+    <item>
+      <title>美伊冲突的3P透视：当导弹遇上地缘政治的底层代码</title>
+      <link>http://localhost:1314/posts/2026-03-08-iran-conflict-3p-analysis/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/posts/2026-03-08-iran-conflict-3p-analysis/</guid>
+      <description>从Physics/Philosophy/Psychology三个维度深度解析美伊冲突的本质</description>
+    </item>
+    <item>
+      <title>当AI Agent来到手机端：从Xiaomi Claw看技术、心理与哲学的三重变革</title>
+      <link>http://localhost:1314/posts/2026-03-07-xiaomi-claw-3p-analysis/</link>
+      <pubDate>Sat, 07 Mar 2026 16:00:00 +0800</pubDate>
+      <guid>http://localhost:1314/posts/2026-03-07-xiaomi-claw-3p-analysis/</guid>
+      <description>从小米Xiaomi Claw手机端AI Agent的发布，深入分析技术演进、心理变革与哲学思考的三重维度。</description>
+    </item>
+    <item>
+      <title>地缘政治风险的3P交易框架：从霍尔木兹海峡紧张局势看投资机遇与风险</title>
+      <link>http://localhost:1314/posts/2026-03-04-hormuz-strait-geopolitical-risk-3p-analysis/</link>
+      <pubDate>Wed, 04 Mar 2026 16:00:00 +0800</pubDate>
+      <guid>http://localhost:1314/posts/2026-03-04-hormuz-strait-geopolitical-risk-3p-analysis/</guid>
+      <description>本文从哲学、物理、心理学三个维度，深度分析霍尔木兹海峡地缘政治紧张局势对全球市场的冲击，构建一套完整的3P交易框架，帮助投资者在风险中识别机遇，在不确定性中保持清醒。</description>
+    </item>
+    <item>
+      <title>时间的哲学：从存在到意义——3P框架下的时间本质探索</title>
+      <link>http://localhost:1314/posts/2026-03-01-time-philosophy-3p-analysis/</link>
+      <pubDate>Sun, 01 Mar 2026 08:00:00 +0800</pubDate>
+      <guid>http://localhost:1314/posts/2026-03-01-time-philosophy-3p-analysis/</guid>
+      <description>时间是每个人最熟悉又最陌生的概念。本文从Philosophy、Physics、Psychology三个维度，深度探索时间的本质：从哲学的形而上学追问，到物理学的时空结构，再到心理学的时间感知，为读者提供完整的时间认知框架和存在意义思考。</description>
+    </item>
+    <item>
+      <title>AI监管收紧：科技巨头的决策困境与3P框架分析</title>
+      <link>http://localhost:1314/posts/2026-02-26-ai-regulation-decision-3p-analysis/</link>
+      <pubDate>Thu, 26 Feb 2026 16:00:00 +0800</pubDate>
+      <guid>http://localhost:1314/posts/2026-02-26-ai-regulation-decision-3p-analysis/</guid>
+      <description>当全球AI监管政策全面收紧，科技巨头面临前所未有的决策困境。本文从Philosophy、Physics、Psychology三个维度，深度分析企业在监管压力下的决策逻辑、系统约束和心理陷阱，为复杂环境下的高质量决策提供完整框架。</description>
+    </item>
+  </channel>
+</rss>
