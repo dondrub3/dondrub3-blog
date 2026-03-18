@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>市场深度 on Dondrub3 | 3P实验室</title>
-    <link>http://localhost:1314/categories/%E5%B8%82%E5%9C%BA%E6%B7%B1%E5%BA%A6/</link>
+    <link>https://dondrub3.com/categories/%E5%B8%82%E5%9C%BA%E6%B7%B1%E5%BA%A6/</link>
     <description>Recent content in 市场深度 on Dondrub3 | 3P实验室</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 25 Feb 2026 16:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1314/categories/%E5%B8%82%E5%9C%BA%E6%B7%B1%E5%BA%A6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dondrub3.com/categories/%E5%B8%82%E5%9C%BA%E6%B7%B1%E5%BA%A6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>当黄金冲破5200美元：一场关于恐惧与贪婪的心理博弈</title>
-      <link>http://localhost:1314/posts/2026-02-25-gold-psychology-3p-analysis/</link>
+      <link>https://dondrub3.com/posts/2026-02-25-gold-psychology-3p-analysis/</link>
       <pubDate>Wed, 25 Feb 2026 16:00:00 +0800</pubDate>
-      <guid>http://localhost:1314/posts/2026-02-25-gold-psychology-3p-analysis/</guid>
+      <guid>https://dondrub3.com/posts/2026-02-25-gold-psychology-3p-analysis/</guid>
       <description>2025年2月25日，国际现货黄金突破5200美元/盎司。特朗普威胁伊朗、美联储鹰派表态，市场陷入不确定性。本文从心理学角度深度分析交易中的恐惧与贪婪，帮助交易者在情绪洪流中建立决策锚点。</description>
     </item>
     <item>
       <title>关税博弈中的交易智慧：从特朗普关税升级看交易3P框架</title>
-      <link>http://localhost:1314/posts/2026-02-23-trump-tariff-trading-3p-analysis/</link>
+      <link>https://dondrub3.com/posts/2026-02-23-trump-tariff-trading-3p-analysis/</link>
       <pubDate>Mon, 23 Feb 2026 16:00:00 +0800</pubDate>
-      <guid>http://localhost:1314/posts/2026-02-23-trump-tariff-trading-3p-analysis/</guid>
+      <guid>https://dondrub3.com/posts/2026-02-23-trump-tariff-trading-3p-analysis/</guid>
       <description>当特朗普宣布将全球商品关税提高至15%，市场再次陷入不确定性。本文从交易3P框架（哲学、物理学、心理学）深度分析关税政策的市场影响，为交易员提供完整的决策框架和实战策略。</description>
     </item>
   </channel>

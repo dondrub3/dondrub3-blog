@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>决策3P分析 on Dondrub3 | 3P实验室</title>
-    <link>http://localhost:1314/categories/%E5%86%B3%E7%AD%963p%E5%88%86%E6%9E%90/</link>
+    <link>https://dondrub3.com/categories/%E5%86%B3%E7%AD%963p%E5%88%86%E6%9E%90/</link>
     <description>Recent content in 决策3P分析 on Dondrub3 | 3P实验室</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 07 Mar 2026 16:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1314/categories/%E5%86%B3%E7%AD%963p%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dondrub3.com/categories/%E5%86%B3%E7%AD%963p%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>当AI Agent来到手机端：从Xiaomi Claw看技术、心理与哲学的三重变革</title>
-      <link>http://localhost:1314/posts/2026-03-07-xiaomi-claw-3p-analysis/</link>
+      <link>https://dondrub3.com/posts/2026-03-07-xiaomi-claw-3p-analysis/</link>
       <pubDate>Sat, 07 Mar 2026 16:00:00 +0800</pubDate>
-      <guid>http://localhost:1314/posts/2026-03-07-xiaomi-claw-3p-analysis/</guid>
+      <guid>https://dondrub3.com/posts/2026-03-07-xiaomi-claw-3p-analysis/</guid>
       <description>从小米Xiaomi Claw手机端AI Agent的发布，深入分析技术演进、心理变革与哲学思考的三重维度。</description>
     </item>
     <item>
       <title>当AI产品设计遇上用户心理：智谱GLM Coding Plan事件的心理学解读</title>
-      <link>http://localhost:1314/posts/2026-02-21-ai-product-psychology/</link>
+      <link>https://dondrub3.com/posts/2026-02-21-ai-product-psychology/</link>
       <pubDate>Sat, 21 Feb 2026 23:30:00 +0800</pubDate>
-      <guid>http://localhost:1314/posts/2026-02-21-ai-product-psychology/</guid>
+      <guid>https://dondrub3.com/posts/2026-02-21-ai-product-psychology/</guid>
       <description>AI产品心理学分析：智谱GLM Coding Plan事件的用户心理机制解读，探讨预期违背、心理契约、信任危机等心理学理论在AI产品设计中的应用。</description>
     </item>
     <item>
       <title>公众人物的道德困境：从比尔·盖茨取消AI峰会演讲看决策心理学</title>
-      <link>http://localhost:1314/posts/2026-02-19-bill-gates-psychology/</link>
+      <link>https://dondrub3.com/posts/2026-02-19-bill-gates-psychology/</link>
       <pubDate>Thu, 19 Feb 2026 12:00:00 +0800</pubDate>
-      <guid>http://localhost:1314/posts/2026-02-19-bill-gates-psychology/</guid>
+      <guid>https://dondrub3.com/posts/2026-02-19-bill-gates-psychology/</guid>
       <description>深度心理学分析：比尔·盖茨因爱泼斯坦关联取消AI峰会演讲的决策心理机制，探讨认知失调、社会认同、道德推脱等心理学理论在公众人物决策中的应用。</description>
     </item>
   </channel>

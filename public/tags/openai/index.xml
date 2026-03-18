@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>OpenAI on Dondrub3 | 3P实验室</title>
-    <link>http://localhost:1314/tags/openai/</link>
+    <link>https://dondrub3.com/tags/openai/</link>
     <description>Recent content in OpenAI on Dondrub3 | 3P实验室</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 17 Mar 2026 21:15:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1314/tags/openai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dondrub3.com/tags/openai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenAI新模型深度解析：技术突破背后的3P思考</title>
-      <link>http://localhost:1314/posts/2026-03-17-openai-game-changer-3p-analysis/</link>
+      <link>https://dondrub3.com/posts/2026-03-17-openai-game-changer-3p-analysis/</link>
       <pubDate>Tue, 17 Mar 2026 21:15:00 +0800</pubDate>
-      <guid>http://localhost:1314/posts/2026-03-17-openai-game-changer-3p-analysis/</guid>
+      <guid>https://dondrub3.com/posts/2026-03-17-openai-game-changer-3p-analysis/</guid>
       <description>OpenAI最新模型的发布不仅是技术里程碑，更是一个需要从物理学、心理学和哲学多维度审视的复杂现象。</description>
     </item>
   </channel>

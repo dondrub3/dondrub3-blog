@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>能源 on Dondrub3 | 3P实验室</title>
-    <link>http://localhost:1314/tags/%E8%83%BD%E6%BA%90/</link>
+    <link>https://dondrub3.com/tags/%E8%83%BD%E6%BA%90/</link>
     <description>Recent content in 能源 on Dondrub3 | 3P实验室</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1314/tags/%E8%83%BD%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dondrub3.com/tags/%E8%83%BD%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>新闻说油价 surge，市场却没反应——地缘叙事的认知陷阱</title>
-      <link>http://localhost:1314/posts/2026-03-12-oil-narrative-trap/</link>
+      <link>https://dondrub3.com/posts/2026-03-12-oil-narrative-trap/</link>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/posts/2026-03-12-oil-narrative-trap/</guid>
+      <guid>https://dondrub3.com/posts/2026-03-12-oil-narrative-trap/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;当中东局势再次成为头条，新闻标题高喊&amp;quot;油价飙升&amp;quot;，但市场走势却未必如叙事那般线性。今天我们从认知偏差的角度，拆解地缘冲突与价格反应之间的微妙关系。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;hr&gt;
@@ -105,9 +105,9 @@
     </item>
     <item>
       <title>地缘政治冲击下的市场心理：从中东局势看油价飙升的3P解读</title>
-      <link>http://localhost:1314/posts/2026-03-11-middle-east-oil-3p-analysis/</link>
+      <link>https://dondrub3.com/posts/2026-03-11-middle-east-oil-3p-analysis/</link>
       <pubDate>Wed, 11 Mar 2026 08:15:00 +0800</pubDate>
-      <guid>http://localhost:1314/posts/2026-03-11-middle-east-oil-3p-analysis/</guid>
+      <guid>https://dondrub3.com/posts/2026-03-11-middle-east-oil-3p-analysis/</guid>
       <description>从Physics/Psychology/Philosophy三个维度，深度解读中东局势对油价及全球市场的影响</description>
     </item>
   </channel>

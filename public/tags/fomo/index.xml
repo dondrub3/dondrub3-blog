@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>FOMO on Dondrub3 | 3P实验室</title>
-    <link>http://localhost:1314/tags/fomo/</link>
+    <link>https://dondrub3.com/tags/fomo/</link>
     <description>Recent content in FOMO on Dondrub3 | 3P实验室</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 25 Feb 2026 16:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1314/tags/fomo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dondrub3.com/tags/fomo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>当黄金冲破5200美元：一场关于恐惧与贪婪的心理博弈</title>
-      <link>http://localhost:1314/posts/2026-02-25-gold-psychology-3p-analysis/</link>
+      <link>https://dondrub3.com/posts/2026-02-25-gold-psychology-3p-analysis/</link>
       <pubDate>Wed, 25 Feb 2026 16:00:00 +0800</pubDate>
-      <guid>http://localhost:1314/posts/2026-02-25-gold-psychology-3p-analysis/</guid>
+      <guid>https://dondrub3.com/posts/2026-02-25-gold-psychology-3p-analysis/</guid>
       <description>2025年2月25日，国际现货黄金突破5200美元/盎司。特朗普威胁伊朗、美联储鹰派表态，市场陷入不确定性。本文从心理学角度深度分析交易中的恐惧与贪婪，帮助交易者在情绪洪流中建立决策锚点。</description>
     </item>
   </channel>

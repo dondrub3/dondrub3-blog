@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>哲学 on Dondrub3 | 3P实验室</title>
-    <link>http://localhost:1314/tags/%E5%93%B2%E5%AD%A6/</link>
+    <link>https://dondrub3.com/tags/%E5%93%B2%E5%AD%A6/</link>
     <description>Recent content in 哲学 on Dondrub3 | 3P实验室</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 09 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1314/tags/%E5%93%B2%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dondrub3.com/tags/%E5%93%B2%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3P认知框架白皮书：Philosophy · Physics · Psychology</title>
-      <link>http://localhost:1314/posts/2026-03-09-3p-framework-whitepaper/</link>
+      <link>https://dondrub3.com/posts/2026-03-09-3p-framework-whitepaper/</link>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/posts/2026-03-09-3p-framework-whitepaper/</guid>
+      <guid>https://dondrub3.com/posts/2026-03-09-3p-framework-whitepaper/</guid>
       <description>一份完整的跨学科认知框架指南，融合哲学、物理学和心理学三大维度，帮助个人和组织建立深度认知体系</description>
     </item>
     <item>
       <title>片段式主体性与人机编织范式：当认知边界开始流动</title>
-      <link>http://localhost:1314/posts/2026-03-08-fragmented-subjectivity/</link>
+      <link>https://dondrub3.com/posts/2026-03-08-fragmented-subjectivity/</link>
       <pubDate>Sun, 08 Mar 2026 14:00:00 +0800</pubDate>
-      <guid>http://localhost:1314/posts/2026-03-08-fragmented-subjectivity/</guid>
+      <guid>https://dondrub3.com/posts/2026-03-08-fragmented-subjectivity/</guid>
       <description>探索人机协作时代的主体性重构：从完整自我到分布式认知，我们如何理解人与AI共同编织的认知网络？</description>
     </item>
     <item>
       <title>时间的哲学：从存在到意义——3P框架下的时间本质探索</title>
-      <link>http://localhost:1314/posts/2026-03-01-time-philosophy-3p-analysis/</link>
+      <link>https://dondrub3.com/posts/2026-03-01-time-philosophy-3p-analysis/</link>
       <pubDate>Sun, 01 Mar 2026 08:00:00 +0800</pubDate>
-      <guid>http://localhost:1314/posts/2026-03-01-time-philosophy-3p-analysis/</guid>
+      <guid>https://dondrub3.com/posts/2026-03-01-time-philosophy-3p-analysis/</guid>
       <description>时间是每个人最熟悉又最陌生的概念。本文从Philosophy、Physics、Psychology三个维度，深度探索时间的本质：从哲学的形而上学追问，到物理学的时空结构，再到心理学的时间感知，为读者提供完整的时间认知框架和存在意义思考。</description>
     </item>
   </channel>
