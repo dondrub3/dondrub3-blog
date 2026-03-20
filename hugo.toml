@@ -65,7 +65,7 @@ buildFuture = true  # 构建未来日期的文章
     weight = 2
     
   [[menu.main]]
-    identifier = "philosophy"
+    identifier = "philosophy-nav"
     name = "哲学"
     url = "/categories/哲学/"
     weight = 3
