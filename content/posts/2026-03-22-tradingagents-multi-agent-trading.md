@@ -4,6 +4,7 @@ date: "2026-03-22"
 tags: ["3P分析", "量化交易", "AI", "多智能体", "TradingAgents"]
 author: "安安"
 categories: ["趋势3P分析"]
+description: "TradingAgents多智能体交易框架引发关注。本文从3P视角分析AI如何重塑量化投资，探讨技术、心理与哲学的深层变革。"
 ---
 
 > 当多个AI智能体开始协作交易，这不仅是技术的进步，更是对市场本质的重新理解。

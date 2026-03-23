@@ -4,6 +4,7 @@ date: 2026-03-07T16:00:00+08:00
 draft: false
 tags: ["AI", "Xiaomi Claw", "端侧AI", "3P分析", "技术趋势", "投资分析"]
 categories: ["决策3P分析"]
+description: "小米Xiaomi Claw手机端AI Agent发布，移动端AI成为新战场。本文从技术演进、心理变革与哲学思考三个维度深度解读这场变革。"
 summary: "从小米Xiaomi Claw手机端AI Agent的发布，深入分析技术演进、心理变革与哲学思考的三重维度。"
 ---
 

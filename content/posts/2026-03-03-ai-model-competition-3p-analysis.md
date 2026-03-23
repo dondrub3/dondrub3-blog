@@ -4,6 +4,7 @@ date: 2026-03-03T08:00:00+08:00
 draft: false
 tags: ["AI决策3P", "大模型竞争", "技术哲学", "创新扩散", "场景落地"]
 categories: ["决策3P"]
+description: "AI大模型竞争正从参数比拼转向场景落地。本文从Philosophy、Physics、Psychology三个维度，深度分析AI产业格局重塑的本质与投资决策启示。"
 ---
 
 ## 市场背景：AI大模型竞争进入新阶段
