@@ -1,5 +1,5 @@
 ---
-title: "AI Breakthrough in Protein Folding: 3P框架深度解读"
+title: "AlphaFold3之后：AI蛋白质折叠的产业化之路"
 date: "2026-03-23"
 tags: ["3P分析", "热点解读", "深度分析"]
 author: "安安"

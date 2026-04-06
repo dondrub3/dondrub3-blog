@@ -1,5 +1,5 @@
 ---
-title: "AI Breakthrough in Protein Folding: 3P框架深度解读"
+title: "AI蛋白质折叠突破：技术革命与科学伦理的3P解读"
 date: "2026-03-23"
 tags: ["3P分析", "热点解读", "深度分析"]
 author: "安安"
