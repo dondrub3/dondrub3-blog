@@ -1,0 +1,89 @@
+{{ define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="jibai-post-meta">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006年1月2日" }}</time>
+      {{ if .Params.categories }}
+      <span class="jibai-post-category">{{ index .Params.categories 0 }}</span>
+      {{ end }}
+    </div>
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{ if .Params.tags }}
+    <div class="jibai-post-tags">
+      {{ range .Params.tags }}
+      <span class="tag">#{{ . }}</span>
+      {{ end }}
+    </div>
+    {{ end }}
+  </header>
+
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+
+  <footer class="post-footer">
+    <div class="jibai-disclaimer">
+      <p><em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。</em></p>
+    </div>
+    
+    <nav class="paginav">
+      {{ with .PrevInSection }}
+      <a class="prev" href="{{ .Permalink }}">
+        <span class="title">← 上一篇</span>
+        <span class="text">{{ .Title }}</span>
+      </a>
+      {{ end }}
+      {{ with .NextInSection }}
+      <a class="next" href="{{ .Permalink }}">
+        <span class="title">下一篇 →</span>
+        <span class="text">{{ .Title }}</span>
+      </a>
+      {{ end }}
+    </nav>
+  </footer>
+</article>
+
+<style>
+.jibai-post-meta {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-bottom: 1rem;
+  font-size: 0.875rem;
+  color: var(--secondary);
+}
+
+.jibai-post-category {
+  background: var(--primary);
+  color: var(--theme);
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+  font-size: 0.875rem;
+}
+
+.jibai-post-tags {
+  margin-top: 1rem;
+}
+
+.jibai-post-tags .tag {
+  display: inline-block;
+  margin-right: 0.75rem;
+  font-size: 0.875rem;
+  color: var(--secondary);
+}
+
+.jibai-disclaimer {
+  margin-top: 3rem;
+  padding: 1rem;
+  background: var(--code-bg);
+  border-radius: 8px;
+  font-size: 0.875rem;
+}
+
+.jibai-disclaimer p {
+  margin: 0;
+}
+</style>
+
+{{ end }}

@@ -54,47 +54,54 @@ buildFuture = true  # 构建未来日期的文章
   # 分析统计（可选）
   # googleAnalytics = "G-XXXXXXXXXX"
   
-  # 主要文章部分
-  mainSections = ["posts"]
+  # 主要文章部分（既白 + 3P博客）
+  mainSections = ["jibai", "posts"]
 
 [menu]
+  # 既白 - 产品故事板块
+  [[menu.main]]
+    identifier = "jibai"
+    name = "既白"
+    url = "/jibai/"
+    weight = 1
+    
   # 核心3P分类 - 直接展示在导航栏
   [[menu.main]]
     identifier = "trading-3p"
     name = "交易3P"
     url = "/categories/交易3P分析/"
-    weight = 1
+    weight = 2
     
   [[menu.main]]
     identifier = "decision-3p"
     name = "决策3P"
     url = "/categories/决策3P分析/"
-    weight = 2
+    weight = 3
     
   [[menu.main]]
     identifier = "philosophy-nav"
     name = "哲学"
     url = "/categories/哲学/"
-    weight = 3
+    weight = 4
     
   # 其他导航
   [[menu.main]]
     identifier = "posts"
     name = "全部文章"
     url = "/posts/"
-    weight = 4
+    weight = 5
     
   [[menu.main]]
     identifier = "tags"
     name = "标签云"
     url = "/tags/"
-    weight = 5
+    weight = 6
     
   [[menu.main]]
     identifier = "about"
     name = "关于"
     url = "/about/"
-    weight = 6
+    weight = 7
 
 # 输出格式
 [outputs]

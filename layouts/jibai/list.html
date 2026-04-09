@@ -1,0 +1,134 @@
+{{ define "main" }}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{ if .Description }}
+  <div class="post-description">
+    {{ .Description }}
+  </div>
+  {{ end }}
+</header>
+
+{{ .Content }}
+
+<div class="jibai-intro">
+  <blockquote>
+    <p><strong>东方既白，黎明破晓</strong></p>
+    <p>用故事的方式讲述中国上市公司的产品逻辑与商业价值</p>
+  </blockquote>
+</div>
+
+<hr>
+
+<h2>最新产品故事</h2>
+
+<div class="jibai-list">
+  {{ range .Pages }}
+  <article class="jibai-item">
+    <div class="jibai-meta">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+      {{ if .Params.categories }}
+      <span class="jibai-category">{{ index .Params.categories 0 }}</span>
+      {{ end }}
+    </div>
+    <h3 class="jibai-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h3>
+    {{ if .Params.summary }}
+    <p class="jibai-summary">{{ .Params.summary }}</p>
+    {{ else }}
+    <p class="jibai-summary">{{ .Summary | truncate 120 }}</p>
+    {{ end }}
+    {{ if .Params.tags }}
+    <div class="jibai-tags">
+      {{ range .Params.tags }}
+      <span class="tag">#{{ . }}</span>
+      {{ end }}
+    </div>
+    {{ end }}
+  </article>
+  {{ end }}
+</div>
+
+<style>
+.jibai-intro {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: var(--code-bg);
+  border-radius: 8px;
+}
+
+.jibai-intro blockquote {
+  margin: 0;
+  padding: 0;
+  border: none;
+  font-style: normal;
+}
+
+.jibai-intro p {
+  margin: 0.5rem 0;
+}
+
+.jibai-list {
+  margin-top: 2rem;
+}
+
+.jibai-item {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.jibai-item:last-child {
+  border-bottom: none;
+}
+
+.jibai-meta {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  font-size: 0.875rem;
+  color: var(--secondary);
+}
+
+.jibai-category {
+  background: var(--primary);
+  color: var(--theme);
+  padding: 0.125rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+}
+
+.jibai-title {
+  margin: 0.5rem 0;
+  font-size: 1.25rem;
+}
+
+.jibai-title a {
+  color: var(--primary);
+  text-decoration: none;
+}
+
+.jibai-title a:hover {
+  text-decoration: underline;
+}
+
+.jibai-summary {
+  margin: 0.5rem 0;
+  color: var(--secondary);
+  line-height: 1.6;
+}
+
+.jibai-tags {
+  margin-top: 0.75rem;
+}
+
+.jibai-tags .tag {
+  display: inline-block;
+  margin-right: 0.75rem;
+  font-size: 0.875rem;
+  color: var(--secondary);
+}
+</style>
+
+{{ end }}
