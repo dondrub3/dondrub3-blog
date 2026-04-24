@@ -350,8 +350,8 @@ tags: ["标签1", "标签2"]
 
 ## 模板文件位置
 
-- **Hugo 模板**：`test-blog/archetypes/posts.md`
-- **本指南**：`test-blog/TEMPLATE_GUIDE.md`
+- **Hugo 模板**：`dondrub3-blog/archetypes/posts.md`
+- **本指南**：`dondrub3-blog/TEMPLATE_GUIDE.md`
 
 ---
 
