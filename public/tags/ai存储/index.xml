@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI存储 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/tags/ai%E5%AD%98%E5%82%A8/</link><description>Recent content in AI存储 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Tue, 05 May 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/tags/ai%E5%AD%98%E5%82%A8/index.xml" rel="self" type="application/rss+xml"/><item><title>美光科技：AI时代的'内存印钞机'</title><link>https://dondrub3.com/jibai/2026-05-05-%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80/</link><pubDate>Tue, 05 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-05-%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在手机上问ChatGPT一个问题，两秒钟后它就给出了一段流畅的回答。你以为是魔法，其实背后是&lt;strong>数千亿次计算&lt;/strong>在瞬间完成。&lt;/p>
+&lt;p>每一次AI对话，都有成千上万块GPU在数据中心里疯狂运转。这些GPU之间，需要以&lt;strong>每秒万亿比特&lt;/strong>的速度交换数据——就像人脑的神经元通过突触传递信号一样。&lt;/p>
+&lt;p>而连接这些GPU的&amp;quot;神经突触&amp;quot;，叫做&lt;strong>高带宽存储（HBM）&lt;/strong>。&lt;/p>
+&lt;p>当全球AI应用爆发式增长，这些&amp;quot;神经突触&amp;quot;的需求量也在指数级攀升。问题是：生产这些HBM的工厂，产能跟得上吗？&lt;/p>
+&lt;p>这就是今天市场疯狂追捧&lt;strong>美光科技&lt;/strong>的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年5月5日，美股存储芯片板块集体大涨，美光科技单日涨幅超6%。&lt;/p>
+&lt;p>表面看，这是受美光CEO一席话的刺激——他在财报电话会上表示：&amp;ldquo;2025年我们的HBM产能已经全部售罄，AI需求正在吞噬过半内存市场。&amp;ldquo;按理说，CEO的乐观表态利好自家股票，和整个存储板块八竿子打不着。但市场偏偏选了&lt;strong>整个存储板块&lt;/strong>——这说明资金已经不在乎&amp;quot;事件本身&amp;rdquo;，而在乎&amp;quot;事件背后的AI算力需求爆发&amp;rdquo;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI正在重新定义存储行业的周期逻辑&lt;/strong>。&lt;/p>
+&lt;p>美光科技，全球第三大内存芯片制造商，2025财年Q4营收达113.2亿美元，同比增长超过80%，股价年内累计上涨168%。&lt;/p>
+&lt;p>不是因为传统内存需求回暖，而是因为&lt;strong>AI服务器对HBM的需求已经供不应求&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
+&lt;p>让我们回到那个&lt;strong>AI对话的场景&lt;/strong>。&lt;/p>
+&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念股。但当时大家只关注英伟达的GPU，没人在意GPU里用的是什么内存。&lt;/p>
+&lt;p>2024年，情况变了。市场意识到：没有HBM，GPU就是一块废铁。SK海力士凭借HBM3的先发优势，股价翻倍。但当时的美光，还在HBM赛道上追赶。&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>美光跳过HBM3，直接量产HBM3E，成功打入英伟达供应链&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为GPU和HBM的关系，不是简单的&amp;quot;一对一&amp;quot;。一张英伟达H200 GPU需要6颗HBM3E芯片。当AI模型从&amp;quot;数十亿参数&amp;quot;扩展到&amp;quot;数万亿参数&amp;quot;时，HBM的需求量不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>更关键的是，&lt;strong>美光的HBM3E比竞品功耗低30%&lt;/strong>。这意味着，同样的数据中心，用美光的芯片可以节省数百万美元的电费。&lt;/p>
+&lt;p>美光的HBM3E已经开始大规模出货英伟达H200。这不是概念，是&lt;strong>2025年全年产能已售罄的订单&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>存储芯片的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——看DRAM和NAND的价格周期，看供需关系。这个逻辑在PC和智能手机时代是对的，但在AI时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>2025财年Q3营收&lt;/strong>：93亿美元（创历史纪录）&lt;/li>
+&lt;li>&lt;strong>2025财年Q4营收&lt;/strong>：113.2亿美元，同比增长超80%&lt;/li>
+&lt;li>&lt;strong>数据中心收入&lt;/strong>：同比增长3倍&lt;/li>
+&lt;li>&lt;strong>毛利率&lt;/strong>：从20%跃升至40.9%&lt;/li>
+&lt;li>&lt;strong>2025年HBM销售目标&lt;/strong>：150亿美元&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着美光正在从&amp;quot;传统存储供应商&amp;quot;变成&amp;quot;AI基础设施核心供应商&amp;quot;。传统的内存需求跟着PC和智能手机周期波动，但AI带来的需求是&lt;strong>结构性&lt;/strong>的——只要大模型还在训练，只要AI应用还在扩张，HBM的需求就不会停。&lt;/p>
+&lt;p>市场愿意给美光更高估值的原因：它不再是一家&amp;quot;看天吃饭&amp;quot;的周期股，而是&lt;strong>AI时代的&amp;quot;内存印钞机&amp;quot;&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是美光，而不是SK海力士或三星？&lt;/p>
+&lt;p>HBM市场有三巨头，为什么美光能在2025年实现逆袭？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，技术路线的精准卡位。&lt;/strong> 美光跳过HBM3，直接押注HBM3E。这个决策在2024年看起来冒险，但在2025年证明是正确的。当竞争对手还在优化HBM3时，美光已经量产了功耗低30%的HBM3E。&lt;/p>
+&lt;p>&lt;strong>第二，客户认证的突破。&lt;/strong> 英伟达H200采用美光HBM3E，这是美光打入AI核心供应链的关键一步。数据中心客户的认证周期长达12-18个月，一旦通过，切换成本极高。&lt;/p>
+&lt;p>&lt;strong>第三，产能扩张的执行力。&lt;/strong> 美光计划到2025年底将HBM产能提升至每月6万片晶圆，是2024年的数倍。更重要的是，这些产能&lt;strong>已经全部售罄&lt;/strong>。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。美光花了&lt;strong>10年&lt;/strong>时间研发HBM技术，投入了&lt;strong>数百亿美元&lt;/strong>建设先进产线，才形成了今天的技术积累。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品规格，但很难复制它的&lt;strong>技术路线判断力&lt;/strong>和&lt;strong>客户信任&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越聪明，算力需求越大；算力需求越大，HBM越紧缺；HBM越紧缺，美光越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求爆发式增长，数据中心算力规模持续扩张&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：GPU规模越大，HBM的需求量就越大，且新一代AI芯片对HBM的依赖度更高&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：作为成功打入英伟达供应链的HBM3E供应商，美光2025年HBM产能已全部售罄，业绩进入高速增长期&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item></channel></rss>

@@ -1,4 +1,183 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>既白 | 产品故事 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/jibai/</link><description>Recent content in 既白 | 产品故事 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Mon, 04 May 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/jibai/index.xml" rel="self" type="application/rss+xml"/><item><title>中芯国际：每一部手机的'心脏'都在这家工厂跳动</title><link>https://dondrub3.com/jibai/2026-05-04-%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85/</link><pubDate>Mon, 04 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-04-%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>既白 | 产品故事 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/jibai/</link><description>Recent content in 既白 | 产品故事 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Wed, 06 May 2026 23:45:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/jibai/index.xml" rel="self" type="application/rss+xml"/><item><title>佰维存储：当AI遇上存储芯片，一场关于数据心脏的突围战</title><link>https://dondrub3.com/jibai/2026-05-06-%E4%BD%B0%E7%BB%B4%E5%AD%98%E5%82%A8/</link><pubDate>Wed, 06 May 2026 23:45:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-06-%E4%BD%B0%E7%BB%B4%E5%AD%98%E5%82%A8/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>上周，我帮朋友组装一台AI PC。当他把一块M.2 SSD插进主板时，随口说了一句：&amp;ldquo;现在买硬盘，感觉跟买显卡一样刺激，价格波动比股票还厉害。&amp;rdquo;&lt;/p>
+&lt;p>这句话让我愣了一下。&lt;/p>
+&lt;p>确实，过去两年，存储芯片行业经历了过山车般的行情。2023年还在亏损泥潭中挣扎的企业，2024年突然扭亏为盈；曾经被视为&amp;quot;大宗商品&amp;quot;的存储模组，如今因为AI的爆发而身价倍增。&lt;/p>
+&lt;p>就在今天，雪球热门话题榜上，#芯片盛宴，科创50涨超7%# 的话题热度高达173.3万，佰维存储（688525）单日涨幅17.37%，领涨科创板。&lt;/p>
+&lt;p>这不是偶然。在这波存储芯片的狂欢背后，有一个被大多数人忽视的事实：当AI开始吞噬一切算力的时候，存储，正在成为新的瓶颈。&lt;/p>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>按理说，存储芯片是一个周期性极强的行业，价格波动应该跟随供需关系平稳变化。但市场偏偏走出了反常的走势。&lt;/p>
+&lt;p>2024年初，全球存储市场还在经历寒冬。美光、三星、SK海力士三大巨头集体减产，库存水位高企，价格持续探底。当时的市场共识是：存储行业的复苏至少要等到2025年下半年。&lt;/p>
+&lt;p>但市场偏偏不这么认为。&lt;/p>
+&lt;p>2024年第二季度开始，AI服务器的需求突然爆发。英伟达H100、H200的出货量远超预期，而每一台AI服务器对存储的需求是传统服务器的3-5倍。更关键的是，AI训练需要的高带宽内存（HBM），几乎被SK海力士和三星垄断，产能缺口巨大。&lt;/p>
+&lt;p>这种供需错配，直接传导到了整个存储产业链。&lt;/p>
+&lt;p>佰维存储的股价走势，正是这种反常信号的典型体现。从2024年初的低点到2025年5月，公司股价涨幅超过300%。而在2025年4月30日发布的2024年年报中，公司实现营业总收入66.95亿元，同比增长86.46%；归母净利润1.61亿元，成功扭亏为盈。&lt;/p>
+&lt;p>&amp;ldquo;按理说&amp;rdquo;，一家以消费级存储模组为主业的公司，不应该在AI浪潮中如此受益。但市场偏偏用脚投票，给出了完全不同的答案。&lt;/p>
+&lt;p>这背后，一定有被忽视的逻辑。&lt;/p>
+&lt;h2 id="第一个故事为什么突然重要了">【第一个故事】为什么突然重要了&lt;/h2>
+&lt;p>让我们回到那个被大多数人忽略的关键节点：2024年3月。&lt;/p>
+&lt;p>当时，OpenAI发布了GPT-4 Turbo，参数规模达到1.8万亿。这意味着什么？意味着训练这样一个模型，需要消耗数万张高端GPU，以及与之匹配的存储系统。&lt;/p>
+&lt;p>但问题在于：存储的供给，跟不上算力的扩张。&lt;/p>
+&lt;p>传统数据中心的存储架构，是为通用计算设计的。CPU计算的特点是随机访问、低延迟；而AI训练的特点是顺序读取、高吞吐。这种架构上的错配，导致存储成为AI训练的瓶颈——GPU算力再强，如果数据喂不进去，也只能空转。&lt;/p>
+&lt;p>佰维存储敏锐地捕捉到了这个信号。&lt;/p>
+&lt;p>早在2023年，公司就开始布局企业级SSD和RDIMM内存条，瞄准AI服务器和数据中心市场。2024年，公司完成了约19亿元的定向增发，重点投向晶圆级先进封测与存储器封测扩产项目。&lt;/p>
+&lt;p>这不是简单的产能扩张，而是技术路线的战略性调整。&lt;/p>
+&lt;p>晶圆级先进封测（WLP）是存储芯片制造的核心环节，直接关系到产品的性能、功耗和可靠性。佰维存储在这个领域的布局，使其能够生产满足AI服务器要求的高性能存储产品。&lt;/p>
+&lt;p>更重要的是，公司构建了&amp;quot;研发封测一体化&amp;quot;的经营模式。这意味着从芯片设计、固件算法开发到封装测试，全流程自主可控。在半导体行业，这种垂直整合能力，就是最核心的护城河。&lt;/p>
+&lt;p>2025年半年报显示，公司累计拥有393项境内外专利及53项软件著作权，其中发明专利171项。2025年上半年研发费用投入2.73亿元，占营业收入比例约6.98%。&lt;/p>
+&lt;p>这些数字背后，是15年的技术积累——佰维存储成立于2010年，在存储行业深耕超过15年，经历了完整的行业周期洗礼。&lt;/p>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但估值重构需要回答&amp;quot;值不值&amp;quot;。&lt;/p>
+&lt;p>让我们用数据说话。&lt;/p>
+&lt;p>2024年，佰维存储实现营业收入66.95亿元，同比增长86.46%；归母净利润1.61亿元，同比扭亏。2025年上半年，营业收入39.12亿元，同比增长13.70%。虽然增速有所放缓，但盈利能力显著改善——剔除股份支付费用后，二季度归母净利润4128.84万元，销售毛利率环比增长11.7个百分点。&lt;/p>
+&lt;p>更值得关注的是公司的业务结构变化。&lt;/p>
+&lt;p>传统上，佰维存储以消费级存储产品为主，包括移动硬盘、内存条、SSD等。这些产品毛利率较低，竞争激烈，周期性明显。但近年来，公司在三个高附加值领域的布局开始收获：&lt;/p>
+&lt;p>&lt;strong>第一，企业级存储。&lt;/strong>&lt;/p>
+&lt;p>面向AI服务器、数据中心的企业级SSD和RDIMM内存条，毛利率显著高于消费级产品。2025年，公司企业级存储产品开始批量交付，成为增长的重要驱动力。&lt;/p>
+&lt;p>&lt;strong>第二，车规级存储。&lt;/strong>&lt;/p>
+&lt;p>智能汽车对存储的需求正在爆发。一辆L3级自动驾驶汽车，每天产生的数据量高达数TB。佰维存储的车规级UFS 3.1产品，带宽达到23.2Gbps，已通过AEC-Q100 Grade 2车规认证，可应用于智能座舱、自动驾驶等核心场景。&lt;/p>
+&lt;p>2026年北京车展上，佰维存储发布了新一代车规级UFS 3.1产品TAU208，并荣膺&amp;quot;年度影响力汽车芯片&amp;quot;大奖。这标志着公司在汽车电子领域的突破。&lt;/p>
+&lt;p>&lt;strong>第三，自研主控芯片。&lt;/strong>&lt;/p>
+&lt;p>存储模组的核心竞争力，很大程度上取决于主控芯片。佰维存储的首款国产自研eMMC主控芯片SP1800已批量交付头部智能穿戴客户，UFS自研主控SP9300预计2025年内完成投片。&lt;/p>
+&lt;p>主控芯片的自主化，意味着公司能够从&amp;quot;模组集成商&amp;quot;向&amp;quot;芯片设计商&amp;quot;升级，毛利率和护城河都将显著提升。&lt;/p>
+&lt;p>从估值角度看，截至2025年5月，佰维存储市值约300亿元，对应2024年PS约4.5倍。相比国际存储巨头美光科技（Micron）约8倍PS的估值，仍有提升空间。考虑到公司在AI存储、车规存储等高增长领域的布局，当前的估值水平并不算贵。&lt;/p>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但护城河决定了能走多远。&lt;/p>
+&lt;p>存储芯片行业是一个典型的&amp;quot;强者恒强&amp;quot;领域。三星、SK海力士、美光三大巨头占据了全球DRAM和NAND Flash市场90%以上的份额。在这样的竞争格局下，中国企业如何突围？&lt;/p>
+&lt;p>佰维存储给出的答案是：差异化竞争+垂直整合。&lt;/p>
+&lt;p>&lt;strong>首先，是技术护城河的量化。&lt;/strong>&lt;/p>
+&lt;p>截至2025年6月，公司拥有393项境内外专利，其中发明专利171项。2025年上半年新增申请发明专利70项，新增授权22项。这些专利涵盖存储介质特性研究、固件算法开发、存储芯片封测、测试研发等核心环节。&lt;/p>
+&lt;p>更重要的是，公司在先进封装领域的投入。晶圆级先进封测项目预计2025年第三季度完成设备安装与调试，这将使佰维存储成为国内少数具备Fan-Out、SiP等先进封装能力的存储企业。&lt;/p>
+&lt;p>先进封装的壁垒有多高？一座12英寸晶圆级封装产线，投资规模超过10亿元，建设周期2-3年，技术积累需要5-10年。这种重资产、长周期的特性，构成了天然的护城河。&lt;/p>
+&lt;p>&lt;strong>其次，是客户粘性的积累。&lt;/strong>&lt;/p>
+&lt;p>佰维存储获得了HP、掠夺者（Predator）等品牌的独家运营授权，在消费级市场建立了稳定的渠道。在工业级和车规级市场，公司产品通过了PC行业龙头客户严苛的预装导入测试，符合AEC-Q100等车规标准。&lt;/p>
+&lt;p>在半导体行业，客户认证是一个漫长的过程。以车规级产品为例，从样品测试到批量供货，通常需要2-3年时间。一旦进入供应链，替换成本极高。&lt;/p>
+&lt;p>&lt;strong>第三，是产业链的垂直整合。&lt;/strong>&lt;/p>
+&lt;p>佰维存储构建了从芯片设计、固件算法、封装测试到品牌运营的完整产业链。这种&amp;quot;研发封测一体化&amp;quot;模式，在行业内并不多见。&lt;/p>
+&lt;p>垂直整合的好处是显而易见的：一是成本控制，减少中间环节；二是技术协同，快速响应市场需求；三是供应链安全，降低外部依赖。&lt;/p>
+&lt;p>在当前的宏观环境下，供应链自主可控已经成为刚需。佰维存储的本土化优势，正在转化为实实在在的市场份额。&lt;/p>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;p>AI越深入千行百业，数据存储的需求越刚性；存储越成为算力瓶颈，先进封装的价值越凸显；技术壁垒越难以逾越，先行者的护城河越深厚。&lt;/p>
+&lt;p>佰维存储的故事，本质上是一个关于&amp;quot;卡位&amp;quot;的故事。在AI浪潮席卷而来的时候，它恰好站在了存储与计算的交汇点。这不是运气，而是15年技术积累的结果。&lt;/p>
+&lt;p>当市场还在争论存储芯片的周期拐点是否已经到来时，真正的赢家已经开始布局下一个十年。对于投资者而言，重要的不是预测周期，而是找到那些能够在周期中持续积累竞争优势的企业。&lt;/p></description></item><item><title>寒武纪：当手机里的'翻译官'开始思考</title><link>https://dondrub3.com/jibai/2026-05-06-%E5%AF%92%E6%AD%A6%E7%BA%AA/</link><pubDate>Wed, 06 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-06-%E5%AF%92%E6%AD%A6%E7%BA%AA/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚对着手机说了一声&amp;quot;播放周杰伦的歌&amp;quot;，两秒钟后音乐就响起了。你以为是手机&amp;quot;听懂&amp;quot;了你的话，其实背后是一颗专门的芯片在实时处理你的语音信号。&lt;/p>
+&lt;p>每一次语音唤醒、每一次人脸识别、每一次拍照美颜，都有数十亿次运算在瞬间完成。这些运算，需要专门的&amp;quot;翻译官&amp;quot;来把人类的语言、图像转换成机器能理解的信号——就像大脑中的神经元在协同工作一样。&lt;/p>
+&lt;p>而担任这些&amp;quot;翻译官&amp;quot;的专用芯片，叫做&lt;strong>AI芯片&lt;/strong>。&lt;/p>
+&lt;p>当每一部手机、每一台摄像头、每一辆汽车都需要AI能力，这些&amp;quot;AI翻译官&amp;quot;的需求量正在呈指数级增长。&lt;/p>
+&lt;p>这就是今天市场疯狂追捧寒武纪的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年5月6日，A股节后首个交易日，科创50指数大涨超7%，AI芯片板块集体爆发，寒武纪20%涨停。&lt;/p>
+&lt;p>表面看，这是受假期期间美股科技股大涨的刺激——全球资金风险偏好回升。按理说，美股科技股上涨利好美股本身，和A股AI芯片股八竿子打不着。但市场偏偏选了寒武纪——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的产业逻辑&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>国产AI芯片正在从&amp;quot;概念预期&amp;quot;走向&amp;quot;业绩兑现&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>寒武纪，中国AI芯片领域的领军企业，科创板AI芯片第一股，股价20%涨停创历史新高。&lt;/p>
+&lt;p>不是因为&amp;quot;概念炒作&amp;quot;，而是因为一季度营收暴增4230%、净利润扭亏为盈3.55亿元的惊艳业绩。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要了">【第一个故事】为什么突然重要了&lt;/h2>
+&lt;p>让我们回到那个语音唤醒的场景。&lt;/p>
+&lt;p>2023年，ChatGPT引爆全球AI热潮，市场开始炒作&amp;quot;AI概念&amp;quot;。但当时大家的认知局限在&amp;quot;谁有大模型谁就是王者&amp;quot;。&lt;/p>
+&lt;p>2024年，市场意识到，光有大模型不够，还得有芯片来跑。于是&amp;quot;AI芯片&amp;quot;进入投资者视野，英伟达成为全球市值最高的公司。&lt;/p>
+&lt;p>2026年，故事进入第三阶段：&lt;strong>国产替代加速期&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为AI算力需求和芯片供应的关系，不是简单的&amp;quot;一对一&amp;quot;。训练一个大模型需要数千张高端GPU，推理部署需要更多。当AI应用从&amp;quot;实验室&amp;quot;扩展到&amp;quot;千行百业&amp;quot;时，AI芯片的需求量不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>更关键的是，地缘政治下的&amp;quot;芯片禁令&amp;quot;正在收紧。英伟达高端芯片对华出口受限，这意味着国产AI芯片迎来了历史性的替代窗口期。&lt;/p>
+&lt;p>寒武纪的思元590芯片综合性能已接近英伟达A100，正在互联网、金融、交通等领域大规模部署。这不是概念，是&lt;strong>已经反映在财报上的真实增长&lt;/strong>——一季度营收11.11亿元，同比增长4230%。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>AI芯片公司的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;概念股&amp;quot;来估值——有技术没收入，估值全靠想象。这个逻辑在&amp;quot;PPT造芯&amp;quot;时代是对的，但在&amp;quot;业绩兑现&amp;quot;时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>营收11.11亿元&lt;/strong>（2025年Q1），同比增长4230.22%&lt;/li>
+&lt;li>&lt;strong>净利润3.55亿元&lt;/strong>（2025年Q1），同比扭亏为盈&lt;/li>
+&lt;li>&lt;strong>连续两个季度盈利&lt;/strong>，盈利能力持续改善&lt;/li>
+&lt;li>&lt;strong>云端AI芯片思元590&lt;/strong>，性能接近英伟达A100&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着寒武纪正在从&amp;quot;概念股&amp;quot;变成&amp;quot;成长股&amp;quot;。传统的AI芯片公司只有技术没有订单，但寒武纪已经实现了大规模商业化——互联网大厂、金融机构、政府部门都在用它的芯片。&lt;/p>
+&lt;p>市场愿意给寒武纪更高估值的原因：它不再是一家&amp;quot;技术公司&amp;quot;，而是&lt;strong>中国AI算力基础设施的核心供应商&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是寒武纪，而不是其他AI芯片公司？&lt;/p>
+&lt;p>国产AI芯片有很多玩家，华为昇腾、海光信息、摩尔线程……为什么寒武纪能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，技术领先。&lt;/strong> 寒武纪是中国最早专注于AI芯片设计的公司，拥有从终端到云端的全栈产品线。思元590综合性能接近英伟达A100，是国内云端AI芯片的标杆产品——这是技术护城河。&lt;/p>
+&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> AI芯片的客户导入周期长达1-2年，一旦部署就很难切换。寒武纪已经深度绑定了国内互联网大厂和智算中心客户，形成了稳定的收入来源——这是客户粘性。&lt;/p>
+&lt;p>&lt;strong>第三，生态构建。&lt;/strong> 寒武纪不仅卖芯片，还提供完整的软件栈和开发工具。开发者一旦习惯了它的生态，迁移成本极高——这是生态壁垒。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。寒武纪花了&lt;strong>9年&lt;/strong>（2016年成立），投入了&lt;strong>数百亿元&lt;/strong>研发投入，才形成了今天的技术积累和市场地位。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品，但很难复制它的&lt;strong>时间沉淀、技术积累和生态闭环&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越普及，算力需求越大；算力需求越大，国产替代越迫切；国产替代越迫切，寒武纪越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI大模型应用爆发式增长，美国芯片禁令收紧，国产AI芯片迎来历史性替代窗口期&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：英伟达高端芯片对华出口受限，国内智算中心建设全面铺开，国产AI芯片需求激增&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：作为国产AI芯片领军企业，寒武纪思元590性能接近英伟达A100，一季度营收暴增4230%，净利润扭亏为盈3.55亿元，业绩进入爆发期&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>美光科技：AI时代的'内存印钞机'</title><link>https://dondrub3.com/jibai/2026-05-05-%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80/</link><pubDate>Tue, 05 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-05-%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在手机上问ChatGPT一个问题，两秒钟后它就给出了一段流畅的回答。你以为是魔法，其实背后是&lt;strong>数千亿次计算&lt;/strong>在瞬间完成。&lt;/p>
+&lt;p>每一次AI对话，都有成千上万块GPU在数据中心里疯狂运转。这些GPU之间，需要以&lt;strong>每秒万亿比特&lt;/strong>的速度交换数据——就像人脑的神经元通过突触传递信号一样。&lt;/p>
+&lt;p>而连接这些GPU的&amp;quot;神经突触&amp;quot;，叫做&lt;strong>高带宽存储（HBM）&lt;/strong>。&lt;/p>
+&lt;p>当全球AI应用爆发式增长，这些&amp;quot;神经突触&amp;quot;的需求量也在指数级攀升。问题是：生产这些HBM的工厂，产能跟得上吗？&lt;/p>
+&lt;p>这就是今天市场疯狂追捧&lt;strong>美光科技&lt;/strong>的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年5月5日，美股存储芯片板块集体大涨，美光科技单日涨幅超6%。&lt;/p>
+&lt;p>表面看，这是受美光CEO一席话的刺激——他在财报电话会上表示：&amp;ldquo;2025年我们的HBM产能已经全部售罄，AI需求正在吞噬过半内存市场。&amp;ldquo;按理说，CEO的乐观表态利好自家股票，和整个存储板块八竿子打不着。但市场偏偏选了&lt;strong>整个存储板块&lt;/strong>——这说明资金已经不在乎&amp;quot;事件本身&amp;rdquo;，而在乎&amp;quot;事件背后的AI算力需求爆发&amp;rdquo;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI正在重新定义存储行业的周期逻辑&lt;/strong>。&lt;/p>
+&lt;p>美光科技，全球第三大内存芯片制造商，2025财年Q4营收达113.2亿美元，同比增长超过80%，股价年内累计上涨168%。&lt;/p>
+&lt;p>不是因为传统内存需求回暖，而是因为&lt;strong>AI服务器对HBM的需求已经供不应求&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
+&lt;p>让我们回到那个&lt;strong>AI对话的场景&lt;/strong>。&lt;/p>
+&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念股。但当时大家只关注英伟达的GPU，没人在意GPU里用的是什么内存。&lt;/p>
+&lt;p>2024年，情况变了。市场意识到：没有HBM，GPU就是一块废铁。SK海力士凭借HBM3的先发优势，股价翻倍。但当时的美光，还在HBM赛道上追赶。&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>美光跳过HBM3，直接量产HBM3E，成功打入英伟达供应链&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为GPU和HBM的关系，不是简单的&amp;quot;一对一&amp;quot;。一张英伟达H200 GPU需要6颗HBM3E芯片。当AI模型从&amp;quot;数十亿参数&amp;quot;扩展到&amp;quot;数万亿参数&amp;quot;时，HBM的需求量不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>更关键的是，&lt;strong>美光的HBM3E比竞品功耗低30%&lt;/strong>。这意味着，同样的数据中心，用美光的芯片可以节省数百万美元的电费。&lt;/p>
+&lt;p>美光的HBM3E已经开始大规模出货英伟达H200。这不是概念，是&lt;strong>2025年全年产能已售罄的订单&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>存储芯片的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——看DRAM和NAND的价格周期，看供需关系。这个逻辑在PC和智能手机时代是对的，但在AI时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>2025财年Q3营收&lt;/strong>：93亿美元（创历史纪录）&lt;/li>
+&lt;li>&lt;strong>2025财年Q4营收&lt;/strong>：113.2亿美元，同比增长超80%&lt;/li>
+&lt;li>&lt;strong>数据中心收入&lt;/strong>：同比增长3倍&lt;/li>
+&lt;li>&lt;strong>毛利率&lt;/strong>：从20%跃升至40.9%&lt;/li>
+&lt;li>&lt;strong>2025年HBM销售目标&lt;/strong>：150亿美元&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着美光正在从&amp;quot;传统存储供应商&amp;quot;变成&amp;quot;AI基础设施核心供应商&amp;quot;。传统的内存需求跟着PC和智能手机周期波动，但AI带来的需求是&lt;strong>结构性&lt;/strong>的——只要大模型还在训练，只要AI应用还在扩张，HBM的需求就不会停。&lt;/p>
+&lt;p>市场愿意给美光更高估值的原因：它不再是一家&amp;quot;看天吃饭&amp;quot;的周期股，而是&lt;strong>AI时代的&amp;quot;内存印钞机&amp;quot;&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是美光，而不是SK海力士或三星？&lt;/p>
+&lt;p>HBM市场有三巨头，为什么美光能在2025年实现逆袭？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，技术路线的精准卡位。&lt;/strong> 美光跳过HBM3，直接押注HBM3E。这个决策在2024年看起来冒险，但在2025年证明是正确的。当竞争对手还在优化HBM3时，美光已经量产了功耗低30%的HBM3E。&lt;/p>
+&lt;p>&lt;strong>第二，客户认证的突破。&lt;/strong> 英伟达H200采用美光HBM3E，这是美光打入AI核心供应链的关键一步。数据中心客户的认证周期长达12-18个月，一旦通过，切换成本极高。&lt;/p>
+&lt;p>&lt;strong>第三，产能扩张的执行力。&lt;/strong> 美光计划到2025年底将HBM产能提升至每月6万片晶圆，是2024年的数倍。更重要的是，这些产能&lt;strong>已经全部售罄&lt;/strong>。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。美光花了&lt;strong>10年&lt;/strong>时间研发HBM技术，投入了&lt;strong>数百亿美元&lt;/strong>建设先进产线，才形成了今天的技术积累。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品规格，但很难复制它的&lt;strong>技术路线判断力&lt;/strong>和&lt;strong>客户信任&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越聪明，算力需求越大；算力需求越大，HBM越紧缺；HBM越紧缺，美光越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求爆发式增长，数据中心算力规模持续扩张&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：GPU规模越大，HBM的需求量就越大，且新一代AI芯片对HBM的依赖度更高&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：作为成功打入英伟达供应链的HBM3E供应商，美光2025年HBM产能已全部售罄，业绩进入高速增长期&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>中芯国际：每一部手机的'心脏'都在这家工厂跳动</title><link>https://dondrub3.com/jibai/2026-05-04-%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85/</link><pubDate>Mon, 04 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-04-%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
 &lt;p>你刚在京东下单了一部新手机，三天后就收到了快递。你以为是物流快，其实背后是一颗芯片在三个月前就已经开始在工厂里&amp;quot;生长&amp;quot;。&lt;/p>
 &lt;p>每一次滑动屏幕、每一次拍照、每一次扫码支付，都有数十亿个晶体管在同步运算。这些晶体管，需要在头发丝千分之一大小的空间里精准排布——就像在一粒米上雕刻出一座完整的城市。&lt;/p>
 &lt;p>而建造这些&amp;quot;微观城市&amp;quot;的工厂，叫做&lt;strong>晶圆代工厂&lt;/strong>。&lt;/p>
