@@ -1,4 +1,206 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Dondrub3 | 3P实验室</title><link>https://dondrub3.com/</link><description>Recent content on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Thu, 21 May 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/index.xml" rel="self" type="application/rss+xml"/><item><title>鹏鼎控股：AI算力时代的'神经网络'</title><link>https://dondrub3.com/jibai/2026-05-21-%E9%B9%8F%E9%BC%8E%E6%8E%A7%E8%82%A1/</link><pubDate>Thu, 21 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-21-%E9%B9%8F%E9%BC%8E%E6%8E%A7%E8%82%A1/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Dondrub3 | 3P实验室</title><link>https://dondrub3.com/</link><description>Recent content on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Fri, 22 May 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/index.xml" rel="self" type="application/rss+xml"/><item><title>兆易创新：每一台智能设备的记忆库</title><link>https://dondrub3.com/jibai/2026-05-22-%E5%85%86%E6%98%93%E5%88%9B%E6%96%B0/</link><pubDate>Fri, 22 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-22-%E5%85%86%E6%98%93%E5%88%9B%E6%96%B0/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚用手机拍了一张照片，下一秒打开微信准备发给朋友，相册里那张照片已经出现在最近图片的第一位。你以为是巧合，其实背后是存储芯片在毫秒级完成数据写入和读取。&lt;/p>
+&lt;p>每一次解锁手机、每一次打开APP、每一次语音助手回应你的呼唤，都有数十亿个晶体管在同时工作。这些晶体管需要被&amp;quot;记住&amp;quot;——它们的状态、它们的数据、它们的连接关系——就像人脑需要记忆来思考一样。&lt;/p>
+&lt;p>而存储这些数据的&amp;quot;记忆库&amp;quot;，叫做&lt;strong>存储芯片&lt;/strong>。&lt;/p>
+&lt;p>当AI手机、智能汽车、物联网设备爆发式增长，这些&amp;quot;记忆库&amp;quot;的需求量也在指数级攀升。问题是：生产这些&amp;quot;记忆库&amp;quot;的工厂，产能跟得上吗？&lt;/p>
+&lt;p>这就是今天市场疯狂追捧兆易创新的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2025年5月22日，半导体板块集体拉升，兆易创新股价创历史新高。&lt;/p>
+&lt;p>表面看，这是受中美贸易谈判缓和的刺激——全球科技股风险偏好回升，资金涌入成长板块。按理说，贸易缓和利好出口导向的消费电子、利好跨境电商，和半导体八竿子打不着。但市场偏偏选了半导体——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的国产替代加速预期&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>存储芯片的国产替代正在从&amp;quot;概念&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>兆易创新，国内存储芯片设计龙头，2025年以来股价涨幅超过80%，市值突破2800亿。&lt;/p>
+&lt;p>不是因为贸易摩擦的情绪炒作，而是因为它的NOR Flash和MCU产品正在AI终端和汽车电子领域实现放量。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
+&lt;p>让我们回到那个手机拍照的场景。&lt;/p>
+&lt;p>2023年，ChatGPT引爆AI浪潮，市场开始炒作算力概念。但当时大家只关注GPU、光模块，存储芯片被忽视——毕竟，&amp;ldquo;内存&amp;quot;听起来不如&amp;quot;算力&amp;quot;性感。&lt;/p>
+&lt;p>2024年，市场意识到一个关键问题：AI不只是云端的事，端侧AI（手机、PC、IoT设备）才是更大的战场。而端侧AI对存储的需求，比传统设备高出数倍——一部AI手机需要的存储容量是普通手机的2-3倍。&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>存储芯片从&amp;quot;配角&amp;quot;变成&amp;quot;刚需&amp;rdquo;&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为AI模型和存储芯片的关系，不是简单的&amp;quot;一对一&amp;quot;。一个大模型参数文件动辄几十GB，运行时需要频繁读取和写入中间结果。当AI应用从&amp;quot;云端推理&amp;quot;扩展到&amp;quot;端侧运行&amp;quot;时，存储芯片的需求量不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>更关键的是，存储芯片正在经历一轮技术迭代——从NOR Flash向利基型DRAM延伸，从消费级向车规级升级。这意味着，旧的产品格局正在被打破，新的龙头正在崛起。&lt;/p>
+&lt;p>兆易创新的车规级NOR Flash已经开始向头部车企批量供货。这不是概念，是订单。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>存储芯片的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——看存储价格周期、看产能利用率、看库存水位。这个逻辑在PC时代是对的，但在AI时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>2025年上半年，兆易创新营收同比增长35%，净利润同比增长超过200%&lt;/li>
+&lt;li>NOR Flash全球市场份额18.5%，跃升至全球第二、内地第一&lt;/li>
+&lt;li>车规级MCU出货量同比增长超过150%，打入多家头部车企供应链&lt;/li>
+&lt;li>利基型DRAM业务增速超过80%，成为新的增长引擎&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着兆易创新正在从&amp;quot;周期股&amp;quot;变成&amp;quot;成长股&amp;quot;。传统的存储需求跟着PC和手机销量波动，但AI终端和汽车电子带来的需求是结构性、持续性的——只要AI化趋势还在，存储升级就不会停。&lt;/p>
+&lt;p>市场愿意给兆易创新更高估值的原因：它不再是一家&amp;quot;存储芯片设计公司&amp;quot;，而是&amp;quot;智能设备的记忆基础设施提供商&amp;quot;。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是兆易创新，而不是其他半导体公司？&lt;/p>
+&lt;p>存储芯片领域有很多玩家，为什么兆易创新能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，技术领先。&lt;/strong> 兆易创新是全球率先实现45nm节点SPI NOR Flash大规模量产的公司之一，在38nm SLC NAND和利基型DRAM领域也保持代际领先。技术代差意味着更高的毛利率和更强的定价权。&lt;/p>
+&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> 车规级芯片的认证周期长达2-3年，一旦进入车企供应链，切换成本极高。兆易创新已经与多家头部车企建立稳定合作关系，形成了强大的客户粘性。&lt;/p>
+&lt;p>&lt;strong>第三，生态协同。&lt;/strong> &amp;ldquo;存储+MCU&amp;quot;双轮驱动战略让公司能够为AIoT和汽车电子提供一站式解决方案。客户买的不是单一产品，而是完整的芯片组合。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。兆易创新花了20年，投入了数百亿研发资金，才形成了今天的技术积累和客户网络。&lt;/p>
+&lt;p>竞争对手可以模仿它的某一款产品，但很难复制它的生态位。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越普及，端侧设备越智能；端侧设备越智能，存储需求越旺盛；存储需求越旺盛，兆易创新越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI终端和汽车电子的存储需求正在爆发式增长，存储芯片从周期品变成必需品。&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：端侧AI渗透率越高，对高容量、高性能存储芯片的需求就越大，车规级产品的认证壁垒保证了龙头地位的持续性。&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：作为全球NOR Flash第二、国产MCU龙头，兆易创新在AIoT和汽车电子双赛道同时受益，业绩进入高速增长期。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>【全球流动性收紧预期升温 资产配置应更重视抗波动能力】一边是国际油价持续高位运行带动多个经济体通胀率回升，一边是部分央行陆续开启加息以应对通胀压力，当前市场对全: 3P框架深度解读</title><link>https://dondrub3.com/posts/2026-05-22-/</link><pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate><guid>https://dondrub3.com/posts/2026-05-22-/</guid><description>&lt;blockquote>
+&lt;p>当【全球流动性收紧预期升温 资产配置应更重&amp;hellip;背后隐藏着什么样的系统机制？&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="导语">导语&lt;/h2>
+&lt;p>近日，【全球流动性收紧预期升温 资产配置应更重视抗波动能力】一边是国际油价持续高位运行带动多个经济体通胀率回升，一边是部分央行陆续开启加息以应对通胀压力，当前市场对全引发广泛关注。&lt;/p>
+&lt;p>这一事件不仅涉及表面层面的变化，更触及系统机制、心理认知与价值选择的深层议题。让我们通过3P框架（Physics/Psychology/Philosophy），从物理规律、群体行为、哲学意义三个维度进行深度解读。&lt;/p>
+&lt;p>本文基于LLM评分系统对热点的3P适配度分析，Physics维度评分揭示了系统结构性特征，Psychology维度评分反映了群体心理动态，Philosophy维度评分指出了价值层面的深层意义。&lt;/p>
+&lt;hr>
+&lt;h2 id="-physics-系统机制与结构性分析">🔬 Physics: 系统机制与结构性分析&lt;/h2>
+&lt;p>&lt;strong>评分: 8.0/5&lt;/strong>&lt;/p>
+&lt;p>该事件涉及全球流动性变化，这是一个复杂的经济系统现象，涉及货币政策、通胀率、利率等多个经济变量之间的相互作用和因果链条。可以分析的具体角度包括：1)各国央行货币政策对流动性的影响机制；2)通胀率变化对经济体和市场的影响；3)流动性变化对大类资产配置的影响。潜在的洞察点包括：流动性收紧对经济增长和金融市场的长期影响，以及不同资产类别在流动性变化中的相对表现。&lt;/p>
+&lt;p>&lt;strong>深层机制解析:&lt;/strong>&lt;/p>
+&lt;p>从Physics维度深入分析，这一事件涉及以下关键机制：&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>系统结构影响&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>事件如何通过现有系统层级传递影响&lt;/li>
+&lt;li>关键节点和传导路径识别&lt;/li>
+&lt;li>系统反馈回路的正负效应&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>临界点与相变&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>当前处于系统演化的哪个阶段&lt;/li>
+&lt;li>触发质变的潜在条件&lt;/li>
+&lt;li>历史类似事件的对比参照&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>资源与约束&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>核心资源的分布与流动&lt;/li>
+&lt;li>物理/技术/制度的硬性约束&lt;/li>
+&lt;li>规模化与边际效应分析&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;p>&lt;strong>Physics核心洞察&lt;/strong>: 任何现象背后都有可分析的物理机制，理解机制才能预测趋势。&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-psychology-群体心理与行为模式">🧠 Psychology: 群体心理与行为模式&lt;/h2>
+&lt;p>&lt;strong>评分: 7.0/5&lt;/strong>&lt;/p>
+&lt;p>该事件涉及市场参与者对流动性收紧预期的心理反应和行为模式。可以分析的具体角度包括：1)市场参与者如何基于通胀和利率变化形成预期；2)预期如何影响市场情绪和交易行为；3)不同市场主体（如央行、投资者、企业）的心理和行为差异。潜在的洞察点包括：预期对市场波动性的放大效应，以及预期与实际流动性变化之间的偏差。&lt;/p>
+&lt;p>&lt;strong>心理动力学分析:&lt;/strong>&lt;/p>
+&lt;p>从Psychology维度，我们需要关注参与者的深层心理机制：&lt;/p>
+&lt;p>&lt;strong>1. 认知偏差识别&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>可得性偏差&lt;/strong>: 是否过度关注近期/显著的信息？&lt;/li>
+&lt;li>&lt;strong>锚定效应&lt;/strong>: 是否被初始信息过度影响判断？&lt;/li>
+&lt;li>&lt;strong>从众心理&lt;/strong>: 群体行为是否放大了某些趋势？&lt;/li>
+&lt;li>&lt;strong>损失厌恶&lt;/strong>: 对损失的恐惧是否扭曲了决策？&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2. 情绪周期位置&lt;/strong>
+当前市场/群体可能处于情绪周期的哪个阶段：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>否认期&lt;/strong>: &amp;ldquo;这不会影响到我&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>恐慌期&lt;/strong>: &amp;ldquo;必须立即行动&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>接受期&lt;/strong>: &amp;ldquo;这就是新常态&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>适应期&lt;/strong>: &amp;ldquo;找到新的平衡&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>3. 行为模式预测&lt;/strong>
+基于心理分析，预测可能的群体行为演变：&lt;/p>
+&lt;ul>
+&lt;li>短期反应与长期适应&lt;/li>
+&lt;li>反馈循环的自我强化&lt;/li>
+&lt;li>潜在的认知失调与修正&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;strong>Psychology核心洞察&lt;/strong>: 理解群体心理，才能避免被情绪裹挟，做出理性决策。&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-philosophy-价值选择与长期意义">🏛️ Philosophy: 价值选择与长期意义&lt;/h2>
+&lt;p>&lt;strong>评分: 5.0/5&lt;/strong>&lt;/p></description></item><item><title>luckyPipewrench / pipelock: 3P框架深度解读</title><link>https://dondrub3.com/posts/2026-05-22-luckypipewrench-pipel/</link><pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate><guid>https://dondrub3.com/posts/2026-05-22-luckypipewrench-pipel/</guid><description>&lt;blockquote>
+&lt;p>当luckyPipewrench / &amp;hellip;背后隐藏着什么样的系统机制？&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="导语">导语&lt;/h2>
+&lt;p>近日，luckyPipewrench / pipelock引发广泛关注。&lt;/p>
+&lt;p>这一事件不仅涉及表面层面的变化，更触及系统机制、心理认知与价值选择的深层议题。让我们通过3P框架（Physics/Psychology/Philosophy），从物理规律、群体行为、哲学意义三个维度进行深度解读。&lt;/p>
+&lt;p>本文基于LLM评分系统对热点的3P适配度分析，Physics维度评分揭示了系统结构性特征，Psychology维度评分反映了群体心理动态，Philosophy维度评分指出了价值层面的深层意义。&lt;/p>
+&lt;hr>
+&lt;h2 id="-physics-系统机制与结构性分析">🔬 Physics: 系统机制与结构性分析&lt;/h2>
+&lt;p>&lt;strong>评分: 9.0/5&lt;/strong>&lt;/p>
+&lt;p>该事件涉及的核心机制包括人工智能、网络安全和数据泄露防护等技术领域。具体角度可以包括AI代理防火墙的技术实现、数据丢失防护（DLP）的机制、服务器请求伪造（SSRF）的防御策略以及对提示注入攻击的防护措施。潜在的洞察点包括如何通过技术手段提高MCP（消息队列协议）的安全性，以及这些技术如何影响数据传输和处理的效率和安全性。&lt;/p>
+&lt;p>&lt;strong>深层机制解析:&lt;/strong>&lt;/p>
+&lt;p>从Physics维度深入分析，这一事件涉及以下关键机制：&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>系统结构影响&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>事件如何通过现有系统层级传递影响&lt;/li>
+&lt;li>关键节点和传导路径识别&lt;/li>
+&lt;li>系统反馈回路的正负效应&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>临界点与相变&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>当前处于系统演化的哪个阶段&lt;/li>
+&lt;li>触发质变的潜在条件&lt;/li>
+&lt;li>历史类似事件的对比参照&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>资源与约束&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>核心资源的分布与流动&lt;/li>
+&lt;li>物理/技术/制度的硬性约束&lt;/li>
+&lt;li>规模化与边际效应分析&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;p>&lt;strong>Physics核心洞察&lt;/strong>: 任何现象背后都有可分析的物理机制，理解机制才能预测趋势。&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-psychology-群体心理与行为模式">🧠 Psychology: 群体心理与行为模式&lt;/h2>
+&lt;p>&lt;strong>评分: 3.0/5&lt;/strong>&lt;/p>
+&lt;p>虽然该事件主要涉及技术层面，但可以探讨开发者群体在面对网络安全威胁时的心理反应和行为模式。例如，开发者可能存在的认知偏差，如过度自信或风险低估，以及这些偏差如何影响他们设计和实施安全措施。此外，可以分析开发者在面对不断演变的网络威胁时的情绪驱动因素，如焦虑和紧迫感，以及这些情绪如何影响他们的决策和行为。&lt;/p>
+&lt;p>&lt;strong>心理动力学分析:&lt;/strong>&lt;/p>
+&lt;p>从Psychology维度，我们需要关注参与者的深层心理机制：&lt;/p>
+&lt;p>&lt;strong>1. 认知偏差识别&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>可得性偏差&lt;/strong>: 是否过度关注近期/显著的信息？&lt;/li>
+&lt;li>&lt;strong>锚定效应&lt;/strong>: 是否被初始信息过度影响判断？&lt;/li>
+&lt;li>&lt;strong>从众心理&lt;/strong>: 群体行为是否放大了某些趋势？&lt;/li>
+&lt;li>&lt;strong>损失厌恶&lt;/strong>: 对损失的恐惧是否扭曲了决策？&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2. 情绪周期位置&lt;/strong>
+当前市场/群体可能处于情绪周期的哪个阶段：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>否认期&lt;/strong>: &amp;ldquo;这不会影响到我&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>恐慌期&lt;/strong>: &amp;ldquo;必须立即行动&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>接受期&lt;/strong>: &amp;ldquo;这就是新常态&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>适应期&lt;/strong>: &amp;ldquo;找到新的平衡&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>3. 行为模式预测&lt;/strong>
+基于心理分析，预测可能的群体行为演变：&lt;/p>
+&lt;ul>
+&lt;li>短期反应与长期适应&lt;/li>
+&lt;li>反馈循环的自我强化&lt;/li>
+&lt;li>潜在的认知失调与修正&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;strong>Psychology核心洞察&lt;/strong>: 理解群体心理，才能避免被情绪裹挟，做出理性决策。&lt;/p></description></item><item><title>鹏鼎控股：AI算力时代的'神经网络'</title><link>https://dondrub3.com/jibai/2026-05-21-%E9%B9%8F%E9%BC%8E%E6%8E%A7%E8%82%A1/</link><pubDate>Thu, 21 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-21-%E9%B9%8F%E9%BC%8E%E6%8E%A7%E8%82%A1/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
 &lt;p>你刚在手机上刷了一条短视频，两分钟后打开购物App，首页就精准推送了同款商品。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p>
 &lt;p>每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的神经网络传递信号一样。&lt;/p>
 &lt;p>而连接这些服务器的&amp;quot;神经网络&amp;quot;，叫做&lt;strong>PCB（印制电路板）&lt;/strong>。&lt;/p>
