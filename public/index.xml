@@ -1,4 +1,405 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Dondrub3 | 3P实验室</title><link>https://dondrub3.com/</link><description>Recent content on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Fri, 22 May 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/index.xml" rel="self" type="application/rss+xml"/><item><title>兆易创新：每一台智能设备的记忆库</title><link>https://dondrub3.com/jibai/2026-05-22-%E5%85%86%E6%98%93%E5%88%9B%E6%96%B0/</link><pubDate>Fri, 22 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-22-%E5%85%86%E6%98%93%E5%88%9B%E6%96%B0/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Dondrub3 | 3P实验室</title><link>https://dondrub3.com/</link><description>Recent content on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Mon, 25 May 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/index.xml" rel="self" type="application/rss+xml"/><item><title>江波龙：从华强北柜台到AI存储龙头的逆袭</title><link>https://dondrub3.com/jibai/2026-05-25-%E6%B1%9F%E6%B3%A2%E9%BE%99/</link><pubDate>Mon, 25 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-25-%E6%B1%9F%E6%B3%A2%E9%BE%99/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在手机上拍了一段4K视频，点击保存后，两秒后就出现在了相册里。你以为是手机反应快，其实背后是&lt;strong>存储芯片&lt;/strong>在以每秒数千兆字节的速度写入数据。&lt;/p>
+&lt;p>每一次拍照、每一次下载APP、每一次游戏存档，都有数十亿个存储单元在同时工作。这些存储单元之间，需要被精准地寻址、读写、管理——就像一座超级图书馆，需要在毫秒级时间内找到并调取任何一本书。&lt;/p>
+&lt;p>而负责管理这些&amp;quot;数字图书馆&amp;quot;的&lt;strong>存储模组&lt;/strong>，叫做&lt;strong>企业级SSD&lt;/strong>。&lt;/p>
+&lt;p>当AI大模型开始吞噬海量数据，当每一台AI服务器需要配置14-16TB的企业级SSD，这些&amp;quot;数字图书馆&amp;quot;的需求量正在呈指数级增长。问题是：生产这些&amp;quot;图书馆&amp;quot;的中国工厂，产能跟得上吗？&lt;/p>
+&lt;p>这就是今天市场疯狂追捧&lt;strong>江波龙&lt;/strong>的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年5月，A股存储芯片板块持续走强，江波龙股价创下上市以来新高。&lt;/p>
+&lt;p>表面看，这是受英伟达财报超预期的刺激——全球AI算力需求持续爆发，存储产业链集体受益。按理说，英伟达利好的是光模块、算力芯片，和存储模组八竿子打不着。但市场偏偏选了存储——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的AI算力基础设施需求&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI服务器存储需求正在从&amp;quot;配角&amp;quot;走向&amp;quot;刚需&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>江波龙，中国存储模组龙头，2026年一季度净利润同比增长近20倍，企业级SSD手握130亿元订单排期至2027年二季度。&lt;/p>
+&lt;p>不是因为消费复苏，而是因为AI算力革命带来的存储需求井喷。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要了">【第一个故事】为什么突然重要了&lt;/h2>
+&lt;p>让我们回到那个拍视频的场景。&lt;/p>
+&lt;p>2023年，ChatGPT横空出世，市场开始炒作&amp;quot;AI概念&amp;quot;。但当时大家只关注GPU、光模块，存储只是配角。&lt;/p>
+&lt;p>2024年，大模型训练需求爆发，市场意识到HBM（高带宽内存）的重要性。但企业级SSD仍被忽视。&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>AI推理需求爆发，企业级存储成为瓶颈&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为AI训练与AI推理对存储的需求，不是简单的&amp;quot;一对一&amp;quot;。一台AI训练服务器需要8卡HBM、14-16TB企业级SSD、10-12张DRAM内存条。当应用场景从&amp;quot;训练&amp;quot;扩展到&amp;quot;推理+边缘计算&amp;quot;时，存储的需求量不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>更关键的是，&lt;strong>2026年HBM月产能将扩至47.6万片，但DDR5月缺口仍达20万片&lt;/strong>。海外存储大厂产能都去搞利润更高的HBM，普通存储产能严重不足。&lt;/p>
+&lt;p>江波龙的企业级SSD已经开始批量供货阿里云、腾讯云、浪潮等头部厂商。这不是概念，是&lt;strong>130亿元订单&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>存储行业的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——存储价格跟着供需周期波动，赚钱靠天吃饭。这个逻辑在2019-2023年是对的，但在AI时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>2025年营收&lt;/strong>：预计同比增长超50%&lt;/li>
+&lt;li>&lt;strong>2026年Q1净利润&lt;/strong>：同比增长近20倍&lt;/li>
+&lt;li>&lt;strong>企业级SSD订单&lt;/strong>：130亿元，排期至2027年Q2&lt;/li>
+&lt;li>&lt;strong>AI端侧存储收入&lt;/strong>：2026年Q1同比+496.45%&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着江波龙正在从&amp;quot;存储模组商&amp;quot;变成&amp;quot;AI基础设施提供商&amp;quot;。传统的存储需求跟着消费电子周期波动，但AI带来的需求是&lt;strong>刚性且持续&lt;/strong>的——只要AI算力还在扩张，存储需求就不会停。&lt;/p>
+&lt;p>市场愿意给江波龙更高估值的原因：它不再是一家&amp;quot;周期股&amp;quot;，而是&amp;quot;AI时代的卖铲人&amp;quot;。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是江波龙，而不是其他存储公司？&lt;/p>
+&lt;p>存储模组行业有很多玩家，为什么江波龙能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，全场景覆盖。&lt;/strong> 江波龙是国内唯一同时布局消费级、企业级、车规级、工业级存储的厂商。嵌入式存储占43.68%、固态硬盘占27.68%、移动存储占22.99%——这种多元化布局平滑了周期波动。&lt;/p>
+&lt;p>&lt;strong>第二，品牌壁垒。&lt;/strong> 2017年收购全球消费级存储品牌Lexar（雷克沙），2023年收购巴西头部存储厂商Zilia。Lexar品牌2023年B2C收入在全球独立存储器品牌中排名第二。&lt;/p>
+&lt;p>&lt;strong>第三，车规级先发优势。&lt;/strong> 国内唯一同时打入国际大厂车规级存储供应链的企业，车规级业务受消费周期波动影响小，盈利稳定性显著高于同行。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。创始人蔡华波1999年从华强北柜台起步，&lt;strong>花了26年&lt;/strong>，才将江波龙打造成全球第二大独立存储器厂商。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品，但很难复制它的&lt;strong>品牌积累+全球渠道+车规级认证&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越聪明，数据存储需求越大；存储需求越大，企业级SSD越紧缺；企业级SSD越紧缺，江波龙越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求正在爆发式增长，数据中心的算力规模持续扩张&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：海外存储大厂产能向HBM倾斜，普通存储产能严重不足，企业级SSD成为瓶颈&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：作为全球存储模组龙头，江波龙企业级SSD手握130亿元订单，业绩进入高速增长期&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>【年内跌幅超过20% 保险板块凸显低估值配置价值】今年以来，在资本市场整体上涨行情中，保险股作为大盘重要成分股却累计下跌超过20%。这一现象背后，是市场资金偏好: 3P框架深度解读</title><link>https://dondrub3.com/posts/2026-05-25-20/</link><pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate><guid>https://dondrub3.com/posts/2026-05-25-20/</guid><description>&lt;blockquote>
+&lt;p>当【年内跌幅超过20% 保险板块凸显低估值&amp;hellip;背后隐藏着什么样的系统机制？&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="导语">导语&lt;/h2>
+&lt;p>近日，【年内跌幅超过20% 保险板块凸显低估值配置价值】今年以来，在资本市场整体上涨行情中，保险股作为大盘重要成分股却累计下跌超过20%。这一现象背后，是市场资金偏好引发广泛关注。&lt;/p>
+&lt;p>这一事件不仅涉及表面层面的变化，更触及系统机制、心理认知与价值选择的深层议题。让我们通过3P框架（Physics/Psychology/Philosophy），从物理规律、群体行为、哲学意义三个维度进行深度解读。&lt;/p>
+&lt;p>本文基于LLM评分系统对热点的3P适配度分析，Physics维度评分揭示了系统结构性特征，Psychology维度评分反映了群体心理动态，Philosophy维度评分指出了价值层面的深层意义。&lt;/p>
+&lt;hr>
+&lt;h2 id="-physics-系统机制与结构性分析">🔬 Physics: 系统机制与结构性分析&lt;/h2>
+&lt;p>&lt;strong>评分: 7.0/5&lt;/strong>&lt;/p>
+&lt;p>该事件涉及金融市场的系统结构和资本流动规律，核心机制包括市场资金偏好、资产端盈利逻辑等。可从市场资金偏好的变化、险企资产端盈利逻辑的稳定性和市场预期的角度进行分析。潜在的洞察点在于理解市场资金偏好分化对保险股价格的影响，以及资产端盈利逻辑变化对保险股长期价值的影响。&lt;/p>
+&lt;p>&lt;strong>深层机制解析:&lt;/strong>&lt;/p>
+&lt;p>从Physics维度深入分析，这一事件涉及以下关键机制：&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>系统结构影响&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>事件如何通过现有系统层级传递影响&lt;/li>
+&lt;li>关键节点和传导路径识别&lt;/li>
+&lt;li>系统反馈回路的正负效应&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>临界点与相变&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>当前处于系统演化的哪个阶段&lt;/li>
+&lt;li>触发质变的潜在条件&lt;/li>
+&lt;li>历史类似事件的对比参照&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>资源与约束&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>核心资源的分布与流动&lt;/li>
+&lt;li>物理/技术/制度的硬性约束&lt;/li>
+&lt;li>规模化与边际效应分析&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;p>&lt;strong>Physics核心洞察&lt;/strong>: 任何现象背后都有可分析的物理机制，理解机制才能预测趋势。&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-psychology-群体心理与行为模式">🧠 Psychology: 群体心理与行为模式&lt;/h2>
+&lt;p>&lt;strong>评分: 6.0/5&lt;/strong>&lt;/p>
+&lt;p>该事件涉及市场参与者的心理和行为模式。涉及的群体心理可能包括对保险股的过度悲观预期、对市场资金偏好变化的跟随行为等。行为模式的形成机制可能与市场情绪、信息传播和羊群效应有关。情绪驱动因素可能包括对市场不确定性的担忧、对保险股未来盈利能力的怀疑等。&lt;/p>
+&lt;p>&lt;strong>心理动力学分析:&lt;/strong>&lt;/p>
+&lt;p>从Psychology维度，我们需要关注参与者的深层心理机制：&lt;/p>
+&lt;p>&lt;strong>1. 认知偏差识别&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>可得性偏差&lt;/strong>: 是否过度关注近期/显著的信息？&lt;/li>
+&lt;li>&lt;strong>锚定效应&lt;/strong>: 是否被初始信息过度影响判断？&lt;/li>
+&lt;li>&lt;strong>从众心理&lt;/strong>: 群体行为是否放大了某些趋势？&lt;/li>
+&lt;li>&lt;strong>损失厌恶&lt;/strong>: 对损失的恐惧是否扭曲了决策？&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2. 情绪周期位置&lt;/strong>
+当前市场/群体可能处于情绪周期的哪个阶段：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>否认期&lt;/strong>: &amp;ldquo;这不会影响到我&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>恐慌期&lt;/strong>: &amp;ldquo;必须立即行动&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>接受期&lt;/strong>: &amp;ldquo;这就是新常态&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>适应期&lt;/strong>: &amp;ldquo;找到新的平衡&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>3. 行为模式预测&lt;/strong>
+基于心理分析，预测可能的群体行为演变：&lt;/p>
+&lt;ul>
+&lt;li>短期反应与长期适应&lt;/li>
+&lt;li>反馈循环的自我强化&lt;/li>
+&lt;li>潜在的认知失调与修正&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;strong>Psychology核心洞察&lt;/strong>: 理解群体心理，才能避免被情绪裹挟，做出理性决策。&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-philosophy-价值选择与长期意义">🏛️ Philosophy: 价值选择与长期意义&lt;/h2>
+&lt;p>&lt;strong>评分: 5.0/5&lt;/strong>&lt;/p></description></item><item><title>系统视角：【锂矿企业重启'赚钱模式'】天齐锂业盈利最高预增18倍，盐湖股份、藏格矿业净利润倍增，赣锋锂业大幅扭</title><link>https://dondrub3.com/posts/2026-05-25-%E9%94%82%E7%9F%BF%E4%BC%81%E4%B8%9A%E9%87%8D%E5%90%AF%E8%B5%9A%E9%92%B1%E6%A8%A1%E5%BC%8F%E5%A4%A9%E9%BD%90%E9%94%82%E4%B8%9A%E7%9B%88%E5%88%A9%E6%9C%80%E9%AB%98%E9%A2%84%E5%A2%9E18%E5%80%8D%E7%9B%90%E6%B9%96%E8%82%A1%E4%BB%BD%E8%97%8F%E6%A0%BC%E7%9F%BF/</link><pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate><guid>https://dondrub3.com/posts/2026-05-25-%E9%94%82%E7%9F%BF%E4%BC%81%E4%B8%9A%E9%87%8D%E5%90%AF%E8%B5%9A%E9%92%B1%E6%A8%A1%E5%BC%8F%E5%A4%A9%E9%BD%90%E9%94%82%E4%B8%9A%E7%9B%88%E5%88%A9%E6%9C%80%E9%AB%98%E9%A2%84%E5%A2%9E18%E5%80%8D%E7%9B%90%E6%B9%96%E8%82%A1%E4%BB%BD%E8%97%8F%E6%A0%BC%E7%9F%BF/</guid><description>【锂矿企业重启&amp;rsquo;赚钱模式&amp;rsquo;】天齐锂业盈利最高预增18倍，盐湖股份、藏格矿业净利润倍增，赣锋锂业大幅扭亏……总体来看，在下&amp;hellip;这一事件表面上是企业业绩的波动，但背后反映的是新能源产业链的深层结构性变化。让我们通过3P框架，剖析这场&amp;quot;锂矿复苏&amp;quot;背后的系统逻辑、心理机制与价值意涵。&amp;hellip;</description></item><item><title>【特朗普称可能于24日决定是否恢复对伊军事行动】美国总统特朗普当地时间5月23日表示，他将于当天晚些时候与谈判团队会面，讨论伊朗方面最新提议，并可能于24日决定: 3P框架深度解读</title><link>https://dondrub3.com/posts/2026-05-24-24/</link><pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate><guid>https://dondrub3.com/posts/2026-05-24-24/</guid><description>&lt;blockquote>
+&lt;p>【特朗普称可能于24日决定是否恢复对伊军&amp;hellip;引发了哪些关于价值与意义的深层思考？&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="导语">导语&lt;/h2>
+&lt;p>近日，【特朗普称可能于24日决定是否恢复对伊军事行动】美国总统特朗普当地时间5月23日表示，他将于当天晚些时候与谈判团队会面，讨论伊朗方面最新提议，并可能于24日决定引发广泛关注。&lt;/p>
+&lt;p>这一事件不仅涉及表面层面的变化，更触及系统机制、心理认知与价值选择的深层议题。让我们通过3P框架（Physics/Psychology/Philosophy），从物理规律、群体行为、哲学意义三个维度进行深度解读。&lt;/p>
+&lt;p>本文基于LLM评分系统对热点的3P适配度分析，Physics维度评分揭示了系统结构性特征，Psychology维度评分反映了群体心理动态，Philosophy维度评分指出了价值层面的深层意义。&lt;/p>
+&lt;hr>
+&lt;h2 id="-physics-系统机制与结构性分析">🔬 Physics: 系统机制与结构性分析&lt;/h2>
+&lt;p>&lt;strong>评分: 7.0/5&lt;/strong>&lt;/p>
+&lt;p>此事件涉及国际政治和军事行动的系统结构，包括美国与伊朗之间的紧张关系、核协议的谈判过程以及潜在的军事冲突。核心机制包括国际关系的权力平衡、军事行动的威慑效应以及外交谈判的动态。可展开分析的具体角度包括美国对伊朗政策的演变、军事行动的潜在后果以及核协议对地区稳定的长远影响。潜在的洞察点在于评估美国决策过程中的军事与外交政策的相互作用，以及这些政策如何影响全球安全格局。&lt;/p>
+&lt;p>&lt;strong>深层机制解析:&lt;/strong>&lt;/p>
+&lt;p>从Physics维度深入分析，这一事件涉及以下关键机制：&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>系统结构影响&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>事件如何通过现有系统层级传递影响&lt;/li>
+&lt;li>关键节点和传导路径识别&lt;/li>
+&lt;li>系统反馈回路的正负效应&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>临界点与相变&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>当前处于系统演化的哪个阶段&lt;/li>
+&lt;li>触发质变的潜在条件&lt;/li>
+&lt;li>历史类似事件的对比参照&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>资源与约束&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>核心资源的分布与流动&lt;/li>
+&lt;li>物理/技术/制度的硬性约束&lt;/li>
+&lt;li>规模化与边际效应分析&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;p>&lt;strong>Physics核心洞察&lt;/strong>: 任何现象背后都有可分析的物理机制，理解机制才能预测趋势。&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-psychology-群体心理与行为模式">🧠 Psychology: 群体心理与行为模式&lt;/h2>
+&lt;p>&lt;strong>评分: 6.0/5&lt;/strong>&lt;/p>
+&lt;p>该事件涉及国际政治中的决策心理和群体行为。特朗普的言论反映了领导者在高压情境下的风险评估和决策过程。涉及的群体心理包括美国和伊朗民众对军事行动的态度和预期，以及这些态度如何影响两国政府的决策。行为模式的形成机制可能包括对历史冲突的记忆、当前紧张局势的感知以及对未来发展的预测。情绪驱动因素可能包括民族主义情绪、对外部威胁的恐惧以及对和平解决争端的渴望。&lt;/p>
+&lt;p>&lt;strong>心理动力学分析:&lt;/strong>&lt;/p>
+&lt;p>从Psychology维度，我们需要关注参与者的深层心理机制：&lt;/p>
+&lt;p>&lt;strong>1. 认知偏差识别&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>可得性偏差&lt;/strong>: 是否过度关注近期/显著的信息？&lt;/li>
+&lt;li>&lt;strong>锚定效应&lt;/strong>: 是否被初始信息过度影响判断？&lt;/li>
+&lt;li>&lt;strong>从众心理&lt;/strong>: 群体行为是否放大了某些趋势？&lt;/li>
+&lt;li>&lt;strong>损失厌恶&lt;/strong>: 对损失的恐惧是否扭曲了决策？&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2. 情绪周期位置&lt;/strong>
+当前市场/群体可能处于情绪周期的哪个阶段：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>否认期&lt;/strong>: &amp;ldquo;这不会影响到我&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>恐慌期&lt;/strong>: &amp;ldquo;必须立即行动&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>接受期&lt;/strong>: &amp;ldquo;这就是新常态&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>适应期&lt;/strong>: &amp;ldquo;找到新的平衡&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>3. 行为模式预测&lt;/strong>
+基于心理分析，预测可能的群体行为演变：&lt;/p>
+&lt;ul>
+&lt;li>短期反应与长期适应&lt;/li>
+&lt;li>反馈循环的自我强化&lt;/li>
+&lt;li>潜在的认知失调与修正&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;strong>Psychology核心洞察&lt;/strong>: 理解群体心理，才能避免被情绪裹挟，做出理性决策。&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-philosophy-价值选择与长期意义">🏛️ Philosophy: 价值选择与长期意义&lt;/h2>
+&lt;p>&lt;strong>评分: 8.0/5&lt;/strong>&lt;/p></description></item><item><title>据法尔斯通讯社报道称，尽管伊朗同意允许通过霍尔木兹海峡的船只数量恢复至战前水平，但这并不意味着“自由通行”。 分享 收藏 详情 复制: 3P框架深度解读</title><link>https://dondrub3.com/posts/2026-05-24-/</link><pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate><guid>https://dondrub3.com/posts/2026-05-24-/</guid><description>&lt;blockquote>
+&lt;p>据法尔斯通讯社报道称，尽管伊朗同意允许通&amp;hellip;引发了哪些关于价值与意义的深层思考？&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="导语">导语&lt;/h2>
+&lt;p>近日，据法尔斯通讯社报道称，尽管伊朗同意允许通过霍尔木兹海峡的船只数量恢复至战前水平，但这并不意味着“自由通行”。 分享 收藏 详情 复制引发广泛关注。&lt;/p>
+&lt;p>这一事件不仅涉及表面层面的变化，更触及系统机制、心理认知与价值选择的深层议题。让我们通过3P框架（Physics/Psychology/Philosophy），从物理规律、群体行为、哲学意义三个维度进行深度解读。&lt;/p>
+&lt;p>本文基于LLM评分系统对热点的3P适配度分析，Physics维度评分揭示了系统结构性特征，Psychology维度评分反映了群体心理动态，Philosophy维度评分指出了价值层面的深层意义。&lt;/p>
+&lt;hr>
+&lt;h2 id="-physics-系统机制与结构性分析">🔬 Physics: 系统机制与结构性分析&lt;/h2>
+&lt;p>&lt;strong>评分: 7.0/5&lt;/strong>&lt;/p>
+&lt;p>该事件涉及国际政治和经济系统中的权力动态和资源控制机制。核心机制包括国际关系中的地缘政治影响、资源控制和经济制裁。具体分析角度可以包括霍尔木兹海峡的战略重要性、伊朗和阿曼的合作对全球石油运输的影响，以及美国对伊朗政策的地缘政治后果。潜在的洞察点在于分析如何通过国际合作和经济手段来平衡地区冲突和维护全球能源安全。&lt;/p>
+&lt;p>&lt;strong>深层机制解析:&lt;/strong>&lt;/p>
+&lt;p>从Physics维度深入分析，这一事件涉及以下关键机制：&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>系统结构影响&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>事件如何通过现有系统层级传递影响&lt;/li>
+&lt;li>关键节点和传导路径识别&lt;/li>
+&lt;li>系统反馈回路的正负效应&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>临界点与相变&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>当前处于系统演化的哪个阶段&lt;/li>
+&lt;li>触发质变的潜在条件&lt;/li>
+&lt;li>历史类似事件的对比参照&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>资源与约束&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>核心资源的分布与流动&lt;/li>
+&lt;li>物理/技术/制度的硬性约束&lt;/li>
+&lt;li>规模化与边际效应分析&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;p>&lt;strong>Physics核心洞察&lt;/strong>: 任何现象背后都有可分析的物理机制，理解机制才能预测趋势。&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-psychology-群体心理与行为模式">🧠 Psychology: 群体心理与行为模式&lt;/h2>
+&lt;p>&lt;strong>评分: 5.0/5&lt;/strong>&lt;/p>
+&lt;p>虽然这个事件主要涉及国际政治和经济层面，但也涉及心理层面。例如，涉及的群体心理可能包括国家间的不信任感、对权力和资源控制的争夺心理，以及对外部制裁和压力的反应。行为模式的形成机制可能与国家利益和战略目标的实现有关。情绪驱动因素可能包括对国家主权和尊严的维护，以及对经济利益的追求。&lt;/p>
+&lt;p>&lt;strong>心理动力学分析:&lt;/strong>&lt;/p>
+&lt;p>从Psychology维度，我们需要关注参与者的深层心理机制：&lt;/p>
+&lt;p>&lt;strong>1. 认知偏差识别&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>可得性偏差&lt;/strong>: 是否过度关注近期/显著的信息？&lt;/li>
+&lt;li>&lt;strong>锚定效应&lt;/strong>: 是否被初始信息过度影响判断？&lt;/li>
+&lt;li>&lt;strong>从众心理&lt;/strong>: 群体行为是否放大了某些趋势？&lt;/li>
+&lt;li>&lt;strong>损失厌恶&lt;/strong>: 对损失的恐惧是否扭曲了决策？&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2. 情绪周期位置&lt;/strong>
+当前市场/群体可能处于情绪周期的哪个阶段：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>否认期&lt;/strong>: &amp;ldquo;这不会影响到我&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>恐慌期&lt;/strong>: &amp;ldquo;必须立即行动&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>接受期&lt;/strong>: &amp;ldquo;这就是新常态&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>适应期&lt;/strong>: &amp;ldquo;找到新的平衡&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>3. 行为模式预测&lt;/strong>
+基于心理分析，预测可能的群体行为演变：&lt;/p>
+&lt;ul>
+&lt;li>短期反应与长期适应&lt;/li>
+&lt;li>反馈循环的自我强化&lt;/li>
+&lt;li>潜在的认知失调与修正&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;strong>Psychology核心洞察&lt;/strong>: 理解群体心理，才能避免被情绪裹挟，做出理性决策。&lt;/p></description></item><item><title>rohitg00 / ai-engineering-from-scratch: 3P框架深度解读</title><link>https://dondrub3.com/posts/2026-05-23-rohitg00-ai-engineeri/</link><pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate><guid>https://dondrub3.com/posts/2026-05-23-rohitg00-ai-engineeri/</guid><description>&lt;blockquote>
+&lt;p>当rohitg00 / ai&amp;hellip;背后隐藏着什么样的系统机制？&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="导语">导语&lt;/h2>
+&lt;p>近日，rohitg00 / ai-engineering-from-scratch引发广泛关注。&lt;/p>
+&lt;p>这一事件不仅涉及表面层面的变化，更触及系统机制、心理认知与价值选择的深层议题。让我们通过3P框架（Physics/Psychology/Philosophy），从物理规律、群体行为、哲学意义三个维度进行深度解读。&lt;/p>
+&lt;p>本文基于LLM评分系统对热点的3P适配度分析，Physics维度评分揭示了系统结构性特征，Psychology维度评分反映了群体心理动态，Philosophy维度评分指出了价值层面的深层意义。&lt;/p>
+&lt;hr>
+&lt;h2 id="-physics-系统机制与结构性分析">🔬 Physics: 系统机制与结构性分析&lt;/h2>
+&lt;p>&lt;strong>评分: 9.0/5&lt;/strong>&lt;/p>
+&lt;p>该事件涉及的核心机制是人工智能工程的构建和部署过程，包括算法开发、模型训练、系统集成等技术环节。可展开分析的具体角度包括：1) 算法的优化和改进，如神经网络结构的设计和参数调整；2) 模型训练的数据集选择和预处理，以及训练过程中的正则化、梯度下降等技术细节；3) 系统集成时的模块化设计、接口定义和性能优化。潜在的洞察点包括：如何平衡算法的复杂度和实际应用的效率，以及如何评估和优化模型的泛化能力。&lt;/p>
+&lt;p>&lt;strong>深层机制解析:&lt;/strong>&lt;/p>
+&lt;p>从Physics维度深入分析，这一事件涉及以下关键机制：&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>系统结构影响&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>事件如何通过现有系统层级传递影响&lt;/li>
+&lt;li>关键节点和传导路径识别&lt;/li>
+&lt;li>系统反馈回路的正负效应&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>临界点与相变&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>当前处于系统演化的哪个阶段&lt;/li>
+&lt;li>触发质变的潜在条件&lt;/li>
+&lt;li>历史类似事件的对比参照&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>资源与约束&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>核心资源的分布与流动&lt;/li>
+&lt;li>物理/技术/制度的硬性约束&lt;/li>
+&lt;li>规模化与边际效应分析&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;p>&lt;strong>Physics核心洞察&lt;/strong>: 任何现象背后都有可分析的物理机制，理解机制才能预测趋势。&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-psychology-群体心理与行为模式">🧠 Psychology: 群体心理与行为模式&lt;/h2>
+&lt;p>&lt;strong>评分: 5.0/5&lt;/strong>&lt;/p>
+&lt;p>该事件涉及的群体心理可能包括对人工智能技术的好奇心、学习热情和创新欲望。行为模式的形成机制可能包括：1) 通过学习开源项目，模仿和实践来掌握AI工程技能；2) 在社区中交流和协作，共同解决技术难题。情绪驱动因素可能包括：1) 对AI技术改变世界的乐观预期；2) 对个人技能提升和职业发展的渴望。&lt;/p>
+&lt;p>&lt;strong>心理动力学分析:&lt;/strong>&lt;/p>
+&lt;p>从Psychology维度，我们需要关注参与者的深层心理机制：&lt;/p>
+&lt;p>&lt;strong>1. 认知偏差识别&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>可得性偏差&lt;/strong>: 是否过度关注近期/显著的信息？&lt;/li>
+&lt;li>&lt;strong>锚定效应&lt;/strong>: 是否被初始信息过度影响判断？&lt;/li>
+&lt;li>&lt;strong>从众心理&lt;/strong>: 群体行为是否放大了某些趋势？&lt;/li>
+&lt;li>&lt;strong>损失厌恶&lt;/strong>: 对损失的恐惧是否扭曲了决策？&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2. 情绪周期位置&lt;/strong>
+当前市场/群体可能处于情绪周期的哪个阶段：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>否认期&lt;/strong>: &amp;ldquo;这不会影响到我&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>恐慌期&lt;/strong>: &amp;ldquo;必须立即行动&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>接受期&lt;/strong>: &amp;ldquo;这就是新常态&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>适应期&lt;/strong>: &amp;ldquo;找到新的平衡&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>3. 行为模式预测&lt;/strong>
+基于心理分析，预测可能的群体行为演变：&lt;/p></description></item><item><title>Viral videos show humanoid robots struggling to cross streets, do the moonwalk: 3P框架深度解读</title><link>https://dondrub3.com/posts/2026-05-23-viral-videos-show-humanoid-rob/</link><pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate><guid>https://dondrub3.com/posts/2026-05-23-viral-videos-show-humanoid-rob/</guid><description>&lt;blockquote>
+&lt;p>Viral videos show hu&amp;hellip;引发了哪些关于价值与意义的深层思考？&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="导语">导语&lt;/h2>
+&lt;p>近日，Viral videos show humanoid robots struggling to cross streets, do the moonwalk引发广泛关注。&lt;/p>
+&lt;p>这一事件不仅涉及表面层面的变化，更触及系统机制、心理认知与价值选择的深层议题。让我们通过3P框架（Physics/Psychology/Philosophy），从物理规律、群体行为、哲学意义三个维度进行深度解读。&lt;/p>
+&lt;p>本文基于LLM评分系统对热点的3P适配度分析，Physics维度评分揭示了系统结构性特征，Psychology维度评分反映了群体心理动态，Philosophy维度评分指出了价值层面的深层意义。&lt;/p>
+&lt;hr>
+&lt;h2 id="-physics-系统机制与结构性分析">🔬 Physics: 系统机制与结构性分析&lt;/h2>
+&lt;p>&lt;strong>评分: 7.0/5&lt;/strong>&lt;/p>
+&lt;p>该事件涉及机器人技术的核心机制和物理规律，包括机器人的行走机制、平衡控制和环境适应能力。具体分析角度包括机器人的传感器系统如何感知和响应外部环境、其运动控制系统如何实现精确的步态调整以及在复杂环境中的导航算法。潜在的洞察点包括机器人技术在实际应用中遇到的挑战，如对复杂环境的适应性、安全性和可靠性问题，以及这些技术进步如何推动机器人学和人工智能领域的发展。&lt;/p>
+&lt;p>&lt;strong>深层机制解析:&lt;/strong>&lt;/p>
+&lt;p>从Physics维度深入分析，这一事件涉及以下关键机制：&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>系统结构影响&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>事件如何通过现有系统层级传递影响&lt;/li>
+&lt;li>关键节点和传导路径识别&lt;/li>
+&lt;li>系统反馈回路的正负效应&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>临界点与相变&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>当前处于系统演化的哪个阶段&lt;/li>
+&lt;li>触发质变的潜在条件&lt;/li>
+&lt;li>历史类似事件的对比参照&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>资源与约束&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>核心资源的分布与流动&lt;/li>
+&lt;li>物理/技术/制度的硬性约束&lt;/li>
+&lt;li>规模化与边际效应分析&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;p>&lt;strong>Physics核心洞察&lt;/strong>: 任何现象背后都有可分析的物理机制，理解机制才能预测趋势。&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-psychology-群体心理与行为模式">🧠 Psychology: 群体心理与行为模式&lt;/h2>
+&lt;p>&lt;strong>评分: 5.0/5&lt;/strong>&lt;/p>
+&lt;p>事件中机器人的挣扎和失败可能会引发公众对机器人能力的预期和认知偏差。分析可以探讨人们对于人工智能和机器人技术的期望与现实之间的差距，以及这种差距如何影响公众对技术的信任和接受度。行为模式的形成机制可以涉及到人们如何通过社交媒体上的病毒视频形成对机器人技术的看法，以及这些看法如何被情绪驱动因素如惊讶、好奇或担忧所影响。&lt;/p>
+&lt;p>&lt;strong>心理动力学分析:&lt;/strong>&lt;/p>
+&lt;p>从Psychology维度，我们需要关注参与者的深层心理机制：&lt;/p>
+&lt;p>&lt;strong>1. 认知偏差识别&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>可得性偏差&lt;/strong>: 是否过度关注近期/显著的信息？&lt;/li>
+&lt;li>&lt;strong>锚定效应&lt;/strong>: 是否被初始信息过度影响判断？&lt;/li>
+&lt;li>&lt;strong>从众心理&lt;/strong>: 群体行为是否放大了某些趋势？&lt;/li>
+&lt;li>&lt;strong>损失厌恶&lt;/strong>: 对损失的恐惧是否扭曲了决策？&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2. 情绪周期位置&lt;/strong>
+当前市场/群体可能处于情绪周期的哪个阶段：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>否认期&lt;/strong>: &amp;ldquo;这不会影响到我&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>恐慌期&lt;/strong>: &amp;ldquo;必须立即行动&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>接受期&lt;/strong>: &amp;ldquo;这就是新常态&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>适应期&lt;/strong>: &amp;ldquo;找到新的平衡&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>3. 行为模式预测&lt;/strong>
+基于心理分析，预测可能的群体行为演变：&lt;/p></description></item><item><title>兆易创新：每一台智能设备的记忆库</title><link>https://dondrub3.com/jibai/2026-05-22-%E5%85%86%E6%98%93%E5%88%9B%E6%96%B0/</link><pubDate>Fri, 22 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-22-%E5%85%86%E6%98%93%E5%88%9B%E6%96%B0/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
 &lt;p>你刚用手机拍了一张照片，下一秒打开微信准备发给朋友，相册里那张照片已经出现在最近图片的第一位。你以为是巧合，其实背后是存储芯片在毫秒级完成数据写入和读取。&lt;/p>
 &lt;p>每一次解锁手机、每一次打开APP、每一次语音助手回应你的呼唤，都有数十亿个晶体管在同时工作。这些晶体管需要被&amp;quot;记住&amp;quot;——它们的状态、它们的数据、它们的连接关系——就像人脑需要记忆来思考一样。&lt;/p>
 &lt;p>而存储这些数据的&amp;quot;记忆库&amp;quot;，叫做&lt;strong>存储芯片&lt;/strong>。&lt;/p>
