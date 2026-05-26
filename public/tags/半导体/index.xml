@@ -1,355 +1,408 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>半导体 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/tags/%E5%8D%8A%E5%AF%BC%E4%BD%93/</link><description>Recent content in 半导体 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Mon, 25 May 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/tags/%E5%8D%8A%E5%AF%BC%E4%BD%93/index.xml" rel="self" type="application/rss+xml"/><item><title>江波龙：从华强北柜台到AI存储龙头的逆袭</title><link>https://dondrub3.com/jibai/2026-05-25-%E6%B1%9F%E6%B3%A2%E9%BE%99/</link><pubDate>Mon, 25 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-25-%E6%B1%9F%E6%B3%A2%E9%BE%99/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
-&lt;p>你刚在手机上拍了一段4K视频，点击保存后，两秒后就出现在了相册里。你以为是手机反应快，其实背后是&lt;strong>存储芯片&lt;/strong>在以每秒数千兆字节的速度写入数据。&lt;/p>
-&lt;p>每一次拍照、每一次下载APP、每一次游戏存档，都有数十亿个存储单元在同时工作。这些存储单元之间，需要被精准地寻址、读写、管理——就像一座超级图书馆，需要在毫秒级时间内找到并调取任何一本书。&lt;/p>
-&lt;p>而负责管理这些&amp;quot;数字图书馆&amp;quot;的&lt;strong>存储模组&lt;/strong>，叫做&lt;strong>企业级SSD&lt;/strong>。&lt;/p>
-&lt;p>当AI大模型开始吞噬海量数据，当每一台AI服务器需要配置14-16TB的企业级SSD，这些&amp;quot;数字图书馆&amp;quot;的需求量正在呈指数级增长。问题是：生产这些&amp;quot;图书馆&amp;quot;的中国工厂，产能跟得上吗？&lt;/p>
-&lt;p>这就是今天市场疯狂追捧&lt;strong>江波龙&lt;/strong>的原因。&lt;/p>
-&lt;hr>
-&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
-&lt;p>2026年5月，A股存储芯片板块持续走强，江波龙股价创下上市以来新高。&lt;/p>
-&lt;p>表面看，这是受英伟达财报超预期的刺激——全球AI算力需求持续爆发，存储产业链集体受益。按理说，英伟达利好的是光模块、算力芯片，和存储模组八竿子打不着。但市场偏偏选了存储——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的AI算力基础设施需求&amp;quot;。&lt;/p>
-&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI服务器存储需求正在从&amp;quot;配角&amp;quot;走向&amp;quot;刚需&amp;quot;&lt;/strong>。&lt;/p>
-&lt;p>江波龙，中国存储模组龙头，2026年一季度净利润同比增长近20倍，企业级SSD手握130亿元订单排期至2027年二季度。&lt;/p>
-&lt;p>不是因为消费复苏，而是因为AI算力革命带来的存储需求井喷。&lt;/p>
-&lt;hr>
-&lt;h2 id="第一个故事为什么突然重要了">【第一个故事】为什么突然重要了&lt;/h2>
-&lt;p>让我们回到那个拍视频的场景。&lt;/p>
-&lt;p>2023年，ChatGPT横空出世，市场开始炒作&amp;quot;AI概念&amp;quot;。但当时大家只关注GPU、光模块，存储只是配角。&lt;/p>
-&lt;p>2024年，大模型训练需求爆发，市场意识到HBM（高带宽内存）的重要性。但企业级SSD仍被忽视。&lt;/p>
-&lt;p>2025年，故事进入第三阶段：&lt;strong>AI推理需求爆发，企业级存储成为瓶颈&lt;/strong>。&lt;/p>
-&lt;p>为什么？&lt;/p>
-&lt;p>因为AI训练与AI推理对存储的需求，不是简单的&amp;quot;一对一&amp;quot;。一台AI训练服务器需要8卡HBM、14-16TB企业级SSD、10-12张DRAM内存条。当应用场景从&amp;quot;训练&amp;quot;扩展到&amp;quot;推理+边缘计算&amp;quot;时，存储的需求量不是线性增加，而是指数级增加。&lt;/p>
-&lt;p>更关键的是，&lt;strong>2026年HBM月产能将扩至47.6万片，但DDR5月缺口仍达20万片&lt;/strong>。海外存储大厂产能都去搞利润更高的HBM，普通存储产能严重不足。&lt;/p>
-&lt;p>江波龙的企业级SSD已经开始批量供货阿里云、腾讯云、浪潮等头部厂商。这不是概念，是&lt;strong>130亿元订单&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
-&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
-&lt;p>存储行业的估值，历来是个难题。&lt;/p>
-&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——存储价格跟着供需周期波动，赚钱靠天吃饭。这个逻辑在2019-2023年是对的，但在AI时代需要重新审视。&lt;/p>
-&lt;p>让我们看几个数字：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>2025年营收&lt;/strong>：预计同比增长超50%&lt;/li>
-&lt;li>&lt;strong>2026年Q1净利润&lt;/strong>：同比增长近20倍&lt;/li>
-&lt;li>&lt;strong>企业级SSD订单&lt;/strong>：130亿元，排期至2027年Q2&lt;/li>
-&lt;li>&lt;strong>AI端侧存储收入&lt;/strong>：2026年Q1同比+496.45%&lt;/li>
-&lt;/ul>
-&lt;p>这些数字意味着什么？&lt;/p>
-&lt;p>意味着江波龙正在从&amp;quot;存储模组商&amp;quot;变成&amp;quot;AI基础设施提供商&amp;quot;。传统的存储需求跟着消费电子周期波动，但AI带来的需求是&lt;strong>刚性且持续&lt;/strong>的——只要AI算力还在扩张，存储需求就不会停。&lt;/p>
-&lt;p>市场愿意给江波龙更高估值的原因：它不再是一家&amp;quot;周期股&amp;quot;，而是&amp;quot;AI时代的卖铲人&amp;quot;。&lt;/p>
-&lt;hr>
-&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
-&lt;p>估值重构给了买入的理由，但问题是——为什么是江波龙，而不是其他存储公司？&lt;/p>
-&lt;p>存储模组行业有很多玩家，为什么江波龙能独占鳌头？&lt;/p>
-&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
-&lt;p>&lt;strong>第一，全场景覆盖。&lt;/strong> 江波龙是国内唯一同时布局消费级、企业级、车规级、工业级存储的厂商。嵌入式存储占43.68%、固态硬盘占27.68%、移动存储占22.99%——这种多元化布局平滑了周期波动。&lt;/p>
-&lt;p>&lt;strong>第二，品牌壁垒。&lt;/strong> 2017年收购全球消费级存储品牌Lexar（雷克沙），2023年收购巴西头部存储厂商Zilia。Lexar品牌2023年B2C收入在全球独立存储器品牌中排名第二。&lt;/p>
-&lt;p>&lt;strong>第三，车规级先发优势。&lt;/strong> 国内唯一同时打入国际大厂车规级存储供应链的企业，车规级业务受消费周期波动影响小，盈利稳定性显著高于同行。&lt;/p>
-&lt;p>这些优势不是一朝一夕建立起来的。创始人蔡华波1999年从华强北柜台起步，&lt;strong>花了26年&lt;/strong>，才将江波龙打造成全球第二大独立存储器厂商。&lt;/p>
-&lt;p>竞争对手可以模仿它的产品，但很难复制它的&lt;strong>品牌积累+全球渠道+车规级认证&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
-&lt;blockquote>
-&lt;p>AI越聪明，数据存储需求越大；存储需求越大，企业级SSD越紧缺；企业级SSD越紧缺，江波龙越值钱。&lt;/p>&lt;/blockquote>
-&lt;p>或者按标准框架理解：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求正在爆发式增长，数据中心的算力规模持续扩张&lt;/li>
-&lt;li>&lt;strong>关键变量&lt;/strong>：海外存储大厂产能向HBM倾斜，普通存储产能严重不足，企业级SSD成为瓶颈&lt;/li>
-&lt;li>&lt;strong>公司利好&lt;/strong>：作为全球存储模组龙头，江波龙企业级SSD手握130亿元订单，业绩进入高速增长期&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>兆易创新：每一台智能设备的记忆库</title><link>https://dondrub3.com/jibai/2026-05-22-%E5%85%86%E6%98%93%E5%88%9B%E6%96%B0/</link><pubDate>Fri, 22 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-22-%E5%85%86%E6%98%93%E5%88%9B%E6%96%B0/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
-&lt;p>你刚用手机拍了一张照片，下一秒打开微信准备发给朋友，相册里那张照片已经出现在最近图片的第一位。你以为是巧合，其实背后是存储芯片在毫秒级完成数据写入和读取。&lt;/p>
-&lt;p>每一次解锁手机、每一次打开APP、每一次语音助手回应你的呼唤，都有数十亿个晶体管在同时工作。这些晶体管需要被&amp;quot;记住&amp;quot;——它们的状态、它们的数据、它们的连接关系——就像人脑需要记忆来思考一样。&lt;/p>
-&lt;p>而存储这些数据的&amp;quot;记忆库&amp;quot;，叫做&lt;strong>存储芯片&lt;/strong>。&lt;/p>
-&lt;p>当AI手机、智能汽车、物联网设备爆发式增长，这些&amp;quot;记忆库&amp;quot;的需求量也在指数级攀升。问题是：生产这些&amp;quot;记忆库&amp;quot;的工厂，产能跟得上吗？&lt;/p>
-&lt;p>这就是今天市场疯狂追捧兆易创新的原因。&lt;/p>
-&lt;hr>
-&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
-&lt;p>2025年5月22日，半导体板块集体拉升，兆易创新股价创历史新高。&lt;/p>
-&lt;p>表面看，这是受中美贸易谈判缓和的刺激——全球科技股风险偏好回升，资金涌入成长板块。按理说，贸易缓和利好出口导向的消费电子、利好跨境电商，和半导体八竿子打不着。但市场偏偏选了半导体——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的国产替代加速预期&amp;quot;。&lt;/p>
-&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>存储芯片的国产替代正在从&amp;quot;概念&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong>。&lt;/p>
-&lt;p>兆易创新，国内存储芯片设计龙头，2025年以来股价涨幅超过80%，市值突破2800亿。&lt;/p>
-&lt;p>不是因为贸易摩擦的情绪炒作，而是因为它的NOR Flash和MCU产品正在AI终端和汽车电子领域实现放量。&lt;/p>
-&lt;hr>
-&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
-&lt;p>让我们回到那个手机拍照的场景。&lt;/p>
-&lt;p>2023年，ChatGPT引爆AI浪潮，市场开始炒作算力概念。但当时大家只关注GPU、光模块，存储芯片被忽视——毕竟，&amp;ldquo;内存&amp;quot;听起来不如&amp;quot;算力&amp;quot;性感。&lt;/p>
-&lt;p>2024年，市场意识到一个关键问题：AI不只是云端的事，端侧AI（手机、PC、IoT设备）才是更大的战场。而端侧AI对存储的需求，比传统设备高出数倍——一部AI手机需要的存储容量是普通手机的2-3倍。&lt;/p>
-&lt;p>2025年，故事进入第三阶段：&lt;strong>存储芯片从&amp;quot;配角&amp;quot;变成&amp;quot;刚需&amp;rdquo;&lt;/strong>。&lt;/p>
-&lt;p>为什么？&lt;/p>
-&lt;p>因为AI模型和存储芯片的关系，不是简单的&amp;quot;一对一&amp;quot;。一个大模型参数文件动辄几十GB，运行时需要频繁读取和写入中间结果。当AI应用从&amp;quot;云端推理&amp;quot;扩展到&amp;quot;端侧运行&amp;quot;时，存储芯片的需求量不是线性增加，而是指数级增加。&lt;/p>
-&lt;p>更关键的是，存储芯片正在经历一轮技术迭代——从NOR Flash向利基型DRAM延伸，从消费级向车规级升级。这意味着，旧的产品格局正在被打破，新的龙头正在崛起。&lt;/p>
-&lt;p>兆易创新的车规级NOR Flash已经开始向头部车企批量供货。这不是概念，是订单。&lt;/p>
-&lt;hr>
-&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
-&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
-&lt;p>存储芯片的估值，历来是个难题。&lt;/p>
-&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——看存储价格周期、看产能利用率、看库存水位。这个逻辑在PC时代是对的，但在AI时代需要重新审视。&lt;/p>
-&lt;p>让我们看几个数字：&lt;/p>
-&lt;ul>
-&lt;li>2025年上半年，兆易创新营收同比增长35%，净利润同比增长超过200%&lt;/li>
-&lt;li>NOR Flash全球市场份额18.5%，跃升至全球第二、内地第一&lt;/li>
-&lt;li>车规级MCU出货量同比增长超过150%，打入多家头部车企供应链&lt;/li>
-&lt;li>利基型DRAM业务增速超过80%，成为新的增长引擎&lt;/li>
-&lt;/ul>
-&lt;p>这些数字意味着什么？&lt;/p>
-&lt;p>意味着兆易创新正在从&amp;quot;周期股&amp;quot;变成&amp;quot;成长股&amp;quot;。传统的存储需求跟着PC和手机销量波动，但AI终端和汽车电子带来的需求是结构性、持续性的——只要AI化趋势还在，存储升级就不会停。&lt;/p>
-&lt;p>市场愿意给兆易创新更高估值的原因：它不再是一家&amp;quot;存储芯片设计公司&amp;quot;，而是&amp;quot;智能设备的记忆基础设施提供商&amp;quot;。&lt;/p>
-&lt;hr>
-&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
-&lt;p>估值重构给了买入的理由，但问题是——为什么是兆易创新，而不是其他半导体公司？&lt;/p>
-&lt;p>存储芯片领域有很多玩家，为什么兆易创新能独占鳌头？&lt;/p>
-&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
-&lt;p>&lt;strong>第一，技术领先。&lt;/strong> 兆易创新是全球率先实现45nm节点SPI NOR Flash大规模量产的公司之一，在38nm SLC NAND和利基型DRAM领域也保持代际领先。技术代差意味着更高的毛利率和更强的定价权。&lt;/p>
-&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> 车规级芯片的认证周期长达2-3年，一旦进入车企供应链，切换成本极高。兆易创新已经与多家头部车企建立稳定合作关系，形成了强大的客户粘性。&lt;/p>
-&lt;p>&lt;strong>第三，生态协同。&lt;/strong> &amp;ldquo;存储+MCU&amp;quot;双轮驱动战略让公司能够为AIoT和汽车电子提供一站式解决方案。客户买的不是单一产品，而是完整的芯片组合。&lt;/p>
-&lt;p>这些优势不是一朝一夕建立起来的。兆易创新花了20年，投入了数百亿研发资金，才形成了今天的技术积累和客户网络。&lt;/p>
-&lt;p>竞争对手可以模仿它的某一款产品，但很难复制它的生态位。&lt;/p>
-&lt;hr>
-&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
-&lt;blockquote>
-&lt;p>AI越普及，端侧设备越智能；端侧设备越智能，存储需求越旺盛；存储需求越旺盛，兆易创新越值钱。&lt;/p>&lt;/blockquote>
-&lt;p>或者按标准框架理解：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>事件&lt;/strong>：AI终端和汽车电子的存储需求正在爆发式增长，存储芯片从周期品变成必需品。&lt;/li>
-&lt;li>&lt;strong>关键变量&lt;/strong>：端侧AI渗透率越高，对高容量、高性能存储芯片的需求就越大，车规级产品的认证壁垒保证了龙头地位的持续性。&lt;/li>
-&lt;li>&lt;strong>公司利好&lt;/strong>：作为全球NOR Flash第二、国产MCU龙头，兆易创新在AIoT和汽车电子双赛道同时受益，业绩进入高速增长期。&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>华虹公司：半导体板块的隐形冠军</title><link>https://dondrub3.com/jibai/2026-05-07-%E5%8D%8E%E8%99%B9%E5%85%AC%E5%8F%B8/</link><pubDate>Thu, 07 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-07-%E5%8D%8E%E8%99%B9%E5%85%AC%E5%8F%B8/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
-&lt;p>你刚在手机上刷完一条关于新能源汽车的视频，两分钟后打开购物App，首页就跳出了几款车载充电器的推荐。你以为是巧合，其实背后是无数芯片在实时运算、传输、决策。&lt;/p>
-&lt;p>每一次点击、每一次滑动，都有成千上万颗芯片在同时工作。这些芯片不是凭空出现的——它们需要在一枚枚晶圆上，经过数百道精密工序，才能变成你手机里的&amp;quot;大脑&amp;quot;。&lt;/p>
-&lt;p>而制造这些芯片的&amp;quot;工厂&amp;quot;，叫做&lt;strong>晶圆代工厂&lt;/strong>。&lt;/p>
-&lt;p>当新能源汽车、物联网、人工智能的需求爆发，这些&amp;quot;芯片工厂&amp;quot;的产能，正在成为全球科技竞争的焦点。&lt;/p>
-&lt;p>这就是今天市场疯狂追捧华虹公司的原因。&lt;/p>
-&lt;hr>
-&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
-&lt;p>2026年5月7日，半导体板块集体大涨，华虹公司股价创历史新高。&lt;/p>
-&lt;p>表面看，这是受中美贸易谈判缓和的刺激——全球股市风险偏好回升，科技股普涨。按理说，贸易缓和利好出口导向的消费电子，和晶圆代工八竿子打不着。但市场偏偏选了半导体——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的国产替代加速预期&amp;quot;。&lt;/p>
-&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>中国半导体产业正在从&amp;quot;能用&amp;quot;走向&amp;quot;好用&amp;quot;，从&amp;quot;替代&amp;quot;走向&amp;quot;主导&amp;quot;&lt;/strong>。&lt;/p>
-&lt;p>华虹公司，中国大陆第二大、全球第六大晶圆代工厂，专注成熟制程特色工艺，股价创阶段性新高。&lt;/p>
-&lt;p>不是因为贸易谈判的短期刺激，而是因为国产替代进入深水区——当先进制程被封锁，成熟制程的自主可控就成了战略要地。&lt;/p>
-&lt;hr>
-&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
-&lt;p>让我们回到那个刷手机的场景。&lt;/p>
-&lt;p>2020年，新能源汽车开始爆发，但车规级芯片几乎全靠进口。市场开始关注半导体，但当时大家只看到设计环节的突破。&lt;/p>
-&lt;p>2023年，华为Mate 60横空出世，市场意识到：没有制造能力，设计再强也是空中楼阁。&lt;/p>
-&lt;p>2025年，故事进入第三阶段：&lt;strong>成熟制程的国产替代从&amp;quot;可选项&amp;quot;变成&amp;quot;必选项&amp;quot;&lt;/strong>。&lt;/p>
-&lt;p>为什么？&lt;/p>
-&lt;p>因为一辆新能源汽车需要的芯片，不是简单的&amp;quot;一对一&amp;quot;关系。电源管理芯片、MCU、功率器件、传感器——一辆电动车需要上千颗芯片。当新能源汽车渗透率从10%提升到50%，成熟制程芯片的需求量不是线性增加，而是指数级增加。&lt;/p>
-&lt;p>更关键的是，这些芯片不需要最先进的3nm工艺，90nm、55nm的成熟制程完全够用。而华虹，正是这个赛道的隐形冠军。&lt;/p>
-&lt;p>华虹的无锡12英寸产线已经开始放量，产能利用率持续高位运行。这不是概念，是实实在在的订单和收入。&lt;/p>
-&lt;hr>
-&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
-&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
-&lt;p>晶圆代工的估值，历来是个难题。&lt;/p>
-&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——看产能利用率、看价格周期、看资本开支。这个逻辑在旧时代是对的，但在国产替代的新时代需要重新审视。&lt;/p>
-&lt;p>让我们看几个数字：&lt;/p>
-&lt;ul>
-&lt;li>2025年Q1营收39.13亿元，同比增长17.6%&lt;/li>
-&lt;li>上海金桥、张江3座8英寸晶圆厂，月产能18万片&lt;/li>
-&lt;li>无锡12英寸晶圆厂月产能9.45万片，二期规划再增8.3万片&lt;/li>
-&lt;li>专注嵌入式存储、功率器件、模拟与电源管理、逻辑与射频等特色工艺&lt;/li>
-&lt;/ul>
-&lt;p>这些数字意味着什么？&lt;/p>
-&lt;p>意味着华虹正在从&amp;quot;传统代工厂&amp;quot;变成&amp;quot;特色工艺平台&amp;quot;。传统的代工厂跟着全球半导体周期波动，但国产替代带来的需求是结构性的——只要中国还在造新能源汽车、还在推物联网，成熟制程芯片的需求就不会停。&lt;/p>
-&lt;p>市场愿意给华虹更高估值的原因：它不再是一家普通的晶圆代工厂，而是中国半导体产业链的&amp;quot;基础设施&amp;quot;。&lt;/p>
-&lt;hr>
-&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
-&lt;p>估值重构给了买入的理由，但问题是——为什么是华虹，而不是其他晶圆代工厂？&lt;/p>
-&lt;p>全球晶圆代工有很多玩家，为什么华虹能在成熟制程独占鳌头？&lt;/p>
-&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
-&lt;p>&lt;strong>第一，特色工艺的深厚积累。&lt;/strong> 华虹不是做通用逻辑芯片的，它专注嵌入式闪存、功率器件、电源管理——这些领域需要工艺Know-how，不是简单的设备堆砌。华虹在55nm嵌入式闪存、深沟槽式超级结MOSFET等技术上拥有自主知识产权。&lt;/p>
-&lt;p>&lt;strong>第二，车规级认证的护城河。&lt;/strong> 汽车芯片对可靠性要求极高，认证周期长达2-3年。华虹已经通过国际CC EAL5+和EMVCo安全认证，这意味着它的产线可以直接服务汽车客户。竞争对手想切入，至少要等两年。&lt;/p>
-&lt;p>&lt;strong>第三，产能扩张的先发优势。&lt;/strong> 当其他厂商还在犹豫要不要扩产的时候，华虹的无锡二期已经在建设。2025年投产，目标月产能8.3万片。在半导体行业，产能就是话语权。&lt;/p>
-&lt;p>这些优势不是一朝一夕建立起来的。华虹花了28年（从1997年华虹NEC算起），投入了数百亿，才形成了今天的技术积累和产能布局。&lt;/p>
-&lt;p>竞争对手可以模仿它的产线，但很难复制它的工艺积累和客户关系。&lt;/p>
-&lt;hr>
-&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
-&lt;p>国产替代越紧迫，成熟制程越值钱；成熟制程越值钱，华虹的产能越紧缺；产能越紧缺，华虹越值钱。&lt;/p>
-&lt;p>或者按标准框架理解：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>事件&lt;/strong>：中美科技博弈背景下，半导体国产替代进入深水区，成熟制程成为战略要地&lt;/li>
-&lt;li>&lt;strong>关键变量&lt;/strong>：新能源汽车、物联网、AIoT对成熟制程芯片的需求爆发，而全球成熟制程产能向中国转移&lt;/li>
-&lt;li>&lt;strong>公司利好&lt;/strong>：华虹作为中国第二大晶圆代工厂，拥有特色工艺技术壁垒、车规级认证护城河，以及持续扩张的产能优势&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>美光科技：AI时代的'内存印钞机'</title><link>https://dondrub3.com/jibai/2026-05-05-%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80/</link><pubDate>Tue, 05 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-05-%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
-&lt;p>你刚在手机上问ChatGPT一个问题，两秒钟后它就给出了一段流畅的回答。你以为是魔法，其实背后是&lt;strong>数千亿次计算&lt;/strong>在瞬间完成。&lt;/p>
-&lt;p>每一次AI对话，都有成千上万块GPU在数据中心里疯狂运转。这些GPU之间，需要以&lt;strong>每秒万亿比特&lt;/strong>的速度交换数据——就像人脑的神经元通过突触传递信号一样。&lt;/p>
-&lt;p>而连接这些GPU的&amp;quot;神经突触&amp;quot;，叫做&lt;strong>高带宽存储（HBM）&lt;/strong>。&lt;/p>
-&lt;p>当全球AI应用爆发式增长，这些&amp;quot;神经突触&amp;quot;的需求量也在指数级攀升。问题是：生产这些HBM的工厂，产能跟得上吗？&lt;/p>
-&lt;p>这就是今天市场疯狂追捧&lt;strong>美光科技&lt;/strong>的原因。&lt;/p>
-&lt;hr>
-&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
-&lt;p>2026年5月5日，美股存储芯片板块集体大涨，美光科技单日涨幅超6%。&lt;/p>
-&lt;p>表面看，这是受美光CEO一席话的刺激——他在财报电话会上表示：&amp;ldquo;2025年我们的HBM产能已经全部售罄，AI需求正在吞噬过半内存市场。&amp;ldquo;按理说，CEO的乐观表态利好自家股票，和整个存储板块八竿子打不着。但市场偏偏选了&lt;strong>整个存储板块&lt;/strong>——这说明资金已经不在乎&amp;quot;事件本身&amp;rdquo;，而在乎&amp;quot;事件背后的AI算力需求爆发&amp;rdquo;。&lt;/p>
-&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI正在重新定义存储行业的周期逻辑&lt;/strong>。&lt;/p>
-&lt;p>美光科技，全球第三大内存芯片制造商，2025财年Q4营收达113.2亿美元，同比增长超过80%，股价年内累计上涨168%。&lt;/p>
-&lt;p>不是因为传统内存需求回暖，而是因为&lt;strong>AI服务器对HBM的需求已经供不应求&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
-&lt;p>让我们回到那个&lt;strong>AI对话的场景&lt;/strong>。&lt;/p>
-&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念股。但当时大家只关注英伟达的GPU，没人在意GPU里用的是什么内存。&lt;/p>
-&lt;p>2024年，情况变了。市场意识到：没有HBM，GPU就是一块废铁。SK海力士凭借HBM3的先发优势，股价翻倍。但当时的美光，还在HBM赛道上追赶。&lt;/p>
-&lt;p>2025年，故事进入第三阶段：&lt;strong>美光跳过HBM3，直接量产HBM3E，成功打入英伟达供应链&lt;/strong>。&lt;/p>
-&lt;p>为什么？&lt;/p>
-&lt;p>因为GPU和HBM的关系，不是简单的&amp;quot;一对一&amp;quot;。一张英伟达H200 GPU需要6颗HBM3E芯片。当AI模型从&amp;quot;数十亿参数&amp;quot;扩展到&amp;quot;数万亿参数&amp;quot;时，HBM的需求量不是线性增加，而是指数级增加。&lt;/p>
-&lt;p>更关键的是，&lt;strong>美光的HBM3E比竞品功耗低30%&lt;/strong>。这意味着，同样的数据中心，用美光的芯片可以节省数百万美元的电费。&lt;/p>
-&lt;p>美光的HBM3E已经开始大规模出货英伟达H200。这不是概念，是&lt;strong>2025年全年产能已售罄的订单&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
-&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
-&lt;p>存储芯片的估值，历来是个难题。&lt;/p>
-&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——看DRAM和NAND的价格周期，看供需关系。这个逻辑在PC和智能手机时代是对的，但在AI时代需要重新审视。&lt;/p>
-&lt;p>让我们看几个数字：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>2025财年Q3营收&lt;/strong>：93亿美元（创历史纪录）&lt;/li>
-&lt;li>&lt;strong>2025财年Q4营收&lt;/strong>：113.2亿美元，同比增长超80%&lt;/li>
-&lt;li>&lt;strong>数据中心收入&lt;/strong>：同比增长3倍&lt;/li>
-&lt;li>&lt;strong>毛利率&lt;/strong>：从20%跃升至40.9%&lt;/li>
-&lt;li>&lt;strong>2025年HBM销售目标&lt;/strong>：150亿美元&lt;/li>
-&lt;/ul>
-&lt;p>这些数字意味着什么？&lt;/p>
-&lt;p>意味着美光正在从&amp;quot;传统存储供应商&amp;quot;变成&amp;quot;AI基础设施核心供应商&amp;quot;。传统的内存需求跟着PC和智能手机周期波动，但AI带来的需求是&lt;strong>结构性&lt;/strong>的——只要大模型还在训练，只要AI应用还在扩张，HBM的需求就不会停。&lt;/p>
-&lt;p>市场愿意给美光更高估值的原因：它不再是一家&amp;quot;看天吃饭&amp;quot;的周期股，而是&lt;strong>AI时代的&amp;quot;内存印钞机&amp;quot;&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
-&lt;p>估值重构给了买入的理由，但问题是——为什么是美光，而不是SK海力士或三星？&lt;/p>
-&lt;p>HBM市场有三巨头，为什么美光能在2025年实现逆袭？&lt;/p>
-&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
-&lt;p>&lt;strong>第一，技术路线的精准卡位。&lt;/strong> 美光跳过HBM3，直接押注HBM3E。这个决策在2024年看起来冒险，但在2025年证明是正确的。当竞争对手还在优化HBM3时，美光已经量产了功耗低30%的HBM3E。&lt;/p>
-&lt;p>&lt;strong>第二，客户认证的突破。&lt;/strong> 英伟达H200采用美光HBM3E，这是美光打入AI核心供应链的关键一步。数据中心客户的认证周期长达12-18个月，一旦通过，切换成本极高。&lt;/p>
-&lt;p>&lt;strong>第三，产能扩张的执行力。&lt;/strong> 美光计划到2025年底将HBM产能提升至每月6万片晶圆，是2024年的数倍。更重要的是，这些产能&lt;strong>已经全部售罄&lt;/strong>。&lt;/p>
-&lt;p>这些优势不是一朝一夕建立起来的。美光花了&lt;strong>10年&lt;/strong>时间研发HBM技术，投入了&lt;strong>数百亿美元&lt;/strong>建设先进产线，才形成了今天的技术积累。&lt;/p>
-&lt;p>竞争对手可以模仿它的产品规格，但很难复制它的&lt;strong>技术路线判断力&lt;/strong>和&lt;strong>客户信任&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
-&lt;blockquote>
-&lt;p>AI越聪明，算力需求越大；算力需求越大，HBM越紧缺；HBM越紧缺，美光越值钱。&lt;/p>&lt;/blockquote>
-&lt;p>或者按标准框架理解：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求爆发式增长，数据中心算力规模持续扩张&lt;/li>
-&lt;li>&lt;strong>关键变量&lt;/strong>：GPU规模越大，HBM的需求量就越大，且新一代AI芯片对HBM的依赖度更高&lt;/li>
-&lt;li>&lt;strong>公司利好&lt;/strong>：作为成功打入英伟达供应链的HBM3E供应商，美光2025年HBM产能已全部售罄，业绩进入高速增长期&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>中芯国际：每一部手机的'心脏'都在这家工厂跳动</title><link>https://dondrub3.com/jibai/2026-05-04-%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85/</link><pubDate>Mon, 04 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-04-%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
-&lt;p>你刚在京东下单了一部新手机，三天后就收到了快递。你以为是物流快，其实背后是一颗芯片在三个月前就已经开始在工厂里&amp;quot;生长&amp;quot;。&lt;/p>
-&lt;p>每一次滑动屏幕、每一次拍照、每一次扫码支付，都有数十亿个晶体管在同步运算。这些晶体管，需要在头发丝千分之一大小的空间里精准排布——就像在一粒米上雕刻出一座完整的城市。&lt;/p>
-&lt;p>而建造这些&amp;quot;微观城市&amp;quot;的工厂，叫做&lt;strong>晶圆代工厂&lt;/strong>。&lt;/p>
-&lt;p>当全球每年卖出超过10亿部智能手机，这些&amp;quot;芯片工厂&amp;quot;的产能，决定了谁能拿到下一代产品的入场券。&lt;/p>
-&lt;p>这就是今天市场疯狂追捧中芯国际的原因。&lt;/p>
-&lt;hr>
-&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
-&lt;p>2025年5月4日，港股科网股集体走强，中芯国际大涨。&lt;/p>
-&lt;p>表面看，这是受美联储暂停加息的刺激——全球流动性预期改善，资金风险偏好回升。按理说，加息暂停利好金融、地产，和半导体八竿子打不着。但市场偏偏选了中芯国际——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的产业逻辑&amp;quot;。&lt;/p>
-&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>国产芯片正在从&amp;quot;备胎&amp;quot;变成&amp;quot;主胎&amp;quot;&lt;/strong>。&lt;/p>
-&lt;p>中芯国际，中国大陆规模最大、技术最先进的晶圆代工厂，全球排名第三，仅次于台积电和三星。2025年Q1营收同比增长28.4%，净利润暴增166.5%，产能利用率保持满载。&lt;/p>
-&lt;p>不是因为&amp;quot;概念炒作&amp;quot;，而是因为&lt;strong>订单真的来了&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
-&lt;p>让我们回到那个手机下单的场景。&lt;/p>
-&lt;p>2020年，华为被制裁，市场第一次意识到&amp;quot;芯片自主&amp;quot;不是选择题，而是生存题。但当时大家以为这只是华为一家的困境。&lt;/p>
-&lt;p>2022年，美国芯片法案出台，限制对华出口先进制程设备，市场意识到这是一场系统性的&amp;quot;卡脖子&amp;quot;。&lt;/p>
-&lt;p>2025年，故事进入第三阶段：&lt;strong>国产替代从&amp;quot;被动防御&amp;quot;走向&amp;quot;主动进攻&amp;quot;&lt;/strong>。&lt;/p>
-&lt;p>为什么？&lt;/p>
-&lt;p>因为芯片需求和产能的关系，不是简单的&amp;quot;一对一&amp;quot;。一部智能手机需要1颗主芯片、3-5颗电源管理芯片、10颗以上传感器芯片。当AI功能从&amp;quot;高端机专属&amp;quot;扩展到&amp;quot;中端机标配&amp;quot;时，芯片的需求量不是线性增加，而是指数级增加。&lt;/p>
-&lt;p>更关键的是，28nm及以上成熟制程正在迎来&amp;quot;第二春&amp;quot;。汽车电子、物联网、工业控制——这些不需要3nm尖端制程，但需要稳定、可靠、大规模的产能。这意味着，中芯国际的&amp;quot;舒适区&amp;quot;突然变成了&amp;quot;黄金赛道&amp;quot;。&lt;/p>
-&lt;p>中芯国际的28nm产线已经满负荷运转，14nm良率持续提升。这不是概念，是&lt;strong>已经反映在财报上的真实增长&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
-&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
-&lt;p>半导体代工的估值，历来是个难题。&lt;/p>
-&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——跟着全球半导体景气周期波动，景气时PE 30倍，低迷时PE 10倍。这个逻辑在&amp;quot;全球化分工&amp;quot;时代是对的，但在&amp;quot;地缘脱钩&amp;quot;时代需要重新审视。&lt;/p>
-&lt;p>让我们看几个数字：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>2025年Q1营收&lt;/strong>：同比增长28.4%，连续多个季度创新高&lt;/li>
-&lt;li>&lt;strong>净利润&lt;/strong>：同比增长166.5%，盈利能力大幅改善&lt;/li>
-&lt;li>&lt;strong>产能利用率&lt;/strong>：保持满载，订单排期已到数月之后&lt;/li>
-&lt;li>&lt;strong>行业地位&lt;/strong>：全球第三大晶圆代工厂，中国大陆绝对龙头&lt;/li>
-&lt;/ul>
-&lt;p>这些数字意味着什么？&lt;/p>
-&lt;p>意味着中芯国际正在从&amp;quot;周期股&amp;quot;变成&amp;quot;成长股&amp;quot;。传统的半导体需求跟着全球经济波动，但国产替代带来的需求是&lt;strong>结构性&lt;/strong>的——只要&amp;quot;自主可控&amp;quot;的国家战略还在，订单就不会停。&lt;/p>
-&lt;p>市场愿意给中芯国际更高估值的原因：它不再是一家&amp;quot;普通的代工厂&amp;quot;，而是&lt;strong>中国半导体产业的&amp;quot;基础设施&amp;quot;&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
-&lt;p>估值重构给了买入的理由，但问题是——为什么是中芯国际，而不是其他半导体公司？&lt;/p>
-&lt;p>晶圆代工行业有很多玩家，为什么中芯国际能独占鳌头？&lt;/p>
-&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
-&lt;p>&lt;strong>第一，规模壁垒。&lt;/strong> 中芯国际拥有中国大陆最大规模的晶圆产能，月产能超过80万片。芯片制造是典型的&amp;quot;规模经济&amp;quot;——产能越大，单位成本越低，客户粘性越强。&lt;/p>
-&lt;p>&lt;strong>第二，技术积累。&lt;/strong> 虽然与台积电的3nm还有差距，但中芯国际在28nm、14nm等成熟制程上已经实现稳定量产。更关键的是，它是中国大陆唯一具备14nm量产能力的代工厂，技术代差就是护城河。&lt;/p>
-&lt;p>&lt;strong>第三，客户锁定。&lt;/strong> 芯片代工的客户认证周期长达1-2年，一旦导入就很难切换。中芯国际已经深度绑定了华为、紫光展锐、兆易创新等国内头部芯片设计公司，形成了&amp;quot;设计-制造&amp;quot;的本土生态闭环。&lt;/p>
-&lt;p>这些优势不是一朝一夕建立起来的。中芯国际花了20年，投入了数千亿资金，才形成了今天的产能和技术积累。&lt;/p>
-&lt;p>竞争对手可以模仿它的产线，但很难复制它的&lt;strong>时间沉淀和客户关系&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
-&lt;blockquote>
-&lt;p>国产替代越紧迫，芯片自主越迫切；芯片自主越迫切，晶圆代工越紧缺；晶圆代工越紧缺，中芯国际越值钱。&lt;/p>&lt;/blockquote>
-&lt;p>或者按标准框架理解：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>事件&lt;/strong>：国产芯片替代进入加速期，成熟制程需求爆发式增长&lt;/li>
-&lt;li>&lt;strong>关键变量&lt;/strong>：地缘脱钩背景下，本土晶圆代工产能成为战略资源&lt;/li>
-&lt;li>&lt;strong>公司利好&lt;/strong>：作为全球第三大、中国大陆第一的晶圆代工厂，中芯国际产能满载、业绩高速增长，是国产替代浪潮的最大受益者&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>北方华创：当芯片制造遇上国产替代</title><link>https://dondrub3.com/jibai/2026-04-11-%E5%8C%97%E6%96%B9%E5%8D%8E%E5%88%9B/</link><pubDate>Sat, 11 Apr 2026 01:50:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-04-11-%E5%8C%97%E6%96%B9%E5%8D%8E%E5%88%9B/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
-&lt;p>你刚在手机上刷完一条短视频，两分钟后打开购物App，首页就精准推荐了你刚才视频中看到的商品。你以为是巧合，其实背后是推荐算法在实时分析你的每一次点击、每一次停留。&lt;/p>
-&lt;p>每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器里，运行着数以亿计的芯片。而这些芯片，需要在一台台精密设备上制造出来——就像汽车需要生产线一样。&lt;/p>
-&lt;p>而生产这些芯片的&amp;quot;生产线&amp;quot;，叫做&lt;strong>半导体设备&lt;/strong>。&lt;/p>
-&lt;p>当AI大模型爆发、算力需求激增，这些&amp;quot;生产线&amp;quot;的需求量也在暴涨。问题是：生产这些&amp;quot;生产线&amp;quot;的工厂，产能跟得上吗？&lt;/p>
-&lt;p>这就是今天市场疯狂追捧北方华创的原因。&lt;/p>
-&lt;hr>
-&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
-&lt;p>2025年4月11日，创业板指大涨1.36%，科创50指数涨超2%，半导体板块吸金89亿。&lt;/p>
-&lt;p>表面看，这是受关税政策缓和的刺激——全球股市集体反弹，资金风险偏好回升。按理说，关税缓和利好出口、利好消费电子，和半导体设备八竿子打不着。但市场偏偏选了半导体设备——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的国产替代逻辑&amp;quot;。&lt;/p>
-&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>芯片制造的自主可控，正在从&amp;quot;战略储备&amp;quot;走向&amp;quot;业绩兑现&amp;quot;&lt;/strong>。&lt;/p>
-&lt;p>北方华创，国内半导体设备龙头，股价今日表现强势。&lt;/p>
-&lt;p>不是因为关税缓和的表面利好，而是因为国产设备正在进入&amp;quot;订单放量&amp;quot;的关键阶段。&lt;/p>
-&lt;hr>
-&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
-&lt;p>让我们回到那个刷短视频的场景。&lt;/p>
-&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家普遍认为，这是海外巨头的游戏，中国公司只能做应用层。&lt;/p>
-&lt;p>2024年，华为昇腾芯片突破，市场意识到国产算力不是梦。但焦点集中在芯片设计，很少有人关注芯片制造。&lt;/p>
-&lt;p>2025年，故事进入第三阶段：&lt;strong>芯片制造的国产替代，从&amp;quot;0到1&amp;quot;走向&amp;quot;1到10&amp;quot;&lt;/strong>。&lt;/p>
-&lt;p>为什么？&lt;/p>
-&lt;p>因为芯片设计和芯片制造的关系，不是简单的&amp;quot;一对一&amp;quot;。一颗先进芯片的制造，需要经过上千道工序，涉及光刻、刻蚀、薄膜沉积、清洗等数十种设备。当AI算力需求从&amp;quot;小规模实验&amp;quot;扩展到&amp;quot;大规模商用&amp;quot;时，芯片产能的需求量不是线性增加，而是指数级增加。&lt;/p>
-&lt;p>更关键的是，&lt;strong>先进制程的国产设备开始突破&lt;/strong>。这意味着，过去依赖进口的高端设备，正在逐步被国产替代。&lt;/p>
-&lt;p>北方华创的刻蚀设备和薄膜沉积设备，已经开始批量进入国内主流晶圆厂。这不是概念，是订单。&lt;/p>
-&lt;hr>
-&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
-&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
-&lt;p>半导体设备的估值，历来是个难题。&lt;/p>
-&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——跟着半导体周期波动，景气时涨、低迷时跌。这个逻辑在&amp;quot;全球分工&amp;quot;时代是对的，但在&amp;quot;国产替代&amp;quot;时代需要重新审视。&lt;/p>
-&lt;p>让我们看几个数字：&lt;/p>
-&lt;ul>
-&lt;li>2024年营收：预计超过200亿元，同比增长超30%&lt;/li>
-&lt;li>刻蚀设备：国内市占率已突破20%，正在向30%迈进&lt;/li>
-&lt;li>薄膜沉积设备：PVD设备国内领先，CVD设备开始放量&lt;/li>
-&lt;li>订单 backlog：在手订单超过300亿元，支撑未来2年业绩&lt;/li>
-&lt;/ul>
-&lt;p>这些数字意味着什么？&lt;/p>
-&lt;p>意味着北方华创正在从&amp;quot;周期股&amp;quot;变成&amp;quot;成长股&amp;quot;。传统的半导体设备跟着全球半导体周期波动，但国产替代带来的需求是&amp;quot;结构性&amp;quot;的——只要自主可控的战略还在，设备采购就不会停。&lt;/p>
-&lt;p>市场愿意给北方华创更高估值的原因：它不再是一家&amp;quot;跟随周期&amp;quot;的设备商，而是&amp;quot;国产替代&amp;quot;浪潮下的核心基础设施。&lt;/p>
-&lt;hr>
-&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
-&lt;p>估值重构给了买入的理由，但问题是——为什么是北方华创，而不是其他半导体设备公司？&lt;/p>
-&lt;p>半导体设备有很多玩家，为什么北方华创能独占鳌头？&lt;/p>
-&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
-&lt;p>&lt;strong>第一，产品线最全。&lt;/strong> 从刻蚀到薄膜沉积，从清洗到热处理，北方华创是国内产品线最完整的半导体设备厂商——这意味着它可以提供&amp;quot;一站式&amp;quot;解决方案，客户切换成本低。&lt;/p>
-&lt;p>&lt;strong>第二，客户认证壁垒。&lt;/strong> 半导体设备进入晶圆厂，需要经过漫长的认证周期（通常1-2年）。北方华创早在10年前就开始布局，现在已经进入中芯国际、长江存储等主流厂商的供应链——后来者很难追赶。&lt;/p>
-&lt;p>&lt;strong>第三，研发投入积累。&lt;/strong> 过去5年，北方华创累计研发投入超过100亿元，建立了完整的研发团队和专利体系。这不是一朝一夕能复制的。&lt;/p>
-&lt;p>这些优势不是一朝一夕建立起来的。北方华创花了15年，投入了数百亿，才形成了今天的技术积累和客户关系。&lt;/p>
-&lt;p>竞争对手可以模仿它的产品，但很难复制它的生态。&lt;/p>
-&lt;hr>
-&lt;h2 id="收尾双版本闭环">【收尾】双版本闭环&lt;/h2>
-&lt;blockquote>
-&lt;p>AI越智能，算力需求越大；算力需求越大，芯片越紧缺；芯片越紧缺，国产设备越重要；国产设备越重要，北方华创越值钱。&lt;/p>&lt;/blockquote>
-&lt;p>或者按标准框架理解：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>事件&lt;/strong>：AI大模型和国产算力需求爆发，芯片制造自主可控成为战略刚需&lt;/li>
-&lt;li>&lt;strong>关键变量&lt;/strong>：国产半导体设备正在从&amp;quot;可用&amp;quot;走向&amp;quot;好用&amp;quot;，订单进入放量期&lt;/li>
-&lt;li>&lt;strong>公司利好&lt;/strong>：北方华创作为国内设备龙头，产品线最全、客户认证最深、研发投入最大，是国产替代浪潮下的最大受益者&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>半导体 on Dondrub3 | 3P实验室</title>
+    <link>https://dondrub3.com/tags/%E5%8D%8A%E5%AF%BC%E4%BD%93/</link>
+    <description>Recent content in 半导体 on Dondrub3 | 3P实验室</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 25 May 2026 19:00:00 +0800</lastBuildDate>
+    <atom:link href="https://dondrub3.com/tags/%E5%8D%8A%E5%AF%BC%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>江波龙：从华强北柜台到AI存储龙头的逆袭</title>
+      <link>https://dondrub3.com/jibai/2026-05-25-%E6%B1%9F%E6%B3%A2%E9%BE%99/</link>
+      <pubDate>Mon, 25 May 2026 19:00:00 +0800</pubDate>
+      <guid>https://dondrub3.com/jibai/2026-05-25-%E6%B1%9F%E6%B3%A2%E9%BE%99/</guid>
+      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
+&lt;p&gt;你刚在手机上拍了一段4K视频，点击保存后，两秒后就出现在了相册里。你以为是手机反应快，其实背后是&lt;strong&gt;存储芯片&lt;/strong&gt;在以每秒数千兆字节的速度写入数据。&lt;/p&gt;
+&lt;p&gt;每一次拍照、每一次下载APP、每一次游戏存档，都有数十亿个存储单元在同时工作。这些存储单元之间，需要被精准地寻址、读写、管理——就像一座超级图书馆，需要在毫秒级时间内找到并调取任何一本书。&lt;/p&gt;
+&lt;p&gt;而负责管理这些&amp;quot;数字图书馆&amp;quot;的&lt;strong&gt;存储模组&lt;/strong&gt;，叫做&lt;strong&gt;企业级SSD&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当AI大模型开始吞噬海量数据，当每一台AI服务器需要配置14-16TB的企业级SSD，这些&amp;quot;数字图书馆&amp;quot;的需求量正在呈指数级增长。问题是：生产这些&amp;quot;图书馆&amp;quot;的中国工厂，产能跟得上吗？&lt;/p&gt;
+&lt;p&gt;这就是今天市场疯狂追捧&lt;strong&gt;江波龙&lt;/strong&gt;的原因。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
+&lt;p&gt;2026年5月，A股存储芯片板块持续走强，江波龙股价创下上市以来新高。&lt;/p&gt;
+&lt;p&gt;表面看，这是受英伟达财报超预期的刺激——全球AI算力需求持续爆发，存储产业链集体受益。按理说，英伟达利好的是光模块、算力芯片，和存储模组八竿子打不着。但市场偏偏选了存储——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的AI算力基础设施需求&amp;quot;。&lt;/p&gt;
+&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;AI服务器存储需求正在从&amp;quot;配角&amp;quot;走向&amp;quot;刚需&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;江波龙，中国存储模组龙头，2026年一季度净利润同比增长近20倍，企业级SSD手握130亿元订单排期至2027年二季度。&lt;/p&gt;
+&lt;p&gt;不是因为消费复苏，而是因为AI算力革命带来的存储需求井喷。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第一个故事为什么突然重要了&#34;&gt;【第一个故事】为什么突然重要了&lt;/h2&gt;
+&lt;p&gt;让我们回到那个拍视频的场景。&lt;/p&gt;
+&lt;p&gt;2023年，ChatGPT横空出世，市场开始炒作&amp;quot;AI概念&amp;quot;。但当时大家只关注GPU、光模块，存储只是配角。&lt;/p&gt;
+&lt;p&gt;2024年，大模型训练需求爆发，市场意识到HBM（高带宽内存）的重要性。但企业级SSD仍被忽视。&lt;/p&gt;
+&lt;p&gt;2025年，故事进入第三阶段：&lt;strong&gt;AI推理需求爆发，企业级存储成为瓶颈&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;为什么？&lt;/p&gt;
+&lt;p&gt;因为AI训练与AI推理对存储的需求，不是简单的&amp;quot;一对一&amp;quot;。一台AI训练服务器需要8卡HBM、14-16TB企业级SSD、10-12张DRAM内存条。当应用场景从&amp;quot;训练&amp;quot;扩展到&amp;quot;推理+边缘计算&amp;quot;时，存储的需求量不是线性增加，而是指数级增加。&lt;/p&gt;
+&lt;p&gt;更关键的是，&lt;strong&gt;2026年HBM月产能将扩至47.6万片，但DDR5月缺口仍达20万片&lt;/strong&gt;。海外存储大厂产能都去搞利润更高的HBM，普通存储产能严重不足。&lt;/p&gt;
+&lt;p&gt;江波龙的企业级SSD已经开始批量供货阿里云、腾讯云、浪潮等头部厂商。这不是概念，是&lt;strong&gt;130亿元订单&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
+&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
+&lt;p&gt;存储行业的估值，历来是个难题。&lt;/p&gt;
+&lt;p&gt;传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——存储价格跟着供需周期波动，赚钱靠天吃饭。这个逻辑在2019-2023年是对的，但在AI时代需要重新审视。&lt;/p&gt;
+&lt;p&gt;让我们看几个数字：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025年营收&lt;/strong&gt;：预计同比增长超50%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026年Q1净利润&lt;/strong&gt;：同比增长近20倍&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;企业级SSD订单&lt;/strong&gt;：130亿元，排期至2027年Q2&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI端侧存储收入&lt;/strong&gt;：2026年Q1同比+496.45%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
+&lt;p&gt;意味着江波龙正在从&amp;quot;存储模组商&amp;quot;变成&amp;quot;AI基础设施提供商&amp;quot;。传统的存储需求跟着消费电子周期波动，但AI带来的需求是&lt;strong&gt;刚性且持续&lt;/strong&gt;的——只要AI算力还在扩张，存储需求就不会停。&lt;/p&gt;
+&lt;p&gt;市场愿意给江波龙更高估值的原因：它不再是一家&amp;quot;周期股&amp;quot;，而是&amp;quot;AI时代的卖铲人&amp;quot;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
+&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是江波龙，而不是其他存储公司？&lt;/p&gt;
+&lt;p&gt;存储模组行业有很多玩家，为什么江波龙能独占鳌头？&lt;/p&gt;
+&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，全场景覆盖。&lt;/strong&gt; 江波龙是国内唯一同时布局消费级、企业级、车规级、工业级存储的厂商。嵌入式存储占43.68%、固态硬盘占27.68%、移动存储占22.99%——这种多元化布局平滑了周期波动。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，品牌壁垒。&lt;/strong&gt; 2017年收购全球消费级存储品牌Lexar（雷克沙），2023年收购巴西头部存储厂商Zilia。Lexar品牌2023年B2C收入在全球独立存储器品牌中排名第二。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，车规级先发优势。&lt;/strong&gt; 国内唯一同时打入国际大厂车规级存储供应链的企业，车规级业务受消费周期波动影响小，盈利稳定性显著高于同行。&lt;/p&gt;
+&lt;p&gt;这些优势不是一朝一夕建立起来的。创始人蔡华波1999年从华强北柜台起步，&lt;strong&gt;花了26年&lt;/strong&gt;，才将江波龙打造成全球第二大独立存储器厂商。&lt;/p&gt;
+&lt;p&gt;竞争对手可以模仿它的产品，但很难复制它的&lt;strong&gt;品牌积累+全球渠道+车规级认证&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI越聪明，数据存储需求越大；存储需求越大，企业级SSD越紧缺；企业级SSD越紧缺，江波龙越值钱。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI大模型的训练和推理需求正在爆发式增长，数据中心的算力规模持续扩张&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：海外存储大厂产能向HBM倾斜，普通存储产能严重不足，企业级SSD成为瓶颈&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：作为全球存储模组龙头，江波龙企业级SSD手握130亿元订单，业绩进入高速增长期&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>兆易创新：每一台智能设备的记忆库</title>
+      <link>https://dondrub3.com/jibai/2026-05-22-%E5%85%86%E6%98%93%E5%88%9B%E6%96%B0/</link>
+      <pubDate>Fri, 22 May 2026 19:00:00 +0800</pubDate>
+      <guid>https://dondrub3.com/jibai/2026-05-22-%E5%85%86%E6%98%93%E5%88%9B%E6%96%B0/</guid>
+      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
+&lt;p&gt;你刚用手机拍了一张照片，下一秒打开微信准备发给朋友，相册里那张照片已经出现在最近图片的第一位。你以为是巧合，其实背后是存储芯片在毫秒级完成数据写入和读取。&lt;/p&gt;
+&lt;p&gt;每一次解锁手机、每一次打开APP、每一次语音助手回应你的呼唤，都有数十亿个晶体管在同时工作。这些晶体管需要被&amp;quot;记住&amp;quot;——它们的状态、它们的数据、它们的连接关系——就像人脑需要记忆来思考一样。&lt;/p&gt;
+&lt;p&gt;而存储这些数据的&amp;quot;记忆库&amp;quot;，叫做&lt;strong&gt;存储芯片&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当AI手机、智能汽车、物联网设备爆发式增长，这些&amp;quot;记忆库&amp;quot;的需求量也在指数级攀升。问题是：生产这些&amp;quot;记忆库&amp;quot;的工厂，产能跟得上吗？&lt;/p&gt;
+&lt;p&gt;这就是今天市场疯狂追捧兆易创新的原因。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
+&lt;p&gt;2025年5月22日，半导体板块集体拉升，兆易创新股价创历史新高。&lt;/p&gt;
+&lt;p&gt;表面看，这是受中美贸易谈判缓和的刺激——全球科技股风险偏好回升，资金涌入成长板块。按理说，贸易缓和利好出口导向的消费电子、利好跨境电商，和半导体八竿子打不着。但市场偏偏选了半导体——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的国产替代加速预期&amp;quot;。&lt;/p&gt;
+&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;存储芯片的国产替代正在从&amp;quot;概念&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;兆易创新，国内存储芯片设计龙头，2025年以来股价涨幅超过80%，市值突破2800亿。&lt;/p&gt;
+&lt;p&gt;不是因为贸易摩擦的情绪炒作，而是因为它的NOR Flash和MCU产品正在AI终端和汽车电子领域实现放量。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第一个故事为什么突然重要&#34;&gt;【第一个故事】为什么突然重要&lt;/h2&gt;
+&lt;p&gt;让我们回到那个手机拍照的场景。&lt;/p&gt;
+&lt;p&gt;2023年，ChatGPT引爆AI浪潮，市场开始炒作算力概念。但当时大家只关注GPU、光模块，存储芯片被忽视——毕竟，&amp;ldquo;内存&amp;quot;听起来不如&amp;quot;算力&amp;quot;性感。&lt;/p&gt;
+&lt;p&gt;2024年，市场意识到一个关键问题：AI不只是云端的事，端侧AI（手机、PC、IoT设备）才是更大的战场。而端侧AI对存储的需求，比传统设备高出数倍——一部AI手机需要的存储容量是普通手机的2-3倍。&lt;/p&gt;
+&lt;p&gt;2025年，故事进入第三阶段：&lt;strong&gt;存储芯片从&amp;quot;配角&amp;quot;变成&amp;quot;刚需&amp;rdquo;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;为什么？&lt;/p&gt;
+&lt;p&gt;因为AI模型和存储芯片的关系，不是简单的&amp;quot;一对一&amp;quot;。一个大模型参数文件动辄几十GB，运行时需要频繁读取和写入中间结果。当AI应用从&amp;quot;云端推理&amp;quot;扩展到&amp;quot;端侧运行&amp;quot;时，存储芯片的需求量不是线性增加，而是指数级增加。&lt;/p&gt;
+&lt;p&gt;更关键的是，存储芯片正在经历一轮技术迭代——从NOR Flash向利基型DRAM延伸，从消费级向车规级升级。这意味着，旧的产品格局正在被打破，新的龙头正在崛起。&lt;/p&gt;
+&lt;p&gt;兆易创新的车规级NOR Flash已经开始向头部车企批量供货。这不是概念，是订单。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
+&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
+&lt;p&gt;存储芯片的估值，历来是个难题。&lt;/p&gt;
+&lt;p&gt;传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——看存储价格周期、看产能利用率、看库存水位。这个逻辑在PC时代是对的，但在AI时代需要重新审视。&lt;/p&gt;
+&lt;p&gt;让我们看几个数字：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2025年上半年，兆易创新营收同比增长35%，净利润同比增长超过200%&lt;/li&gt;
+&lt;li&gt;NOR Flash全球市场份额18.5%，跃升至全球第二、内地第一&lt;/li&gt;
+&lt;li&gt;车规级MCU出货量同比增长超过150%，打入多家头部车企供应链&lt;/li&gt;
+&lt;li&gt;利基型DRAM业务增速超过80%，成为新的增长引擎&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
+&lt;p&gt;意味着兆易创新正在从&amp;quot;周期股&amp;quot;变成&amp;quot;成长股&amp;quot;。传统的存储需求跟着PC和手机销量波动，但AI终端和汽车电子带来的需求是结构性、持续性的——只要AI化趋势还在，存储升级就不会停。&lt;/p&gt;
+&lt;p&gt;市场愿意给兆易创新更高估值的原因：它不再是一家&amp;quot;存储芯片设计公司&amp;quot;，而是&amp;quot;智能设备的记忆基础设施提供商&amp;quot;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
+&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是兆易创新，而不是其他半导体公司？&lt;/p&gt;
+&lt;p&gt;存储芯片领域有很多玩家，为什么兆易创新能独占鳌头？&lt;/p&gt;
+&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，技术领先。&lt;/strong&gt; 兆易创新是全球率先实现45nm节点SPI NOR Flash大规模量产的公司之一，在38nm SLC NAND和利基型DRAM领域也保持代际领先。技术代差意味着更高的毛利率和更强的定价权。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，客户锁定。&lt;/strong&gt; 车规级芯片的认证周期长达2-3年，一旦进入车企供应链，切换成本极高。兆易创新已经与多家头部车企建立稳定合作关系，形成了强大的客户粘性。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，生态协同。&lt;/strong&gt; &amp;ldquo;存储+MCU&amp;quot;双轮驱动战略让公司能够为AIoT和汽车电子提供一站式解决方案。客户买的不是单一产品，而是完整的芯片组合。&lt;/p&gt;
+&lt;p&gt;这些优势不是一朝一夕建立起来的。兆易创新花了20年，投入了数百亿研发资金，才形成了今天的技术积累和客户网络。&lt;/p&gt;
+&lt;p&gt;竞争对手可以模仿它的某一款产品，但很难复制它的生态位。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI越普及，端侧设备越智能；端侧设备越智能，存储需求越旺盛；存储需求越旺盛，兆易创新越值钱。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI终端和汽车电子的存储需求正在爆发式增长，存储芯片从周期品变成必需品。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：端侧AI渗透率越高，对高容量、高性能存储芯片的需求就越大，车规级产品的认证壁垒保证了龙头地位的持续性。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：作为全球NOR Flash第二、国产MCU龙头，兆易创新在AIoT和汽车电子双赛道同时受益，业绩进入高速增长期。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>华虹公司：半导体板块的隐形冠军</title>
+      <link>https://dondrub3.com/jibai/2026-05-07-%E5%8D%8E%E8%99%B9%E5%85%AC%E5%8F%B8/</link>
+      <pubDate>Thu, 07 May 2026 19:00:00 +0800</pubDate>
+      <guid>https://dondrub3.com/jibai/2026-05-07-%E5%8D%8E%E8%99%B9%E5%85%AC%E5%8F%B8/</guid>
+      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
+&lt;p&gt;你刚在手机上刷完一条关于新能源汽车的视频，两分钟后打开购物App，首页就跳出了几款车载充电器的推荐。你以为是巧合，其实背后是无数芯片在实时运算、传输、决策。&lt;/p&gt;
+&lt;p&gt;每一次点击、每一次滑动，都有成千上万颗芯片在同时工作。这些芯片不是凭空出现的——它们需要在一枚枚晶圆上，经过数百道精密工序，才能变成你手机里的&amp;quot;大脑&amp;quot;。&lt;/p&gt;
+&lt;p&gt;而制造这些芯片的&amp;quot;工厂&amp;quot;，叫做&lt;strong&gt;晶圆代工厂&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当新能源汽车、物联网、人工智能的需求爆发，这些&amp;quot;芯片工厂&amp;quot;的产能，正在成为全球科技竞争的焦点。&lt;/p&gt;
+&lt;p&gt;这就是今天市场疯狂追捧华虹公司的原因。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
+&lt;p&gt;2026年5月7日，半导体板块集体大涨，华虹公司股价创历史新高。&lt;/p&gt;
+&lt;p&gt;表面看，这是受中美贸易谈判缓和的刺激——全球股市风险偏好回升，科技股普涨。按理说，贸易缓和利好出口导向的消费电子，和晶圆代工八竿子打不着。但市场偏偏选了半导体——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的国产替代加速预期&amp;quot;。&lt;/p&gt;
+&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;中国半导体产业正在从&amp;quot;能用&amp;quot;走向&amp;quot;好用&amp;quot;，从&amp;quot;替代&amp;quot;走向&amp;quot;主导&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;华虹公司，中国大陆第二大、全球第六大晶圆代工厂，专注成熟制程特色工艺，股价创阶段性新高。&lt;/p&gt;
+&lt;p&gt;不是因为贸易谈判的短期刺激，而是因为国产替代进入深水区——当先进制程被封锁，成熟制程的自主可控就成了战略要地。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第一个故事为什么突然重要&#34;&gt;【第一个故事】为什么突然重要&lt;/h2&gt;
+&lt;p&gt;让我们回到那个刷手机的场景。&lt;/p&gt;
+&lt;p&gt;2020年，新能源汽车开始爆发，但车规级芯片几乎全靠进口。市场开始关注半导体，但当时大家只看到设计环节的突破。&lt;/p&gt;
+&lt;p&gt;2023年，华为Mate 60横空出世，市场意识到：没有制造能力，设计再强也是空中楼阁。&lt;/p&gt;
+&lt;p&gt;2025年，故事进入第三阶段：&lt;strong&gt;成熟制程的国产替代从&amp;quot;可选项&amp;quot;变成&amp;quot;必选项&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;为什么？&lt;/p&gt;
+&lt;p&gt;因为一辆新能源汽车需要的芯片，不是简单的&amp;quot;一对一&amp;quot;关系。电源管理芯片、MCU、功率器件、传感器——一辆电动车需要上千颗芯片。当新能源汽车渗透率从10%提升到50%，成熟制程芯片的需求量不是线性增加，而是指数级增加。&lt;/p&gt;
+&lt;p&gt;更关键的是，这些芯片不需要最先进的3nm工艺，90nm、55nm的成熟制程完全够用。而华虹，正是这个赛道的隐形冠军。&lt;/p&gt;
+&lt;p&gt;华虹的无锡12英寸产线已经开始放量，产能利用率持续高位运行。这不是概念，是实实在在的订单和收入。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
+&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
+&lt;p&gt;晶圆代工的估值，历来是个难题。&lt;/p&gt;
+&lt;p&gt;传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——看产能利用率、看价格周期、看资本开支。这个逻辑在旧时代是对的，但在国产替代的新时代需要重新审视。&lt;/p&gt;
+&lt;p&gt;让我们看几个数字：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2025年Q1营收39.13亿元，同比增长17.6%&lt;/li&gt;
+&lt;li&gt;上海金桥、张江3座8英寸晶圆厂，月产能18万片&lt;/li&gt;
+&lt;li&gt;无锡12英寸晶圆厂月产能9.45万片，二期规划再增8.3万片&lt;/li&gt;
+&lt;li&gt;专注嵌入式存储、功率器件、模拟与电源管理、逻辑与射频等特色工艺&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
+&lt;p&gt;意味着华虹正在从&amp;quot;传统代工厂&amp;quot;变成&amp;quot;特色工艺平台&amp;quot;。传统的代工厂跟着全球半导体周期波动，但国产替代带来的需求是结构性的——只要中国还在造新能源汽车、还在推物联网，成熟制程芯片的需求就不会停。&lt;/p&gt;
+&lt;p&gt;市场愿意给华虹更高估值的原因：它不再是一家普通的晶圆代工厂，而是中国半导体产业链的&amp;quot;基础设施&amp;quot;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
+&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是华虹，而不是其他晶圆代工厂？&lt;/p&gt;
+&lt;p&gt;全球晶圆代工有很多玩家，为什么华虹能在成熟制程独占鳌头？&lt;/p&gt;
+&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，特色工艺的深厚积累。&lt;/strong&gt; 华虹不是做通用逻辑芯片的，它专注嵌入式闪存、功率器件、电源管理——这些领域需要工艺Know-how，不是简单的设备堆砌。华虹在55nm嵌入式闪存、深沟槽式超级结MOSFET等技术上拥有自主知识产权。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，车规级认证的护城河。&lt;/strong&gt; 汽车芯片对可靠性要求极高，认证周期长达2-3年。华虹已经通过国际CC EAL5+和EMVCo安全认证，这意味着它的产线可以直接服务汽车客户。竞争对手想切入，至少要等两年。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，产能扩张的先发优势。&lt;/strong&gt; 当其他厂商还在犹豫要不要扩产的时候，华虹的无锡二期已经在建设。2025年投产，目标月产能8.3万片。在半导体行业，产能就是话语权。&lt;/p&gt;
+&lt;p&gt;这些优势不是一朝一夕建立起来的。华虹花了28年（从1997年华虹NEC算起），投入了数百亿，才形成了今天的技术积累和产能布局。&lt;/p&gt;
+&lt;p&gt;竞争对手可以模仿它的产线，但很难复制它的工艺积累和客户关系。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
+&lt;p&gt;国产替代越紧迫，成熟制程越值钱；成熟制程越值钱，华虹的产能越紧缺；产能越紧缺，华虹越值钱。&lt;/p&gt;
+&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：中美科技博弈背景下，半导体国产替代进入深水区，成熟制程成为战略要地&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：新能源汽车、物联网、AIoT对成熟制程芯片的需求爆发，而全球成熟制程产能向中国转移&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：华虹作为中国第二大晶圆代工厂，拥有特色工艺技术壁垒、车规级认证护城河，以及持续扩张的产能优势&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>美光科技：AI时代的&#39;内存印钞机&#39;</title>
+      <link>https://dondrub3.com/jibai/2026-05-05-%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80/</link>
+      <pubDate>Tue, 05 May 2026 19:00:00 +0800</pubDate>
+      <guid>https://dondrub3.com/jibai/2026-05-05-%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80/</guid>
+      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
+&lt;p&gt;你刚在手机上问ChatGPT一个问题，两秒钟后它就给出了一段流畅的回答。你以为是魔法，其实背后是&lt;strong&gt;数千亿次计算&lt;/strong&gt;在瞬间完成。&lt;/p&gt;
+&lt;p&gt;每一次AI对话，都有成千上万块GPU在数据中心里疯狂运转。这些GPU之间，需要以&lt;strong&gt;每秒万亿比特&lt;/strong&gt;的速度交换数据——就像人脑的神经元通过突触传递信号一样。&lt;/p&gt;
+&lt;p&gt;而连接这些GPU的&amp;quot;神经突触&amp;quot;，叫做&lt;strong&gt;高带宽存储（HBM）&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当全球AI应用爆发式增长，这些&amp;quot;神经突触&amp;quot;的需求量也在指数级攀升。问题是：生产这些HBM的工厂，产能跟得上吗？&lt;/p&gt;
+&lt;p&gt;这就是今天市场疯狂追捧&lt;strong&gt;美光科技&lt;/strong&gt;的原因。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
+&lt;p&gt;2026年5月5日，美股存储芯片板块集体大涨，美光科技单日涨幅超6%。&lt;/p&gt;
+&lt;p&gt;表面看，这是受美光CEO一席话的刺激——他在财报电话会上表示：&amp;ldquo;2025年我们的HBM产能已经全部售罄，AI需求正在吞噬过半内存市场。&amp;ldquo;按理说，CEO的乐观表态利好自家股票，和整个存储板块八竿子打不着。但市场偏偏选了&lt;strong&gt;整个存储板块&lt;/strong&gt;——这说明资金已经不在乎&amp;quot;事件本身&amp;rdquo;，而在乎&amp;quot;事件背后的AI算力需求爆发&amp;rdquo;。&lt;/p&gt;
+&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;AI正在重新定义存储行业的周期逻辑&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;美光科技，全球第三大内存芯片制造商，2025财年Q4营收达113.2亿美元，同比增长超过80%，股价年内累计上涨168%。&lt;/p&gt;
+&lt;p&gt;不是因为传统内存需求回暖，而是因为&lt;strong&gt;AI服务器对HBM的需求已经供不应求&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第一个故事为什么突然重要&#34;&gt;【第一个故事】为什么突然重要&lt;/h2&gt;
+&lt;p&gt;让我们回到那个&lt;strong&gt;AI对话的场景&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;2023年，ChatGPT横空出世，市场开始炒作AI概念股。但当时大家只关注英伟达的GPU，没人在意GPU里用的是什么内存。&lt;/p&gt;
+&lt;p&gt;2024年，情况变了。市场意识到：没有HBM，GPU就是一块废铁。SK海力士凭借HBM3的先发优势，股价翻倍。但当时的美光，还在HBM赛道上追赶。&lt;/p&gt;
+&lt;p&gt;2025年，故事进入第三阶段：&lt;strong&gt;美光跳过HBM3，直接量产HBM3E，成功打入英伟达供应链&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;为什么？&lt;/p&gt;
+&lt;p&gt;因为GPU和HBM的关系，不是简单的&amp;quot;一对一&amp;quot;。一张英伟达H200 GPU需要6颗HBM3E芯片。当AI模型从&amp;quot;数十亿参数&amp;quot;扩展到&amp;quot;数万亿参数&amp;quot;时，HBM的需求量不是线性增加，而是指数级增加。&lt;/p&gt;
+&lt;p&gt;更关键的是，&lt;strong&gt;美光的HBM3E比竞品功耗低30%&lt;/strong&gt;。这意味着，同样的数据中心，用美光的芯片可以节省数百万美元的电费。&lt;/p&gt;
+&lt;p&gt;美光的HBM3E已经开始大规模出货英伟达H200。这不是概念，是&lt;strong&gt;2025年全年产能已售罄的订单&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
+&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
+&lt;p&gt;存储芯片的估值，历来是个难题。&lt;/p&gt;
+&lt;p&gt;传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——看DRAM和NAND的价格周期，看供需关系。这个逻辑在PC和智能手机时代是对的，但在AI时代需要重新审视。&lt;/p&gt;
+&lt;p&gt;让我们看几个数字：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025财年Q3营收&lt;/strong&gt;：93亿美元（创历史纪录）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025财年Q4营收&lt;/strong&gt;：113.2亿美元，同比增长超80%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据中心收入&lt;/strong&gt;：同比增长3倍&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;毛利率&lt;/strong&gt;：从20%跃升至40.9%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025年HBM销售目标&lt;/strong&gt;：150亿美元&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
+&lt;p&gt;意味着美光正在从&amp;quot;传统存储供应商&amp;quot;变成&amp;quot;AI基础设施核心供应商&amp;quot;。传统的内存需求跟着PC和智能手机周期波动，但AI带来的需求是&lt;strong&gt;结构性&lt;/strong&gt;的——只要大模型还在训练，只要AI应用还在扩张，HBM的需求就不会停。&lt;/p&gt;
+&lt;p&gt;市场愿意给美光更高估值的原因：它不再是一家&amp;quot;看天吃饭&amp;quot;的周期股，而是&lt;strong&gt;AI时代的&amp;quot;内存印钞机&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
+&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是美光，而不是SK海力士或三星？&lt;/p&gt;
+&lt;p&gt;HBM市场有三巨头，为什么美光能在2025年实现逆袭？&lt;/p&gt;
+&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，技术路线的精准卡位。&lt;/strong&gt; 美光跳过HBM3，直接押注HBM3E。这个决策在2024年看起来冒险，但在2025年证明是正确的。当竞争对手还在优化HBM3时，美光已经量产了功耗低30%的HBM3E。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，客户认证的突破。&lt;/strong&gt; 英伟达H200采用美光HBM3E，这是美光打入AI核心供应链的关键一步。数据中心客户的认证周期长达12-18个月，一旦通过，切换成本极高。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，产能扩张的执行力。&lt;/strong&gt; 美光计划到2025年底将HBM产能提升至每月6万片晶圆，是2024年的数倍。更重要的是，这些产能&lt;strong&gt;已经全部售罄&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这些优势不是一朝一夕建立起来的。美光花了&lt;strong&gt;10年&lt;/strong&gt;时间研发HBM技术，投入了&lt;strong&gt;数百亿美元&lt;/strong&gt;建设先进产线，才形成了今天的技术积累。&lt;/p&gt;
+&lt;p&gt;竞争对手可以模仿它的产品规格，但很难复制它的&lt;strong&gt;技术路线判断力&lt;/strong&gt;和&lt;strong&gt;客户信任&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI越聪明，算力需求越大；算力需求越大，HBM越紧缺；HBM越紧缺，美光越值钱。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI大模型的训练和推理需求爆发式增长，数据中心算力规模持续扩张&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：GPU规模越大，HBM的需求量就越大，且新一代AI芯片对HBM的依赖度更高&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：作为成功打入英伟达供应链的HBM3E供应商，美光2025年HBM产能已全部售罄，业绩进入高速增长期&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>中芯国际：每一部手机的&#39;心脏&#39;都在这家工厂跳动</title>
+      <link>https://dondrub3.com/jibai/2026-05-04-%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85/</link>
+      <pubDate>Mon, 04 May 2026 19:00:00 +0800</pubDate>
+      <guid>https://dondrub3.com/jibai/2026-05-04-%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85/</guid>
+      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
+&lt;p&gt;你刚在京东下单了一部新手机，三天后就收到了快递。你以为是物流快，其实背后是一颗芯片在三个月前就已经开始在工厂里&amp;quot;生长&amp;quot;。&lt;/p&gt;
+&lt;p&gt;每一次滑动屏幕、每一次拍照、每一次扫码支付，都有数十亿个晶体管在同步运算。这些晶体管，需要在头发丝千分之一大小的空间里精准排布——就像在一粒米上雕刻出一座完整的城市。&lt;/p&gt;
+&lt;p&gt;而建造这些&amp;quot;微观城市&amp;quot;的工厂，叫做&lt;strong&gt;晶圆代工厂&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当全球每年卖出超过10亿部智能手机，这些&amp;quot;芯片工厂&amp;quot;的产能，决定了谁能拿到下一代产品的入场券。&lt;/p&gt;
+&lt;p&gt;这就是今天市场疯狂追捧中芯国际的原因。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
+&lt;p&gt;2025年5月4日，港股科网股集体走强，中芯国际大涨。&lt;/p&gt;
+&lt;p&gt;表面看，这是受美联储暂停加息的刺激——全球流动性预期改善，资金风险偏好回升。按理说，加息暂停利好金融、地产，和半导体八竿子打不着。但市场偏偏选了中芯国际——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的产业逻辑&amp;quot;。&lt;/p&gt;
+&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;国产芯片正在从&amp;quot;备胎&amp;quot;变成&amp;quot;主胎&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;中芯国际，中国大陆规模最大、技术最先进的晶圆代工厂，全球排名第三，仅次于台积电和三星。2025年Q1营收同比增长28.4%，净利润暴增166.5%，产能利用率保持满载。&lt;/p&gt;
+&lt;p&gt;不是因为&amp;quot;概念炒作&amp;quot;，而是因为&lt;strong&gt;订单真的来了&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第一个故事为什么突然重要&#34;&gt;【第一个故事】为什么突然重要&lt;/h2&gt;
+&lt;p&gt;让我们回到那个手机下单的场景。&lt;/p&gt;
+&lt;p&gt;2020年，华为被制裁，市场第一次意识到&amp;quot;芯片自主&amp;quot;不是选择题，而是生存题。但当时大家以为这只是华为一家的困境。&lt;/p&gt;
+&lt;p&gt;2022年，美国芯片法案出台，限制对华出口先进制程设备，市场意识到这是一场系统性的&amp;quot;卡脖子&amp;quot;。&lt;/p&gt;
+&lt;p&gt;2025年，故事进入第三阶段：&lt;strong&gt;国产替代从&amp;quot;被动防御&amp;quot;走向&amp;quot;主动进攻&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;为什么？&lt;/p&gt;
+&lt;p&gt;因为芯片需求和产能的关系，不是简单的&amp;quot;一对一&amp;quot;。一部智能手机需要1颗主芯片、3-5颗电源管理芯片、10颗以上传感器芯片。当AI功能从&amp;quot;高端机专属&amp;quot;扩展到&amp;quot;中端机标配&amp;quot;时，芯片的需求量不是线性增加，而是指数级增加。&lt;/p&gt;
+&lt;p&gt;更关键的是，28nm及以上成熟制程正在迎来&amp;quot;第二春&amp;quot;。汽车电子、物联网、工业控制——这些不需要3nm尖端制程，但需要稳定、可靠、大规模的产能。这意味着，中芯国际的&amp;quot;舒适区&amp;quot;突然变成了&amp;quot;黄金赛道&amp;quot;。&lt;/p&gt;
+&lt;p&gt;中芯国际的28nm产线已经满负荷运转，14nm良率持续提升。这不是概念，是&lt;strong&gt;已经反映在财报上的真实增长&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
+&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
+&lt;p&gt;半导体代工的估值，历来是个难题。&lt;/p&gt;
+&lt;p&gt;传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——跟着全球半导体景气周期波动，景气时PE 30倍，低迷时PE 10倍。这个逻辑在&amp;quot;全球化分工&amp;quot;时代是对的，但在&amp;quot;地缘脱钩&amp;quot;时代需要重新审视。&lt;/p&gt;
+&lt;p&gt;让我们看几个数字：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025年Q1营收&lt;/strong&gt;：同比增长28.4%，连续多个季度创新高&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;净利润&lt;/strong&gt;：同比增长166.5%，盈利能力大幅改善&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;产能利用率&lt;/strong&gt;：保持满载，订单排期已到数月之后&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;行业地位&lt;/strong&gt;：全球第三大晶圆代工厂，中国大陆绝对龙头&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
+&lt;p&gt;意味着中芯国际正在从&amp;quot;周期股&amp;quot;变成&amp;quot;成长股&amp;quot;。传统的半导体需求跟着全球经济波动，但国产替代带来的需求是&lt;strong&gt;结构性&lt;/strong&gt;的——只要&amp;quot;自主可控&amp;quot;的国家战略还在，订单就不会停。&lt;/p&gt;
+&lt;p&gt;市场愿意给中芯国际更高估值的原因：它不再是一家&amp;quot;普通的代工厂&amp;quot;，而是&lt;strong&gt;中国半导体产业的&amp;quot;基础设施&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
+&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是中芯国际，而不是其他半导体公司？&lt;/p&gt;
+&lt;p&gt;晶圆代工行业有很多玩家，为什么中芯国际能独占鳌头？&lt;/p&gt;
+&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，规模壁垒。&lt;/strong&gt; 中芯国际拥有中国大陆最大规模的晶圆产能，月产能超过80万片。芯片制造是典型的&amp;quot;规模经济&amp;quot;——产能越大，单位成本越低，客户粘性越强。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，技术积累。&lt;/strong&gt; 虽然与台积电的3nm还有差距，但中芯国际在28nm、14nm等成熟制程上已经实现稳定量产。更关键的是，它是中国大陆唯一具备14nm量产能力的代工厂，技术代差就是护城河。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，客户锁定。&lt;/strong&gt; 芯片代工的客户认证周期长达1-2年，一旦导入就很难切换。中芯国际已经深度绑定了华为、紫光展锐、兆易创新等国内头部芯片设计公司，形成了&amp;quot;设计-制造&amp;quot;的本土生态闭环。&lt;/p&gt;
+&lt;p&gt;这些优势不是一朝一夕建立起来的。中芯国际花了20年，投入了数千亿资金，才形成了今天的产能和技术积累。&lt;/p&gt;
+&lt;p&gt;竞争对手可以模仿它的产线，但很难复制它的&lt;strong&gt;时间沉淀和客户关系&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;国产替代越紧迫，芯片自主越迫切；芯片自主越迫切，晶圆代工越紧缺；晶圆代工越紧缺，中芯国际越值钱。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：国产芯片替代进入加速期，成熟制程需求爆发式增长&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：地缘脱钩背景下，本土晶圆代工产能成为战略资源&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：作为全球第三大、中国大陆第一的晶圆代工厂，中芯国际产能满载、业绩高速增长，是国产替代浪潮的最大受益者&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>北方华创：当芯片制造遇上国产替代</title>
+      <link>https://dondrub3.com/jibai/2026-04-11-%E5%8C%97%E6%96%B9%E5%8D%8E%E5%88%9B/</link>
+      <pubDate>Sat, 11 Apr 2026 01:50:00 +0800</pubDate>
+      <guid>https://dondrub3.com/jibai/2026-04-11-%E5%8C%97%E6%96%B9%E5%8D%8E%E5%88%9B/</guid>
+      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
+&lt;p&gt;你刚在手机上刷完一条短视频，两分钟后打开购物App，首页就精准推荐了你刚才视频中看到的商品。你以为是巧合，其实背后是推荐算法在实时分析你的每一次点击、每一次停留。&lt;/p&gt;
+&lt;p&gt;每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器里，运行着数以亿计的芯片。而这些芯片，需要在一台台精密设备上制造出来——就像汽车需要生产线一样。&lt;/p&gt;
+&lt;p&gt;而生产这些芯片的&amp;quot;生产线&amp;quot;，叫做&lt;strong&gt;半导体设备&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当AI大模型爆发、算力需求激增，这些&amp;quot;生产线&amp;quot;的需求量也在暴涨。问题是：生产这些&amp;quot;生产线&amp;quot;的工厂，产能跟得上吗？&lt;/p&gt;
+&lt;p&gt;这就是今天市场疯狂追捧北方华创的原因。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
+&lt;p&gt;2025年4月11日，创业板指大涨1.36%，科创50指数涨超2%，半导体板块吸金89亿。&lt;/p&gt;
+&lt;p&gt;表面看，这是受关税政策缓和的刺激——全球股市集体反弹，资金风险偏好回升。按理说，关税缓和利好出口、利好消费电子，和半导体设备八竿子打不着。但市场偏偏选了半导体设备——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的国产替代逻辑&amp;quot;。&lt;/p&gt;
+&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;芯片制造的自主可控，正在从&amp;quot;战略储备&amp;quot;走向&amp;quot;业绩兑现&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;北方华创，国内半导体设备龙头，股价今日表现强势。&lt;/p&gt;
+&lt;p&gt;不是因为关税缓和的表面利好，而是因为国产设备正在进入&amp;quot;订单放量&amp;quot;的关键阶段。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第一个故事为什么突然重要&#34;&gt;【第一个故事】为什么突然重要&lt;/h2&gt;
+&lt;p&gt;让我们回到那个刷短视频的场景。&lt;/p&gt;
+&lt;p&gt;2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家普遍认为，这是海外巨头的游戏，中国公司只能做应用层。&lt;/p&gt;
+&lt;p&gt;2024年，华为昇腾芯片突破，市场意识到国产算力不是梦。但焦点集中在芯片设计，很少有人关注芯片制造。&lt;/p&gt;
+&lt;p&gt;2025年，故事进入第三阶段：&lt;strong&gt;芯片制造的国产替代，从&amp;quot;0到1&amp;quot;走向&amp;quot;1到10&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;为什么？&lt;/p&gt;
+&lt;p&gt;因为芯片设计和芯片制造的关系，不是简单的&amp;quot;一对一&amp;quot;。一颗先进芯片的制造，需要经过上千道工序，涉及光刻、刻蚀、薄膜沉积、清洗等数十种设备。当AI算力需求从&amp;quot;小规模实验&amp;quot;扩展到&amp;quot;大规模商用&amp;quot;时，芯片产能的需求量不是线性增加，而是指数级增加。&lt;/p&gt;
+&lt;p&gt;更关键的是，&lt;strong&gt;先进制程的国产设备开始突破&lt;/strong&gt;。这意味着，过去依赖进口的高端设备，正在逐步被国产替代。&lt;/p&gt;
+&lt;p&gt;北方华创的刻蚀设备和薄膜沉积设备，已经开始批量进入国内主流晶圆厂。这不是概念，是订单。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
+&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
+&lt;p&gt;半导体设备的估值，历来是个难题。&lt;/p&gt;
+&lt;p&gt;传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——跟着半导体周期波动，景气时涨、低迷时跌。这个逻辑在&amp;quot;全球分工&amp;quot;时代是对的，但在&amp;quot;国产替代&amp;quot;时代需要重新审视。&lt;/p&gt;
+&lt;p&gt;让我们看几个数字：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2024年营收：预计超过200亿元，同比增长超30%&lt;/li&gt;
+&lt;li&gt;刻蚀设备：国内市占率已突破20%，正在向30%迈进&lt;/li&gt;
+&lt;li&gt;薄膜沉积设备：PVD设备国内领先，CVD设备开始放量&lt;/li&gt;
+&lt;li&gt;订单 backlog：在手订单超过300亿元，支撑未来2年业绩&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
+&lt;p&gt;意味着北方华创正在从&amp;quot;周期股&amp;quot;变成&amp;quot;成长股&amp;quot;。传统的半导体设备跟着全球半导体周期波动，但国产替代带来的需求是&amp;quot;结构性&amp;quot;的——只要自主可控的战略还在，设备采购就不会停。&lt;/p&gt;
+&lt;p&gt;市场愿意给北方华创更高估值的原因：它不再是一家&amp;quot;跟随周期&amp;quot;的设备商，而是&amp;quot;国产替代&amp;quot;浪潮下的核心基础设施。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
+&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是北方华创，而不是其他半导体设备公司？&lt;/p&gt;
+&lt;p&gt;半导体设备有很多玩家，为什么北方华创能独占鳌头？&lt;/p&gt;
+&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，产品线最全。&lt;/strong&gt; 从刻蚀到薄膜沉积，从清洗到热处理，北方华创是国内产品线最完整的半导体设备厂商——这意味着它可以提供&amp;quot;一站式&amp;quot;解决方案，客户切换成本低。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，客户认证壁垒。&lt;/strong&gt; 半导体设备进入晶圆厂，需要经过漫长的认证周期（通常1-2年）。北方华创早在10年前就开始布局，现在已经进入中芯国际、长江存储等主流厂商的供应链——后来者很难追赶。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，研发投入积累。&lt;/strong&gt; 过去5年，北方华创累计研发投入超过100亿元，建立了完整的研发团队和专利体系。这不是一朝一夕能复制的。&lt;/p&gt;
+&lt;p&gt;这些优势不是一朝一夕建立起来的。北方华创花了15年，投入了数百亿，才形成了今天的技术积累和客户关系。&lt;/p&gt;
+&lt;p&gt;竞争对手可以模仿它的产品，但很难复制它的生态。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;收尾双版本闭环&#34;&gt;【收尾】双版本闭环&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI越智能，算力需求越大；算力需求越大，芯片越紧缺；芯片越紧缺，国产设备越重要；国产设备越重要，北方华创越值钱。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI大模型和国产算力需求爆发，芯片制造自主可控成为战略刚需&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：国产半导体设备正在从&amp;quot;可用&amp;quot;走向&amp;quot;好用&amp;quot;，订单进入放量期&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：北方华创作为国内设备龙头，产品线最全、客户认证最深、研发投入最大，是国产替代浪潮下的最大受益者&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,602 +1,759 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI算力 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/tags/ai%E7%AE%97%E5%8A%9B/</link><description>Recent content in AI算力 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Wed, 20 May 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/tags/ai%E7%AE%97%E5%8A%9B/index.xml" rel="self" type="application/rss+xml"/><item><title>中际旭创：AI算力时代的'血管'制造商</title><link>https://dondrub3.com/jibai/2026-05-20-%E4%B8%AD%E9%99%85%E6%97%AD%E5%88%9B/</link><pubDate>Wed, 20 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-20-%E4%B8%AD%E9%99%85%E6%97%AD%E5%88%9B/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
-&lt;p>你刚在抖音上刷了一条&amp;quot;如何挑选猫粮&amp;quot;的视频，两分钟后打开淘宝，首页就跳出了几款热门猫粮推荐。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p>
-&lt;p>每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p>
-&lt;p>而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong>光模块&lt;/strong>。&lt;/p>
-&lt;p>当AI大模型变得越来越聪明，这些&amp;quot;血管&amp;quot;的需求量也在指数级增长。问题是：生产这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p>
-&lt;p>这就是今天市场疯狂追捧中际旭创的原因。&lt;/p>
-&lt;hr>
-&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
-&lt;p>2026年5月20日，A股市场三大指数集体收涨，沪指涨0.38%，深成指涨0.77%，创业板指涨0.77%。&lt;/p>
-&lt;p>表面看，这是受LPR降息与消费复苏预期的刺激——全球股市集体大涨，资金风险偏好回升。按理说，降息利好房地产、利好金融，和光模块八竿子打不着。但市场偏偏选了光模块——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的风险偏好回升&amp;quot;。&lt;/p>
-&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI算力需求正在从&amp;quot;预期&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong>。&lt;/p>
-&lt;p>中际旭创，全球光模块龙头，2025年上半年营收147.89亿元，同比增长36.95%；净利润39.95亿元，同比增长69.40%。&lt;/p>
-&lt;p>不是因为概念炒作，而是因为1.6T光模块已经开始批量出货。&lt;/p>
-&lt;hr>
-&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
-&lt;p>让我们回到那个刷抖音的场景。&lt;/p>
-&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家只知道&amp;quot;AI很牛&amp;quot;，却不知道&amp;quot;AI需要什么&amp;quot;。&lt;/p>
-&lt;p>2024年，市场意识到——AI需要算力，算力需要芯片，芯片需要连接。光模块作为数据中心内部的&amp;quot;连接器&amp;quot;，需求开始爆发。&lt;/p>
-&lt;p>2025年，故事进入第三阶段：&lt;strong>1.6T光模块开始商用&lt;/strong>。&lt;/p>
-&lt;p>为什么？&lt;/p>
-&lt;p>因为GPU和光模块的关系，不是简单的&amp;quot;一对一&amp;quot;。一张高端GPU需要多个高速光模块来连接。当AI训练从&amp;quot;百卡集群&amp;quot;扩展到&amp;quot;万卡集群&amp;quot;时，光模块的需求量不是线性增加，而是指数级增加。&lt;/p>
-&lt;p>更关键的是，2025年是1.6T光模块商用元年。这意味着，新一代产品正在替代旧一代，单价和毛利率都在提升。&lt;/p>
-&lt;p>中际旭创的1.6T光模块已经开始批量出货，二季度产能利用率达95%。这不是概念，是实打实的订单。&lt;/p>
-&lt;hr>
-&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
-&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
-&lt;p>光模块的估值，历来是个难题。&lt;/p>
-&lt;p>传统上，市场把它当作&amp;quot;通信设备&amp;quot;来估值——看运营商资本开支，看5G建设进度。这个逻辑在4G时代是对的，但在AI时代需要重新审视。&lt;/p>
-&lt;p>让我们看几个数字：&lt;/p>
-&lt;ul>
-&lt;li>2025年上半年营收147.89亿元，同比增长36.95%&lt;/li>
-&lt;li>2025年上半年净利润39.95亿元，同比增长69.40%&lt;/li>
-&lt;li>毛利率持续提升，1.6T产品毛利率显著高于800G&lt;/li>
-&lt;/ul>
-&lt;p>这些数字意味着什么？&lt;/p>
-&lt;p>意味着中际旭创正在从&amp;quot;通信设备商&amp;quot;变成&amp;quot;AI基础设施供应商&amp;quot;。传统的通信设备跟着运营商资本开支波动，但AI算力带来的需求是持续性的——只要大模型还在训练，只要AI应用还在增长，光模块的需求就不会停。&lt;/p>
-&lt;p>市场愿意给中际旭创更高估值的原因：它不再是一家&amp;quot;周期股&amp;quot;，而是&amp;quot;AI时代的卖铲人&amp;quot;。&lt;/p>
-&lt;hr>
-&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
-&lt;p>估值重构给了买入的理由，但问题是——为什么是中际旭创，而不是其他光模块公司？&lt;/p>
-&lt;p>光模块有很多玩家，为什么中际旭创能独占鳌头？&lt;/p>
-&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
-&lt;p>&lt;strong>第一，技术领先。&lt;/strong> 中际旭创是全球唯一一家实现1.6T光模块上量出货的企业，技术代际领先竞争对手6-12个月。&lt;/p>
-&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> 谷歌、亚马逊、微软等超大规模云厂商的认证周期长达1-2年，一旦进入供应链，切换成本极高。中际旭创已经深度绑定全球TOP10云厂商中的8家。&lt;/p>
-&lt;p>&lt;strong>第三，规模效应。&lt;/strong> 泰国工厂月产能已提升至50万只，马来西亚基地800G产能翻倍至200万只/月。规模带来的成本优势，让竞争对手难以追赶。&lt;/p>
-&lt;p>这些优势不是一朝一夕建立起来的。中际旭创花了15年，投入了数百亿研发资金，才形成了今天的技术积累和客户关系。&lt;/p>
-&lt;p>竞争对手可以模仿它的产品，但很难复制它的生态。&lt;/p>
-&lt;hr>
-&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
-&lt;blockquote>
-&lt;p>AI越聪明，数据传输量越大；传输量越大，光模块越紧缺；光模块越紧缺，中际旭创越值钱。&lt;/p>&lt;/blockquote>
-&lt;p>或者按标准框架理解：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求正在爆发式增长，数据中心的算力规模持续扩张。&lt;/li>
-&lt;li>&lt;strong>关键变量&lt;/strong>：算力规模越大，光模块的需求量就越大，且新一代GPU对高速光模块的依赖度更高。&lt;/li>
-&lt;li>&lt;strong>公司利好&lt;/strong>：作为全球光模块龙头，中际旭创的1.6T产品已经开始放量，业绩进入高速增长期。&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>德科立：藏在AI数据中心里的'光电心脏'</title><link>https://dondrub3.com/jibai/2026-05-12-%E5%BE%B7%E7%A7%91%E7%AB%8B/</link><pubDate>Tue, 12 May 2026 19:37:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-12-%E5%BE%B7%E7%A7%91%E7%AB%8B/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
-&lt;p>你刚在抖音上刷了一条&amp;quot;如何挑选猫粮&amp;quot;的视频，两分钟后打开淘宝，首页就跳出了几款热门猫粮推荐。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p>
-&lt;p>每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p>
-&lt;p>而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong>光模块&lt;/strong>。&lt;/p>
-&lt;p>当AI大模型变得越来越聪明，这些&amp;quot;血管&amp;quot;的需求量也在指数级增长。问题是：生产这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p>
-&lt;p>这就是今天市场疯狂追捧德科立的原因。&lt;/p>
-&lt;hr>
-&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
-&lt;p>2026年5月12日，CPO概念板块集体爆发，德科立股价强势上涨，创下新高。&lt;/p>
-&lt;p>表面看，这是受美股科技股大涨的刺激——英伟达、博通等芯片巨头集体走强，带动A股相关产业链。按理说，美股科技股利好半导体设备、利好AI芯片，和光通信八竿子打不着。但市场偏偏选了CPO——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的AI算力需求爆发&amp;quot;。&lt;/p>
-&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI数据中心正在从&amp;quot;电互联&amp;quot;走向&amp;quot;光互联&amp;quot;，CPO（共封装光学）是这场变革的核心技术&lt;/strong>。&lt;/p>
-&lt;p>德科立，国内长距离光传输领域的领先企业，在CPO和硅光技术上抢先布局，股价创阶段性新高。&lt;/p>
-&lt;p>不是因为美股涨了，而是因为AI数据中心的光电融合时代真的来了。&lt;/p>
-&lt;hr>
-&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
-&lt;p>让我们回到那个刷抖音的场景。&lt;/p>
-&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家关注的是&amp;quot;谁有大模型&amp;quot;——百度、阿里、字节。&lt;/p>
-&lt;p>2024年，市场意识到&amp;quot;算力才是瓶颈&amp;quot;——英伟达的GPU一卡难求，算力租赁价格暴涨。大家开始关注&amp;quot;卖铲子的&amp;quot;——光模块、服务器、数据中心。&lt;/p>
-&lt;p>2026年，故事进入第三阶段：&lt;strong>光模块不再是简单的&amp;quot;数据传输工具&amp;quot;，而是AI算力系统的&amp;quot;光电心脏&amp;quot;&lt;/strong>。&lt;/p>
-&lt;p>为什么？&lt;/p>
-&lt;p>因为传统光模块和AI芯片的关系，不是简单的&amp;quot;一对一&amp;quot;。一张H100 GPU需要多个800G光模块配合，而一个大型AI数据中心可能需要数万张GPU。当AI应用从&amp;quot;实验室&amp;quot;扩展到&amp;quot;千家万户&amp;quot;时，光模块的需求量不是线性增加，而是指数级增加。&lt;/p>
-&lt;p>更关键的是，&lt;strong>CPO技术正在颠覆传统光模块&lt;/strong>。传统的可插拔光模块像&amp;quot;外置U盘&amp;quot;，而CPO把光引擎直接封装在芯片旁边，传输距离从几十厘米缩短到几毫米，功耗降低50%以上，带宽密度提升数倍。&lt;/p>
-&lt;p>德科立的CPO技术储备和硅光100G PSM4模块已完成样品验证。这不是概念，是已经落地的技术突破。&lt;/p>
-&lt;hr>
-&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
-&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
-&lt;p>光通信行业的估值，历来是个难题。&lt;/p>
-&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——跟着电信运营商的资本开支波动。这个逻辑在4G时代是对的，但在AI时代需要重新审视。&lt;/p>
-&lt;p>让我们看几个数字：&lt;/p>
-&lt;ul>
-&lt;li>2025年全球DCI（数据中心互联）产值达到400亿美元以上，同比增长14.3%，2026年有望突破500亿美元&lt;/li>
-&lt;li>德科立2025年营收9.34亿元，同比增长10.99%&lt;/li>
-&lt;li>公司硅基OCS产品已获得千万级订单，DCI产能持续建设中&lt;/li>
-&lt;li>泰国生产基地预计2025年四季度投产，全面部署智能化产线&lt;/li>
-&lt;/ul>
-&lt;p>这些数字意味着什么？&lt;/p>
-&lt;p>意味着德科立正在从&amp;quot;电信设备供应商&amp;quot;变成&amp;quot;AI算力基础设施提供商&amp;quot;。传统的电信需求跟着运营商资本开支波动，但AI算力带来的需求是持续性的——只要大模型还在训练、AI应用还在普及，光模块的需求就不会停。&lt;/p>
-&lt;p>市场愿意给德科立更高估值的原因：它不再是一家&amp;quot;周期性设备商&amp;quot;，而是&amp;quot;AI时代的光电基础设施&amp;quot;。&lt;/p>
-&lt;hr>
-&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
-&lt;p>估值重构给了买入的理由，但问题是——为什么是德科立，而不是其他光通信公司？&lt;/p>
-&lt;p>光通信行业有很多玩家，为什么德科立能独占鳌头？&lt;/p>
-&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
-&lt;p>&lt;strong>第一，技术领先。&lt;/strong> 德科立深耕光电子器件25年，掌握了&amp;quot;高速光学器件封装技术&amp;quot;、&amp;ldquo;高速光收发模块长距离传输技术&amp;quot;等核心工艺。在CPO和硅光技术上，公司已与南京大学共建&amp;quot;光电集成联合实验室&amp;rdquo;，攻关III-V族激光器与硅光芯片的异质集成。&lt;/p>
-&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> 光模块行业有个特点：客户认证周期极长。数据中心客户一旦选定供应商，切换成本极高。德科立已经通过了国内外主流云厂商和通信设备商的认证，形成了稳固的客户关系。&lt;/p>
-&lt;p>&lt;strong>第三，产能布局。&lt;/strong> 公司全力推进泰国自有生产基地建设，该基地预计2025年四季度投产，目前已接待多批次海外客户现场考察。泰国基地将全面部署智能化产线，为量产爬坡阶段的品质保障与高效交付奠定坚实基础。&lt;/p>
-&lt;p>这些优势不是一朝一夕建立起来的。德科立花了25年，持续投入研发（研发人员占比超过23%），才形成了今天的技术积累。&lt;/p>
-&lt;p>竞争对手可以模仿它的产品规格，但很难复制它的技术积淀和客户关系。&lt;/p>
-&lt;hr>
-&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
-&lt;blockquote>
-&lt;p>AI越聪明，数据中心算力需求越大；算力需求越大，CPO光模块越紧缺；CPO光模块越紧缺，德科立越值钱。&lt;/p>&lt;/blockquote>
-&lt;p>或者按标准框架理解：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求正在爆发式增长，数据中心从电互联向光互联升级，CPO技术成为关键突破口。&lt;/li>
-&lt;li>&lt;strong>关键变量&lt;/strong>：算力规模越大，对高速光模块和CPO技术的需求就越大，且新一代AI芯片对光电共封装的依赖度更高。&lt;/li>
-&lt;li>&lt;strong>公司利好&lt;/strong>：作为长距离光传输领先企业，德科立在CPO和硅光技术上抢先布局，泰国产能即将释放，业绩有望迎来拐点。&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>杭电股份：光纤光缆的AI时代价值重估</title><link>https://dondrub3.com/jibai/2026-05-08-%E6%9D%AD%E7%94%B5%E8%82%A1%E4%BB%BD/</link><pubDate>Fri, 08 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-08-%E6%9D%AD%E7%94%B5%E8%82%A1%E4%BB%BD/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
-&lt;p>你刚在抖音上刷了一条&amp;quot;如何挑选猫粮&amp;quot;的视频，两分钟后打开淘宝，首页就跳出了几款热门猫粮推荐。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p>
-&lt;p>每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p>
-&lt;p>而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong>光纤&lt;/strong>。&lt;/p>
-&lt;p>当AI大模型变得越来越聪明，这些&amp;quot;血管&amp;quot;的需求量也在指数级增长。问题是：生产这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p>
-&lt;p>这就是今天市场疯狂追捧杭电股份的原因。&lt;/p>
-&lt;hr>
-&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
-&lt;p>2026年5月8日，光纤概念走强，杭电股份3连板，股价持续飙升。&lt;/p>
-&lt;p>表面看，这是受AI算力需求爆发的刺激——GPT-5等大模型对数据中心的需求激增。按理说，AI算力爆发利好光模块、利好芯片，和传统的光纤光缆八竿子打不着。但市场偏偏选了杭电股份——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的基础设施逻辑&amp;quot;。&lt;/p>
-&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI算力需求正在从&amp;quot;预期&amp;quot;走向&amp;quot;兑现&amp;quot;，而光纤光缆作为数据中心的物理基础设施，是算力扩张不可绕过的环节&lt;/strong>。&lt;/p>
-&lt;p>杭电股份，国内老牌线缆龙头，通过收购富春江光电切入光通信领域，形成&amp;quot;电力电缆+光通信&amp;quot;双主业格局，股价连续涨停。&lt;/p>
-&lt;p>不是因为业绩突然爆发，而是因为市场意识到——在AI算力基建的大潮中，光纤光缆正在从&amp;quot;可选&amp;quot;变成&amp;quot;必需&amp;quot;。&lt;/p>
-&lt;hr>
-&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
-&lt;p>让我们回到那个刷抖音的场景。&lt;/p>
-&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家关注的是&amp;quot;谁有大模型&amp;quot;、&amp;ldquo;谁做AI芯片&amp;rdquo;。&lt;/p>
-&lt;p>2024年，市场意识到&amp;quot;算力即权力&amp;quot;，英伟达成为最大赢家，光模块跟着起飞。&lt;/p>
-&lt;p>2025年，故事进入第三阶段：&lt;strong>AI算力需求开始从&amp;quot;云端训练&amp;quot;扩展到&amp;quot;边缘推理&amp;quot;，数据中心的建设速度远超预期&lt;/strong>。&lt;/p>
-&lt;p>为什么？&lt;/p>
-&lt;p>因为AI大模型的训练和推理，不是简单的&amp;quot;一台服务器就能搞定&amp;quot;。一个大型数据中心，可能需要数万张GPU协同工作。这些GPU之间，需要高速、低延迟的数据传输——而光纤，就是连接它们的&amp;quot;神经网络&amp;quot;。&lt;/p>
-&lt;p>当数据中心的规模从&amp;quot;千张GPU&amp;quot;扩展到&amp;quot;万张GPU&amp;quot;时，光纤的需求量不是线性增加，而是指数级增加。&lt;/p>
-&lt;p>更关键的是，&lt;strong>光纤技术正在从G.652向G.657升级&lt;/strong>。G.657光纤弯曲损耗更低，更适合数据中心内部复杂的布线环境。这意味着，新一代数据中心的建设，将带动一波光纤的&amp;quot;新旧更替&amp;quot;。&lt;/p>
-&lt;p>杭电股份的G.657光纤产能已经开始放量。这不是概念，是订单。&lt;/p>
-&lt;hr>
-&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
-&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
-&lt;p>光纤光缆行业的估值，历来是个难题。&lt;/p>
-&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——跟着运营商的资本开支周期波动，景气时赚钱，低谷时亏损。这个逻辑在4G时代是对的，但在AI时代需要重新审视。&lt;/p>
-&lt;p>让我们看几个数字：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>2025年营收&lt;/strong>：94.51亿元，同比增长6.78%&lt;/li>
-&lt;li>&lt;strong>光通信业务占比&lt;/strong>：光纤+光缆合计约3.5%，但增速远超传统业务&lt;/li>
-&lt;li>&lt;strong>富春江光电&lt;/strong>：光棒产能310吨（已满产），半年内还要扩80吨&lt;/li>
-&lt;li>&lt;strong>光纤产能&lt;/strong>：1800万芯公里，90%是G.657光纤（数通为主）&lt;/li>
-&lt;/ul>
-&lt;p>这些数字意味着什么？&lt;/p>
-&lt;p>意味着杭电股份正在从&amp;quot;传统电力电缆商&amp;quot;变成&amp;quot;AI基础设施供应商&amp;quot;。传统的电缆业务跟着电网投资周期波动，但AI算力带来的光纤需求是&lt;strong>持续性&lt;/strong>的——只要大模型还在迭代，数据中心还在扩建，光纤的需求就不会停。&lt;/p>
-&lt;p>市场愿意给杭电股份更高估值的原因：它不再是一家&amp;quot;周期股&amp;quot;，而是&amp;quot;AI基建股&amp;quot;。&lt;/p>
-&lt;hr>
-&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
-&lt;p>估值重构给了买入的理由，但问题是——为什么是杭电股份，而不是其他光纤公司？&lt;/p>
-&lt;p>光纤光缆行业有很多玩家，为什么杭电股份能独占鳌头？&lt;/p>
-&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
-&lt;p>&lt;strong>第一，产业链垂直整合。&lt;/strong> 杭电股份通过富春江光电构建了完整的&amp;quot;光棒—光纤—光缆&amp;quot;一体化产业链。光棒是光纤的上游原材料，掌握光棒产能意味着成本可控、供应稳定。目前光棒产能310吨，还在扩产中。&lt;/p>
-&lt;p>&lt;strong>第二，技术领先。&lt;/strong> 核心技术人员来自行业龙头长飞光纤，技术是&amp;quot;四大厂外No.1&amp;quot;。G.657光纤的弯曲损耗性能优异，正是数据中心内部布线的最佳选择。&lt;/p>
-&lt;p>&lt;strong>第三，双主业协同。&lt;/strong> 电力电缆业务为光通信业务提供稳定的现金流和客户资源。国家电网、南方电网的核心供应商身份，让杭电股份在大型基建项目中拥有天然的渠道优势。&lt;/p>
-&lt;p>这些优势不是一朝一夕建立起来的。杭电股份花了&lt;strong>67年&lt;/strong>（前身杭州电缆厂始建于1958年），投入了无数资源，才形成了今天的积累。&lt;/p>
-&lt;p>竞争对手可以模仿它的产品，但很难复制它的&lt;strong>产业链整合能力+客户关系+技术积累&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
-&lt;blockquote>
-&lt;p>AI越聪明，数据中心越密集；数据中心越密集，光纤需求越旺盛；光纤需求越旺盛，杭电股份越值钱。&lt;/p>&lt;/blockquote>
-&lt;p>或者按标准框架理解：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求正在爆发式增长，数据中心的算力规模持续扩张，带动光纤光缆需求激增。&lt;/li>
-&lt;li>&lt;strong>关键变量&lt;/strong>：数据中心规模越大，光纤的需求量就越大，且新一代数据中心对G.657高性能光纤的依赖度更高。&lt;/li>
-&lt;li>&lt;strong>公司利好&lt;/strong>：杭电股份通过富春江光电拥有完整的&amp;quot;光棒—光纤—光缆&amp;quot;产业链，G.657光纤产能持续放量，深度受益于AI基建浪潮。&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>科华数据：AI算力的'心脏起搏器'</title><link>https://dondrub3.com/jibai/2026-04-30-%E7%A7%91%E5%8D%8E%E6%95%B0%E6%8D%AE/</link><pubDate>Thu, 30 Apr 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-04-30-%E7%A7%91%E5%8D%8E%E6%95%B0%E6%8D%AE/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
-&lt;p>你刚在手机上问ChatGPT一个问题，3秒后它给出了详细回答。你以为是网络快，其实背后是&lt;strong>数千台服务器&lt;/strong>在&lt;strong>毫秒级协同运算&lt;/strong>。&lt;/p>
-&lt;p>每一次AI对话，都有&lt;strong>上万台GPU&lt;/strong>在&lt;strong>同时运转&lt;/strong>。这些GPU之间，需要&lt;strong>稳定、不间断的电力供应&lt;/strong>——就像心脏需要起搏器来维持稳定跳动。&lt;/p>
-&lt;p>而保障这些AI服务器持续运转的&amp;quot;电力心脏&amp;quot;，叫做&lt;strong>UPS不间断电源&lt;/strong>和&lt;strong>HVDC高压直流系统&lt;/strong>。&lt;/p>
-&lt;p>当AI应用爆发，这些&amp;quot;电力心脏&amp;quot;的需求量也在&lt;strong>指数级增长&lt;/strong>。问题是：生产这些设备的工厂，产能跟得上吗？&lt;/p>
-&lt;p>这就是今天市场追捧&lt;strong>科华数据&lt;/strong>的原因。&lt;/p>
-&lt;hr>
-&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
-&lt;p>2025年4月30日，A股4月收官之战，成交额激增至1.17万亿，较上个交易日放量1472亿。&lt;/p>
-&lt;p>表面看，这是受美伊停火协议的刺激——全球股市集体大涨，资金风险偏好回升。&lt;strong>按理说&lt;/strong>，中东停火利好石油、黄金，和AI算力八竿子打不着。&lt;strong>但市场偏偏选了AI算力&lt;/strong>——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的风险偏好回升&amp;quot;。&lt;/p>
-&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI算力需求正在从&amp;quot;预期&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong>。&lt;/p>
-&lt;p>科华数据，中国高端UPS市场份额第一、工业UPS亚洲第一，4月30日股价强势上涨。&lt;/p>
-&lt;p>不是因为&amp;quot;市场情绪好&amp;quot;，而是因为&lt;strong>它的AIDC供电业务正在兑现高增长&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="第一个故事为什么突然重要了">【第一个故事】为什么突然重要了&lt;/h2>
-&lt;p>&lt;strong>让我们回到那个AI对话的场景。&lt;/strong>&lt;/p>
-&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念股。但当时大家只知道&amp;quot;AI很火&amp;quot;，不知道&amp;quot;AI需要什么&amp;quot;。&lt;/p>
-&lt;p>2024年，市场意识到&amp;quot;算力是AI的铲子&amp;quot;，开始追捧GPU、光模块。但少有人注意到：&lt;strong>每一台GPU背后，都需要一套复杂的供电系统&lt;/strong>。&lt;/p>
-&lt;p>2025年，故事进入第三阶段：&lt;strong>AI数据中心的供电需求正在爆发&lt;/strong>。&lt;/p>
-&lt;p>为什么？&lt;/p>
-&lt;p>因为&lt;strong>算力密度&lt;/strong>和&lt;strong>供电需求&lt;/strong>的关系，不是简单的&amp;quot;一对一&amp;quot;。一台AI服务器功耗可达10kW，而一个智算中心可能部署上万台。当算力规模从&amp;quot;百台级&amp;quot;扩展到&amp;quot;万台级&amp;quot;时，供电系统的需求量不是线性增加，而是&lt;strong>指数级增加&lt;/strong>。&lt;/p>
-&lt;p>更关键的是，&lt;strong>AI服务器对供电质量的要求极高&lt;/strong>——电压波动超过5%就可能导致训练中断，损失数百万美元。&lt;/p>
-&lt;p>科华数据的&lt;strong>HVDC高压直流系统&lt;/strong>2025年Q1出货量同比增长&lt;strong>200%&lt;/strong>，全年预计突破&lt;strong>2000套&lt;/strong>。这不是概念，是&lt;strong>订单&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
-&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
-&lt;p>数据中心供电设备的估值，历来是个难题。&lt;/p>
-&lt;p>传统上，市场把它当作&amp;quot;电源设备商&amp;quot;来估值——看营收、看利润、看PE。这个逻辑在传统UPS时代是对的，但在AIDC时代需要重新审视。&lt;/p>
-&lt;p>让我们看几个数字：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>2025年上半年营收37.33亿元&lt;/strong>，同比持平，但结构发生重大变化&lt;/li>
-&lt;li>&lt;strong>数据中心业务收入预计2025年同比增长超过50%&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>HVDC出货量Q1同比增长200%&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>工业UPS亚洲第一，中国高端UPS市场份额18.6%（第一）&lt;/strong>&lt;/li>
-&lt;/ul>
-&lt;p>这些数字意味着什么？&lt;/p>
-&lt;p>意味着科华数据正在从&amp;quot;电源设备商&amp;quot;变成&amp;quot;智算中心基础设施提供商&amp;quot;。传统UPS跟着数据中心建设周期波动，但AIDC带来的需求是&lt;strong>持续性&lt;/strong>的——只要AI训练不停，供电需求就不会停。&lt;/p>
-&lt;p>市场愿意给科华数据更高估值的原因：它不再是一家&amp;quot;卖电源的公司&amp;quot;，而是&amp;quot;AI算力的电力基础设施&amp;quot;。&lt;/p>
-&lt;hr>
-&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
-&lt;p>估值重构给了买入的理由，但问题是——为什么是科华数据，而不是其他电源公司？&lt;/p>
-&lt;p>数据中心供电领域有很多玩家，为什么科华数据能独占鳌头？&lt;/p>
-&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
-&lt;p>&lt;strong>第一，技术代际领先。&lt;/strong> 科华数据深耕电力电子技术&lt;strong>30余年&lt;/strong>，从UPS到HVDC再到液冷供电，产品矩阵最全。数据中心供电架构的演进路线是：UPS → HVDC → 巴拿马电源 → SST。科华在每一个节点都有布局。&lt;/p>
-&lt;p>&lt;strong>第二，客户认证壁垒。&lt;/strong> 互联网大厂的智算中心供电系统，认证周期长达&lt;strong>1-2年&lt;/strong>。一旦进入供应链，切换成本极高。科华已是阿里、腾讯、字节等巨头的核心供应商。&lt;/p>
-&lt;p>&lt;strong>第三，规模效应显著。&lt;/strong> 科华花了&lt;strong>30年&lt;/strong>，投入了&lt;strong>数十亿研发资金&lt;/strong>，才形成了今天的技术积累。2025年Q1 HVDC出货量同比增长200%，规模效应正在显现。&lt;/p>
-&lt;p>这些优势不是一朝一夕建立起来的。竞争对手可以模仿它的产品，但很难复制它的&lt;strong>生态位&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
-&lt;blockquote>
-&lt;p>AI越聪明，智算中心越多；智算中心越多，HVDC越紧缺；HVDC越紧缺，科华数据越值钱。&lt;/p>&lt;/blockquote>
-&lt;p>按标准框架理解：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>事件&lt;/strong>：AI大模型训练和推理需求爆发，智算中心建设进入高峰期。&lt;/li>
-&lt;li>&lt;strong>关键变量&lt;/strong>：算力密度提升导致供电需求指数级增长，HVDC成为主流技术路线。&lt;/li>
-&lt;li>&lt;strong>公司利好&lt;/strong>：科华数据是AIDC供电领域龙头，HVDC出货量Q1同比增长200%，全年预计突破2000套。&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>长飞光纤：AI时代的信息高速公路建造者</title><link>https://dondrub3.com/jibai/2026-04-27-%E9%95%BF%E9%A3%9E%E5%85%89%E7%BA%A4/</link><pubDate>Mon, 27 Apr 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-04-27-%E9%95%BF%E9%A3%9E%E5%85%89%E7%BA%A4/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
-&lt;p>你刚在抖音上刷了一条关于AI绘画的教程视频，两分钟后打开小红书，首页就跳出了几款AI绘图工具的推荐。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p>
-&lt;p>每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p>
-&lt;p>而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong>光纤光缆&lt;/strong>。&lt;/p>
-&lt;p>当AI大模型变得越来越聪明，这些&amp;quot;血管&amp;quot;的需求量也在爆发式增长。问题是：铺设这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p>
-&lt;p>这就是今天市场追捧长飞光纤的原因。&lt;/p>
-&lt;hr>
-&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
-&lt;p>2026年4月27日，港股光通信板块集体反弹，长飞光纤光缆（06869.HK）大涨。&lt;/p>
-&lt;p>表面看，这是受AI算力需求持续高增长的刺激——全球数据中心建设加速，光通信产业链景气度回升。按理说，AI算力利好芯片、利好服务器，和光纤光缆八竿子打不着。但市场偏偏选了光纤光缆——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的基础设施逻辑&amp;quot;。&lt;/p>
-&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI算力的爆发，正在重构整个信息基础设施的底层架构&lt;/strong>。&lt;/p>
-&lt;p>长飞光纤，全球光纤光缆行业龙头，自2016年以来市场份额稳居全球第一，今日股价表现强势。&lt;/p>
-&lt;p>不是因为&amp;quot;AI概念&amp;quot;的炒作，而是因为&lt;strong>AI时代的数据洪流，正在催生对光纤光缆的刚性需求&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
-&lt;p>让我们回到那个刷抖音的场景。&lt;/p>
-&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家关注的是&amp;quot;谁在做大模型&amp;quot;——OpenAI、谷歌、百度、阿里。&lt;/p>
-&lt;p>2024年，市场意识到&amp;quot;卖铲子&amp;quot;的逻辑——英伟达的GPU、台积电的代工、中际旭创的光模块开始暴涨。&lt;/p>
-&lt;p>2025年，故事进入第三阶段：&lt;strong>基础设施的底层重构&lt;/strong>。&lt;/p>
-&lt;p>为什么？&lt;/p>
-&lt;p>因为AI大模型的训练和推理，不是简单的&amp;quot;数据进、结果出&amp;quot;。每一次模型迭代，都需要在成千上万台服务器之间传输PB级的数据。当数据中心从&amp;quot;小规模集群&amp;quot;扩展到&amp;quot;超大规模算力中心&amp;quot;时，&lt;strong>服务器之间的连接需求不是线性增加，而是指数级增加&lt;/strong>。&lt;/p>
-&lt;p>更关键的是，&lt;strong>AI算力对网络带宽的要求正在发生质变&lt;/strong>。传统的10G、25G网络已经无法满足需求，100G、400G正在成为标配，800G甚至1.6T的需求正在浮现。&lt;/p>
-&lt;p>长飞光纤的高端光纤产品已经开始批量出货。这不是概念，是订单。&lt;/p>
-&lt;hr>
-&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
-&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
-&lt;p>光纤光缆行业的估值，历来是个难题。&lt;/p>
-&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——跟着运营商资本开支周期波动，跟着5G建设节奏起伏。这个逻辑在4G/5G时代是对的，但在AI时代需要重新审视。&lt;/p>
-&lt;p>让我们看几个数字：&lt;/p>
-&lt;ul>
-&lt;li>2025年一季度，长飞光纤营收28.94亿元，同比增长21.23%&lt;/li>
-&lt;li>归母净利润1.52亿元，同比增长161.91%&lt;/li>
-&lt;li>毛利率提升至27.84%&lt;/li>
-&lt;li>海外业务收入约27.0亿元，同比增长52.8%，占总收入42.3%&lt;/li>
-&lt;/ul>
-&lt;p>这些数字意味着什么？&lt;/p>
-&lt;p>意味着长飞光纤正在从&amp;quot;传统通信设备商&amp;quot;变成&amp;quot;AI基础设施供应商&amp;quot;。传统的光纤需求跟着运营商周期波动，但AI算力带来的需求是&lt;strong>持续性、结构性&lt;/strong>的——只要AI还在发展，数据中心的扩张就不会停。&lt;/p>
-&lt;p>市场愿意给长飞光纤更高估值的原因：它不再是一家&amp;quot;通信设备商&amp;quot;，而是&amp;quot;AI时代的血管制造商&amp;quot;。&lt;/p>
-&lt;hr>
-&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
-&lt;p>估值重构给了买入的理由，但问题是——为什么是长飞光纤，而不是其他光纤光缆公司？&lt;/p>
-&lt;p>光纤光缆行业有很多玩家，为什么长飞光纤能独占鳌头？&lt;/p>
-&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
-&lt;p>&lt;strong>第一，技术领先。&lt;/strong> 长飞光纤是全球少数掌握光纤预制棒核心技术的企业之一。光纤预制棒是光纤制造的&amp;quot;芯片&amp;quot;，技术门槛极高，决定了光纤的性能和成本。长飞花了30年时间，投入了数百亿资金，才形成了今天的技术积累。&lt;/p>
-&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> 光纤光缆是数据中心的核心基础设施，客户（运营商、云厂商）对供应商的认证周期极长，切换成本极高。长飞光纤与全球主要运营商和云厂商建立了长期合作关系，这种关系不是一朝一夕能复制的。&lt;/p>
-&lt;p>&lt;strong>第三，规模效应。&lt;/strong> 长飞光纤的年产能超过1亿芯公里，是全球最大的光纤光缆制造商。规模效应带来的成本优势，让竞争对手难以在价格上与之竞争。&lt;/p>
-&lt;p>这些优势不是一朝一夕建立起来的。长飞光纤花了30年，投入了数百亿，才形成了今天的护城河。&lt;/p>
-&lt;p>竞争对手可以模仿它的产品，但很难复制它的生态。&lt;/p>
-&lt;hr>
-&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
-&lt;blockquote>
-&lt;p>AI越聪明，数据中心越密集；数据中心越密集，光纤需求越爆发；光纤需求越爆发，长飞光纤越值钱。&lt;/p>&lt;/blockquote>
-&lt;p>或者按标准框架理解：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求正在爆发式增长，数据中心的算力规模持续扩张&lt;/li>
-&lt;li>&lt;strong>关键变量&lt;/strong>：算力规模越大，数据中心内部和之间的数据传输需求就越大，对高速光纤的依赖度更高&lt;/li>
-&lt;li>&lt;strong>公司利好&lt;/strong>：作为全球光纤光缆龙头，长飞光纤的技术领先、客户锁定和规模效应，使其成为AI基础设施建设的最大受益者之一&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>新易盛：当AI的'血管'开始供不应求</title><link>https://dondrub3.com/jibai/2026-04-22-%E6%96%B0%E6%98%93%E7%9B%9B/</link><pubDate>Wed, 22 Apr 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-04-22-%E6%96%B0%E6%98%93%E7%9B%9B/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
-&lt;p>你刚在抖音上刷了一条&amp;quot;如何挑选猫粮&amp;quot;的视频，两分钟后打开淘宝，首页就跳出了几款热门猫粮推荐。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p>
-&lt;p>每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p>
-&lt;p>而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong>光模块&lt;/strong>。&lt;/p>
-&lt;p>当AI大模型变得越来越聪明，这些&amp;quot;血管&amp;quot;的需求量也在指数级增长。问题是：生产这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p>
-&lt;p>这就是今天市场疯狂追捧新易盛的原因。&lt;/p>
-&lt;hr>
-&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
-&lt;p>2026年4月22日，CPO概念股集体爆发，新易盛涨超6%，股价突破6000亿市值，创历史新高。&lt;/p>
-&lt;p>表面看，这是受全球AI算力需求持续爆发的刺激——英伟达股价不断新高，数据中心建设如火如荼。按理说，AI利好算力芯片、利好服务器，和光模块八竿子打不着。但市场偏偏选了光模块——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的产业链传导逻辑&amp;quot;。&lt;/p>
-&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI算力需求正在从&amp;quot;预期&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong>。&lt;/p>
-&lt;p>新易盛，全球光模块龙头厂商，股价在过去一年涨幅超过200%。&lt;/p>
-&lt;p>不是因为概念炒作，而是因为订单真的来了。&lt;/p>
-&lt;hr>
-&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
-&lt;p>让我们回到那个刷抖音的场景。&lt;/p>
-&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家只知道&amp;quot;AI很牛&amp;quot;，却不知道具体利好哪些环节。&lt;/p>
-&lt;p>2024年，市场意识到&amp;quot;卖铲子的最赚钱&amp;quot;——英伟达GPU供不应求，光模块作为数据中心的&amp;quot;血管&amp;quot;也开始被关注。&lt;/p>
-&lt;p>2026年，故事进入第三阶段：&lt;strong>光模块从&amp;quot;配套产品&amp;quot;变成&amp;quot;核心瓶颈&amp;quot;&lt;/strong>。&lt;/p>
-&lt;p>为什么？&lt;/p>
-&lt;p>因为GPU和光模块的关系，不是简单的&amp;quot;一对一&amp;quot;。一张英伟达H100 GPU需要配套多个800G光模块，而新一代B200 GPU对1.6T光模块的需求更是成倍增长。当AI训练从&amp;quot;小规模实验&amp;quot;扩展到&amp;quot;大规模商用&amp;quot;时，光模块的需求量不是线性增加，而是指数级增加。&lt;/p>
-&lt;p>更关键的是，2026年正是800G光模块向1.6T升级的关键节点。这意味着，旧产能需要淘汰，新产能亟待释放。&lt;/p>
-&lt;p>新易盛的1.6T光模块已经开始小批量出货，客户认证进展顺利。这不是概念，是实实在在的订单。&lt;/p>
-&lt;hr>
-&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
-&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
-&lt;p>光模块行业的估值，历来是个难题。&lt;/p>
-&lt;p>传统上，市场把它当作&amp;quot;通信设备配件&amp;quot;来估值——看运营商资本开支、看周期性波动。这个逻辑在4G时代是对的，但在AI时代需要重新审视。&lt;/p>
-&lt;p>让我们看几个数字：&lt;/p>
-&lt;ul>
-&lt;li>2024年，新易盛实现营业收入86.47亿元，同比增长179.15%&lt;/li>
-&lt;li>2024年，归母净利润28.38亿元，同比增长312.26%&lt;/li>
-&lt;li>2025年一季度，营业收入40.52亿元，同比增长264.13%&lt;/li>
-&lt;li>2025年一季度，归母净利润15.73亿元，同比增长384.54%&lt;/li>
-&lt;li>毛利率从2023年的31%提升到2024年的44.72%，净利率从22%提升到32.82%&lt;/li>
-&lt;/ul>
-&lt;p>这些数字意味着什么？&lt;/p>
-&lt;p>意味着新易盛正在从&amp;quot;通信配件商&amp;quot;变成&amp;quot;AI基础设施供应商&amp;quot;。传统的光模块需求跟着运营商资本开支波动，但AI算力带来的需求是刚性且持续的——只要大模型还在训练，只要数据中心还在扩建，光模块的需求就不会停。&lt;/p>
-&lt;p>市场愿意给新易盛更高估值的原因：它不再是一家周期性公司，而是AI时代的&amp;quot;卖水人&amp;quot;。&lt;/p>
-&lt;hr>
-&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
-&lt;p>估值重构给了买入的理由，但问题是——为什么是新易盛，而不是其他光模块公司？&lt;/p>
-&lt;p>光模块行业有很多玩家，为什么新易盛能独占鳌头？&lt;/p>
-&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
-&lt;p>&lt;strong>第一，技术领先。&lt;/strong> 新易盛是国内最早量产800G光模块的厂商之一，1.6T产品也已经进入客户认证阶段。在LPO（线性驱动可插拔光模块）和AEC（有源铜缆）等新技术路线上，公司布局领先——这些新技术有望在2026-2028年打开第二增长曲线。&lt;/p>
-&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> 光模块进入英伟达、谷歌、Meta等海外云巨头的供应链，需要长达1-2年的认证周期。一旦进入，切换成本极高。新易盛已经深度绑定全球头部客户，这是后来者难以逾越的壁垒。&lt;/p>
-&lt;p>&lt;strong>第三，规模效应。&lt;/strong> 光模块是资本密集型行业，产线投资巨大。新易盛凭借规模优势，在成本控制上遥遥领先。当行业进入价格战时，小公司亏损退出，龙头反而能扩大份额。&lt;/p>
-&lt;p>这些优势不是一朝一夕建立起来的。新易盛花了近20年，投入了数十亿研发资金，才形成了今天的技术积累和客户关系。&lt;/p>
-&lt;p>竞争对手可以模仿它的产品，但很难复制它的生态。&lt;/p>
-&lt;hr>
-&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
-&lt;blockquote>
-&lt;p>AI越聪明，数据传输量越大；传输量越大，高速光模块越紧缺；光模块越紧缺，新易盛越值钱。&lt;/p>&lt;/blockquote>
-&lt;p>或者按标准框架理解：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求正在爆发式增长，数据中心向800G/1.6T光模块加速升级。&lt;/li>
-&lt;li>&lt;strong>关键变量&lt;/strong>：算力规模越大，对高速光模块的需求量就越大，且新一代GPU对更高速率光模块的依赖度更高。&lt;/li>
-&lt;li>&lt;strong>公司利好&lt;/strong>：作为全球光模块龙头，新易盛的800G产品持续放量，1.6T产品已经开始出货，LPO和AEC等新技术打开第二增长曲线。&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>东山精密：从PCB龙头到CPO新贵的跃迁之路</title><link>https://dondrub3.com/jibai/2026-04-21-%E4%B8%9C%E5%B1%B1%E7%B2%BE%E5%AF%86/</link><pubDate>Tue, 21 Apr 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-04-21-%E4%B8%9C%E5%B1%B1%E7%B2%BE%E5%AF%86/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
-&lt;p>你刚在抖音上刷了一条&amp;quot;AI绘画教程&amp;quot;的视频，两分钟后打开淘宝，首页就跳出了几款AI绘图软件推荐。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p>
-&lt;p>每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p>
-&lt;p>而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong>光模块&lt;/strong>。&lt;/p>
-&lt;p>当AI大模型变得越来越聪明，这些&amp;quot;血管&amp;quot;的需求量也在指数级增长。问题是：生产这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p>
-&lt;p>这就是今天市场疯狂追捧东山精密的原因。&lt;/p>
-&lt;hr>
-&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
-&lt;p>2026年4月21日，CPO（光电共封装）概念板块大涨，东山精密股价飙升7.90%，盘中最高触及172.68元，再创历史新高，总市值突破3100亿元。&lt;/p>
-&lt;p>表面看，这是受AI算力需求持续爆发的刺激——全球科技巨头疯狂加码数据中心建设。按理说，AI利好英伟达、利好中际旭创这些光模块龙头，和东山精密这个PCB厂商八竿子打不着。但市场偏偏选了东山精密——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的产业重构逻辑&amp;quot;。&lt;/p>
-&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI算力需求正在从&amp;quot;单一光模块&amp;quot;走向&amp;quot;光电共封装一体化&amp;quot;&lt;/strong>。&lt;/p>
-&lt;p>东山精密，全球PCB龙头、刚刚通过收购索尔思光电切入光通信赛道，股价年内已翻倍。&lt;/p>
-&lt;p>不是因为它是传统的电路板厂商，而是因为它正在成为&amp;quot;AI基础设施的核心供应商&amp;quot;。&lt;/p>
-&lt;hr>
-&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
-&lt;p>让我们回到那个刷抖音的场景。&lt;/p>
-&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家只关注&amp;quot;谁在做大模型&amp;quot;——OpenAI、谷歌、百度。&lt;/p>
-&lt;p>2024年，市场意识到&amp;quot;卖铲子的更赚钱&amp;quot;——英伟达的GPU、中际旭创的光模块成为焦点。&lt;/p>
-&lt;p>2026年，故事进入第三阶段：&lt;strong>光模块本身也在进化，CPO（光电共封装）成为新方向&lt;/strong>。&lt;/p>
-&lt;p>为什么？&lt;/p>
-&lt;p>因为GPU和光模块的关系，不是简单的&amp;quot;一对一&amp;quot;。一张高端GPU需要8-16个高速光模块。当AI训练从&amp;quot;百卡集群&amp;quot;扩展到&amp;quot;万卡集群&amp;quot;时，光模块的需求量不是线性增加，而是指数级增加。&lt;/p>
-&lt;p>更关键的是，传统的可插拔光模块已经遇到瓶颈——功耗太高、密度受限、延迟太大。CPO技术将光引擎和交换芯片封装在一起，功耗降低30%，带宽提升10倍。&lt;/p>
-&lt;p>东山精密通过收购索尔思光电，已经实现400G、800G产品规模化量产，并率先推出1.6T光模块。这不是概念，是已经拿到的Meta 110万只800G订单。&lt;/p>
-&lt;hr>
-&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
-&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
-&lt;p>光通信行业的估值，历来是个难题。&lt;/p>
-&lt;p>传统上，市场把它当作&amp;quot;周期电子股&amp;quot;来估值——看资本开支、看库存周期、看毛利率波动。这个逻辑在4G/5G时代是对的，但在AI时代需要重新审视。&lt;/p>
-&lt;p>让我们看几个数字：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>2025年前三季度营收&lt;/strong>：270.71亿元，同比增长2.28%&lt;/li>
-&lt;li>&lt;strong>归母净利润&lt;/strong>：12.23亿元，同比增长14.61%，远超营收增速&lt;/li>
-&lt;li>&lt;strong>2026年Q1业绩预告&lt;/strong>：净利润10-11.5亿元，同比增长119%-152%&lt;/li>
-&lt;li>&lt;strong>毛利率&lt;/strong>：13.79%，在规模扩张中保持韧性&lt;/li>
-&lt;/ul>
-&lt;p>这些数字意味着什么？&lt;/p>
-&lt;p>意味着东山精密正在从&amp;quot;传统PCB厂商&amp;quot;变成&amp;quot;AI基础设施供应商&amp;quot;。传统的PCB业务跟着消费电子波动，但AI光模块带来的需求是结构性、持续性的——只要大模型还在训练，只要数据中心还在扩建，订单就不会停。&lt;/p>
-&lt;p>市场愿意给东山精密233倍市盈率的原因：它不再是一家电子制造厂，而是AI时代的&amp;quot;卖水人&amp;quot;。&lt;/p>
-&lt;hr>
-&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
-&lt;p>估值重构给了买入的理由，但问题是——为什么是东山精密，而不是其他光模块公司？&lt;/p>
-&lt;p>光通信行业有很多玩家，为什么东山精密能独占鳌头？&lt;/p>
-&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
-&lt;p>&lt;strong>第一，PCB+光模块的协同效应。&lt;/strong> 东山精密本身就是全球PCB龙头，而CPO技术需要将光引擎和PCB基板深度集成。这种&amp;quot;软硬结合&amp;quot;的能力，纯光模块厂商不具备。&lt;/p>
-&lt;p>&lt;strong>第二，收购索尔思带来的技术跃迁。&lt;/strong> 索尔思在光器件领域有全流程覆盖能力，自研光芯片。东山精密花了约26.33亿元完成收购，直接获得400G/800G量产能力和1.6T技术储备。竞争对手要从零开始，至少需要3年客户验证周期。&lt;/p>
-&lt;p>&lt;strong>第三，客户资源的复用。&lt;/strong> 东山精密的PCB客户本身就是AI算力大厂——英伟达、谷歌、Meta。光模块业务可以直接导入现有客户关系，这是其他厂商无法复制的渠道优势。&lt;/p>
-&lt;p>这些优势不是一朝一夕建立起来的。东山精密花了15年成为全球PCB龙头，又通过战略收购完成光通信布局，才形成了今天的竞争壁垒。&lt;/p>
-&lt;p>竞争对手可以模仿它的产品，但很难复制它的生态。&lt;/p>
-&lt;hr>
-&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
-&lt;blockquote>
-&lt;p>AI越聪明，算力需求越大；算力需求越大，CPO越紧缺；CPO越紧缺，东山精密越值钱。&lt;/p>&lt;/blockquote>
-&lt;p>或者按标准框架理解：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求正在爆发式增长，数据中心向光电共封装（CPO）技术升级。&lt;/li>
-&lt;li>&lt;strong>关键变量&lt;/strong>：CPO技术将光引擎和交换芯片集成，功耗降低30%、带宽提升10倍，800G/1.6T光模块供不应求。&lt;/li>
-&lt;li>&lt;strong>公司利好&lt;/strong>：东山精密通过收购索尔思光电切入光通信赛道，已获Meta 110万只800G订单，1.6T产品锁定2027年全球顶级客户需求。&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>东山精密：当PCB巨头遇上光模块的AI浪潮</title><link>https://dondrub3.com/jibai/2026-04-09-%E4%B8%9C%E5%B1%B1%E7%B2%BE%E5%AF%86/</link><pubDate>Thu, 09 Apr 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-04-09-%E4%B8%9C%E5%B1%B1%E7%B2%BE%E5%AF%86/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
-&lt;p>你刚在抖音上刷了一条关于AI绘画的短视频，两分钟后打开淘宝，首页就跳出了几款AI绘图软件的推荐。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p>
-&lt;p>每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p>
-&lt;p>而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong>光模块&lt;/strong>。&lt;/p>
-&lt;p>当AI大模型越来越聪明，数据中心的算力需求呈指数级增长，这些&amp;quot;血管&amp;quot;的需求量也在爆发。问题是：生产这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p>
-&lt;p>这就是今天市场疯狂追捧&lt;strong>东山精密&lt;/strong>的原因。&lt;/p>
-&lt;hr>
-&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
-&lt;p>2026年4月9日，CPO概念再度走强，东山精密触及涨停，续创历史新高。&lt;/p>
-&lt;p>表面看，这是受Anthropic与谷歌、博通签署3.5吉瓦TPU算力协议的刺激——AI算力需求持续高增。按理说，这种消息利好英伟达、利好谷歌，和一家做PCB的中国公司八竿子打不着。但市场偏偏选了东山精密——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的产业链重构&amp;quot;。&lt;/p>
-&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>CPO（共封装光学）正在从概念走向量产，光模块产业迎来历史性拐点&lt;/strong>。&lt;/p>
-&lt;p>东山精密，一家以PCB（印制电路板）起家的电子制造巨头，通过59.35亿元收购全球光模块前十强企业索尔思光电，一举切入AI算力核心赛道。&lt;/p>
-&lt;p>不是因为PCB业务突然爆发，而是因为&lt;strong>光模块正在成为AI时代的&amp;quot;卖铲人&amp;quot;&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
-&lt;p>让我们回到那个刷抖音的场景。&lt;/p>
-&lt;p>&lt;strong>2023年&lt;/strong>，ChatGPT横空出世，市场开始炒作AI概念。但当时大家关注的是&amp;quot;谁有大模型&amp;quot;——百度、阿里、腾讯，谁能在AI应用上占据先机。&lt;/p>
-&lt;p>&lt;strong>2024年&lt;/strong>，市场意识到，大模型训练需要算力，算力需要GPU，GPU需要光模块。&amp;ldquo;卖铲人&amp;quot;逻辑开始显现，中际旭创、新易盛等光模块龙头股价翻倍。&lt;/p>
-&lt;p>&lt;strong>2025年&lt;/strong>，故事进入第三阶段：&lt;strong>CPO技术从实验室走向生产线&lt;/strong>。&lt;/p>
-&lt;p>为什么？&lt;/p>
-&lt;p>因为传统光模块和GPU的关系，不是简单的&amp;quot;一对一&amp;rdquo;。一张高端GPU需要多个800G甚至1.6T光模块配合。当AI数据中心从&amp;quot;千卡集群&amp;quot;扩展到&amp;quot;万卡集群&amp;quot;时，光模块的需求量不是线性增加，而是指数级增加。&lt;/p>
-&lt;p>更关键的是，&lt;strong>CPO（共封装光学）技术正在颠覆传统架构&lt;/strong>。博通51.2T CPO交换机于2025年4月小批量出货，台积电COUPE平台预计2025年实现全面量产。这意味着，光模块正在从&amp;quot;可插拔&amp;quot;走向&amp;quot;共封装&amp;quot;，技术迭代带来行业格局重塑。&lt;/p>
-&lt;p>东山精密通过收购索尔思光电，已经拿到了CPO时代的入场券。索尔思的CPO原型产品已通过英伟达GB200服务器架构验证，计划2026年量产。这不是概念，是&lt;strong>已经通过客户验证的订单&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
-&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
-&lt;p>光模块行业的估值，历来是个难题。&lt;/p>
-&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——跟着电信资本开支周期波动，景气时赚一波，低迷时打回原形。这个逻辑在4G时代是对的，但在AI时代需要重新审视。&lt;/p>
-&lt;p>让我们看几个数字：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>索尔思光电2024年营收29.32亿元，净利润4.05亿元，净利率13.8%&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>2025年Q1营收9.75亿元，净利润1.57亿元，单季度净利率16.1%&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>全球光模块市场2025年预计达235亿美元，同比增长50%&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>预计2029年将突破415亿美元，2024-2029年复合年增长率约为18%&lt;/strong>&lt;/li>
-&lt;/ul>
-&lt;p>这些数字意味着什么？&lt;/p>
-&lt;p>意味着东山精密正在从&amp;quot;传统电子制造商&amp;quot;变成&amp;quot;AI基础设施供应商&amp;quot;。传统的PCB业务跟着消费电子周期波动，但光模块带来的需求是&lt;strong>结构性增长&lt;/strong>的——只要AI还在训练、还在推理，光模块就不会停。&lt;/p>
-&lt;p>市场愿意给东山精密更高估值的原因：它不再是一家单纯的PCB公司，而是&lt;strong>同时拥有PCB+光模块双轮驱动的AI产业链核心供应商&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
-&lt;p>估值重构给了买入的理由，但问题是——为什么是东山精密，而不是其他光模块公司？&lt;/p>
-&lt;p>光模块行业有很多玩家，为什么东山精密能后来居上？&lt;/p>
-&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
-&lt;p>&lt;strong>第一，垂直整合能力。&lt;/strong> 索尔思光电具备&amp;quot;光芯片-光器件-光模块&amp;quot;全产业链自主可控能力，这在行业内极为稀缺。大多数光模块厂商需要外购光芯片，而索尔思可以自研自产，成本更低、响应更快。&lt;/p>
-&lt;p>&lt;strong>第二，客户认证壁垒。&lt;/strong> 光模块进入数据中心供应链，需要经过长达1-2年的严格认证。索尔思光电深耕行业30余年，被业内誉为&amp;quot;光模块行业的黄埔军校&amp;quot;，与全球头部云厂商建立了长期合作关系。CPO原型产品已通过英伟达GB200服务器架构验证，这是竞争对手难以复制的门槛。&lt;/p>
-&lt;p>&lt;strong>第三，PCB与光模块的协同。&lt;/strong> 东山精密是全球领先的PCB制造商，而CPO技术需要将光模块与交换芯片共封装在PCB基板上。这意味着，东山精密可以同时提供CPO所需的&lt;strong>光模块+高端PCB&lt;/strong>，形成独特的&amp;quot;一站式&amp;quot;解决方案能力。&lt;/p>
-&lt;p>这些优势不是一朝一夕建立起来的。索尔思光电&lt;strong>花了30余年&lt;/strong>，&lt;strong>投入了数十亿元研发资金&lt;/strong>，才形成了今天的技术积累和客户关系。&lt;/p>
-&lt;p>竞争对手可以模仿它的产品，但很难复制它的&lt;strong>生态&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
-&lt;blockquote>
-&lt;p>AI越聪明，数据中心算力需求越大；算力需求越大，CPO光模块越紧缺；CPO光模块越紧缺，拥有&amp;quot;光模块+PCB&amp;quot;双轮驱动的东山精密越值钱。&lt;/p>&lt;/blockquote>
-&lt;p>或者按标准框架理解：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>事件&lt;/strong>：CPO技术从概念走向量产，2025年成为CPO交换机元年&lt;/li>
-&lt;li>&lt;strong>关键变量&lt;/strong>：AI算力需求爆发，光模块从&amp;quot;可插拔&amp;quot;向&amp;quot;共封装&amp;quot;升级&lt;/li>
-&lt;li>&lt;strong>公司利好&lt;/strong>：东山精密59亿元收购索尔思光电，获得全球前十光模块产能+CPO核心技术，PCB业务与光模块形成协同效应&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>长飞光纤：AI时代的'信息血管'为什么突然值钱了？</title><link>https://dondrub3.com/jibai/2026-04-09-%E9%95%BF%E9%A3%9E%E5%85%89%E7%BA%A4/</link><pubDate>Thu, 09 Apr 2026 15:54:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-04-09-%E9%95%BF%E9%A3%9E%E5%85%89%E7%BA%A4/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
-&lt;p>你刚在抖音上刷了一条&amp;quot;如何挑选猫粮&amp;quot;的视频，两分钟后打开淘宝，首页就跳出了几款热门猫粮推荐。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p>
-&lt;p>每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p>
-&lt;p>而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong>光纤&lt;/strong>。&lt;/p>
-&lt;p>当AI大模型变得越来越聪明，这些&amp;quot;信息血管&amp;quot;的需求量也在指数级增长。问题是：生产这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p>
-&lt;p>这就是今天市场疯狂追捧长飞光纤的原因。&lt;/p>
-&lt;hr>
-&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
-&lt;p>2026年4月9日，A股光纤概念股集体爆发，长飞光纤涨停收盘，股价报398.31元，封单资金高达4.61亿元。&lt;/p>
-&lt;p>表面看，这是受美伊停火协议的刺激——全球股市集体大涨，资金风险偏好回升。按理说，中东停火利好石油、黄金，和光纤八竿子打不着。但市场偏偏选了光纤——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的风险偏好回升&amp;quot;。&lt;/p>
-&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI算力需求正在从&amp;quot;预期&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong>。&lt;/p>
-&lt;p>长飞光纤，全球光纤光缆行业连续9年市场份额第一，今日股价创阶段新高。&lt;/p>
-&lt;p>不是因为中东停火，而是因为空芯光纤的订单已经排到了明年。&lt;/p>
-&lt;hr>
-&lt;h2 id="第一个故事为什么突然重要了">【第一个故事】为什么突然重要了&lt;/h2>
-&lt;p>&lt;strong>让我们回到那个刷抖音的场景。&lt;/strong>&lt;/p>
-&lt;p>2023年，ChatGPT横空出世，市场开始炒作&amp;quot;AI概念&amp;quot;。但当时大家心里没底——这玩意儿能赚钱吗？&lt;/p>
-&lt;p>2024年，英伟达GPU卖疯了，市场意识到&amp;quot;卖铲子的&amp;quot;先赚钱。光模块、光纤、数据中心，这些基础设施厂商开始受益。&lt;/p>
-&lt;p>2025年，故事进入第三阶段：&lt;strong>AI数据中心的需求开始兑现，而且是以一种&amp;quot;非线性&amp;quot;的方式爆发。&lt;/strong>&lt;/p>
-&lt;p>为什么？&lt;/p>
-&lt;p>因为AI训练和推理对数据传输的需求，不是简单的&amp;quot;一对一&amp;quot;。一张英伟达H100 GPU，需要配套多个高速光模块；一个大型数据中心，需要成千上万公里的光纤连接。当AI模型从&amp;quot;百亿参数&amp;quot;扩展到&amp;quot;万亿参数&amp;quot;，数据中心的算力规模呈指数级增长，光纤的需求量不是线性增加，而是&lt;strong>指数级增加&lt;/strong>。&lt;/p>
-&lt;p>更关键的是，&lt;strong>空芯光纤的技术突破&lt;/strong>。&lt;/p>
-&lt;p>传统光纤以玻璃为介质，信号传输有损耗、有时延。空芯光纤以空气为介质，损耗降低50%，时延降低30%，是未来AI数据中心互联的&amp;quot;终极方案&amp;quot;。&lt;/p>
-&lt;p>长飞光纤的空芯光纤已实现全球最低损耗并率先商用，三大运营商的首条空芯光纤商用线路都用的是&amp;quot;长飞造&amp;quot;。&lt;/p>
-&lt;p>这不是概念，是订单。&lt;/p>
-&lt;hr>
-&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
-&lt;p>&lt;strong>需求爆发解释了&amp;rsquo;为什么涨&amp;rsquo;，但投资者更关心的是——这种涨，值不值得追？&lt;/strong>&lt;/p>
-&lt;p>光纤行业的估值，历来是个难题。&lt;/p>
-&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——看运营商资本开支、看5G建设进度、看FTTH覆盖率。这个逻辑在4G/5G时代是对的，但在AI时代需要重新审视。&lt;/p>
-&lt;p>让我们看几个数字：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>2025年营收增长16.85%&lt;/strong>，扭转了2024年的下滑趋势&lt;/li>
-&lt;li>&lt;strong>光互联组件业务暴增48.58%&lt;/strong>，子公司博创科技（现长芯博创）一季度利润同比增长3227%&lt;/li>
-&lt;li>&lt;strong>归母净利润同比+20.4%&lt;/strong>，业绩拐点明确&lt;/li>
-&lt;li>&lt;strong>海外业务占比42.3%&lt;/strong>，H股募资80%投向海外，全球化布局强化增长韧性&lt;/li>
-&lt;li>&lt;strong>光纤现货价同比暴涨418%&lt;/strong>，G.654.E等高端光纤结构性紧缺持续推升盈利质量&lt;/li>
-&lt;/ul>
-&lt;p>这些数字意味着什么？&lt;/p>
-&lt;p>意味着长飞光纤正在从&amp;quot;周期股&amp;quot;变成&amp;quot;成长股&amp;quot;。传统的光纤需求跟着运营商资本开支波动，但AI数据中心带来的需求是&lt;strong>持续性&lt;/strong>的——只要大模型还在训练、推理还在进行，光纤的需求就不会停。&lt;/p>
-&lt;p>市场愿意给长飞光纤更高估值的原因：它不再是一家&amp;quot;通信设备商&amp;quot;，而是&amp;quot;AI基础设施提供商&amp;quot;。&lt;/p>
-&lt;hr>
-&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
-&lt;p>&lt;strong>估值重构给了买入的理由，但问题是——为什么是长飞光纤，而不是其他光纤公司？&lt;/strong>&lt;/p>
-&lt;p>光纤行业有很多玩家，亨通光电、中天科技、烽火通信都是实力派，为什么长飞光纤能独占鳌头？&lt;/p>
-&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
-&lt;p>&lt;strong>第一，技术领先。&lt;/strong> 长飞光纤是全球唯一掌握PCVD、OVD、VAD三大主流预制棒制备技术，并成功实现产业化的企业。光纤预制棒单棒拉丝长度已达10000公里，处于行业全球最高水平。空芯光纤技术更是全球领先，实现最低损耗并率先商用。&lt;/p>
-&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> 长飞光纤的客户覆盖全球主要电信运营商和云厂商。更重要的是，子公司长芯博创（原博创科技）控股全球AOC和MPO连接器领先企业长芯盛，客户包括微软、Meta、谷歌等全球云厂商。这种&amp;quot;光纤+光互联组件&amp;quot;的一体化解决方案，客户切换成本极高。&lt;/p>
-&lt;p>&lt;strong>第三，规模效应。&lt;/strong> 自2016年以来，长飞光纤市场份额稳居全球第一，连续9年蝉联榜首。规模带来的成本优势、供应链议价能力，是后来者难以逾越的壁垒。&lt;/p>
-&lt;p>这些优势不是一朝一夕建立起来的。&lt;strong>长飞光纤花了近40年，累计研发投入超过50亿元，才形成了今天的技术积累和产业生态。&lt;/strong>&lt;/p>
-&lt;p>竞争对手可以模仿它的产品，但很难复制它的生态。&lt;/p>
-&lt;hr>
-&lt;h2 id="收尾双版本闭环">【收尾】双版本闭环&lt;/h2>
-&lt;p>&lt;strong>锋利版（递进句式）：&lt;/strong>&lt;/p>
-&lt;blockquote>
-&lt;p>AI越聪明，数据中心越庞大；数据中心越庞大，光纤需求越紧缺；光纤越紧缺，长飞光纤越值钱。&lt;/p>&lt;/blockquote>
-&lt;p>&lt;strong>标准版（框架式）：&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求正在爆发式增长，数据中心的算力规模持续扩张&lt;/li>
-&lt;li>&lt;strong>关键变量&lt;/strong>：算力规模越大，光纤的需求量就越大，且新一代AI数据中心对空芯光纤等高端产品的依赖度更高&lt;/li>
-&lt;li>&lt;strong>公司利好&lt;/strong>：作为全球光纤龙头，长飞光纤的空芯光纤已实现全球最低损耗并率先商用，光互联组件业务暴增48.58%，业绩进入高速增长期&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>中际旭创：当AI的'血管'开始供不应求</title><link>https://dondrub3.com/jibai/2026-04-08-%E4%B8%AD%E9%99%85%E6%97%AD%E5%88%9B/</link><pubDate>Wed, 08 Apr 2026 20:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-04-08-%E4%B8%AD%E9%99%85%E6%97%AD%E5%88%9B/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
-&lt;p>想象一下这个场景：&lt;/p>
-&lt;p>你刚在抖音上刷了一条&amp;quot;如何挑选猫粮&amp;quot;的视频，两分钟后打开淘宝，首页就跳出了几款热门猫粮推荐。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p>
-&lt;p>每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p>
-&lt;p>而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong>光模块&lt;/strong>。&lt;/p>
-&lt;p>当AI大模型变得越来越聪明，这些&amp;quot;血管&amp;quot;的需求量也在指数级增长。问题是：生产这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p>
-&lt;p>这就是今天市场疯狂追捧中际旭创的原因。&lt;/p>
-&lt;hr>
-&lt;h2 id="宏观事件连接">【宏观事件连接】&lt;/h2>
-&lt;p>2025年4月8日，创业板指大涨近5%，AI概念股集体爆发。&lt;/p>
-&lt;p>表面看，这是受美伊停火协议的刺激——全球股市集体大涨，资金风险偏好回升。按理说，中东停火利好石油、黄金，和AI八竿子打不着。但市场偏偏选了AI——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的风险偏好回升&amp;quot;。&lt;/p>
-&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI算力需求正在从&amp;quot;预期&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong>。&lt;/p>
-&lt;p>中际旭创，这家光模块行业的绝对龙头，股价单日上涨超过11%。&lt;/p>
-&lt;p>不是因为它发布了什么新产品，而是因为市场突然意识到：当AI大模型的训练规模和推理需求同步爆发时，光模块——这个数据中心内部的&amp;quot;数据高速公路&amp;quot;——正在成为最紧俏的环节。&lt;/p>
-&lt;hr>
-&lt;h2 id="产品介绍">【产品介绍】&lt;/h2>
-&lt;p>中际旭创是做什么的？&lt;/p>
-&lt;p>简单来说，它生产&lt;strong>光模块&lt;/strong>——一种把电信号转换成光信号、再把光信号转回电信号的器件。没有它，数据中心里的服务器之间就无法高速通信。&lt;/p>
-&lt;p>更准确的说法是：&lt;strong>它是AI算力基础设施的&amp;quot;血管制造商&amp;quot;&lt;/strong>。&lt;/p>
-&lt;p>AI大模型训练时，需要成千上万张GPU卡协同工作。这些GPU卡之间，每秒钟要传输TB级别的数据。传统的电缆传输太慢、发热太大，必须用光纤+光模块的方案。&lt;/p>
-&lt;p>而中际旭创，就是这个领域的全球老大。它的客户名单包括谷歌、亚马逊、微软、Meta——几乎所有科技巨头的数据中心里，都有它的产品。&lt;/p>
-&lt;hr>
-&lt;h2 id="第一个故事为什么突然重要了">【第一个故事：为什么突然重要了】&lt;/h2>
-&lt;p>让我们回到那个AI游戏的例子。&lt;/p>
-&lt;p>2023年，ChatGPT爆火，市场开始炒作&amp;quot;AI概念&amp;quot;。但当时大家炒的是&amp;quot;预期&amp;quot;——觉得AI未来会很厉害，但具体怎么赚钱、谁能赚钱，没人说得清。&lt;/p>
-&lt;p>2024年，英伟达的财报开始爆发，市场意识到：原来卖&amp;quot;铲子&amp;quot;（算力芯片）的公司最先赚钱。&lt;/p>
-&lt;p>2025年，故事进入第三阶段：&lt;strong>当算力芯片的出货量达到一定规模后，光模块的需求开始呈现非线性增长&lt;/strong>。&lt;/p>
-&lt;p>为什么？&lt;/p>
-&lt;p>因为光模块和GPU的关系，不是简单的&amp;quot;一对一&amp;quot;。一张GPU卡需要多个光模块来连接其他GPU卡和网络设备。当数据中心从&amp;quot;几百张GPU&amp;quot;扩展到&amp;quot;几万张GPU&amp;quot;时，光模块的需求量不是线性增加，而是指数级增加。&lt;/p>
-&lt;p>更关键的是，新一代GPU（如英伟达B200）对光模块的速率要求更高——从800G升级到1.6T。这意味着，旧的光模块需要被替换，新的需求叠加在存量替换之上。&lt;/p>
-&lt;p>中际旭创的1.6T产品已经开始放量。这不是概念，是正在发生的订单。&lt;/p>
-&lt;hr>
-&lt;h2 id="第二个故事值不值这个价">【第二个故事：值不值这个价】&lt;/h2>
-&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
-&lt;p>光模块行业的估值，历来是个难题。&lt;/p>
-&lt;p>传统上，市场把它当作&amp;quot;通信设备&amp;quot;来估值——增速稳定、竞争激烈、毛利率逐年下降。这个逻辑在4G时代是对的，但在AI时代需要重新审视。&lt;/p>
-&lt;p>让我们看几个数字：&lt;/p>
-&lt;ul>
-&lt;li>2024年，中际旭创营收约200亿元，净利润约40亿元&lt;/li>
-&lt;li>2025年预期营收增长超过50%，净利润增长超过60%&lt;/li>
-&lt;li>1.6T产品毛利率显著高于传统产品，产品结构升级带来利润率提升&lt;/li>
-&lt;/ul>
-&lt;p>这些数字意味着什么？&lt;/p>
-&lt;p>意味着中际旭创正在从&amp;quot;周期股&amp;quot;变成&amp;quot;成长股&amp;quot;。传统的光模块需求跟着电信运营商的资本开支周期波动，但AI带来的需求是结构性、持续性的——只要大模型还在变大，算力需求还在增长，光模块的需求就不会停。&lt;/p>
-&lt;p>市场愿意给中际旭创更高估值的原因：它不再是一家传统的通信设备公司，而是AI算力基础设施的核心供应商。&lt;/p>
-&lt;hr>
-&lt;h2 id="第三个故事为什么是这一家">【第三个故事：为什么是这一家】&lt;/h2>
-&lt;p>估值重构给了买入的理由，但问题是——为什么是中际旭创，而不是其他光模块公司？&lt;/p>
-&lt;p>光模块行业有很多玩家，为什么中际旭创能独占鳌头？&lt;/p>
-&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
-&lt;p>&lt;strong>第一，技术领先。&lt;/strong> 中际旭创是全球最早量产800G光模块的厂商之一，1.6T产品也率先进入客户认证和量产阶段。在高速光模块领域，技术迭代速度决定了市场份额——落后一代，就可能永远追不上。&lt;/p>
-&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> 谷歌、亚马逊、微软这些云厂商，一旦认证了供应商，切换成本极高。它们更愿意和已经验证过的供应商深度合作，而不是冒险尝试新玩家。中际旭创已经和这些巨头建立了多年的合作关系，形成了强大的客户壁垒。&lt;/p>
-&lt;p>&lt;strong>第三，规模效应。&lt;/strong> 光模块是标准化程度很高的产品，规模越大、成本越低。中际旭创的全球市场份额超过30%，在采购、制造、研发上都有显著的规模优势。新进入者很难在成本上与之竞争。&lt;/p>
-&lt;p>这些优势不是一朝一夕建立起来的。中际旭创花了十几年时间，投入了上百亿资金，才形成了今天的技术积累和客户关系。&lt;/p>
-&lt;p>竞争对手可以模仿它的产品，但很难复制它的生态。&lt;/p>
-&lt;hr>
-&lt;h2 id="收尾三句话闭环">【收尾：三句话闭环】&lt;/h2>
-&lt;blockquote>
-&lt;p>AI越聪明，数据传输量越大；传输量越大，光模块越紧缺；光模块越紧缺，中际旭创越值钱。&lt;/p>&lt;/blockquote>
-&lt;p>或者按标准框架理解：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求正在爆发式增长，数据中心的算力规模持续扩张。&lt;/li>
-&lt;li>&lt;strong>关键变量&lt;/strong>：算力规模越大，光模块的需求量就越大，且新一代GPU对高速光模块的依赖度更高。&lt;/li>
-&lt;li>&lt;strong>公司利好&lt;/strong>：作为全球光模块龙头，中际旭创的1.6T产品已经开始放量，业绩进入高速增长期。&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>金刚石散热：AI算力革命的隐形支点</title><link>https://dondrub3.com/posts/2026-03-11-diamond-heat-dissipation-3p-analysis/</link><pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate><guid>https://dondrub3.com/posts/2026-03-11-diamond-heat-dissipation-3p-analysis/</guid><description>当算力成为新时代的石油，散热就是输送它的管道。本文从3P视角分析金刚石散热技术在AI算力革命中的战略价值。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI算力 on Dondrub3 | 3P实验室</title>
+    <link>https://dondrub3.com/tags/ai%E7%AE%97%E5%8A%9B/</link>
+    <description>Recent content in AI算力 on Dondrub3 | 3P实验室</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 26 May 2026 19:00:00 +0800</lastBuildDate>
+    <atom:link href="https://dondrub3.com/tags/ai%E7%AE%97%E5%8A%9B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>京东方A：一块玻璃如何撬动AI算力的未来</title>
+      <link>https://dondrub3.com/jibai/2026-05-26-%E4%BA%AC%E4%B8%9C%E6%96%B9a/</link>
+      <pubDate>Tue, 26 May 2026 19:00:00 +0800</pubDate>
+      <guid>https://dondrub3.com/jibai/2026-05-26-%E4%BA%AC%E4%B8%9C%E6%96%B9a/</guid>
+      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
+&lt;p&gt;你刚在手机上刷完一条短视频，两分钟后打开购物App，首页就精准推送了同款商品。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p&gt;
+&lt;p&gt;每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p&gt;
+&lt;p&gt;而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong&gt;光模块&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;但你可能不知道，在这些光模块背后，还有一层更基础的材料——&lt;strong&gt;玻璃基板&lt;/strong&gt;。它就像芯片的&amp;quot;骨骼&amp;quot;，承载着数以亿计的晶体管，在高温、高频的环境下保持绝对的平整和稳定。&lt;/p&gt;
+&lt;p&gt;当AI算力需求爆发，这些&amp;quot;骨骼&amp;quot;的需求量也在指数级增长。问题是：生产这些&amp;quot;骨骼&amp;quot;的工厂，产能跟得上吗？&lt;/p&gt;
+&lt;p&gt;这就是今天市场疯狂追捧&lt;strong&gt;京东方A&lt;/strong&gt;的原因。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
+&lt;p&gt;2026年5月21日，京东方A开盘一字涨停，收盘报4.69元/股，市值超过1737亿元，涨停板上封单最高超2188万手，封单金额超百亿元。&lt;/p&gt;
+&lt;p&gt;表面看，这是受与康宁公司合作备忘录的刺激——双方将围绕玻璃基封装载板、可折叠玻璃、钙钛矿玻璃基板、光互连四大领域开展合作。按理说，康宁是显示玻璃巨头，利好的是康宁概念股，和京东方八竿子打不着。但市场偏偏选了京东方——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的AI算力产业链重构&amp;quot;。&lt;/p&gt;
+&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;AI芯片封装正在从&amp;quot;有机基板&amp;quot;向&amp;quot;玻璃基板&amp;quot;跃迁&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;京东方A，全球显示面板龙头，2025年上半年营收1012.78亿元，同比增长8.45%；归母净利润32.47亿元，同比增长42.15%。&lt;/p&gt;
+&lt;p&gt;不是因为面板涨价，而是因为市场看到了它从&amp;quot;面板厂&amp;quot;向&amp;quot;AI基础设施供应商&amp;quot;转型的可能。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第一个故事为什么突然重要&#34;&gt;【第一个故事】为什么突然重要&lt;/h2&gt;
+&lt;p&gt;让我们回到那个刷短视频的场景。&lt;/p&gt;
+&lt;p&gt;2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家关注的是&amp;quot;谁做大模型&amp;quot;——OpenAI、谷歌、百度。&lt;/p&gt;
+&lt;p&gt;2024年，市场意识到&amp;quot;卖铲子的更赚钱&amp;quot;——英伟达、AMD、台积电。光模块、铜连接、HBM存储成为新宠。&lt;/p&gt;
+&lt;p&gt;2025年，故事进入第三阶段：&lt;strong&gt;AI算力需求正在从&amp;quot;预期&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;为什么？&lt;/p&gt;
+&lt;p&gt;因为AI芯片的封装面积和复杂度，不是简单的&amp;quot;一对一&amp;quot;线性增长。一颗H100 GPU需要搭配数十个高速光模块，而新一代B200、Rubin架构的芯片，封装面积更大、功耗更高、信号传输要求更苛刻。当AI训练从&amp;quot;小规模实验&amp;quot;扩展到&amp;quot;万卡集群&amp;quot;时，芯片封装的需求量不是线性增加，而是指数级增加。&lt;/p&gt;
+&lt;p&gt;更关键的是，&lt;strong&gt;玻璃基板正在取代有机基板&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;传统有机基板在高温下容易翘曲变形，高频信号传输损耗大。而玻璃材料热膨胀系数低、表面平整度高、介电损耗远低于有机材料——高温下翘曲量较有机基板减少70%以上，彻底解决了AI芯片封装的核心机械失效难题。&lt;/p&gt;
+&lt;p&gt;京东方的玻璃基封装载板试验线已于2024年投资9.93亿元建设，目前已给部分国内客户送样，部分客户已通过概念认证，进入技术测试阶段。&lt;/p&gt;
+&lt;p&gt;这不是概念，是&lt;strong&gt;已经发生的产线投资&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
+&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
+&lt;p&gt;显示面板行业的估值，历来是个难题。&lt;/p&gt;
+&lt;p&gt;传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——面板价格跟着供需周期波动， boom-bust循环往复。这个逻辑在功能机时代是对的，但在AI时代需要重新审视。&lt;/p&gt;
+&lt;p&gt;让我们看几个数字：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025年上半年营收&lt;/strong&gt;：1012.78亿元，同比增长8.45%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025年上半年归母净利润&lt;/strong&gt;：32.47亿元，同比增长42.15%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025年柔性AMOLED出货量&lt;/strong&gt;：超1.5亿片，同比增长约8%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;股东户数&lt;/strong&gt;：100.01万户，筹码高度分散，散户主导特征鲜明&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
+&lt;p&gt;意味着京东方正在从&amp;quot;面板制造商&amp;quot;变成&amp;quot;先进材料平台&amp;quot;。传统的面板需求跟着消费电子周期波动，但AI算力带来的需求是&lt;strong&gt;刚性且持续增长&lt;/strong&gt;的——只要大模型还在训练，只要算力还在扩张，玻璃基板的需求就不会停。&lt;/p&gt;
+&lt;p&gt;市场愿意给京东方更高估值的原因：它不再是一家&amp;quot;周期股&amp;quot;，而是&lt;strong&gt;AI基础设施的核心材料供应商&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
+&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是京东方，而不是其他面板公司？&lt;/p&gt;
+&lt;p&gt;全球面板行业有很多玩家，为什么京东方能独占鳌头？&lt;/p&gt;
+&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，技术积累深厚。&lt;/strong&gt; 京东方在显示器件、显示模组、先进制造、工艺开发等方面具备领先能力。玻璃基封装载板与显示面板在制造工艺上有共通之处——TFT阵列、光刻、蚀刻等技术可以迁移。公司已投资9.93亿元建设试验线，并持续推进技术开发。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，客户认证壁垒。&lt;/strong&gt; 半导体封装材料的客户认证周期极长，通常需要2-3年。京东方已与部分国内客户送样，部分客户通过概念认证。这种&amp;quot;先入优势&amp;quot;一旦建立，后来者很难追赶。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，生态协同效应。&lt;/strong&gt; 京东方体系内拥有华灿光电（MicroLED芯片）等子公司，与康宁的合作构成一条完整的&amp;quot;玻璃基板+MicroLED光芯片+光连接&amp;quot;供应链。这不是单一产品竞争，而是&lt;strong&gt;生态系统竞争&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这些优势不是一朝一夕建立起来的。京东方花了&lt;strong&gt;20多年&lt;/strong&gt;，投入了&lt;strong&gt;数千亿元&lt;/strong&gt;，才形成了今天的技术积累和产能规模。&lt;/p&gt;
+&lt;p&gt;竞争对手可以模仿它的产品线，但很难复制它的&lt;strong&gt;产业生态&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI越聪明，算力需求越大；算力需求越大，玻璃基板越紧缺；玻璃基板越紧缺，京东方越值钱。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI大模型的训练和推理需求正在爆发式增长，芯片封装从有机基板向玻璃基板跃迁。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：算力规模越大，玻璃基板的需求量就越大，且新一代GPU对玻璃基封装载板的依赖度更高。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：作为全球显示面板龙头，京东方已与康宁签署合作协议，玻璃基封装载板试验线已投产送样，有望切入AI算力产业链。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>中际旭创：AI算力时代的&#39;血管&#39;制造商</title>
+      <link>https://dondrub3.com/jibai/2026-05-20-%E4%B8%AD%E9%99%85%E6%97%AD%E5%88%9B/</link>
+      <pubDate>Wed, 20 May 2026 19:00:00 +0800</pubDate>
+      <guid>https://dondrub3.com/jibai/2026-05-20-%E4%B8%AD%E9%99%85%E6%97%AD%E5%88%9B/</guid>
+      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
+&lt;p&gt;你刚在抖音上刷了一条&amp;quot;如何挑选猫粮&amp;quot;的视频，两分钟后打开淘宝，首页就跳出了几款热门猫粮推荐。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p&gt;
+&lt;p&gt;每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p&gt;
+&lt;p&gt;而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong&gt;光模块&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当AI大模型变得越来越聪明，这些&amp;quot;血管&amp;quot;的需求量也在指数级增长。问题是：生产这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p&gt;
+&lt;p&gt;这就是今天市场疯狂追捧中际旭创的原因。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
+&lt;p&gt;2026年5月20日，A股市场三大指数集体收涨，沪指涨0.38%，深成指涨0.77%，创业板指涨0.77%。&lt;/p&gt;
+&lt;p&gt;表面看，这是受LPR降息与消费复苏预期的刺激——全球股市集体大涨，资金风险偏好回升。按理说，降息利好房地产、利好金融，和光模块八竿子打不着。但市场偏偏选了光模块——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的风险偏好回升&amp;quot;。&lt;/p&gt;
+&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;AI算力需求正在从&amp;quot;预期&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;中际旭创，全球光模块龙头，2025年上半年营收147.89亿元，同比增长36.95%；净利润39.95亿元，同比增长69.40%。&lt;/p&gt;
+&lt;p&gt;不是因为概念炒作，而是因为1.6T光模块已经开始批量出货。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第一个故事为什么突然重要&#34;&gt;【第一个故事】为什么突然重要&lt;/h2&gt;
+&lt;p&gt;让我们回到那个刷抖音的场景。&lt;/p&gt;
+&lt;p&gt;2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家只知道&amp;quot;AI很牛&amp;quot;，却不知道&amp;quot;AI需要什么&amp;quot;。&lt;/p&gt;
+&lt;p&gt;2024年，市场意识到——AI需要算力，算力需要芯片，芯片需要连接。光模块作为数据中心内部的&amp;quot;连接器&amp;quot;，需求开始爆发。&lt;/p&gt;
+&lt;p&gt;2025年，故事进入第三阶段：&lt;strong&gt;1.6T光模块开始商用&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;为什么？&lt;/p&gt;
+&lt;p&gt;因为GPU和光模块的关系，不是简单的&amp;quot;一对一&amp;quot;。一张高端GPU需要多个高速光模块来连接。当AI训练从&amp;quot;百卡集群&amp;quot;扩展到&amp;quot;万卡集群&amp;quot;时，光模块的需求量不是线性增加，而是指数级增加。&lt;/p&gt;
+&lt;p&gt;更关键的是，2025年是1.6T光模块商用元年。这意味着，新一代产品正在替代旧一代，单价和毛利率都在提升。&lt;/p&gt;
+&lt;p&gt;中际旭创的1.6T光模块已经开始批量出货，二季度产能利用率达95%。这不是概念，是实打实的订单。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
+&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
+&lt;p&gt;光模块的估值，历来是个难题。&lt;/p&gt;
+&lt;p&gt;传统上，市场把它当作&amp;quot;通信设备&amp;quot;来估值——看运营商资本开支，看5G建设进度。这个逻辑在4G时代是对的，但在AI时代需要重新审视。&lt;/p&gt;
+&lt;p&gt;让我们看几个数字：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2025年上半年营收147.89亿元，同比增长36.95%&lt;/li&gt;
+&lt;li&gt;2025年上半年净利润39.95亿元，同比增长69.40%&lt;/li&gt;
+&lt;li&gt;毛利率持续提升，1.6T产品毛利率显著高于800G&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
+&lt;p&gt;意味着中际旭创正在从&amp;quot;通信设备商&amp;quot;变成&amp;quot;AI基础设施供应商&amp;quot;。传统的通信设备跟着运营商资本开支波动，但AI算力带来的需求是持续性的——只要大模型还在训练，只要AI应用还在增长，光模块的需求就不会停。&lt;/p&gt;
+&lt;p&gt;市场愿意给中际旭创更高估值的原因：它不再是一家&amp;quot;周期股&amp;quot;，而是&amp;quot;AI时代的卖铲人&amp;quot;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
+&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是中际旭创，而不是其他光模块公司？&lt;/p&gt;
+&lt;p&gt;光模块有很多玩家，为什么中际旭创能独占鳌头？&lt;/p&gt;
+&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，技术领先。&lt;/strong&gt; 中际旭创是全球唯一一家实现1.6T光模块上量出货的企业，技术代际领先竞争对手6-12个月。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，客户锁定。&lt;/strong&gt; 谷歌、亚马逊、微软等超大规模云厂商的认证周期长达1-2年，一旦进入供应链，切换成本极高。中际旭创已经深度绑定全球TOP10云厂商中的8家。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，规模效应。&lt;/strong&gt; 泰国工厂月产能已提升至50万只，马来西亚基地800G产能翻倍至200万只/月。规模带来的成本优势，让竞争对手难以追赶。&lt;/p&gt;
+&lt;p&gt;这些优势不是一朝一夕建立起来的。中际旭创花了15年，投入了数百亿研发资金，才形成了今天的技术积累和客户关系。&lt;/p&gt;
+&lt;p&gt;竞争对手可以模仿它的产品，但很难复制它的生态。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI越聪明，数据传输量越大；传输量越大，光模块越紧缺；光模块越紧缺，中际旭创越值钱。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI大模型的训练和推理需求正在爆发式增长，数据中心的算力规模持续扩张。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：算力规模越大，光模块的需求量就越大，且新一代GPU对高速光模块的依赖度更高。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：作为全球光模块龙头，中际旭创的1.6T产品已经开始放量，业绩进入高速增长期。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>德科立：藏在AI数据中心里的&#39;光电心脏&#39;</title>
+      <link>https://dondrub3.com/jibai/2026-05-12-%E5%BE%B7%E7%A7%91%E7%AB%8B/</link>
+      <pubDate>Tue, 12 May 2026 19:37:00 +0800</pubDate>
+      <guid>https://dondrub3.com/jibai/2026-05-12-%E5%BE%B7%E7%A7%91%E7%AB%8B/</guid>
+      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
+&lt;p&gt;你刚在抖音上刷了一条&amp;quot;如何挑选猫粮&amp;quot;的视频，两分钟后打开淘宝，首页就跳出了几款热门猫粮推荐。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p&gt;
+&lt;p&gt;每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p&gt;
+&lt;p&gt;而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong&gt;光模块&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当AI大模型变得越来越聪明，这些&amp;quot;血管&amp;quot;的需求量也在指数级增长。问题是：生产这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p&gt;
+&lt;p&gt;这就是今天市场疯狂追捧德科立的原因。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
+&lt;p&gt;2026年5月12日，CPO概念板块集体爆发，德科立股价强势上涨，创下新高。&lt;/p&gt;
+&lt;p&gt;表面看，这是受美股科技股大涨的刺激——英伟达、博通等芯片巨头集体走强，带动A股相关产业链。按理说，美股科技股利好半导体设备、利好AI芯片，和光通信八竿子打不着。但市场偏偏选了CPO——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的AI算力需求爆发&amp;quot;。&lt;/p&gt;
+&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;AI数据中心正在从&amp;quot;电互联&amp;quot;走向&amp;quot;光互联&amp;quot;，CPO（共封装光学）是这场变革的核心技术&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;德科立，国内长距离光传输领域的领先企业，在CPO和硅光技术上抢先布局，股价创阶段性新高。&lt;/p&gt;
+&lt;p&gt;不是因为美股涨了，而是因为AI数据中心的光电融合时代真的来了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第一个故事为什么突然重要&#34;&gt;【第一个故事】为什么突然重要&lt;/h2&gt;
+&lt;p&gt;让我们回到那个刷抖音的场景。&lt;/p&gt;
+&lt;p&gt;2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家关注的是&amp;quot;谁有大模型&amp;quot;——百度、阿里、字节。&lt;/p&gt;
+&lt;p&gt;2024年，市场意识到&amp;quot;算力才是瓶颈&amp;quot;——英伟达的GPU一卡难求，算力租赁价格暴涨。大家开始关注&amp;quot;卖铲子的&amp;quot;——光模块、服务器、数据中心。&lt;/p&gt;
+&lt;p&gt;2026年，故事进入第三阶段：&lt;strong&gt;光模块不再是简单的&amp;quot;数据传输工具&amp;quot;，而是AI算力系统的&amp;quot;光电心脏&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;为什么？&lt;/p&gt;
+&lt;p&gt;因为传统光模块和AI芯片的关系，不是简单的&amp;quot;一对一&amp;quot;。一张H100 GPU需要多个800G光模块配合，而一个大型AI数据中心可能需要数万张GPU。当AI应用从&amp;quot;实验室&amp;quot;扩展到&amp;quot;千家万户&amp;quot;时，光模块的需求量不是线性增加，而是指数级增加。&lt;/p&gt;
+&lt;p&gt;更关键的是，&lt;strong&gt;CPO技术正在颠覆传统光模块&lt;/strong&gt;。传统的可插拔光模块像&amp;quot;外置U盘&amp;quot;，而CPO把光引擎直接封装在芯片旁边，传输距离从几十厘米缩短到几毫米，功耗降低50%以上，带宽密度提升数倍。&lt;/p&gt;
+&lt;p&gt;德科立的CPO技术储备和硅光100G PSM4模块已完成样品验证。这不是概念，是已经落地的技术突破。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
+&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
+&lt;p&gt;光通信行业的估值，历来是个难题。&lt;/p&gt;
+&lt;p&gt;传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——跟着电信运营商的资本开支波动。这个逻辑在4G时代是对的，但在AI时代需要重新审视。&lt;/p&gt;
+&lt;p&gt;让我们看几个数字：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2025年全球DCI（数据中心互联）产值达到400亿美元以上，同比增长14.3%，2026年有望突破500亿美元&lt;/li&gt;
+&lt;li&gt;德科立2025年营收9.34亿元，同比增长10.99%&lt;/li&gt;
+&lt;li&gt;公司硅基OCS产品已获得千万级订单，DCI产能持续建设中&lt;/li&gt;
+&lt;li&gt;泰国生产基地预计2025年四季度投产，全面部署智能化产线&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
+&lt;p&gt;意味着德科立正在从&amp;quot;电信设备供应商&amp;quot;变成&amp;quot;AI算力基础设施提供商&amp;quot;。传统的电信需求跟着运营商资本开支波动，但AI算力带来的需求是持续性的——只要大模型还在训练、AI应用还在普及，光模块的需求就不会停。&lt;/p&gt;
+&lt;p&gt;市场愿意给德科立更高估值的原因：它不再是一家&amp;quot;周期性设备商&amp;quot;，而是&amp;quot;AI时代的光电基础设施&amp;quot;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
+&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是德科立，而不是其他光通信公司？&lt;/p&gt;
+&lt;p&gt;光通信行业有很多玩家，为什么德科立能独占鳌头？&lt;/p&gt;
+&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，技术领先。&lt;/strong&gt; 德科立深耕光电子器件25年，掌握了&amp;quot;高速光学器件封装技术&amp;quot;、&amp;ldquo;高速光收发模块长距离传输技术&amp;quot;等核心工艺。在CPO和硅光技术上，公司已与南京大学共建&amp;quot;光电集成联合实验室&amp;rdquo;，攻关III-V族激光器与硅光芯片的异质集成。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，客户锁定。&lt;/strong&gt; 光模块行业有个特点：客户认证周期极长。数据中心客户一旦选定供应商，切换成本极高。德科立已经通过了国内外主流云厂商和通信设备商的认证，形成了稳固的客户关系。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，产能布局。&lt;/strong&gt; 公司全力推进泰国自有生产基地建设，该基地预计2025年四季度投产，目前已接待多批次海外客户现场考察。泰国基地将全面部署智能化产线，为量产爬坡阶段的品质保障与高效交付奠定坚实基础。&lt;/p&gt;
+&lt;p&gt;这些优势不是一朝一夕建立起来的。德科立花了25年，持续投入研发（研发人员占比超过23%），才形成了今天的技术积累。&lt;/p&gt;
+&lt;p&gt;竞争对手可以模仿它的产品规格，但很难复制它的技术积淀和客户关系。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI越聪明，数据中心算力需求越大；算力需求越大，CPO光模块越紧缺；CPO光模块越紧缺，德科立越值钱。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI大模型的训练和推理需求正在爆发式增长，数据中心从电互联向光互联升级，CPO技术成为关键突破口。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：算力规模越大，对高速光模块和CPO技术的需求就越大，且新一代AI芯片对光电共封装的依赖度更高。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：作为长距离光传输领先企业，德科立在CPO和硅光技术上抢先布局，泰国产能即将释放，业绩有望迎来拐点。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>杭电股份：光纤光缆的AI时代价值重估</title>
+      <link>https://dondrub3.com/jibai/2026-05-08-%E6%9D%AD%E7%94%B5%E8%82%A1%E4%BB%BD/</link>
+      <pubDate>Fri, 08 May 2026 19:00:00 +0800</pubDate>
+      <guid>https://dondrub3.com/jibai/2026-05-08-%E6%9D%AD%E7%94%B5%E8%82%A1%E4%BB%BD/</guid>
+      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
+&lt;p&gt;你刚在抖音上刷了一条&amp;quot;如何挑选猫粮&amp;quot;的视频，两分钟后打开淘宝，首页就跳出了几款热门猫粮推荐。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p&gt;
+&lt;p&gt;每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p&gt;
+&lt;p&gt;而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong&gt;光纤&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当AI大模型变得越来越聪明，这些&amp;quot;血管&amp;quot;的需求量也在指数级增长。问题是：生产这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p&gt;
+&lt;p&gt;这就是今天市场疯狂追捧杭电股份的原因。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
+&lt;p&gt;2026年5月8日，光纤概念走强，杭电股份3连板，股价持续飙升。&lt;/p&gt;
+&lt;p&gt;表面看，这是受AI算力需求爆发的刺激——GPT-5等大模型对数据中心的需求激增。按理说，AI算力爆发利好光模块、利好芯片，和传统的光纤光缆八竿子打不着。但市场偏偏选了杭电股份——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的基础设施逻辑&amp;quot;。&lt;/p&gt;
+&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;AI算力需求正在从&amp;quot;预期&amp;quot;走向&amp;quot;兑现&amp;quot;，而光纤光缆作为数据中心的物理基础设施，是算力扩张不可绕过的环节&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;杭电股份，国内老牌线缆龙头，通过收购富春江光电切入光通信领域，形成&amp;quot;电力电缆+光通信&amp;quot;双主业格局，股价连续涨停。&lt;/p&gt;
+&lt;p&gt;不是因为业绩突然爆发，而是因为市场意识到——在AI算力基建的大潮中，光纤光缆正在从&amp;quot;可选&amp;quot;变成&amp;quot;必需&amp;quot;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第一个故事为什么突然重要&#34;&gt;【第一个故事】为什么突然重要&lt;/h2&gt;
+&lt;p&gt;让我们回到那个刷抖音的场景。&lt;/p&gt;
+&lt;p&gt;2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家关注的是&amp;quot;谁有大模型&amp;quot;、&amp;ldquo;谁做AI芯片&amp;rdquo;。&lt;/p&gt;
+&lt;p&gt;2024年，市场意识到&amp;quot;算力即权力&amp;quot;，英伟达成为最大赢家，光模块跟着起飞。&lt;/p&gt;
+&lt;p&gt;2025年，故事进入第三阶段：&lt;strong&gt;AI算力需求开始从&amp;quot;云端训练&amp;quot;扩展到&amp;quot;边缘推理&amp;quot;，数据中心的建设速度远超预期&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;为什么？&lt;/p&gt;
+&lt;p&gt;因为AI大模型的训练和推理，不是简单的&amp;quot;一台服务器就能搞定&amp;quot;。一个大型数据中心，可能需要数万张GPU协同工作。这些GPU之间，需要高速、低延迟的数据传输——而光纤，就是连接它们的&amp;quot;神经网络&amp;quot;。&lt;/p&gt;
+&lt;p&gt;当数据中心的规模从&amp;quot;千张GPU&amp;quot;扩展到&amp;quot;万张GPU&amp;quot;时，光纤的需求量不是线性增加，而是指数级增加。&lt;/p&gt;
+&lt;p&gt;更关键的是，&lt;strong&gt;光纤技术正在从G.652向G.657升级&lt;/strong&gt;。G.657光纤弯曲损耗更低，更适合数据中心内部复杂的布线环境。这意味着，新一代数据中心的建设，将带动一波光纤的&amp;quot;新旧更替&amp;quot;。&lt;/p&gt;
+&lt;p&gt;杭电股份的G.657光纤产能已经开始放量。这不是概念，是订单。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
+&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
+&lt;p&gt;光纤光缆行业的估值，历来是个难题。&lt;/p&gt;
+&lt;p&gt;传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——跟着运营商的资本开支周期波动，景气时赚钱，低谷时亏损。这个逻辑在4G时代是对的，但在AI时代需要重新审视。&lt;/p&gt;
+&lt;p&gt;让我们看几个数字：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025年营收&lt;/strong&gt;：94.51亿元，同比增长6.78%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;光通信业务占比&lt;/strong&gt;：光纤+光缆合计约3.5%，但增速远超传统业务&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;富春江光电&lt;/strong&gt;：光棒产能310吨（已满产），半年内还要扩80吨&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;光纤产能&lt;/strong&gt;：1800万芯公里，90%是G.657光纤（数通为主）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
+&lt;p&gt;意味着杭电股份正在从&amp;quot;传统电力电缆商&amp;quot;变成&amp;quot;AI基础设施供应商&amp;quot;。传统的电缆业务跟着电网投资周期波动，但AI算力带来的光纤需求是&lt;strong&gt;持续性&lt;/strong&gt;的——只要大模型还在迭代，数据中心还在扩建，光纤的需求就不会停。&lt;/p&gt;
+&lt;p&gt;市场愿意给杭电股份更高估值的原因：它不再是一家&amp;quot;周期股&amp;quot;，而是&amp;quot;AI基建股&amp;quot;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
+&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是杭电股份，而不是其他光纤公司？&lt;/p&gt;
+&lt;p&gt;光纤光缆行业有很多玩家，为什么杭电股份能独占鳌头？&lt;/p&gt;
+&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，产业链垂直整合。&lt;/strong&gt; 杭电股份通过富春江光电构建了完整的&amp;quot;光棒—光纤—光缆&amp;quot;一体化产业链。光棒是光纤的上游原材料，掌握光棒产能意味着成本可控、供应稳定。目前光棒产能310吨，还在扩产中。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，技术领先。&lt;/strong&gt; 核心技术人员来自行业龙头长飞光纤，技术是&amp;quot;四大厂外No.1&amp;quot;。G.657光纤的弯曲损耗性能优异，正是数据中心内部布线的最佳选择。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，双主业协同。&lt;/strong&gt; 电力电缆业务为光通信业务提供稳定的现金流和客户资源。国家电网、南方电网的核心供应商身份，让杭电股份在大型基建项目中拥有天然的渠道优势。&lt;/p&gt;
+&lt;p&gt;这些优势不是一朝一夕建立起来的。杭电股份花了&lt;strong&gt;67年&lt;/strong&gt;（前身杭州电缆厂始建于1958年），投入了无数资源，才形成了今天的积累。&lt;/p&gt;
+&lt;p&gt;竞争对手可以模仿它的产品，但很难复制它的&lt;strong&gt;产业链整合能力+客户关系+技术积累&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI越聪明，数据中心越密集；数据中心越密集，光纤需求越旺盛；光纤需求越旺盛，杭电股份越值钱。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI大模型的训练和推理需求正在爆发式增长，数据中心的算力规模持续扩张，带动光纤光缆需求激增。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：数据中心规模越大，光纤的需求量就越大，且新一代数据中心对G.657高性能光纤的依赖度更高。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：杭电股份通过富春江光电拥有完整的&amp;quot;光棒—光纤—光缆&amp;quot;产业链，G.657光纤产能持续放量，深度受益于AI基建浪潮。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>科华数据：AI算力的&#39;心脏起搏器&#39;</title>
+      <link>https://dondrub3.com/jibai/2026-04-30-%E7%A7%91%E5%8D%8E%E6%95%B0%E6%8D%AE/</link>
+      <pubDate>Thu, 30 Apr 2026 19:00:00 +0800</pubDate>
+      <guid>https://dondrub3.com/jibai/2026-04-30-%E7%A7%91%E5%8D%8E%E6%95%B0%E6%8D%AE/</guid>
+      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
+&lt;p&gt;你刚在手机上问ChatGPT一个问题，3秒后它给出了详细回答。你以为是网络快，其实背后是&lt;strong&gt;数千台服务器&lt;/strong&gt;在&lt;strong&gt;毫秒级协同运算&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;每一次AI对话，都有&lt;strong&gt;上万台GPU&lt;/strong&gt;在&lt;strong&gt;同时运转&lt;/strong&gt;。这些GPU之间，需要&lt;strong&gt;稳定、不间断的电力供应&lt;/strong&gt;——就像心脏需要起搏器来维持稳定跳动。&lt;/p&gt;
+&lt;p&gt;而保障这些AI服务器持续运转的&amp;quot;电力心脏&amp;quot;，叫做&lt;strong&gt;UPS不间断电源&lt;/strong&gt;和&lt;strong&gt;HVDC高压直流系统&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当AI应用爆发，这些&amp;quot;电力心脏&amp;quot;的需求量也在&lt;strong&gt;指数级增长&lt;/strong&gt;。问题是：生产这些设备的工厂，产能跟得上吗？&lt;/p&gt;
+&lt;p&gt;这就是今天市场追捧&lt;strong&gt;科华数据&lt;/strong&gt;的原因。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
+&lt;p&gt;2025年4月30日，A股4月收官之战，成交额激增至1.17万亿，较上个交易日放量1472亿。&lt;/p&gt;
+&lt;p&gt;表面看，这是受美伊停火协议的刺激——全球股市集体大涨，资金风险偏好回升。&lt;strong&gt;按理说&lt;/strong&gt;，中东停火利好石油、黄金，和AI算力八竿子打不着。&lt;strong&gt;但市场偏偏选了AI算力&lt;/strong&gt;——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的风险偏好回升&amp;quot;。&lt;/p&gt;
+&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;AI算力需求正在从&amp;quot;预期&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;科华数据，中国高端UPS市场份额第一、工业UPS亚洲第一，4月30日股价强势上涨。&lt;/p&gt;
+&lt;p&gt;不是因为&amp;quot;市场情绪好&amp;quot;，而是因为&lt;strong&gt;它的AIDC供电业务正在兑现高增长&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第一个故事为什么突然重要了&#34;&gt;【第一个故事】为什么突然重要了&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;让我们回到那个AI对话的场景。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2023年，ChatGPT横空出世，市场开始炒作AI概念股。但当时大家只知道&amp;quot;AI很火&amp;quot;，不知道&amp;quot;AI需要什么&amp;quot;。&lt;/p&gt;
+&lt;p&gt;2024年，市场意识到&amp;quot;算力是AI的铲子&amp;quot;，开始追捧GPU、光模块。但少有人注意到：&lt;strong&gt;每一台GPU背后，都需要一套复杂的供电系统&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;2025年，故事进入第三阶段：&lt;strong&gt;AI数据中心的供电需求正在爆发&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;为什么？&lt;/p&gt;
+&lt;p&gt;因为&lt;strong&gt;算力密度&lt;/strong&gt;和&lt;strong&gt;供电需求&lt;/strong&gt;的关系，不是简单的&amp;quot;一对一&amp;quot;。一台AI服务器功耗可达10kW，而一个智算中心可能部署上万台。当算力规模从&amp;quot;百台级&amp;quot;扩展到&amp;quot;万台级&amp;quot;时，供电系统的需求量不是线性增加，而是&lt;strong&gt;指数级增加&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;更关键的是，&lt;strong&gt;AI服务器对供电质量的要求极高&lt;/strong&gt;——电压波动超过5%就可能导致训练中断，损失数百万美元。&lt;/p&gt;
+&lt;p&gt;科华数据的&lt;strong&gt;HVDC高压直流系统&lt;/strong&gt;2025年Q1出货量同比增长&lt;strong&gt;200%&lt;/strong&gt;，全年预计突破&lt;strong&gt;2000套&lt;/strong&gt;。这不是概念，是&lt;strong&gt;订单&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
+&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
+&lt;p&gt;数据中心供电设备的估值，历来是个难题。&lt;/p&gt;
+&lt;p&gt;传统上，市场把它当作&amp;quot;电源设备商&amp;quot;来估值——看营收、看利润、看PE。这个逻辑在传统UPS时代是对的，但在AIDC时代需要重新审视。&lt;/p&gt;
+&lt;p&gt;让我们看几个数字：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025年上半年营收37.33亿元&lt;/strong&gt;，同比持平，但结构发生重大变化&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据中心业务收入预计2025年同比增长超过50%&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HVDC出货量Q1同比增长200%&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;工业UPS亚洲第一，中国高端UPS市场份额18.6%（第一）&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
+&lt;p&gt;意味着科华数据正在从&amp;quot;电源设备商&amp;quot;变成&amp;quot;智算中心基础设施提供商&amp;quot;。传统UPS跟着数据中心建设周期波动，但AIDC带来的需求是&lt;strong&gt;持续性&lt;/strong&gt;的——只要AI训练不停，供电需求就不会停。&lt;/p&gt;
+&lt;p&gt;市场愿意给科华数据更高估值的原因：它不再是一家&amp;quot;卖电源的公司&amp;quot;，而是&amp;quot;AI算力的电力基础设施&amp;quot;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
+&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是科华数据，而不是其他电源公司？&lt;/p&gt;
+&lt;p&gt;数据中心供电领域有很多玩家，为什么科华数据能独占鳌头？&lt;/p&gt;
+&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，技术代际领先。&lt;/strong&gt; 科华数据深耕电力电子技术&lt;strong&gt;30余年&lt;/strong&gt;，从UPS到HVDC再到液冷供电，产品矩阵最全。数据中心供电架构的演进路线是：UPS → HVDC → 巴拿马电源 → SST。科华在每一个节点都有布局。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，客户认证壁垒。&lt;/strong&gt; 互联网大厂的智算中心供电系统，认证周期长达&lt;strong&gt;1-2年&lt;/strong&gt;。一旦进入供应链，切换成本极高。科华已是阿里、腾讯、字节等巨头的核心供应商。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，规模效应显著。&lt;/strong&gt; 科华花了&lt;strong&gt;30年&lt;/strong&gt;，投入了&lt;strong&gt;数十亿研发资金&lt;/strong&gt;，才形成了今天的技术积累。2025年Q1 HVDC出货量同比增长200%，规模效应正在显现。&lt;/p&gt;
+&lt;p&gt;这些优势不是一朝一夕建立起来的。竞争对手可以模仿它的产品，但很难复制它的&lt;strong&gt;生态位&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI越聪明，智算中心越多；智算中心越多，HVDC越紧缺；HVDC越紧缺，科华数据越值钱。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;按标准框架理解：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI大模型训练和推理需求爆发，智算中心建设进入高峰期。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：算力密度提升导致供电需求指数级增长，HVDC成为主流技术路线。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：科华数据是AIDC供电领域龙头，HVDC出货量Q1同比增长200%，全年预计突破2000套。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>长飞光纤：AI时代的信息高速公路建造者</title>
+      <link>https://dondrub3.com/jibai/2026-04-27-%E9%95%BF%E9%A3%9E%E5%85%89%E7%BA%A4/</link>
+      <pubDate>Mon, 27 Apr 2026 19:00:00 +0800</pubDate>
+      <guid>https://dondrub3.com/jibai/2026-04-27-%E9%95%BF%E9%A3%9E%E5%85%89%E7%BA%A4/</guid>
+      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
+&lt;p&gt;你刚在抖音上刷了一条关于AI绘画的教程视频，两分钟后打开小红书，首页就跳出了几款AI绘图工具的推荐。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p&gt;
+&lt;p&gt;每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p&gt;
+&lt;p&gt;而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong&gt;光纤光缆&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当AI大模型变得越来越聪明，这些&amp;quot;血管&amp;quot;的需求量也在爆发式增长。问题是：铺设这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p&gt;
+&lt;p&gt;这就是今天市场追捧长飞光纤的原因。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
+&lt;p&gt;2026年4月27日，港股光通信板块集体反弹，长飞光纤光缆（06869.HK）大涨。&lt;/p&gt;
+&lt;p&gt;表面看，这是受AI算力需求持续高增长的刺激——全球数据中心建设加速，光通信产业链景气度回升。按理说，AI算力利好芯片、利好服务器，和光纤光缆八竿子打不着。但市场偏偏选了光纤光缆——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的基础设施逻辑&amp;quot;。&lt;/p&gt;
+&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;AI算力的爆发，正在重构整个信息基础设施的底层架构&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;长飞光纤，全球光纤光缆行业龙头，自2016年以来市场份额稳居全球第一，今日股价表现强势。&lt;/p&gt;
+&lt;p&gt;不是因为&amp;quot;AI概念&amp;quot;的炒作，而是因为&lt;strong&gt;AI时代的数据洪流，正在催生对光纤光缆的刚性需求&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第一个故事为什么突然重要&#34;&gt;【第一个故事】为什么突然重要&lt;/h2&gt;
+&lt;p&gt;让我们回到那个刷抖音的场景。&lt;/p&gt;
+&lt;p&gt;2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家关注的是&amp;quot;谁在做大模型&amp;quot;——OpenAI、谷歌、百度、阿里。&lt;/p&gt;
+&lt;p&gt;2024年，市场意识到&amp;quot;卖铲子&amp;quot;的逻辑——英伟达的GPU、台积电的代工、中际旭创的光模块开始暴涨。&lt;/p&gt;
+&lt;p&gt;2025年，故事进入第三阶段：&lt;strong&gt;基础设施的底层重构&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;为什么？&lt;/p&gt;
+&lt;p&gt;因为AI大模型的训练和推理，不是简单的&amp;quot;数据进、结果出&amp;quot;。每一次模型迭代，都需要在成千上万台服务器之间传输PB级的数据。当数据中心从&amp;quot;小规模集群&amp;quot;扩展到&amp;quot;超大规模算力中心&amp;quot;时，&lt;strong&gt;服务器之间的连接需求不是线性增加，而是指数级增加&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;更关键的是，&lt;strong&gt;AI算力对网络带宽的要求正在发生质变&lt;/strong&gt;。传统的10G、25G网络已经无法满足需求，100G、400G正在成为标配，800G甚至1.6T的需求正在浮现。&lt;/p&gt;
+&lt;p&gt;长飞光纤的高端光纤产品已经开始批量出货。这不是概念，是订单。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
+&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
+&lt;p&gt;光纤光缆行业的估值，历来是个难题。&lt;/p&gt;
+&lt;p&gt;传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——跟着运营商资本开支周期波动，跟着5G建设节奏起伏。这个逻辑在4G/5G时代是对的，但在AI时代需要重新审视。&lt;/p&gt;
+&lt;p&gt;让我们看几个数字：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2025年一季度，长飞光纤营收28.94亿元，同比增长21.23%&lt;/li&gt;
+&lt;li&gt;归母净利润1.52亿元，同比增长161.91%&lt;/li&gt;
+&lt;li&gt;毛利率提升至27.84%&lt;/li&gt;
+&lt;li&gt;海外业务收入约27.0亿元，同比增长52.8%，占总收入42.3%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
+&lt;p&gt;意味着长飞光纤正在从&amp;quot;传统通信设备商&amp;quot;变成&amp;quot;AI基础设施供应商&amp;quot;。传统的光纤需求跟着运营商周期波动，但AI算力带来的需求是&lt;strong&gt;持续性、结构性&lt;/strong&gt;的——只要AI还在发展，数据中心的扩张就不会停。&lt;/p&gt;
+&lt;p&gt;市场愿意给长飞光纤更高估值的原因：它不再是一家&amp;quot;通信设备商&amp;quot;，而是&amp;quot;AI时代的血管制造商&amp;quot;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
+&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是长飞光纤，而不是其他光纤光缆公司？&lt;/p&gt;
+&lt;p&gt;光纤光缆行业有很多玩家，为什么长飞光纤能独占鳌头？&lt;/p&gt;
+&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，技术领先。&lt;/strong&gt; 长飞光纤是全球少数掌握光纤预制棒核心技术的企业之一。光纤预制棒是光纤制造的&amp;quot;芯片&amp;quot;，技术门槛极高，决定了光纤的性能和成本。长飞花了30年时间，投入了数百亿资金，才形成了今天的技术积累。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，客户锁定。&lt;/strong&gt; 光纤光缆是数据中心的核心基础设施，客户（运营商、云厂商）对供应商的认证周期极长，切换成本极高。长飞光纤与全球主要运营商和云厂商建立了长期合作关系，这种关系不是一朝一夕能复制的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，规模效应。&lt;/strong&gt; 长飞光纤的年产能超过1亿芯公里，是全球最大的光纤光缆制造商。规模效应带来的成本优势，让竞争对手难以在价格上与之竞争。&lt;/p&gt;
+&lt;p&gt;这些优势不是一朝一夕建立起来的。长飞光纤花了30年，投入了数百亿，才形成了今天的护城河。&lt;/p&gt;
+&lt;p&gt;竞争对手可以模仿它的产品，但很难复制它的生态。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI越聪明，数据中心越密集；数据中心越密集，光纤需求越爆发；光纤需求越爆发，长飞光纤越值钱。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI大模型的训练和推理需求正在爆发式增长，数据中心的算力规模持续扩张&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：算力规模越大，数据中心内部和之间的数据传输需求就越大，对高速光纤的依赖度更高&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：作为全球光纤光缆龙头，长飞光纤的技术领先、客户锁定和规模效应，使其成为AI基础设施建设的最大受益者之一&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>新易盛：当AI的&#39;血管&#39;开始供不应求</title>
+      <link>https://dondrub3.com/jibai/2026-04-22-%E6%96%B0%E6%98%93%E7%9B%9B/</link>
+      <pubDate>Wed, 22 Apr 2026 19:00:00 +0800</pubDate>
+      <guid>https://dondrub3.com/jibai/2026-04-22-%E6%96%B0%E6%98%93%E7%9B%9B/</guid>
+      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
+&lt;p&gt;你刚在抖音上刷了一条&amp;quot;如何挑选猫粮&amp;quot;的视频，两分钟后打开淘宝，首页就跳出了几款热门猫粮推荐。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p&gt;
+&lt;p&gt;每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p&gt;
+&lt;p&gt;而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong&gt;光模块&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当AI大模型变得越来越聪明，这些&amp;quot;血管&amp;quot;的需求量也在指数级增长。问题是：生产这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p&gt;
+&lt;p&gt;这就是今天市场疯狂追捧新易盛的原因。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
+&lt;p&gt;2026年4月22日，CPO概念股集体爆发，新易盛涨超6%，股价突破6000亿市值，创历史新高。&lt;/p&gt;
+&lt;p&gt;表面看，这是受全球AI算力需求持续爆发的刺激——英伟达股价不断新高，数据中心建设如火如荼。按理说，AI利好算力芯片、利好服务器，和光模块八竿子打不着。但市场偏偏选了光模块——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的产业链传导逻辑&amp;quot;。&lt;/p&gt;
+&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;AI算力需求正在从&amp;quot;预期&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;新易盛，全球光模块龙头厂商，股价在过去一年涨幅超过200%。&lt;/p&gt;
+&lt;p&gt;不是因为概念炒作，而是因为订单真的来了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第一个故事为什么突然重要&#34;&gt;【第一个故事】为什么突然重要&lt;/h2&gt;
+&lt;p&gt;让我们回到那个刷抖音的场景。&lt;/p&gt;
+&lt;p&gt;2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家只知道&amp;quot;AI很牛&amp;quot;，却不知道具体利好哪些环节。&lt;/p&gt;
+&lt;p&gt;2024年，市场意识到&amp;quot;卖铲子的最赚钱&amp;quot;——英伟达GPU供不应求，光模块作为数据中心的&amp;quot;血管&amp;quot;也开始被关注。&lt;/p&gt;
+&lt;p&gt;2026年，故事进入第三阶段：&lt;strong&gt;光模块从&amp;quot;配套产品&amp;quot;变成&amp;quot;核心瓶颈&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;为什么？&lt;/p&gt;
+&lt;p&gt;因为GPU和光模块的关系，不是简单的&amp;quot;一对一&amp;quot;。一张英伟达H100 GPU需要配套多个800G光模块，而新一代B200 GPU对1.6T光模块的需求更是成倍增长。当AI训练从&amp;quot;小规模实验&amp;quot;扩展到&amp;quot;大规模商用&amp;quot;时，光模块的需求量不是线性增加，而是指数级增加。&lt;/p&gt;
+&lt;p&gt;更关键的是，2026年正是800G光模块向1.6T升级的关键节点。这意味着，旧产能需要淘汰，新产能亟待释放。&lt;/p&gt;
+&lt;p&gt;新易盛的1.6T光模块已经开始小批量出货，客户认证进展顺利。这不是概念，是实实在在的订单。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
+&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
+&lt;p&gt;光模块行业的估值，历来是个难题。&lt;/p&gt;
+&lt;p&gt;传统上，市场把它当作&amp;quot;通信设备配件&amp;quot;来估值——看运营商资本开支、看周期性波动。这个逻辑在4G时代是对的，但在AI时代需要重新审视。&lt;/p&gt;
+&lt;p&gt;让我们看几个数字：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2024年，新易盛实现营业收入86.47亿元，同比增长179.15%&lt;/li&gt;
+&lt;li&gt;2024年，归母净利润28.38亿元，同比增长312.26%&lt;/li&gt;
+&lt;li&gt;2025年一季度，营业收入40.52亿元，同比增长264.13%&lt;/li&gt;
+&lt;li&gt;2025年一季度，归母净利润15.73亿元，同比增长384.54%&lt;/li&gt;
+&lt;li&gt;毛利率从2023年的31%提升到2024年的44.72%，净利率从22%提升到32.82%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
+&lt;p&gt;意味着新易盛正在从&amp;quot;通信配件商&amp;quot;变成&amp;quot;AI基础设施供应商&amp;quot;。传统的光模块需求跟着运营商资本开支波动，但AI算力带来的需求是刚性且持续的——只要大模型还在训练，只要数据中心还在扩建，光模块的需求就不会停。&lt;/p&gt;
+&lt;p&gt;市场愿意给新易盛更高估值的原因：它不再是一家周期性公司，而是AI时代的&amp;quot;卖水人&amp;quot;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
+&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是新易盛，而不是其他光模块公司？&lt;/p&gt;
+&lt;p&gt;光模块行业有很多玩家，为什么新易盛能独占鳌头？&lt;/p&gt;
+&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，技术领先。&lt;/strong&gt; 新易盛是国内最早量产800G光模块的厂商之一，1.6T产品也已经进入客户认证阶段。在LPO（线性驱动可插拔光模块）和AEC（有源铜缆）等新技术路线上，公司布局领先——这些新技术有望在2026-2028年打开第二增长曲线。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，客户锁定。&lt;/strong&gt; 光模块进入英伟达、谷歌、Meta等海外云巨头的供应链，需要长达1-2年的认证周期。一旦进入，切换成本极高。新易盛已经深度绑定全球头部客户，这是后来者难以逾越的壁垒。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，规模效应。&lt;/strong&gt; 光模块是资本密集型行业，产线投资巨大。新易盛凭借规模优势，在成本控制上遥遥领先。当行业进入价格战时，小公司亏损退出，龙头反而能扩大份额。&lt;/p&gt;
+&lt;p&gt;这些优势不是一朝一夕建立起来的。新易盛花了近20年，投入了数十亿研发资金，才形成了今天的技术积累和客户关系。&lt;/p&gt;
+&lt;p&gt;竞争对手可以模仿它的产品，但很难复制它的生态。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI越聪明，数据传输量越大；传输量越大，高速光模块越紧缺；光模块越紧缺，新易盛越值钱。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI大模型的训练和推理需求正在爆发式增长，数据中心向800G/1.6T光模块加速升级。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：算力规模越大，对高速光模块的需求量就越大，且新一代GPU对更高速率光模块的依赖度更高。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：作为全球光模块龙头，新易盛的800G产品持续放量，1.6T产品已经开始出货，LPO和AEC等新技术打开第二增长曲线。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>东山精密：从PCB龙头到CPO新贵的跃迁之路</title>
+      <link>https://dondrub3.com/jibai/2026-04-21-%E4%B8%9C%E5%B1%B1%E7%B2%BE%E5%AF%86/</link>
+      <pubDate>Tue, 21 Apr 2026 19:00:00 +0800</pubDate>
+      <guid>https://dondrub3.com/jibai/2026-04-21-%E4%B8%9C%E5%B1%B1%E7%B2%BE%E5%AF%86/</guid>
+      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
+&lt;p&gt;你刚在抖音上刷了一条&amp;quot;AI绘画教程&amp;quot;的视频，两分钟后打开淘宝，首页就跳出了几款AI绘图软件推荐。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p&gt;
+&lt;p&gt;每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p&gt;
+&lt;p&gt;而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong&gt;光模块&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当AI大模型变得越来越聪明，这些&amp;quot;血管&amp;quot;的需求量也在指数级增长。问题是：生产这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p&gt;
+&lt;p&gt;这就是今天市场疯狂追捧东山精密的原因。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
+&lt;p&gt;2026年4月21日，CPO（光电共封装）概念板块大涨，东山精密股价飙升7.90%，盘中最高触及172.68元，再创历史新高，总市值突破3100亿元。&lt;/p&gt;
+&lt;p&gt;表面看，这是受AI算力需求持续爆发的刺激——全球科技巨头疯狂加码数据中心建设。按理说，AI利好英伟达、利好中际旭创这些光模块龙头，和东山精密这个PCB厂商八竿子打不着。但市场偏偏选了东山精密——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的产业重构逻辑&amp;quot;。&lt;/p&gt;
+&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;AI算力需求正在从&amp;quot;单一光模块&amp;quot;走向&amp;quot;光电共封装一体化&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;东山精密，全球PCB龙头、刚刚通过收购索尔思光电切入光通信赛道，股价年内已翻倍。&lt;/p&gt;
+&lt;p&gt;不是因为它是传统的电路板厂商，而是因为它正在成为&amp;quot;AI基础设施的核心供应商&amp;quot;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第一个故事为什么突然重要&#34;&gt;【第一个故事】为什么突然重要&lt;/h2&gt;
+&lt;p&gt;让我们回到那个刷抖音的场景。&lt;/p&gt;
+&lt;p&gt;2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家只关注&amp;quot;谁在做大模型&amp;quot;——OpenAI、谷歌、百度。&lt;/p&gt;
+&lt;p&gt;2024年，市场意识到&amp;quot;卖铲子的更赚钱&amp;quot;——英伟达的GPU、中际旭创的光模块成为焦点。&lt;/p&gt;
+&lt;p&gt;2026年，故事进入第三阶段：&lt;strong&gt;光模块本身也在进化，CPO（光电共封装）成为新方向&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;为什么？&lt;/p&gt;
+&lt;p&gt;因为GPU和光模块的关系，不是简单的&amp;quot;一对一&amp;quot;。一张高端GPU需要8-16个高速光模块。当AI训练从&amp;quot;百卡集群&amp;quot;扩展到&amp;quot;万卡集群&amp;quot;时，光模块的需求量不是线性增加，而是指数级增加。&lt;/p&gt;
+&lt;p&gt;更关键的是，传统的可插拔光模块已经遇到瓶颈——功耗太高、密度受限、延迟太大。CPO技术将光引擎和交换芯片封装在一起，功耗降低30%，带宽提升10倍。&lt;/p&gt;
+&lt;p&gt;东山精密通过收购索尔思光电，已经实现400G、800G产品规模化量产，并率先推出1.6T光模块。这不是概念，是已经拿到的Meta 110万只800G订单。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
+&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
+&lt;p&gt;光通信行业的估值，历来是个难题。&lt;/p&gt;
+&lt;p&gt;传统上，市场把它当作&amp;quot;周期电子股&amp;quot;来估值——看资本开支、看库存周期、看毛利率波动。这个逻辑在4G/5G时代是对的，但在AI时代需要重新审视。&lt;/p&gt;
+&lt;p&gt;让我们看几个数字：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025年前三季度营收&lt;/strong&gt;：270.71亿元，同比增长2.28%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;归母净利润&lt;/strong&gt;：12.23亿元，同比增长14.61%，远超营收增速&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026年Q1业绩预告&lt;/strong&gt;：净利润10-11.5亿元，同比增长119%-152%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;毛利率&lt;/strong&gt;：13.79%，在规模扩张中保持韧性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
+&lt;p&gt;意味着东山精密正在从&amp;quot;传统PCB厂商&amp;quot;变成&amp;quot;AI基础设施供应商&amp;quot;。传统的PCB业务跟着消费电子波动，但AI光模块带来的需求是结构性、持续性的——只要大模型还在训练，只要数据中心还在扩建，订单就不会停。&lt;/p&gt;
+&lt;p&gt;市场愿意给东山精密233倍市盈率的原因：它不再是一家电子制造厂，而是AI时代的&amp;quot;卖水人&amp;quot;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
+&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是东山精密，而不是其他光模块公司？&lt;/p&gt;
+&lt;p&gt;光通信行业有很多玩家，为什么东山精密能独占鳌头？&lt;/p&gt;
+&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，PCB+光模块的协同效应。&lt;/strong&gt; 东山精密本身就是全球PCB龙头，而CPO技术需要将光引擎和PCB基板深度集成。这种&amp;quot;软硬结合&amp;quot;的能力，纯光模块厂商不具备。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，收购索尔思带来的技术跃迁。&lt;/strong&gt; 索尔思在光器件领域有全流程覆盖能力，自研光芯片。东山精密花了约26.33亿元完成收购，直接获得400G/800G量产能力和1.6T技术储备。竞争对手要从零开始，至少需要3年客户验证周期。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，客户资源的复用。&lt;/strong&gt; 东山精密的PCB客户本身就是AI算力大厂——英伟达、谷歌、Meta。光模块业务可以直接导入现有客户关系，这是其他厂商无法复制的渠道优势。&lt;/p&gt;
+&lt;p&gt;这些优势不是一朝一夕建立起来的。东山精密花了15年成为全球PCB龙头，又通过战略收购完成光通信布局，才形成了今天的竞争壁垒。&lt;/p&gt;
+&lt;p&gt;竞争对手可以模仿它的产品，但很难复制它的生态。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI越聪明，算力需求越大；算力需求越大，CPO越紧缺；CPO越紧缺，东山精密越值钱。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI大模型的训练和推理需求正在爆发式增长，数据中心向光电共封装（CPO）技术升级。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：CPO技术将光引擎和交换芯片集成，功耗降低30%、带宽提升10倍，800G/1.6T光模块供不应求。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：东山精密通过收购索尔思光电切入光通信赛道，已获Meta 110万只800G订单，1.6T产品锁定2027年全球顶级客户需求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>东山精密：当PCB巨头遇上光模块的AI浪潮</title>
+      <link>https://dondrub3.com/jibai/2026-04-09-%E4%B8%9C%E5%B1%B1%E7%B2%BE%E5%AF%86/</link>
+      <pubDate>Thu, 09 Apr 2026 19:00:00 +0800</pubDate>
+      <guid>https://dondrub3.com/jibai/2026-04-09-%E4%B8%9C%E5%B1%B1%E7%B2%BE%E5%AF%86/</guid>
+      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
+&lt;p&gt;你刚在抖音上刷了一条关于AI绘画的短视频，两分钟后打开淘宝，首页就跳出了几款AI绘图软件的推荐。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p&gt;
+&lt;p&gt;每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p&gt;
+&lt;p&gt;而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong&gt;光模块&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当AI大模型越来越聪明，数据中心的算力需求呈指数级增长，这些&amp;quot;血管&amp;quot;的需求量也在爆发。问题是：生产这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p&gt;
+&lt;p&gt;这就是今天市场疯狂追捧&lt;strong&gt;东山精密&lt;/strong&gt;的原因。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
+&lt;p&gt;2026年4月9日，CPO概念再度走强，东山精密触及涨停，续创历史新高。&lt;/p&gt;
+&lt;p&gt;表面看，这是受Anthropic与谷歌、博通签署3.5吉瓦TPU算力协议的刺激——AI算力需求持续高增。按理说，这种消息利好英伟达、利好谷歌，和一家做PCB的中国公司八竿子打不着。但市场偏偏选了东山精密——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的产业链重构&amp;quot;。&lt;/p&gt;
+&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;CPO（共封装光学）正在从概念走向量产，光模块产业迎来历史性拐点&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;东山精密，一家以PCB（印制电路板）起家的电子制造巨头，通过59.35亿元收购全球光模块前十强企业索尔思光电，一举切入AI算力核心赛道。&lt;/p&gt;
+&lt;p&gt;不是因为PCB业务突然爆发，而是因为&lt;strong&gt;光模块正在成为AI时代的&amp;quot;卖铲人&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第一个故事为什么突然重要&#34;&gt;【第一个故事】为什么突然重要&lt;/h2&gt;
+&lt;p&gt;让我们回到那个刷抖音的场景。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2023年&lt;/strong&gt;，ChatGPT横空出世，市场开始炒作AI概念。但当时大家关注的是&amp;quot;谁有大模型&amp;quot;——百度、阿里、腾讯，谁能在AI应用上占据先机。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2024年&lt;/strong&gt;，市场意识到，大模型训练需要算力，算力需要GPU，GPU需要光模块。&amp;ldquo;卖铲人&amp;quot;逻辑开始显现，中际旭创、新易盛等光模块龙头股价翻倍。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2025年&lt;/strong&gt;，故事进入第三阶段：&lt;strong&gt;CPO技术从实验室走向生产线&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;为什么？&lt;/p&gt;
+&lt;p&gt;因为传统光模块和GPU的关系，不是简单的&amp;quot;一对一&amp;rdquo;。一张高端GPU需要多个800G甚至1.6T光模块配合。当AI数据中心从&amp;quot;千卡集群&amp;quot;扩展到&amp;quot;万卡集群&amp;quot;时，光模块的需求量不是线性增加，而是指数级增加。&lt;/p&gt;
+&lt;p&gt;更关键的是，&lt;strong&gt;CPO（共封装光学）技术正在颠覆传统架构&lt;/strong&gt;。博通51.2T CPO交换机于2025年4月小批量出货，台积电COUPE平台预计2025年实现全面量产。这意味着，光模块正在从&amp;quot;可插拔&amp;quot;走向&amp;quot;共封装&amp;quot;，技术迭代带来行业格局重塑。&lt;/p&gt;
+&lt;p&gt;东山精密通过收购索尔思光电，已经拿到了CPO时代的入场券。索尔思的CPO原型产品已通过英伟达GB200服务器架构验证，计划2026年量产。这不是概念，是&lt;strong&gt;已经通过客户验证的订单&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
+&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
+&lt;p&gt;光模块行业的估值，历来是个难题。&lt;/p&gt;
+&lt;p&gt;传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——跟着电信资本开支周期波动，景气时赚一波，低迷时打回原形。这个逻辑在4G时代是对的，但在AI时代需要重新审视。&lt;/p&gt;
+&lt;p&gt;让我们看几个数字：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;索尔思光电2024年营收29.32亿元，净利润4.05亿元，净利率13.8%&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025年Q1营收9.75亿元，净利润1.57亿元，单季度净利率16.1%&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;全球光模块市场2025年预计达235亿美元，同比增长50%&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;预计2029年将突破415亿美元，2024-2029年复合年增长率约为18%&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
+&lt;p&gt;意味着东山精密正在从&amp;quot;传统电子制造商&amp;quot;变成&amp;quot;AI基础设施供应商&amp;quot;。传统的PCB业务跟着消费电子周期波动，但光模块带来的需求是&lt;strong&gt;结构性增长&lt;/strong&gt;的——只要AI还在训练、还在推理，光模块就不会停。&lt;/p&gt;
+&lt;p&gt;市场愿意给东山精密更高估值的原因：它不再是一家单纯的PCB公司，而是&lt;strong&gt;同时拥有PCB+光模块双轮驱动的AI产业链核心供应商&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
+&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是东山精密，而不是其他光模块公司？&lt;/p&gt;
+&lt;p&gt;光模块行业有很多玩家，为什么东山精密能后来居上？&lt;/p&gt;
+&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，垂直整合能力。&lt;/strong&gt; 索尔思光电具备&amp;quot;光芯片-光器件-光模块&amp;quot;全产业链自主可控能力，这在行业内极为稀缺。大多数光模块厂商需要外购光芯片，而索尔思可以自研自产，成本更低、响应更快。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，客户认证壁垒。&lt;/strong&gt; 光模块进入数据中心供应链，需要经过长达1-2年的严格认证。索尔思光电深耕行业30余年，被业内誉为&amp;quot;光模块行业的黄埔军校&amp;quot;，与全球头部云厂商建立了长期合作关系。CPO原型产品已通过英伟达GB200服务器架构验证，这是竞争对手难以复制的门槛。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，PCB与光模块的协同。&lt;/strong&gt; 东山精密是全球领先的PCB制造商，而CPO技术需要将光模块与交换芯片共封装在PCB基板上。这意味着，东山精密可以同时提供CPO所需的&lt;strong&gt;光模块+高端PCB&lt;/strong&gt;，形成独特的&amp;quot;一站式&amp;quot;解决方案能力。&lt;/p&gt;
+&lt;p&gt;这些优势不是一朝一夕建立起来的。索尔思光电&lt;strong&gt;花了30余年&lt;/strong&gt;，&lt;strong&gt;投入了数十亿元研发资金&lt;/strong&gt;，才形成了今天的技术积累和客户关系。&lt;/p&gt;
+&lt;p&gt;竞争对手可以模仿它的产品，但很难复制它的&lt;strong&gt;生态&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI越聪明，数据中心算力需求越大；算力需求越大，CPO光模块越紧缺；CPO光模块越紧缺，拥有&amp;quot;光模块+PCB&amp;quot;双轮驱动的东山精密越值钱。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：CPO技术从概念走向量产，2025年成为CPO交换机元年&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：AI算力需求爆发，光模块从&amp;quot;可插拔&amp;quot;向&amp;quot;共封装&amp;quot;升级&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：东山精密59亿元收购索尔思光电，获得全球前十光模块产能+CPO核心技术，PCB业务与光模块形成协同效应&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>长飞光纤：AI时代的&#39;信息血管&#39;为什么突然值钱了？</title>
+      <link>https://dondrub3.com/jibai/2026-04-09-%E9%95%BF%E9%A3%9E%E5%85%89%E7%BA%A4/</link>
+      <pubDate>Thu, 09 Apr 2026 15:54:00 +0800</pubDate>
+      <guid>https://dondrub3.com/jibai/2026-04-09-%E9%95%BF%E9%A3%9E%E5%85%89%E7%BA%A4/</guid>
+      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
+&lt;p&gt;你刚在抖音上刷了一条&amp;quot;如何挑选猫粮&amp;quot;的视频，两分钟后打开淘宝，首页就跳出了几款热门猫粮推荐。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p&gt;
+&lt;p&gt;每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p&gt;
+&lt;p&gt;而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong&gt;光纤&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当AI大模型变得越来越聪明，这些&amp;quot;信息血管&amp;quot;的需求量也在指数级增长。问题是：生产这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p&gt;
+&lt;p&gt;这就是今天市场疯狂追捧长飞光纤的原因。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
+&lt;p&gt;2026年4月9日，A股光纤概念股集体爆发，长飞光纤涨停收盘，股价报398.31元，封单资金高达4.61亿元。&lt;/p&gt;
+&lt;p&gt;表面看，这是受美伊停火协议的刺激——全球股市集体大涨，资金风险偏好回升。按理说，中东停火利好石油、黄金，和光纤八竿子打不着。但市场偏偏选了光纤——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的风险偏好回升&amp;quot;。&lt;/p&gt;
+&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;AI算力需求正在从&amp;quot;预期&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;长飞光纤，全球光纤光缆行业连续9年市场份额第一，今日股价创阶段新高。&lt;/p&gt;
+&lt;p&gt;不是因为中东停火，而是因为空芯光纤的订单已经排到了明年。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第一个故事为什么突然重要了&#34;&gt;【第一个故事】为什么突然重要了&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;让我们回到那个刷抖音的场景。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2023年，ChatGPT横空出世，市场开始炒作&amp;quot;AI概念&amp;quot;。但当时大家心里没底——这玩意儿能赚钱吗？&lt;/p&gt;
+&lt;p&gt;2024年，英伟达GPU卖疯了，市场意识到&amp;quot;卖铲子的&amp;quot;先赚钱。光模块、光纤、数据中心，这些基础设施厂商开始受益。&lt;/p&gt;
+&lt;p&gt;2025年，故事进入第三阶段：&lt;strong&gt;AI数据中心的需求开始兑现，而且是以一种&amp;quot;非线性&amp;quot;的方式爆发。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;为什么？&lt;/p&gt;
+&lt;p&gt;因为AI训练和推理对数据传输的需求，不是简单的&amp;quot;一对一&amp;quot;。一张英伟达H100 GPU，需要配套多个高速光模块；一个大型数据中心，需要成千上万公里的光纤连接。当AI模型从&amp;quot;百亿参数&amp;quot;扩展到&amp;quot;万亿参数&amp;quot;，数据中心的算力规模呈指数级增长，光纤的需求量不是线性增加，而是&lt;strong&gt;指数级增加&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;更关键的是，&lt;strong&gt;空芯光纤的技术突破&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;传统光纤以玻璃为介质，信号传输有损耗、有时延。空芯光纤以空气为介质，损耗降低50%，时延降低30%，是未来AI数据中心互联的&amp;quot;终极方案&amp;quot;。&lt;/p&gt;
+&lt;p&gt;长飞光纤的空芯光纤已实现全球最低损耗并率先商用，三大运营商的首条空芯光纤商用线路都用的是&amp;quot;长飞造&amp;quot;。&lt;/p&gt;
+&lt;p&gt;这不是概念，是订单。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;需求爆发解释了&amp;rsquo;为什么涨&amp;rsquo;，但投资者更关心的是——这种涨，值不值得追？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;光纤行业的估值，历来是个难题。&lt;/p&gt;
+&lt;p&gt;传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——看运营商资本开支、看5G建设进度、看FTTH覆盖率。这个逻辑在4G/5G时代是对的，但在AI时代需要重新审视。&lt;/p&gt;
+&lt;p&gt;让我们看几个数字：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025年营收增长16.85%&lt;/strong&gt;，扭转了2024年的下滑趋势&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;光互联组件业务暴增48.58%&lt;/strong&gt;，子公司博创科技（现长芯博创）一季度利润同比增长3227%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;归母净利润同比+20.4%&lt;/strong&gt;，业绩拐点明确&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;海外业务占比42.3%&lt;/strong&gt;，H股募资80%投向海外，全球化布局强化增长韧性&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;光纤现货价同比暴涨418%&lt;/strong&gt;，G.654.E等高端光纤结构性紧缺持续推升盈利质量&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
+&lt;p&gt;意味着长飞光纤正在从&amp;quot;周期股&amp;quot;变成&amp;quot;成长股&amp;quot;。传统的光纤需求跟着运营商资本开支波动，但AI数据中心带来的需求是&lt;strong&gt;持续性&lt;/strong&gt;的——只要大模型还在训练、推理还在进行，光纤的需求就不会停。&lt;/p&gt;
+&lt;p&gt;市场愿意给长飞光纤更高估值的原因：它不再是一家&amp;quot;通信设备商&amp;quot;，而是&amp;quot;AI基础设施提供商&amp;quot;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;估值重构给了买入的理由，但问题是——为什么是长飞光纤，而不是其他光纤公司？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;光纤行业有很多玩家，亨通光电、中天科技、烽火通信都是实力派，为什么长飞光纤能独占鳌头？&lt;/p&gt;
+&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，技术领先。&lt;/strong&gt; 长飞光纤是全球唯一掌握PCVD、OVD、VAD三大主流预制棒制备技术，并成功实现产业化的企业。光纤预制棒单棒拉丝长度已达10000公里，处于行业全球最高水平。空芯光纤技术更是全球领先，实现最低损耗并率先商用。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，客户锁定。&lt;/strong&gt; 长飞光纤的客户覆盖全球主要电信运营商和云厂商。更重要的是，子公司长芯博创（原博创科技）控股全球AOC和MPO连接器领先企业长芯盛，客户包括微软、Meta、谷歌等全球云厂商。这种&amp;quot;光纤+光互联组件&amp;quot;的一体化解决方案，客户切换成本极高。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，规模效应。&lt;/strong&gt; 自2016年以来，长飞光纤市场份额稳居全球第一，连续9年蝉联榜首。规模带来的成本优势、供应链议价能力，是后来者难以逾越的壁垒。&lt;/p&gt;
+&lt;p&gt;这些优势不是一朝一夕建立起来的。&lt;strong&gt;长飞光纤花了近40年，累计研发投入超过50亿元，才形成了今天的技术积累和产业生态。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;竞争对手可以模仿它的产品，但很难复制它的生态。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;收尾双版本闭环&#34;&gt;【收尾】双版本闭环&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;锋利版（递进句式）：&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI越聪明，数据中心越庞大；数据中心越庞大，光纤需求越紧缺；光纤越紧缺，长飞光纤越值钱。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;标准版（框架式）：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI大模型的训练和推理需求正在爆发式增长，数据中心的算力规模持续扩张&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：算力规模越大，光纤的需求量就越大，且新一代AI数据中心对空芯光纤等高端产品的依赖度更高&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：作为全球光纤龙头，长飞光纤的空芯光纤已实现全球最低损耗并率先商用，光互联组件业务暴增48.58%，业绩进入高速增长期&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>中际旭创：当AI的&#39;血管&#39;开始供不应求</title>
+      <link>https://dondrub3.com/jibai/2026-04-08-%E4%B8%AD%E9%99%85%E6%97%AD%E5%88%9B/</link>
+      <pubDate>Wed, 08 Apr 2026 20:00:00 +0800</pubDate>
+      <guid>https://dondrub3.com/jibai/2026-04-08-%E4%B8%AD%E9%99%85%E6%97%AD%E5%88%9B/</guid>
+      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
+&lt;p&gt;想象一下这个场景：&lt;/p&gt;
+&lt;p&gt;你刚在抖音上刷了一条&amp;quot;如何挑选猫粮&amp;quot;的视频，两分钟后打开淘宝，首页就跳出了几款热门猫粮推荐。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p&gt;
+&lt;p&gt;每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p&gt;
+&lt;p&gt;而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong&gt;光模块&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当AI大模型变得越来越聪明，这些&amp;quot;血管&amp;quot;的需求量也在指数级增长。问题是：生产这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p&gt;
+&lt;p&gt;这就是今天市场疯狂追捧中际旭创的原因。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宏观事件连接&#34;&gt;【宏观事件连接】&lt;/h2&gt;
+&lt;p&gt;2025年4月8日，创业板指大涨近5%，AI概念股集体爆发。&lt;/p&gt;
+&lt;p&gt;表面看，这是受美伊停火协议的刺激——全球股市集体大涨，资金风险偏好回升。按理说，中东停火利好石油、黄金，和AI八竿子打不着。但市场偏偏选了AI——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的风险偏好回升&amp;quot;。&lt;/p&gt;
+&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;AI算力需求正在从&amp;quot;预期&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;中际旭创，这家光模块行业的绝对龙头，股价单日上涨超过11%。&lt;/p&gt;
+&lt;p&gt;不是因为它发布了什么新产品，而是因为市场突然意识到：当AI大模型的训练规模和推理需求同步爆发时，光模块——这个数据中心内部的&amp;quot;数据高速公路&amp;quot;——正在成为最紧俏的环节。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;产品介绍&#34;&gt;【产品介绍】&lt;/h2&gt;
+&lt;p&gt;中际旭创是做什么的？&lt;/p&gt;
+&lt;p&gt;简单来说，它生产&lt;strong&gt;光模块&lt;/strong&gt;——一种把电信号转换成光信号、再把光信号转回电信号的器件。没有它，数据中心里的服务器之间就无法高速通信。&lt;/p&gt;
+&lt;p&gt;更准确的说法是：&lt;strong&gt;它是AI算力基础设施的&amp;quot;血管制造商&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;AI大模型训练时，需要成千上万张GPU卡协同工作。这些GPU卡之间，每秒钟要传输TB级别的数据。传统的电缆传输太慢、发热太大，必须用光纤+光模块的方案。&lt;/p&gt;
+&lt;p&gt;而中际旭创，就是这个领域的全球老大。它的客户名单包括谷歌、亚马逊、微软、Meta——几乎所有科技巨头的数据中心里，都有它的产品。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第一个故事为什么突然重要了&#34;&gt;【第一个故事：为什么突然重要了】&lt;/h2&gt;
+&lt;p&gt;让我们回到那个AI游戏的例子。&lt;/p&gt;
+&lt;p&gt;2023年，ChatGPT爆火，市场开始炒作&amp;quot;AI概念&amp;quot;。但当时大家炒的是&amp;quot;预期&amp;quot;——觉得AI未来会很厉害，但具体怎么赚钱、谁能赚钱，没人说得清。&lt;/p&gt;
+&lt;p&gt;2024年，英伟达的财报开始爆发，市场意识到：原来卖&amp;quot;铲子&amp;quot;（算力芯片）的公司最先赚钱。&lt;/p&gt;
+&lt;p&gt;2025年，故事进入第三阶段：&lt;strong&gt;当算力芯片的出货量达到一定规模后，光模块的需求开始呈现非线性增长&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;为什么？&lt;/p&gt;
+&lt;p&gt;因为光模块和GPU的关系，不是简单的&amp;quot;一对一&amp;quot;。一张GPU卡需要多个光模块来连接其他GPU卡和网络设备。当数据中心从&amp;quot;几百张GPU&amp;quot;扩展到&amp;quot;几万张GPU&amp;quot;时，光模块的需求量不是线性增加，而是指数级增加。&lt;/p&gt;
+&lt;p&gt;更关键的是，新一代GPU（如英伟达B200）对光模块的速率要求更高——从800G升级到1.6T。这意味着，旧的光模块需要被替换，新的需求叠加在存量替换之上。&lt;/p&gt;
+&lt;p&gt;中际旭创的1.6T产品已经开始放量。这不是概念，是正在发生的订单。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事：值不值这个价】&lt;/h2&gt;
+&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
+&lt;p&gt;光模块行业的估值，历来是个难题。&lt;/p&gt;
+&lt;p&gt;传统上，市场把它当作&amp;quot;通信设备&amp;quot;来估值——增速稳定、竞争激烈、毛利率逐年下降。这个逻辑在4G时代是对的，但在AI时代需要重新审视。&lt;/p&gt;
+&lt;p&gt;让我们看几个数字：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2024年，中际旭创营收约200亿元，净利润约40亿元&lt;/li&gt;
+&lt;li&gt;2025年预期营收增长超过50%，净利润增长超过60%&lt;/li&gt;
+&lt;li&gt;1.6T产品毛利率显著高于传统产品，产品结构升级带来利润率提升&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
+&lt;p&gt;意味着中际旭创正在从&amp;quot;周期股&amp;quot;变成&amp;quot;成长股&amp;quot;。传统的光模块需求跟着电信运营商的资本开支周期波动，但AI带来的需求是结构性、持续性的——只要大模型还在变大，算力需求还在增长，光模块的需求就不会停。&lt;/p&gt;
+&lt;p&gt;市场愿意给中际旭创更高估值的原因：它不再是一家传统的通信设备公司，而是AI算力基础设施的核心供应商。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事：为什么是这一家】&lt;/h2&gt;
+&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是中际旭创，而不是其他光模块公司？&lt;/p&gt;
+&lt;p&gt;光模块行业有很多玩家，为什么中际旭创能独占鳌头？&lt;/p&gt;
+&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，技术领先。&lt;/strong&gt; 中际旭创是全球最早量产800G光模块的厂商之一，1.6T产品也率先进入客户认证和量产阶段。在高速光模块领域，技术迭代速度决定了市场份额——落后一代，就可能永远追不上。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，客户锁定。&lt;/strong&gt; 谷歌、亚马逊、微软这些云厂商，一旦认证了供应商，切换成本极高。它们更愿意和已经验证过的供应商深度合作，而不是冒险尝试新玩家。中际旭创已经和这些巨头建立了多年的合作关系，形成了强大的客户壁垒。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，规模效应。&lt;/strong&gt; 光模块是标准化程度很高的产品，规模越大、成本越低。中际旭创的全球市场份额超过30%，在采购、制造、研发上都有显著的规模优势。新进入者很难在成本上与之竞争。&lt;/p&gt;
+&lt;p&gt;这些优势不是一朝一夕建立起来的。中际旭创花了十几年时间，投入了上百亿资金，才形成了今天的技术积累和客户关系。&lt;/p&gt;
+&lt;p&gt;竞争对手可以模仿它的产品，但很难复制它的生态。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾：三句话闭环】&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI越聪明，数据传输量越大；传输量越大，光模块越紧缺；光模块越紧缺，中际旭创越值钱。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI大模型的训练和推理需求正在爆发式增长，数据中心的算力规模持续扩张。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：算力规模越大，光模块的需求量就越大，且新一代GPU对高速光模块的依赖度更高。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：作为全球光模块龙头，中际旭创的1.6T产品已经开始放量，业绩进入高速增长期。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>金刚石散热：AI算力革命的隐形支点</title>
+      <link>https://dondrub3.com/posts/2026-03-11-diamond-heat-dissipation-3p-analysis/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://dondrub3.com/posts/2026-03-11-diamond-heat-dissipation-3p-analysis/</guid>
+      <description>当算力成为新时代的石油，散热就是输送它的管道。本文从3P视角分析金刚石散热技术在AI算力革命中的战略价值。</description>
+    </item>
+  </channel>
+</rss>
