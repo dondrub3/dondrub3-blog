@@ -1,81 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>面板 on Dondrub3 | 3P实验室</title>
-    <link>https://dondrub3.com/tags/%E9%9D%A2%E6%9D%BF/</link>
-    <description>Recent content in 面板 on Dondrub3 | 3P实验室</description>
-    <generator>Hugo -- 0.146.0</generator>
-    <language>zh</language>
-    <lastBuildDate>Tue, 26 May 2026 19:00:00 +0800</lastBuildDate>
-    <atom:link href="https://dondrub3.com/tags/%E9%9D%A2%E6%9D%BF/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>京东方A：一块玻璃如何撬动AI算力的未来</title>
-      <link>https://dondrub3.com/jibai/2026-05-26-%E4%BA%AC%E4%B8%9C%E6%96%B9a/</link>
-      <pubDate>Tue, 26 May 2026 19:00:00 +0800</pubDate>
-      <guid>https://dondrub3.com/jibai/2026-05-26-%E4%BA%AC%E4%B8%9C%E6%96%B9a/</guid>
-      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
-&lt;p&gt;你刚在手机上刷完一条短视频，两分钟后打开购物App，首页就精准推送了同款商品。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p&gt;
-&lt;p&gt;每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p&gt;
-&lt;p&gt;而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong&gt;光模块&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;但你可能不知道，在这些光模块背后，还有一层更基础的材料——&lt;strong&gt;玻璃基板&lt;/strong&gt;。它就像芯片的&amp;quot;骨骼&amp;quot;，承载着数以亿计的晶体管，在高温、高频的环境下保持绝对的平整和稳定。&lt;/p&gt;
-&lt;p&gt;当AI算力需求爆发，这些&amp;quot;骨骼&amp;quot;的需求量也在指数级增长。问题是：生产这些&amp;quot;骨骼&amp;quot;的工厂，产能跟得上吗？&lt;/p&gt;
-&lt;p&gt;这就是今天市场疯狂追捧&lt;strong&gt;京东方A&lt;/strong&gt;的原因。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
-&lt;p&gt;2026年5月21日，京东方A开盘一字涨停，收盘报4.69元/股，市值超过1737亿元，涨停板上封单最高超2188万手，封单金额超百亿元。&lt;/p&gt;
-&lt;p&gt;表面看，这是受与康宁公司合作备忘录的刺激——双方将围绕玻璃基封装载板、可折叠玻璃、钙钛矿玻璃基板、光互连四大领域开展合作。按理说，康宁是显示玻璃巨头，利好的是康宁概念股，和京东方八竿子打不着。但市场偏偏选了京东方——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的AI算力产业链重构&amp;quot;。&lt;/p&gt;
-&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;AI芯片封装正在从&amp;quot;有机基板&amp;quot;向&amp;quot;玻璃基板&amp;quot;跃迁&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;京东方A，全球显示面板龙头，2025年上半年营收1012.78亿元，同比增长8.45%；归母净利润32.47亿元，同比增长42.15%。&lt;/p&gt;
-&lt;p&gt;不是因为面板涨价，而是因为市场看到了它从&amp;quot;面板厂&amp;quot;向&amp;quot;AI基础设施供应商&amp;quot;转型的可能。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第一个故事为什么突然重要&#34;&gt;【第一个故事】为什么突然重要&lt;/h2&gt;
-&lt;p&gt;让我们回到那个刷短视频的场景。&lt;/p&gt;
-&lt;p&gt;2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家关注的是&amp;quot;谁做大模型&amp;quot;——OpenAI、谷歌、百度。&lt;/p&gt;
-&lt;p&gt;2024年，市场意识到&amp;quot;卖铲子的更赚钱&amp;quot;——英伟达、AMD、台积电。光模块、铜连接、HBM存储成为新宠。&lt;/p&gt;
-&lt;p&gt;2025年，故事进入第三阶段：&lt;strong&gt;AI算力需求正在从&amp;quot;预期&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;为什么？&lt;/p&gt;
-&lt;p&gt;因为AI芯片的封装面积和复杂度，不是简单的&amp;quot;一对一&amp;quot;线性增长。一颗H100 GPU需要搭配数十个高速光模块，而新一代B200、Rubin架构的芯片，封装面积更大、功耗更高、信号传输要求更苛刻。当AI训练从&amp;quot;小规模实验&amp;quot;扩展到&amp;quot;万卡集群&amp;quot;时，芯片封装的需求量不是线性增加，而是指数级增加。&lt;/p&gt;
-&lt;p&gt;更关键的是，&lt;strong&gt;玻璃基板正在取代有机基板&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;传统有机基板在高温下容易翘曲变形，高频信号传输损耗大。而玻璃材料热膨胀系数低、表面平整度高、介电损耗远低于有机材料——高温下翘曲量较有机基板减少70%以上，彻底解决了AI芯片封装的核心机械失效难题。&lt;/p&gt;
-&lt;p&gt;京东方的玻璃基封装载板试验线已于2024年投资9.93亿元建设，目前已给部分国内客户送样，部分客户已通过概念认证，进入技术测试阶段。&lt;/p&gt;
-&lt;p&gt;这不是概念，是&lt;strong&gt;已经发生的产线投资&lt;/strong&gt;。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
-&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
-&lt;p&gt;显示面板行业的估值，历来是个难题。&lt;/p&gt;
-&lt;p&gt;传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——面板价格跟着供需周期波动， boom-bust循环往复。这个逻辑在功能机时代是对的，但在AI时代需要重新审视。&lt;/p&gt;
-&lt;p&gt;让我们看几个数字：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2025年上半年营收&lt;/strong&gt;：1012.78亿元，同比增长8.45%&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2025年上半年归母净利润&lt;/strong&gt;：32.47亿元，同比增长42.15%&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2025年柔性AMOLED出货量&lt;/strong&gt;：超1.5亿片，同比增长约8%&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;股东户数&lt;/strong&gt;：100.01万户，筹码高度分散，散户主导特征鲜明&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
-&lt;p&gt;意味着京东方正在从&amp;quot;面板制造商&amp;quot;变成&amp;quot;先进材料平台&amp;quot;。传统的面板需求跟着消费电子周期波动，但AI算力带来的需求是&lt;strong&gt;刚性且持续增长&lt;/strong&gt;的——只要大模型还在训练，只要算力还在扩张，玻璃基板的需求就不会停。&lt;/p&gt;
-&lt;p&gt;市场愿意给京东方更高估值的原因：它不再是一家&amp;quot;周期股&amp;quot;，而是&lt;strong&gt;AI基础设施的核心材料供应商&lt;/strong&gt;。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
-&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是京东方，而不是其他面板公司？&lt;/p&gt;
-&lt;p&gt;全球面板行业有很多玩家，为什么京东方能独占鳌头？&lt;/p&gt;
-&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第一，技术积累深厚。&lt;/strong&gt; 京东方在显示器件、显示模组、先进制造、工艺开发等方面具备领先能力。玻璃基封装载板与显示面板在制造工艺上有共通之处——TFT阵列、光刻、蚀刻等技术可以迁移。公司已投资9.93亿元建设试验线，并持续推进技术开发。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二，客户认证壁垒。&lt;/strong&gt; 半导体封装材料的客户认证周期极长，通常需要2-3年。京东方已与部分国内客户送样，部分客户通过概念认证。这种&amp;quot;先入优势&amp;quot;一旦建立，后来者很难追赶。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三，生态协同效应。&lt;/strong&gt; 京东方体系内拥有华灿光电（MicroLED芯片）等子公司，与康宁的合作构成一条完整的&amp;quot;玻璃基板+MicroLED光芯片+光连接&amp;quot;供应链。这不是单一产品竞争，而是&lt;strong&gt;生态系统竞争&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;这些优势不是一朝一夕建立起来的。京东方花了&lt;strong&gt;20多年&lt;/strong&gt;，投入了&lt;strong&gt;数千亿元&lt;/strong&gt;，才形成了今天的技术积累和产能规模。&lt;/p&gt;
-&lt;p&gt;竞争对手可以模仿它的产品线，但很难复制它的&lt;strong&gt;产业生态&lt;/strong&gt;。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;AI越聪明，算力需求越大；算力需求越大，玻璃基板越紧缺；玻璃基板越紧缺，京东方越值钱。&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI大模型的训练和推理需求正在爆发式增长，芯片封装从有机基板向玻璃基板跃迁。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：算力规模越大，玻璃基板的需求量就越大，且新一代GPU对玻璃基封装载板的依赖度更高。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：作为全球显示面板龙头，京东方已与康宁签署合作协议，玻璃基封装载板试验线已投产送样，有望切入AI算力产业链。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>面板 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/tags/%E9%9D%A2%E6%9D%BF/</link><description>Recent content in 面板 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Tue, 26 May 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/tags/%E9%9D%A2%E6%9D%BF/index.xml" rel="self" type="application/rss+xml"/><item><title>京东方A：一块玻璃如何撬动AI算力的未来</title><link>https://dondrub3.com/jibai/2026-05-26-%E4%BA%AC%E4%B8%9C%E6%96%B9a/</link><pubDate>Tue, 26 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-26-%E4%BA%AC%E4%B8%9C%E6%96%B9a/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在手机上刷完一条短视频，两分钟后打开购物App，首页就精准推送了同款商品。你以为是巧合，其实背后是大模型在实时分析你的每一次点击、每一次停留。&lt;/p>
+&lt;p>每一次滑动屏幕，都有成千上万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p>
+&lt;p>而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong>光模块&lt;/strong>。&lt;/p>
+&lt;p>但你可能不知道，在这些光模块背后，还有一层更基础的材料——&lt;strong>玻璃基板&lt;/strong>。它就像芯片的&amp;quot;骨骼&amp;quot;，承载着数以亿计的晶体管，在高温、高频的环境下保持绝对的平整和稳定。&lt;/p>
+&lt;p>当AI算力需求爆发，这些&amp;quot;骨骼&amp;quot;的需求量也在指数级增长。问题是：生产这些&amp;quot;骨骼&amp;quot;的工厂，产能跟得上吗？&lt;/p>
+&lt;p>这就是今天市场疯狂追捧&lt;strong>京东方A&lt;/strong>的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年5月21日，京东方A开盘一字涨停，收盘报4.69元/股，市值超过1737亿元，涨停板上封单最高超2188万手，封单金额超百亿元。&lt;/p>
+&lt;p>表面看，这是受与康宁公司合作备忘录的刺激——双方将围绕玻璃基封装载板、可折叠玻璃、钙钛矿玻璃基板、光互连四大领域开展合作。按理说，康宁是显示玻璃巨头，利好的是康宁概念股，和京东方八竿子打不着。但市场偏偏选了京东方——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的AI算力产业链重构&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI芯片封装正在从&amp;quot;有机基板&amp;quot;向&amp;quot;玻璃基板&amp;quot;跃迁&lt;/strong>。&lt;/p>
+&lt;p>京东方A，全球显示面板龙头，2025年上半年营收1012.78亿元，同比增长8.45%；归母净利润32.47亿元，同比增长42.15%。&lt;/p>
+&lt;p>不是因为面板涨价，而是因为市场看到了它从&amp;quot;面板厂&amp;quot;向&amp;quot;AI基础设施供应商&amp;quot;转型的可能。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
+&lt;p>让我们回到那个刷短视频的场景。&lt;/p>
+&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家关注的是&amp;quot;谁做大模型&amp;quot;——OpenAI、谷歌、百度。&lt;/p>
+&lt;p>2024年，市场意识到&amp;quot;卖铲子的更赚钱&amp;quot;——英伟达、AMD、台积电。光模块、铜连接、HBM存储成为新宠。&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>AI算力需求正在从&amp;quot;预期&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为AI芯片的封装面积和复杂度，不是简单的&amp;quot;一对一&amp;quot;线性增长。一颗H100 GPU需要搭配数十个高速光模块，而新一代B200、Rubin架构的芯片，封装面积更大、功耗更高、信号传输要求更苛刻。当AI训练从&amp;quot;小规模实验&amp;quot;扩展到&amp;quot;万卡集群&amp;quot;时，芯片封装的需求量不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>更关键的是，&lt;strong>玻璃基板正在取代有机基板&lt;/strong>。&lt;/p>
+&lt;p>传统有机基板在高温下容易翘曲变形，高频信号传输损耗大。而玻璃材料热膨胀系数低、表面平整度高、介电损耗远低于有机材料——高温下翘曲量较有机基板减少70%以上，彻底解决了AI芯片封装的核心机械失效难题。&lt;/p>
+&lt;p>京东方的玻璃基封装载板试验线已于2024年投资9.93亿元建设，目前已给部分国内客户送样，部分客户已通过概念认证，进入技术测试阶段。&lt;/p>
+&lt;p>这不是概念，是&lt;strong>已经发生的产线投资&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>显示面板行业的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——面板价格跟着供需周期波动， boom-bust循环往复。这个逻辑在功能机时代是对的，但在AI时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>2025年上半年营收&lt;/strong>：1012.78亿元，同比增长8.45%&lt;/li>
+&lt;li>&lt;strong>2025年上半年归母净利润&lt;/strong>：32.47亿元，同比增长42.15%&lt;/li>
+&lt;li>&lt;strong>2025年柔性AMOLED出货量&lt;/strong>：超1.5亿片，同比增长约8%&lt;/li>
+&lt;li>&lt;strong>股东户数&lt;/strong>：100.01万户，筹码高度分散，散户主导特征鲜明&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着京东方正在从&amp;quot;面板制造商&amp;quot;变成&amp;quot;先进材料平台&amp;quot;。传统的面板需求跟着消费电子周期波动，但AI算力带来的需求是&lt;strong>刚性且持续增长&lt;/strong>的——只要大模型还在训练，只要算力还在扩张，玻璃基板的需求就不会停。&lt;/p>
+&lt;p>市场愿意给京东方更高估值的原因：它不再是一家&amp;quot;周期股&amp;quot;，而是&lt;strong>AI基础设施的核心材料供应商&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是京东方，而不是其他面板公司？&lt;/p>
+&lt;p>全球面板行业有很多玩家，为什么京东方能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，技术积累深厚。&lt;/strong> 京东方在显示器件、显示模组、先进制造、工艺开发等方面具备领先能力。玻璃基封装载板与显示面板在制造工艺上有共通之处——TFT阵列、光刻、蚀刻等技术可以迁移。公司已投资9.93亿元建设试验线，并持续推进技术开发。&lt;/p>
+&lt;p>&lt;strong>第二，客户认证壁垒。&lt;/strong> 半导体封装材料的客户认证周期极长，通常需要2-3年。京东方已与部分国内客户送样，部分客户通过概念认证。这种&amp;quot;先入优势&amp;quot;一旦建立，后来者很难追赶。&lt;/p>
+&lt;p>&lt;strong>第三，生态协同效应。&lt;/strong> 京东方体系内拥有华灿光电（MicroLED芯片）等子公司，与康宁的合作构成一条完整的&amp;quot;玻璃基板+MicroLED光芯片+光连接&amp;quot;供应链。这不是单一产品竞争，而是&lt;strong>生态系统竞争&lt;/strong>。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。京东方花了&lt;strong>20多年&lt;/strong>，投入了&lt;strong>数千亿元&lt;/strong>，才形成了今天的技术积累和产能规模。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品线，但很难复制它的&lt;strong>产业生态&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越聪明，算力需求越大；算力需求越大，玻璃基板越紧缺；玻璃基板越紧缺，京东方越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求正在爆发式增长，芯片封装从有机基板向玻璃基板跃迁。&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：算力规模越大，玻璃基板的需求量就越大，且新一代GPU对玻璃基封装载板的依赖度更高。&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：作为全球显示面板龙头，京东方已与康宁签署合作协议，玻璃基封装载板试验线已投产送样，有望切入AI算力产业链。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item></channel></rss>

@@ -1,144 +1,119 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>存储芯片 on Dondrub3 | 3P实验室</title>
-    <link>https://dondrub3.com/tags/%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87/</link>
-    <description>Recent content in 存储芯片 on Dondrub3 | 3P实验室</description>
-    <generator>Hugo -- 0.146.0</generator>
-    <language>zh</language>
-    <lastBuildDate>Mon, 25 May 2026 19:00:00 +0800</lastBuildDate>
-    <atom:link href="https://dondrub3.com/tags/%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>江波龙：从华强北柜台到AI存储龙头的逆袭</title>
-      <link>https://dondrub3.com/jibai/2026-05-25-%E6%B1%9F%E6%B3%A2%E9%BE%99/</link>
-      <pubDate>Mon, 25 May 2026 19:00:00 +0800</pubDate>
-      <guid>https://dondrub3.com/jibai/2026-05-25-%E6%B1%9F%E6%B3%A2%E9%BE%99/</guid>
-      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
-&lt;p&gt;你刚在手机上拍了一段4K视频，点击保存后，两秒后就出现在了相册里。你以为是手机反应快，其实背后是&lt;strong&gt;存储芯片&lt;/strong&gt;在以每秒数千兆字节的速度写入数据。&lt;/p&gt;
-&lt;p&gt;每一次拍照、每一次下载APP、每一次游戏存档，都有数十亿个存储单元在同时工作。这些存储单元之间，需要被精准地寻址、读写、管理——就像一座超级图书馆，需要在毫秒级时间内找到并调取任何一本书。&lt;/p&gt;
-&lt;p&gt;而负责管理这些&amp;quot;数字图书馆&amp;quot;的&lt;strong&gt;存储模组&lt;/strong&gt;，叫做&lt;strong&gt;企业级SSD&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;当AI大模型开始吞噬海量数据，当每一台AI服务器需要配置14-16TB的企业级SSD，这些&amp;quot;数字图书馆&amp;quot;的需求量正在呈指数级增长。问题是：生产这些&amp;quot;图书馆&amp;quot;的中国工厂，产能跟得上吗？&lt;/p&gt;
-&lt;p&gt;这就是今天市场疯狂追捧&lt;strong&gt;江波龙&lt;/strong&gt;的原因。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
-&lt;p&gt;2026年5月，A股存储芯片板块持续走强，江波龙股价创下上市以来新高。&lt;/p&gt;
-&lt;p&gt;表面看，这是受英伟达财报超预期的刺激——全球AI算力需求持续爆发，存储产业链集体受益。按理说，英伟达利好的是光模块、算力芯片，和存储模组八竿子打不着。但市场偏偏选了存储——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的AI算力基础设施需求&amp;quot;。&lt;/p&gt;
-&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;AI服务器存储需求正在从&amp;quot;配角&amp;quot;走向&amp;quot;刚需&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;江波龙，中国存储模组龙头，2026年一季度净利润同比增长近20倍，企业级SSD手握130亿元订单排期至2027年二季度。&lt;/p&gt;
-&lt;p&gt;不是因为消费复苏，而是因为AI算力革命带来的存储需求井喷。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第一个故事为什么突然重要了&#34;&gt;【第一个故事】为什么突然重要了&lt;/h2&gt;
-&lt;p&gt;让我们回到那个拍视频的场景。&lt;/p&gt;
-&lt;p&gt;2023年，ChatGPT横空出世，市场开始炒作&amp;quot;AI概念&amp;quot;。但当时大家只关注GPU、光模块，存储只是配角。&lt;/p&gt;
-&lt;p&gt;2024年，大模型训练需求爆发，市场意识到HBM（高带宽内存）的重要性。但企业级SSD仍被忽视。&lt;/p&gt;
-&lt;p&gt;2025年，故事进入第三阶段：&lt;strong&gt;AI推理需求爆发，企业级存储成为瓶颈&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;为什么？&lt;/p&gt;
-&lt;p&gt;因为AI训练与AI推理对存储的需求，不是简单的&amp;quot;一对一&amp;quot;。一台AI训练服务器需要8卡HBM、14-16TB企业级SSD、10-12张DRAM内存条。当应用场景从&amp;quot;训练&amp;quot;扩展到&amp;quot;推理+边缘计算&amp;quot;时，存储的需求量不是线性增加，而是指数级增加。&lt;/p&gt;
-&lt;p&gt;更关键的是，&lt;strong&gt;2026年HBM月产能将扩至47.6万片，但DDR5月缺口仍达20万片&lt;/strong&gt;。海外存储大厂产能都去搞利润更高的HBM，普通存储产能严重不足。&lt;/p&gt;
-&lt;p&gt;江波龙的企业级SSD已经开始批量供货阿里云、腾讯云、浪潮等头部厂商。这不是概念，是&lt;strong&gt;130亿元订单&lt;/strong&gt;。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
-&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
-&lt;p&gt;存储行业的估值，历来是个难题。&lt;/p&gt;
-&lt;p&gt;传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——存储价格跟着供需周期波动，赚钱靠天吃饭。这个逻辑在2019-2023年是对的，但在AI时代需要重新审视。&lt;/p&gt;
-&lt;p&gt;让我们看几个数字：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2025年营收&lt;/strong&gt;：预计同比增长超50%&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2026年Q1净利润&lt;/strong&gt;：同比增长近20倍&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;企业级SSD订单&lt;/strong&gt;：130亿元，排期至2027年Q2&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI端侧存储收入&lt;/strong&gt;：2026年Q1同比+496.45%&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
-&lt;p&gt;意味着江波龙正在从&amp;quot;存储模组商&amp;quot;变成&amp;quot;AI基础设施提供商&amp;quot;。传统的存储需求跟着消费电子周期波动，但AI带来的需求是&lt;strong&gt;刚性且持续&lt;/strong&gt;的——只要AI算力还在扩张，存储需求就不会停。&lt;/p&gt;
-&lt;p&gt;市场愿意给江波龙更高估值的原因：它不再是一家&amp;quot;周期股&amp;quot;，而是&amp;quot;AI时代的卖铲人&amp;quot;。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
-&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是江波龙，而不是其他存储公司？&lt;/p&gt;
-&lt;p&gt;存储模组行业有很多玩家，为什么江波龙能独占鳌头？&lt;/p&gt;
-&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第一，全场景覆盖。&lt;/strong&gt; 江波龙是国内唯一同时布局消费级、企业级、车规级、工业级存储的厂商。嵌入式存储占43.68%、固态硬盘占27.68%、移动存储占22.99%——这种多元化布局平滑了周期波动。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二，品牌壁垒。&lt;/strong&gt; 2017年收购全球消费级存储品牌Lexar（雷克沙），2023年收购巴西头部存储厂商Zilia。Lexar品牌2023年B2C收入在全球独立存储器品牌中排名第二。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三，车规级先发优势。&lt;/strong&gt; 国内唯一同时打入国际大厂车规级存储供应链的企业，车规级业务受消费周期波动影响小，盈利稳定性显著高于同行。&lt;/p&gt;
-&lt;p&gt;这些优势不是一朝一夕建立起来的。创始人蔡华波1999年从华强北柜台起步，&lt;strong&gt;花了26年&lt;/strong&gt;，才将江波龙打造成全球第二大独立存储器厂商。&lt;/p&gt;
-&lt;p&gt;竞争对手可以模仿它的产品，但很难复制它的&lt;strong&gt;品牌积累+全球渠道+车规级认证&lt;/strong&gt;。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;AI越聪明，数据存储需求越大；存储需求越大，企业级SSD越紧缺；企业级SSD越紧缺，江波龙越值钱。&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI大模型的训练和推理需求正在爆发式增长，数据中心的算力规模持续扩张&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：海外存储大厂产能向HBM倾斜，普通存储产能严重不足，企业级SSD成为瓶颈&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：作为全球存储模组龙头，江波龙企业级SSD手握130亿元订单，业绩进入高速增长期&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>兆易创新：每一台智能设备的记忆库</title>
-      <link>https://dondrub3.com/jibai/2026-05-22-%E5%85%86%E6%98%93%E5%88%9B%E6%96%B0/</link>
-      <pubDate>Fri, 22 May 2026 19:00:00 +0800</pubDate>
-      <guid>https://dondrub3.com/jibai/2026-05-22-%E5%85%86%E6%98%93%E5%88%9B%E6%96%B0/</guid>
-      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
-&lt;p&gt;你刚用手机拍了一张照片，下一秒打开微信准备发给朋友，相册里那张照片已经出现在最近图片的第一位。你以为是巧合，其实背后是存储芯片在毫秒级完成数据写入和读取。&lt;/p&gt;
-&lt;p&gt;每一次解锁手机、每一次打开APP、每一次语音助手回应你的呼唤，都有数十亿个晶体管在同时工作。这些晶体管需要被&amp;quot;记住&amp;quot;——它们的状态、它们的数据、它们的连接关系——就像人脑需要记忆来思考一样。&lt;/p&gt;
-&lt;p&gt;而存储这些数据的&amp;quot;记忆库&amp;quot;，叫做&lt;strong&gt;存储芯片&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;当AI手机、智能汽车、物联网设备爆发式增长，这些&amp;quot;记忆库&amp;quot;的需求量也在指数级攀升。问题是：生产这些&amp;quot;记忆库&amp;quot;的工厂，产能跟得上吗？&lt;/p&gt;
-&lt;p&gt;这就是今天市场疯狂追捧兆易创新的原因。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
-&lt;p&gt;2025年5月22日，半导体板块集体拉升，兆易创新股价创历史新高。&lt;/p&gt;
-&lt;p&gt;表面看，这是受中美贸易谈判缓和的刺激——全球科技股风险偏好回升，资金涌入成长板块。按理说，贸易缓和利好出口导向的消费电子、利好跨境电商，和半导体八竿子打不着。但市场偏偏选了半导体——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的国产替代加速预期&amp;quot;。&lt;/p&gt;
-&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;存储芯片的国产替代正在从&amp;quot;概念&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;兆易创新，国内存储芯片设计龙头，2025年以来股价涨幅超过80%，市值突破2800亿。&lt;/p&gt;
-&lt;p&gt;不是因为贸易摩擦的情绪炒作，而是因为它的NOR Flash和MCU产品正在AI终端和汽车电子领域实现放量。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第一个故事为什么突然重要&#34;&gt;【第一个故事】为什么突然重要&lt;/h2&gt;
-&lt;p&gt;让我们回到那个手机拍照的场景。&lt;/p&gt;
-&lt;p&gt;2023年，ChatGPT引爆AI浪潮，市场开始炒作算力概念。但当时大家只关注GPU、光模块，存储芯片被忽视——毕竟，&amp;ldquo;内存&amp;quot;听起来不如&amp;quot;算力&amp;quot;性感。&lt;/p&gt;
-&lt;p&gt;2024年，市场意识到一个关键问题：AI不只是云端的事，端侧AI（手机、PC、IoT设备）才是更大的战场。而端侧AI对存储的需求，比传统设备高出数倍——一部AI手机需要的存储容量是普通手机的2-3倍。&lt;/p&gt;
-&lt;p&gt;2025年，故事进入第三阶段：&lt;strong&gt;存储芯片从&amp;quot;配角&amp;quot;变成&amp;quot;刚需&amp;rdquo;&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;为什么？&lt;/p&gt;
-&lt;p&gt;因为AI模型和存储芯片的关系，不是简单的&amp;quot;一对一&amp;quot;。一个大模型参数文件动辄几十GB，运行时需要频繁读取和写入中间结果。当AI应用从&amp;quot;云端推理&amp;quot;扩展到&amp;quot;端侧运行&amp;quot;时，存储芯片的需求量不是线性增加，而是指数级增加。&lt;/p&gt;
-&lt;p&gt;更关键的是，存储芯片正在经历一轮技术迭代——从NOR Flash向利基型DRAM延伸，从消费级向车规级升级。这意味着，旧的产品格局正在被打破，新的龙头正在崛起。&lt;/p&gt;
-&lt;p&gt;兆易创新的车规级NOR Flash已经开始向头部车企批量供货。这不是概念，是订单。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
-&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
-&lt;p&gt;存储芯片的估值，历来是个难题。&lt;/p&gt;
-&lt;p&gt;传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——看存储价格周期、看产能利用率、看库存水位。这个逻辑在PC时代是对的，但在AI时代需要重新审视。&lt;/p&gt;
-&lt;p&gt;让我们看几个数字：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2025年上半年，兆易创新营收同比增长35%，净利润同比增长超过200%&lt;/li&gt;
-&lt;li&gt;NOR Flash全球市场份额18.5%，跃升至全球第二、内地第一&lt;/li&gt;
-&lt;li&gt;车规级MCU出货量同比增长超过150%，打入多家头部车企供应链&lt;/li&gt;
-&lt;li&gt;利基型DRAM业务增速超过80%，成为新的增长引擎&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
-&lt;p&gt;意味着兆易创新正在从&amp;quot;周期股&amp;quot;变成&amp;quot;成长股&amp;quot;。传统的存储需求跟着PC和手机销量波动，但AI终端和汽车电子带来的需求是结构性、持续性的——只要AI化趋势还在，存储升级就不会停。&lt;/p&gt;
-&lt;p&gt;市场愿意给兆易创新更高估值的原因：它不再是一家&amp;quot;存储芯片设计公司&amp;quot;，而是&amp;quot;智能设备的记忆基础设施提供商&amp;quot;。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
-&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是兆易创新，而不是其他半导体公司？&lt;/p&gt;
-&lt;p&gt;存储芯片领域有很多玩家，为什么兆易创新能独占鳌头？&lt;/p&gt;
-&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第一，技术领先。&lt;/strong&gt; 兆易创新是全球率先实现45nm节点SPI NOR Flash大规模量产的公司之一，在38nm SLC NAND和利基型DRAM领域也保持代际领先。技术代差意味着更高的毛利率和更强的定价权。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二，客户锁定。&lt;/strong&gt; 车规级芯片的认证周期长达2-3年，一旦进入车企供应链，切换成本极高。兆易创新已经与多家头部车企建立稳定合作关系，形成了强大的客户粘性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三，生态协同。&lt;/strong&gt; &amp;ldquo;存储+MCU&amp;quot;双轮驱动战略让公司能够为AIoT和汽车电子提供一站式解决方案。客户买的不是单一产品，而是完整的芯片组合。&lt;/p&gt;
-&lt;p&gt;这些优势不是一朝一夕建立起来的。兆易创新花了20年，投入了数百亿研发资金，才形成了今天的技术积累和客户网络。&lt;/p&gt;
-&lt;p&gt;竞争对手可以模仿它的某一款产品，但很难复制它的生态位。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;AI越普及，端侧设备越智能；端侧设备越智能，存储需求越旺盛；存储需求越旺盛，兆易创新越值钱。&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI终端和汽车电子的存储需求正在爆发式增长，存储芯片从周期品变成必需品。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：端侧AI渗透率越高，对高容量、高性能存储芯片的需求就越大，车规级产品的认证壁垒保证了龙头地位的持续性。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：作为全球NOR Flash第二、国产MCU龙头，兆易创新在AIoT和汽车电子双赛道同时受益，业绩进入高速增长期。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>存储芯片 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/tags/%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87/</link><description>Recent content in 存储芯片 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Mon, 25 May 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/tags/%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87/index.xml" rel="self" type="application/rss+xml"/><item><title>江波龙：从华强北柜台到AI存储龙头的逆袭</title><link>https://dondrub3.com/jibai/2026-05-25-%E6%B1%9F%E6%B3%A2%E9%BE%99/</link><pubDate>Mon, 25 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-25-%E6%B1%9F%E6%B3%A2%E9%BE%99/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在手机上拍了一段4K视频，点击保存后，两秒后就出现在了相册里。你以为是手机反应快，其实背后是&lt;strong>存储芯片&lt;/strong>在以每秒数千兆字节的速度写入数据。&lt;/p>
+&lt;p>每一次拍照、每一次下载APP、每一次游戏存档，都有数十亿个存储单元在同时工作。这些存储单元之间，需要被精准地寻址、读写、管理——就像一座超级图书馆，需要在毫秒级时间内找到并调取任何一本书。&lt;/p>
+&lt;p>而负责管理这些&amp;quot;数字图书馆&amp;quot;的&lt;strong>存储模组&lt;/strong>，叫做&lt;strong>企业级SSD&lt;/strong>。&lt;/p>
+&lt;p>当AI大模型开始吞噬海量数据，当每一台AI服务器需要配置14-16TB的企业级SSD，这些&amp;quot;数字图书馆&amp;quot;的需求量正在呈指数级增长。问题是：生产这些&amp;quot;图书馆&amp;quot;的中国工厂，产能跟得上吗？&lt;/p>
+&lt;p>这就是今天市场疯狂追捧&lt;strong>江波龙&lt;/strong>的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年5月，A股存储芯片板块持续走强，江波龙股价创下上市以来新高。&lt;/p>
+&lt;p>表面看，这是受英伟达财报超预期的刺激——全球AI算力需求持续爆发，存储产业链集体受益。按理说，英伟达利好的是光模块、算力芯片，和存储模组八竿子打不着。但市场偏偏选了存储——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的AI算力基础设施需求&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI服务器存储需求正在从&amp;quot;配角&amp;quot;走向&amp;quot;刚需&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>江波龙，中国存储模组龙头，2026年一季度净利润同比增长近20倍，企业级SSD手握130亿元订单排期至2027年二季度。&lt;/p>
+&lt;p>不是因为消费复苏，而是因为AI算力革命带来的存储需求井喷。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要了">【第一个故事】为什么突然重要了&lt;/h2>
+&lt;p>让我们回到那个拍视频的场景。&lt;/p>
+&lt;p>2023年，ChatGPT横空出世，市场开始炒作&amp;quot;AI概念&amp;quot;。但当时大家只关注GPU、光模块，存储只是配角。&lt;/p>
+&lt;p>2024年，大模型训练需求爆发，市场意识到HBM（高带宽内存）的重要性。但企业级SSD仍被忽视。&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>AI推理需求爆发，企业级存储成为瓶颈&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为AI训练与AI推理对存储的需求，不是简单的&amp;quot;一对一&amp;quot;。一台AI训练服务器需要8卡HBM、14-16TB企业级SSD、10-12张DRAM内存条。当应用场景从&amp;quot;训练&amp;quot;扩展到&amp;quot;推理+边缘计算&amp;quot;时，存储的需求量不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>更关键的是，&lt;strong>2026年HBM月产能将扩至47.6万片，但DDR5月缺口仍达20万片&lt;/strong>。海外存储大厂产能都去搞利润更高的HBM，普通存储产能严重不足。&lt;/p>
+&lt;p>江波龙的企业级SSD已经开始批量供货阿里云、腾讯云、浪潮等头部厂商。这不是概念，是&lt;strong>130亿元订单&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>存储行业的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——存储价格跟着供需周期波动，赚钱靠天吃饭。这个逻辑在2019-2023年是对的，但在AI时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>2025年营收&lt;/strong>：预计同比增长超50%&lt;/li>
+&lt;li>&lt;strong>2026年Q1净利润&lt;/strong>：同比增长近20倍&lt;/li>
+&lt;li>&lt;strong>企业级SSD订单&lt;/strong>：130亿元，排期至2027年Q2&lt;/li>
+&lt;li>&lt;strong>AI端侧存储收入&lt;/strong>：2026年Q1同比+496.45%&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着江波龙正在从&amp;quot;存储模组商&amp;quot;变成&amp;quot;AI基础设施提供商&amp;quot;。传统的存储需求跟着消费电子周期波动，但AI带来的需求是&lt;strong>刚性且持续&lt;/strong>的——只要AI算力还在扩张，存储需求就不会停。&lt;/p>
+&lt;p>市场愿意给江波龙更高估值的原因：它不再是一家&amp;quot;周期股&amp;quot;，而是&amp;quot;AI时代的卖铲人&amp;quot;。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是江波龙，而不是其他存储公司？&lt;/p>
+&lt;p>存储模组行业有很多玩家，为什么江波龙能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，全场景覆盖。&lt;/strong> 江波龙是国内唯一同时布局消费级、企业级、车规级、工业级存储的厂商。嵌入式存储占43.68%、固态硬盘占27.68%、移动存储占22.99%——这种多元化布局平滑了周期波动。&lt;/p>
+&lt;p>&lt;strong>第二，品牌壁垒。&lt;/strong> 2017年收购全球消费级存储品牌Lexar（雷克沙），2023年收购巴西头部存储厂商Zilia。Lexar品牌2023年B2C收入在全球独立存储器品牌中排名第二。&lt;/p>
+&lt;p>&lt;strong>第三，车规级先发优势。&lt;/strong> 国内唯一同时打入国际大厂车规级存储供应链的企业，车规级业务受消费周期波动影响小，盈利稳定性显著高于同行。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。创始人蔡华波1999年从华强北柜台起步，&lt;strong>花了26年&lt;/strong>，才将江波龙打造成全球第二大独立存储器厂商。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品，但很难复制它的&lt;strong>品牌积累+全球渠道+车规级认证&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越聪明，数据存储需求越大；存储需求越大，企业级SSD越紧缺；企业级SSD越紧缺，江波龙越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求正在爆发式增长，数据中心的算力规模持续扩张&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：海外存储大厂产能向HBM倾斜，普通存储产能严重不足，企业级SSD成为瓶颈&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：作为全球存储模组龙头，江波龙企业级SSD手握130亿元订单，业绩进入高速增长期&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>兆易创新：每一台智能设备的记忆库</title><link>https://dondrub3.com/jibai/2026-05-22-%E5%85%86%E6%98%93%E5%88%9B%E6%96%B0/</link><pubDate>Fri, 22 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-22-%E5%85%86%E6%98%93%E5%88%9B%E6%96%B0/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚用手机拍了一张照片，下一秒打开微信准备发给朋友，相册里那张照片已经出现在最近图片的第一位。你以为是巧合，其实背后是存储芯片在毫秒级完成数据写入和读取。&lt;/p>
+&lt;p>每一次解锁手机、每一次打开APP、每一次语音助手回应你的呼唤，都有数十亿个晶体管在同时工作。这些晶体管需要被&amp;quot;记住&amp;quot;——它们的状态、它们的数据、它们的连接关系——就像人脑需要记忆来思考一样。&lt;/p>
+&lt;p>而存储这些数据的&amp;quot;记忆库&amp;quot;，叫做&lt;strong>存储芯片&lt;/strong>。&lt;/p>
+&lt;p>当AI手机、智能汽车、物联网设备爆发式增长，这些&amp;quot;记忆库&amp;quot;的需求量也在指数级攀升。问题是：生产这些&amp;quot;记忆库&amp;quot;的工厂，产能跟得上吗？&lt;/p>
+&lt;p>这就是今天市场疯狂追捧兆易创新的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2025年5月22日，半导体板块集体拉升，兆易创新股价创历史新高。&lt;/p>
+&lt;p>表面看，这是受中美贸易谈判缓和的刺激——全球科技股风险偏好回升，资金涌入成长板块。按理说，贸易缓和利好出口导向的消费电子、利好跨境电商，和半导体八竿子打不着。但市场偏偏选了半导体——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的国产替代加速预期&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>存储芯片的国产替代正在从&amp;quot;概念&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>兆易创新，国内存储芯片设计龙头，2025年以来股价涨幅超过80%，市值突破2800亿。&lt;/p>
+&lt;p>不是因为贸易摩擦的情绪炒作，而是因为它的NOR Flash和MCU产品正在AI终端和汽车电子领域实现放量。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
+&lt;p>让我们回到那个手机拍照的场景。&lt;/p>
+&lt;p>2023年，ChatGPT引爆AI浪潮，市场开始炒作算力概念。但当时大家只关注GPU、光模块，存储芯片被忽视——毕竟，&amp;ldquo;内存&amp;quot;听起来不如&amp;quot;算力&amp;quot;性感。&lt;/p>
+&lt;p>2024年，市场意识到一个关键问题：AI不只是云端的事，端侧AI（手机、PC、IoT设备）才是更大的战场。而端侧AI对存储的需求，比传统设备高出数倍——一部AI手机需要的存储容量是普通手机的2-3倍。&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>存储芯片从&amp;quot;配角&amp;quot;变成&amp;quot;刚需&amp;rdquo;&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为AI模型和存储芯片的关系，不是简单的&amp;quot;一对一&amp;quot;。一个大模型参数文件动辄几十GB，运行时需要频繁读取和写入中间结果。当AI应用从&amp;quot;云端推理&amp;quot;扩展到&amp;quot;端侧运行&amp;quot;时，存储芯片的需求量不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>更关键的是，存储芯片正在经历一轮技术迭代——从NOR Flash向利基型DRAM延伸，从消费级向车规级升级。这意味着，旧的产品格局正在被打破，新的龙头正在崛起。&lt;/p>
+&lt;p>兆易创新的车规级NOR Flash已经开始向头部车企批量供货。这不是概念，是订单。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>存储芯片的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——看存储价格周期、看产能利用率、看库存水位。这个逻辑在PC时代是对的，但在AI时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>2025年上半年，兆易创新营收同比增长35%，净利润同比增长超过200%&lt;/li>
+&lt;li>NOR Flash全球市场份额18.5%，跃升至全球第二、内地第一&lt;/li>
+&lt;li>车规级MCU出货量同比增长超过150%，打入多家头部车企供应链&lt;/li>
+&lt;li>利基型DRAM业务增速超过80%，成为新的增长引擎&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着兆易创新正在从&amp;quot;周期股&amp;quot;变成&amp;quot;成长股&amp;quot;。传统的存储需求跟着PC和手机销量波动，但AI终端和汽车电子带来的需求是结构性、持续性的——只要AI化趋势还在，存储升级就不会停。&lt;/p>
+&lt;p>市场愿意给兆易创新更高估值的原因：它不再是一家&amp;quot;存储芯片设计公司&amp;quot;，而是&amp;quot;智能设备的记忆基础设施提供商&amp;quot;。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是兆易创新，而不是其他半导体公司？&lt;/p>
+&lt;p>存储芯片领域有很多玩家，为什么兆易创新能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，技术领先。&lt;/strong> 兆易创新是全球率先实现45nm节点SPI NOR Flash大规模量产的公司之一，在38nm SLC NAND和利基型DRAM领域也保持代际领先。技术代差意味着更高的毛利率和更强的定价权。&lt;/p>
+&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> 车规级芯片的认证周期长达2-3年，一旦进入车企供应链，切换成本极高。兆易创新已经与多家头部车企建立稳定合作关系，形成了强大的客户粘性。&lt;/p>
+&lt;p>&lt;strong>第三，生态协同。&lt;/strong> &amp;ldquo;存储+MCU&amp;quot;双轮驱动战略让公司能够为AIoT和汽车电子提供一站式解决方案。客户买的不是单一产品，而是完整的芯片组合。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。兆易创新花了20年，投入了数百亿研发资金，才形成了今天的技术积累和客户网络。&lt;/p>
+&lt;p>竞争对手可以模仿它的某一款产品，但很难复制它的生态位。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越普及，端侧设备越智能；端侧设备越智能，存储需求越旺盛；存储需求越旺盛，兆易创新越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI终端和汽车电子的存储需求正在爆发式增长，存储芯片从周期品变成必需品。&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：端侧AI渗透率越高，对高容量、高性能存储芯片的需求就越大，车规级产品的认证壁垒保证了龙头地位的持续性。&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：作为全球NOR Flash第二、国产MCU龙头，兆易创新在AIoT和汽车电子双赛道同时受益，业绩进入高速增长期。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item></channel></rss>

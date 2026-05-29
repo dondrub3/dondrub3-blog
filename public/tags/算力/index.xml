@@ -1,78 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>算力 on Dondrub3 | 3P实验室</title>
-    <link>https://dondrub3.com/tags/%E7%AE%97%E5%8A%9B/</link>
-    <description>Recent content in 算力 on Dondrub3 | 3P实验室</description>
-    <generator>Hugo -- 0.146.0</generator>
-    <language>zh</language>
-    <lastBuildDate>Wed, 06 May 2026 19:00:00 +0800</lastBuildDate>
-    <atom:link href="https://dondrub3.com/tags/%E7%AE%97%E5%8A%9B/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>寒武纪：当手机里的&#39;翻译官&#39;开始思考</title>
-      <link>https://dondrub3.com/jibai/2026-05-06-%E5%AF%92%E6%AD%A6%E7%BA%AA/</link>
-      <pubDate>Wed, 06 May 2026 19:00:00 +0800</pubDate>
-      <guid>https://dondrub3.com/jibai/2026-05-06-%E5%AF%92%E6%AD%A6%E7%BA%AA/</guid>
-      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
-&lt;p&gt;你刚对着手机说了一声&amp;quot;播放周杰伦的歌&amp;quot;，两秒钟后音乐就响起了。你以为是手机&amp;quot;听懂&amp;quot;了你的话，其实背后是一颗专门的芯片在实时处理你的语音信号。&lt;/p&gt;
-&lt;p&gt;每一次语音唤醒、每一次人脸识别、每一次拍照美颜，都有数十亿次运算在瞬间完成。这些运算，需要专门的&amp;quot;翻译官&amp;quot;来把人类的语言、图像转换成机器能理解的信号——就像大脑中的神经元在协同工作一样。&lt;/p&gt;
-&lt;p&gt;而担任这些&amp;quot;翻译官&amp;quot;的专用芯片，叫做&lt;strong&gt;AI芯片&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;当每一部手机、每一台摄像头、每一辆汽车都需要AI能力，这些&amp;quot;AI翻译官&amp;quot;的需求量正在呈指数级增长。&lt;/p&gt;
-&lt;p&gt;这就是今天市场疯狂追捧寒武纪的原因。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
-&lt;p&gt;2026年5月6日，A股节后首个交易日，科创50指数大涨超7%，AI芯片板块集体爆发，寒武纪20%涨停。&lt;/p&gt;
-&lt;p&gt;表面看，这是受假期期间美股科技股大涨的刺激——全球资金风险偏好回升。按理说，美股科技股上涨利好美股本身，和A股AI芯片股八竿子打不着。但市场偏偏选了寒武纪——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的产业逻辑&amp;quot;。&lt;/p&gt;
-&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;国产AI芯片正在从&amp;quot;概念预期&amp;quot;走向&amp;quot;业绩兑现&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;寒武纪，中国AI芯片领域的领军企业，科创板AI芯片第一股，股价20%涨停创历史新高。&lt;/p&gt;
-&lt;p&gt;不是因为&amp;quot;概念炒作&amp;quot;，而是因为一季度营收暴增4230%、净利润扭亏为盈3.55亿元的惊艳业绩。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第一个故事为什么突然重要了&#34;&gt;【第一个故事】为什么突然重要了&lt;/h2&gt;
-&lt;p&gt;让我们回到那个语音唤醒的场景。&lt;/p&gt;
-&lt;p&gt;2023年，ChatGPT引爆全球AI热潮，市场开始炒作&amp;quot;AI概念&amp;quot;。但当时大家的认知局限在&amp;quot;谁有大模型谁就是王者&amp;quot;。&lt;/p&gt;
-&lt;p&gt;2024年，市场意识到，光有大模型不够，还得有芯片来跑。于是&amp;quot;AI芯片&amp;quot;进入投资者视野，英伟达成为全球市值最高的公司。&lt;/p&gt;
-&lt;p&gt;2026年，故事进入第三阶段：&lt;strong&gt;国产替代加速期&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;为什么？&lt;/p&gt;
-&lt;p&gt;因为AI算力需求和芯片供应的关系，不是简单的&amp;quot;一对一&amp;quot;。训练一个大模型需要数千张高端GPU，推理部署需要更多。当AI应用从&amp;quot;实验室&amp;quot;扩展到&amp;quot;千行百业&amp;quot;时，AI芯片的需求量不是线性增加，而是指数级增加。&lt;/p&gt;
-&lt;p&gt;更关键的是，地缘政治下的&amp;quot;芯片禁令&amp;quot;正在收紧。英伟达高端芯片对华出口受限，这意味着国产AI芯片迎来了历史性的替代窗口期。&lt;/p&gt;
-&lt;p&gt;寒武纪的思元590芯片综合性能已接近英伟达A100，正在互联网、金融、交通等领域大规模部署。这不是概念，是&lt;strong&gt;已经反映在财报上的真实增长&lt;/strong&gt;——一季度营收11.11亿元，同比增长4230%。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
-&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
-&lt;p&gt;AI芯片公司的估值，历来是个难题。&lt;/p&gt;
-&lt;p&gt;传统上，市场把它当作&amp;quot;概念股&amp;quot;来估值——有技术没收入，估值全靠想象。这个逻辑在&amp;quot;PPT造芯&amp;quot;时代是对的，但在&amp;quot;业绩兑现&amp;quot;时代需要重新审视。&lt;/p&gt;
-&lt;p&gt;让我们看几个数字：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;营收11.11亿元&lt;/strong&gt;（2025年Q1），同比增长4230.22%&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;净利润3.55亿元&lt;/strong&gt;（2025年Q1），同比扭亏为盈&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;连续两个季度盈利&lt;/strong&gt;，盈利能力持续改善&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;云端AI芯片思元590&lt;/strong&gt;，性能接近英伟达A100&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
-&lt;p&gt;意味着寒武纪正在从&amp;quot;概念股&amp;quot;变成&amp;quot;成长股&amp;quot;。传统的AI芯片公司只有技术没有订单，但寒武纪已经实现了大规模商业化——互联网大厂、金融机构、政府部门都在用它的芯片。&lt;/p&gt;
-&lt;p&gt;市场愿意给寒武纪更高估值的原因：它不再是一家&amp;quot;技术公司&amp;quot;，而是&lt;strong&gt;中国AI算力基础设施的核心供应商&lt;/strong&gt;。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
-&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是寒武纪，而不是其他AI芯片公司？&lt;/p&gt;
-&lt;p&gt;国产AI芯片有很多玩家，华为昇腾、海光信息、摩尔线程……为什么寒武纪能独占鳌头？&lt;/p&gt;
-&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第一，技术领先。&lt;/strong&gt; 寒武纪是中国最早专注于AI芯片设计的公司，拥有从终端到云端的全栈产品线。思元590综合性能接近英伟达A100，是国内云端AI芯片的标杆产品——这是技术护城河。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二，客户锁定。&lt;/strong&gt; AI芯片的客户导入周期长达1-2年，一旦部署就很难切换。寒武纪已经深度绑定了国内互联网大厂和智算中心客户，形成了稳定的收入来源——这是客户粘性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三，生态构建。&lt;/strong&gt; 寒武纪不仅卖芯片，还提供完整的软件栈和开发工具。开发者一旦习惯了它的生态，迁移成本极高——这是生态壁垒。&lt;/p&gt;
-&lt;p&gt;这些优势不是一朝一夕建立起来的。寒武纪花了&lt;strong&gt;9年&lt;/strong&gt;（2016年成立），投入了&lt;strong&gt;数百亿元&lt;/strong&gt;研发投入，才形成了今天的技术积累和市场地位。&lt;/p&gt;
-&lt;p&gt;竞争对手可以模仿它的产品，但很难复制它的&lt;strong&gt;时间沉淀、技术积累和生态闭环&lt;/strong&gt;。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;AI越普及，算力需求越大；算力需求越大，国产替代越迫切；国产替代越迫切，寒武纪越值钱。&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;或者按标准框架理解：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI大模型应用爆发式增长，美国芯片禁令收紧，国产AI芯片迎来历史性替代窗口期&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：英伟达高端芯片对华出口受限，国内智算中心建设全面铺开，国产AI芯片需求激增&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：作为国产AI芯片领军企业，寒武纪思元590性能接近英伟达A100，一季度营收暴增4230%，净利润扭亏为盈3.55亿元，业绩进入爆发期&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>算力 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/tags/%E7%AE%97%E5%8A%9B/</link><description>Recent content in 算力 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Wed, 06 May 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/tags/%E7%AE%97%E5%8A%9B/index.xml" rel="self" type="application/rss+xml"/><item><title>寒武纪：当手机里的'翻译官'开始思考</title><link>https://dondrub3.com/jibai/2026-05-06-%E5%AF%92%E6%AD%A6%E7%BA%AA/</link><pubDate>Wed, 06 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-06-%E5%AF%92%E6%AD%A6%E7%BA%AA/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚对着手机说了一声&amp;quot;播放周杰伦的歌&amp;quot;，两秒钟后音乐就响起了。你以为是手机&amp;quot;听懂&amp;quot;了你的话，其实背后是一颗专门的芯片在实时处理你的语音信号。&lt;/p>
+&lt;p>每一次语音唤醒、每一次人脸识别、每一次拍照美颜，都有数十亿次运算在瞬间完成。这些运算，需要专门的&amp;quot;翻译官&amp;quot;来把人类的语言、图像转换成机器能理解的信号——就像大脑中的神经元在协同工作一样。&lt;/p>
+&lt;p>而担任这些&amp;quot;翻译官&amp;quot;的专用芯片，叫做&lt;strong>AI芯片&lt;/strong>。&lt;/p>
+&lt;p>当每一部手机、每一台摄像头、每一辆汽车都需要AI能力，这些&amp;quot;AI翻译官&amp;quot;的需求量正在呈指数级增长。&lt;/p>
+&lt;p>这就是今天市场疯狂追捧寒武纪的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年5月6日，A股节后首个交易日，科创50指数大涨超7%，AI芯片板块集体爆发，寒武纪20%涨停。&lt;/p>
+&lt;p>表面看，这是受假期期间美股科技股大涨的刺激——全球资金风险偏好回升。按理说，美股科技股上涨利好美股本身，和A股AI芯片股八竿子打不着。但市场偏偏选了寒武纪——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的产业逻辑&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>国产AI芯片正在从&amp;quot;概念预期&amp;quot;走向&amp;quot;业绩兑现&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>寒武纪，中国AI芯片领域的领军企业，科创板AI芯片第一股，股价20%涨停创历史新高。&lt;/p>
+&lt;p>不是因为&amp;quot;概念炒作&amp;quot;，而是因为一季度营收暴增4230%、净利润扭亏为盈3.55亿元的惊艳业绩。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要了">【第一个故事】为什么突然重要了&lt;/h2>
+&lt;p>让我们回到那个语音唤醒的场景。&lt;/p>
+&lt;p>2023年，ChatGPT引爆全球AI热潮，市场开始炒作&amp;quot;AI概念&amp;quot;。但当时大家的认知局限在&amp;quot;谁有大模型谁就是王者&amp;quot;。&lt;/p>
+&lt;p>2024年，市场意识到，光有大模型不够，还得有芯片来跑。于是&amp;quot;AI芯片&amp;quot;进入投资者视野，英伟达成为全球市值最高的公司。&lt;/p>
+&lt;p>2026年，故事进入第三阶段：&lt;strong>国产替代加速期&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为AI算力需求和芯片供应的关系，不是简单的&amp;quot;一对一&amp;quot;。训练一个大模型需要数千张高端GPU，推理部署需要更多。当AI应用从&amp;quot;实验室&amp;quot;扩展到&amp;quot;千行百业&amp;quot;时，AI芯片的需求量不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>更关键的是，地缘政治下的&amp;quot;芯片禁令&amp;quot;正在收紧。英伟达高端芯片对华出口受限，这意味着国产AI芯片迎来了历史性的替代窗口期。&lt;/p>
+&lt;p>寒武纪的思元590芯片综合性能已接近英伟达A100，正在互联网、金融、交通等领域大规模部署。这不是概念，是&lt;strong>已经反映在财报上的真实增长&lt;/strong>——一季度营收11.11亿元，同比增长4230%。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>AI芯片公司的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;概念股&amp;quot;来估值——有技术没收入，估值全靠想象。这个逻辑在&amp;quot;PPT造芯&amp;quot;时代是对的，但在&amp;quot;业绩兑现&amp;quot;时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>营收11.11亿元&lt;/strong>（2025年Q1），同比增长4230.22%&lt;/li>
+&lt;li>&lt;strong>净利润3.55亿元&lt;/strong>（2025年Q1），同比扭亏为盈&lt;/li>
+&lt;li>&lt;strong>连续两个季度盈利&lt;/strong>，盈利能力持续改善&lt;/li>
+&lt;li>&lt;strong>云端AI芯片思元590&lt;/strong>，性能接近英伟达A100&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着寒武纪正在从&amp;quot;概念股&amp;quot;变成&amp;quot;成长股&amp;quot;。传统的AI芯片公司只有技术没有订单，但寒武纪已经实现了大规模商业化——互联网大厂、金融机构、政府部门都在用它的芯片。&lt;/p>
+&lt;p>市场愿意给寒武纪更高估值的原因：它不再是一家&amp;quot;技术公司&amp;quot;，而是&lt;strong>中国AI算力基础设施的核心供应商&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是寒武纪，而不是其他AI芯片公司？&lt;/p>
+&lt;p>国产AI芯片有很多玩家，华为昇腾、海光信息、摩尔线程……为什么寒武纪能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，技术领先。&lt;/strong> 寒武纪是中国最早专注于AI芯片设计的公司，拥有从终端到云端的全栈产品线。思元590综合性能接近英伟达A100，是国内云端AI芯片的标杆产品——这是技术护城河。&lt;/p>
+&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> AI芯片的客户导入周期长达1-2年，一旦部署就很难切换。寒武纪已经深度绑定了国内互联网大厂和智算中心客户，形成了稳定的收入来源——这是客户粘性。&lt;/p>
+&lt;p>&lt;strong>第三，生态构建。&lt;/strong> 寒武纪不仅卖芯片，还提供完整的软件栈和开发工具。开发者一旦习惯了它的生态，迁移成本极高——这是生态壁垒。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。寒武纪花了&lt;strong>9年&lt;/strong>（2016年成立），投入了&lt;strong>数百亿元&lt;/strong>研发投入，才形成了今天的技术积累和市场地位。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品，但很难复制它的&lt;strong>时间沉淀、技术积累和生态闭环&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越普及，算力需求越大；算力需求越大，国产替代越迫切；国产替代越迫切，寒武纪越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI大模型应用爆发式增长，美国芯片禁令收紧，国产AI芯片迎来历史性替代窗口期&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：英伟达高端芯片对华出口受限，国内智算中心建设全面铺开，国产AI芯片需求激增&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：作为国产AI芯片领军企业，寒武纪思元590性能接近英伟达A100，一季度营收暴增4230%，净利润扭亏为盈3.55亿元，业绩进入爆发期&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item></channel></rss>

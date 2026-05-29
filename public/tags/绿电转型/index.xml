@@ -1,79 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>绿电转型 on Dondrub3 | 3P实验室</title>
-    <link>https://dondrub3.com/tags/%E7%BB%BF%E7%94%B5%E8%BD%AC%E5%9E%8B/</link>
-    <description>Recent content in 绿电转型 on Dondrub3 | 3P实验室</description>
-    <generator>Hugo -- 0.146.0</generator>
-    <language>zh</language>
-    <lastBuildDate>Tue, 19 May 2026 19:00:00 +0800</lastBuildDate>
-    <atom:link href="https://dondrub3.com/tags/%E7%BB%BF%E7%94%B5%E8%BD%AC%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>京能电力：当百年电厂遇上AI算力时代</title>
-      <link>https://dondrub3.com/jibai/2026-05-19-%E4%BA%AC%E8%83%BD%E7%94%B5%E5%8A%9B/</link>
-      <pubDate>Tue, 19 May 2026 19:00:00 +0800</pubDate>
-      <guid>https://dondrub3.com/jibai/2026-05-19-%E4%BA%AC%E8%83%BD%E7%94%B5%E5%8A%9B/</guid>
-      <description>&lt;h2 id=&#34;开头身边的故事&#34;&gt;【开头】身边的故事&lt;/h2&gt;
-&lt;p&gt;你刚在家打开空调，设定到26度，几分钟后房间就凉爽了下来。你以为是按下遥控器的功劳，其实背后是千万台发电机组在实时响应你的用电需求。&lt;/p&gt;
-&lt;p&gt;每一次按下开关，都有超过20亿千瓦时的发电设备在运转。这些发电机组之间，需要一张覆盖全国的电网来调度平衡——就像人体的血液循环系统，把能量输送到每一个需要的地方。&lt;/p&gt;
-&lt;p&gt;而维持这个系统稳定运行的核心，叫做&lt;strong&gt;电力&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;当AI算力需求爆发、数据中心用电激增，这张电网的承载能力正在面临前所未有的考验。问题是：谁能既保障供电稳定，又实现绿色低碳转型？&lt;/p&gt;
-&lt;p&gt;这就是今天市场疯狂追捧&lt;strong&gt;京能电力&lt;/strong&gt;的原因。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;宏观事件反常即信号&#34;&gt;【宏观事件】反常即信号&lt;/h2&gt;
-&lt;p&gt;2026年5月19日，电力板块集体爆发，京能电力走出5连板，浙能电力、涪陵电力、豫能控股等多股涨停。&lt;/p&gt;
-&lt;p&gt;表面看，这是受AI算力需求爆发的刺激——数据中心用电激增，电力需求预期上调。按理说，AI算力利好芯片、利好光模块，和传统电力股八竿子打不着。但市场偏偏选了电力板块——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的能源安全逻辑&amp;quot;。&lt;/p&gt;
-&lt;p&gt;深入一点看，你会发现一个更底层的逻辑：&lt;strong&gt;电力正在从&amp;quot;成本中心&amp;quot;变成&amp;quot;战略资源&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;京能电力，北京国资委旗下最大的火电企业，今天股价触及涨停，5日累计涨幅超过57%。&lt;/p&gt;
-&lt;p&gt;不是因为传统火电业务回暖，而是因为市场突然意识到——这家拥有百年历史的电力公司，正在转型为&amp;quot;算电协同&amp;quot;的综合能源服务商。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第一个故事为什么突然重要&#34;&gt;【第一个故事】为什么突然重要&lt;/h2&gt;
-&lt;p&gt;让我们回到那个开空调的场景。&lt;/p&gt;
-&lt;p&gt;2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家关注的是算法和芯片，没人想到电力会成为瓶颈。&lt;/p&gt;
-&lt;p&gt;2024年，OpenAI、谷歌、微软相继宣布建设超大规模数据中心，市场意识到算力需要&amp;quot;铲子&amp;quot;——芯片、光模块、服务器。但很少有人注意到，这些设备的背后是一个天文数字的用电量。&lt;/p&gt;
-&lt;p&gt;2025年，故事进入第三阶段：&lt;strong&gt;电力成为AI时代的硬通货&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;为什么？&lt;/p&gt;
-&lt;p&gt;因为一个大型AI训练集群的用电量，相当于一座中小城市的总用电量。当AI从&amp;quot;实验室玩具&amp;quot;扩展到&amp;quot;工业基础设施&amp;quot;时，电力供应的稳定性不再是可选项，而是生死线。&lt;/p&gt;
-&lt;p&gt;更关键的是，政策层面明确提出&amp;quot;东数西算&amp;quot;战略，要求数据中心向清洁能源富集地区迁移。这意味着，拥有绿电资源、具备调峰能力的电力企业，将成为AI产业链的&amp;quot;卖水人&amp;quot;。&lt;/p&gt;
-&lt;p&gt;京能电力的乌兰察布1500MW&amp;quot;风光火储一体化&amp;quot;项目刚刚获得核准。这不是概念，是已经落地的订单——该项目将直接服务于京津冀地区的数据中心集群。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第二个故事值不值这个价&#34;&gt;【第二个故事】值不值这个价&lt;/h2&gt;
-&lt;p&gt;需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p&gt;
-&lt;p&gt;电力行业的估值，历来是个难题。&lt;/p&gt;
-&lt;p&gt;传统上，市场把它当作&amp;quot;公共事业&amp;quot;来估值——稳定的现金流，但缺乏成长性，市盈率常年在10倍以下。这个逻辑在&amp;quot;碳达峰&amp;quot;之前是对的，但在AI时代需要重新审视。&lt;/p&gt;
-&lt;p&gt;让我们看几个数字：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2025年一季度营收&lt;/strong&gt;：101.81亿元，同比增长2.21%&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2025年一季度净利润&lt;/strong&gt;：11.01亿元，同比增长1.5%&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2025年全年净利润预期&lt;/strong&gt;：35.30亿元（年报数据），同比增长超过116%&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;新能源装机&lt;/strong&gt;：205.49万千瓦，2025年新能源发电量同比增长154.01%&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;市盈率&lt;/strong&gt;：动态12.56倍，静态15.69倍&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这些数字意味着什么？&lt;/p&gt;
-&lt;p&gt;意味着京能电力正在从&amp;quot;传统火电企业&amp;quot;变成&amp;quot;综合能源服务商&amp;quot;。传统的火电业务跟着煤价波动，但新能源+储能+数据中心供电的业务是刚性增长的——只要AI还在训练，数据中心就需要电。&lt;/p&gt;
-&lt;p&gt;市场愿意给京能电力更高估值的原因：它不再是一家&amp;quot;发电企业&amp;quot;，而是&amp;quot;AI时代的基础设施提供商&amp;quot;。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第三个故事为什么是这一家&#34;&gt;【第三个故事】为什么是这一家&lt;/h2&gt;
-&lt;p&gt;估值重构给了买入的理由，但问题是——为什么是京能电力，而不是其他电力公司？&lt;/p&gt;
-&lt;p&gt;电力行业有很多玩家，为什么京能电力能独占鳌头？&lt;/p&gt;
-&lt;p&gt;答案在于它的&lt;strong&gt;结构性优势&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第一，区位卡位。&lt;/strong&gt; 京能电力是北京地区最大的火电企业，而北京正是&amp;quot;东数西算&amp;quot;工程的核心节点之一。公司拥有的土地资源和电网接入资格，是新进入者无法复制的稀缺资源。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二，转型速度。&lt;/strong&gt; 当其他火电企业还在犹豫要不要转型时，京能电力已经投入超过30亿元布局光伏、风电项目。2025年，察右后旗32万千瓦风电、查干40万千瓦风光等项目并网发电，新能源装机占比快速提升。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三，&amp;ldquo;算电协同&amp;quot;先发优势。&lt;/strong&gt; 京能电力正在探索将老旧热电厂改造为算力中心，利用现有的冷源复用和闲置土地资源，为数据中心提供&amp;quot;电+冷&amp;quot;一体化服务。这种模式的成本优势，是纯新建数据中心无法比拟的。&lt;/p&gt;
-&lt;p&gt;这些优势不是一朝一夕建立起来的。京能电力花了3年时间，投入了上百亿元，才形成了今天的新能源布局。&lt;/p&gt;
-&lt;p&gt;竞争对手可以模仿它的业务方向，但很难复制它的区位优势和转型节奏。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;收尾三句话闭环&#34;&gt;【收尾】三句话闭环&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;AI越聪明，数据中心用电量越大；用电量越大，绿电供应越紧缺；绿电越紧缺，京能电力越值钱。&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;按标准框架理解：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;事件&lt;/strong&gt;：AI算力需求爆发，数据中心用电量激增，&amp;ldquo;算电协同&amp;quot;成为新趋势&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;关键变量&lt;/strong&gt;：电力从&amp;quot;成本中心&amp;quot;升级为&amp;quot;战略资源&amp;rdquo;，拥有绿电资源和区位优势的电力企业将享受估值重构&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;公司利好&lt;/strong&gt;：京能电力作为北京最大电力企业，新能源转型领先，&amp;ldquo;风光火储一体化&amp;quot;项目落地，正在从传统火电企业转型为综合能源服务商&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;em&gt;免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>绿电转型 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/tags/%E7%BB%BF%E7%94%B5%E8%BD%AC%E5%9E%8B/</link><description>Recent content in 绿电转型 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Tue, 19 May 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/tags/%E7%BB%BF%E7%94%B5%E8%BD%AC%E5%9E%8B/index.xml" rel="self" type="application/rss+xml"/><item><title>京能电力：当百年电厂遇上AI算力时代</title><link>https://dondrub3.com/jibai/2026-05-19-%E4%BA%AC%E8%83%BD%E7%94%B5%E5%8A%9B/</link><pubDate>Tue, 19 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-19-%E4%BA%AC%E8%83%BD%E7%94%B5%E5%8A%9B/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在家打开空调，设定到26度，几分钟后房间就凉爽了下来。你以为是按下遥控器的功劳，其实背后是千万台发电机组在实时响应你的用电需求。&lt;/p>
+&lt;p>每一次按下开关，都有超过20亿千瓦时的发电设备在运转。这些发电机组之间，需要一张覆盖全国的电网来调度平衡——就像人体的血液循环系统，把能量输送到每一个需要的地方。&lt;/p>
+&lt;p>而维持这个系统稳定运行的核心，叫做&lt;strong>电力&lt;/strong>。&lt;/p>
+&lt;p>当AI算力需求爆发、数据中心用电激增，这张电网的承载能力正在面临前所未有的考验。问题是：谁能既保障供电稳定，又实现绿色低碳转型？&lt;/p>
+&lt;p>这就是今天市场疯狂追捧&lt;strong>京能电力&lt;/strong>的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年5月19日，电力板块集体爆发，京能电力走出5连板，浙能电力、涪陵电力、豫能控股等多股涨停。&lt;/p>
+&lt;p>表面看，这是受AI算力需求爆发的刺激——数据中心用电激增，电力需求预期上调。按理说，AI算力利好芯片、利好光模块，和传统电力股八竿子打不着。但市场偏偏选了电力板块——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的能源安全逻辑&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>电力正在从&amp;quot;成本中心&amp;quot;变成&amp;quot;战略资源&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>京能电力，北京国资委旗下最大的火电企业，今天股价触及涨停，5日累计涨幅超过57%。&lt;/p>
+&lt;p>不是因为传统火电业务回暖，而是因为市场突然意识到——这家拥有百年历史的电力公司，正在转型为&amp;quot;算电协同&amp;quot;的综合能源服务商。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
+&lt;p>让我们回到那个开空调的场景。&lt;/p>
+&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家关注的是算法和芯片，没人想到电力会成为瓶颈。&lt;/p>
+&lt;p>2024年，OpenAI、谷歌、微软相继宣布建设超大规模数据中心，市场意识到算力需要&amp;quot;铲子&amp;quot;——芯片、光模块、服务器。但很少有人注意到，这些设备的背后是一个天文数字的用电量。&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>电力成为AI时代的硬通货&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为一个大型AI训练集群的用电量，相当于一座中小城市的总用电量。当AI从&amp;quot;实验室玩具&amp;quot;扩展到&amp;quot;工业基础设施&amp;quot;时，电力供应的稳定性不再是可选项，而是生死线。&lt;/p>
+&lt;p>更关键的是，政策层面明确提出&amp;quot;东数西算&amp;quot;战略，要求数据中心向清洁能源富集地区迁移。这意味着，拥有绿电资源、具备调峰能力的电力企业，将成为AI产业链的&amp;quot;卖水人&amp;quot;。&lt;/p>
+&lt;p>京能电力的乌兰察布1500MW&amp;quot;风光火储一体化&amp;quot;项目刚刚获得核准。这不是概念，是已经落地的订单——该项目将直接服务于京津冀地区的数据中心集群。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>电力行业的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;公共事业&amp;quot;来估值——稳定的现金流，但缺乏成长性，市盈率常年在10倍以下。这个逻辑在&amp;quot;碳达峰&amp;quot;之前是对的，但在AI时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>2025年一季度营收&lt;/strong>：101.81亿元，同比增长2.21%&lt;/li>
+&lt;li>&lt;strong>2025年一季度净利润&lt;/strong>：11.01亿元，同比增长1.5%&lt;/li>
+&lt;li>&lt;strong>2025年全年净利润预期&lt;/strong>：35.30亿元（年报数据），同比增长超过116%&lt;/li>
+&lt;li>&lt;strong>新能源装机&lt;/strong>：205.49万千瓦，2025年新能源发电量同比增长154.01%&lt;/li>
+&lt;li>&lt;strong>市盈率&lt;/strong>：动态12.56倍，静态15.69倍&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着京能电力正在从&amp;quot;传统火电企业&amp;quot;变成&amp;quot;综合能源服务商&amp;quot;。传统的火电业务跟着煤价波动，但新能源+储能+数据中心供电的业务是刚性增长的——只要AI还在训练，数据中心就需要电。&lt;/p>
+&lt;p>市场愿意给京能电力更高估值的原因：它不再是一家&amp;quot;发电企业&amp;quot;，而是&amp;quot;AI时代的基础设施提供商&amp;quot;。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是京能电力，而不是其他电力公司？&lt;/p>
+&lt;p>电力行业有很多玩家，为什么京能电力能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，区位卡位。&lt;/strong> 京能电力是北京地区最大的火电企业，而北京正是&amp;quot;东数西算&amp;quot;工程的核心节点之一。公司拥有的土地资源和电网接入资格，是新进入者无法复制的稀缺资源。&lt;/p>
+&lt;p>&lt;strong>第二，转型速度。&lt;/strong> 当其他火电企业还在犹豫要不要转型时，京能电力已经投入超过30亿元布局光伏、风电项目。2025年，察右后旗32万千瓦风电、查干40万千瓦风光等项目并网发电，新能源装机占比快速提升。&lt;/p>
+&lt;p>&lt;strong>第三，&amp;ldquo;算电协同&amp;quot;先发优势。&lt;/strong> 京能电力正在探索将老旧热电厂改造为算力中心，利用现有的冷源复用和闲置土地资源，为数据中心提供&amp;quot;电+冷&amp;quot;一体化服务。这种模式的成本优势，是纯新建数据中心无法比拟的。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。京能电力花了3年时间，投入了上百亿元，才形成了今天的新能源布局。&lt;/p>
+&lt;p>竞争对手可以模仿它的业务方向，但很难复制它的区位优势和转型节奏。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越聪明，数据中心用电量越大；用电量越大，绿电供应越紧缺；绿电越紧缺，京能电力越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI算力需求爆发，数据中心用电量激增，&amp;ldquo;算电协同&amp;quot;成为新趋势&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：电力从&amp;quot;成本中心&amp;quot;升级为&amp;quot;战略资源&amp;rdquo;，拥有绿电资源和区位优势的电力企业将享受估值重构&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：京能电力作为北京最大电力企业，新能源转型领先，&amp;ldquo;风光火储一体化&amp;quot;项目落地，正在从传统火电企业转型为综合能源服务商&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item></channel></rss>
