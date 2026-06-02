@@ -1,4 +1,62 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>半导体 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/tags/%E5%8D%8A%E5%AF%BC%E4%BD%93/</link><description>Recent content in 半导体 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Mon, 25 May 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/tags/%E5%8D%8A%E5%AF%BC%E4%BD%93/index.xml" rel="self" type="application/rss+xml"/><item><title>江波龙：从华强北柜台到AI存储龙头的逆袭</title><link>https://dondrub3.com/jibai/2026-05-25-%E6%B1%9F%E6%B3%A2%E9%BE%99/</link><pubDate>Mon, 25 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-25-%E6%B1%9F%E6%B3%A2%E9%BE%99/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>半导体 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/tags/%E5%8D%8A%E5%AF%BC%E4%BD%93/</link><description>Recent content in 半导体 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Tue, 02 Jun 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/tags/%E5%8D%8A%E5%AF%BC%E4%BD%93/index.xml" rel="self" type="application/rss+xml"/><item><title>迈威尔科技：AI算力底座背后的'隐形冠军'</title><link>https://dondrub3.com/jibai/2026-06-02-%E8%BF%88%E5%A8%81%E5%B0%94%E7%A7%91%E6%8A%80/</link><pubDate>Tue, 02 Jun 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-06-02-%E8%BF%88%E5%A8%81%E5%B0%94%E7%A7%91%E6%8A%80/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在手机上用ChatGPT问了一个问题，两秒钟后得到了一段流畅的回答。你以为是魔法，其实背后是成千上万台服务器在同步运算。&lt;/p>
+&lt;p>每一次AI对话，都有数百万个计算核心在并行处理。这些服务器之间，需要传输海量的数据——就像人体的神经网络传递信号一样。&lt;/p>
+&lt;p>而连接这些服务器的&amp;quot;神经突触&amp;quot;，叫做&lt;strong>定制AI芯片&lt;/strong>。&lt;/p>
+&lt;p>当AI大模型变得越来越聪明，这些&amp;quot;神经突触&amp;quot;的需求量也在指数级增长。问题是：生产这些芯片的工厂，产能跟得上吗？&lt;/p>
+&lt;p>这就是今天市场疯狂追捧迈威尔科技的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2025年6月，美股科技股震荡调整，但迈威尔科技(MRVL)却逆势上涨，热度飙升至雪球热搜榜第二。&lt;/p>
+&lt;p>表面看，这是受AI芯片需求持续增长的刺激——英伟达财报超预期，带动整个产业链情绪高涨。按理说，英伟达利好GPU产业链，和定制ASIC芯片八竿子打不着。但市场偏偏选了迈威尔科技——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的深层逻辑&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI芯片正在从通用走向定制&lt;/strong>。&lt;/p>
+&lt;p>迈威尔科技，全球第二大定制ASIC芯片供应商（仅次于博通），数据中心业务占总收入超过76%，股价在过去一年翻倍。&lt;/p>
+&lt;p>不是因为英伟达太强，而是因为云厂商开始意识到——通用GPU不是唯一答案，定制芯片才是降本增效的终极武器。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
+&lt;p>让我们回到那个AI对话的场景。&lt;/p>
+&lt;p>2023年，ChatGPT引爆生成式AI浪潮，市场开始疯狂买入英伟达。但当时大家只看到了GPU的算力需求。&lt;/p>
+&lt;p>2024年，谷歌、亚马逊、微软相继推出自研AI芯片，市场意识到云厂商不会永远依赖英伟达。&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>定制ASIC芯片从&amp;quot;小众选项&amp;quot;变成&amp;quot;主流选择&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为通用GPU和定制XPU的关系，不是简单的&amp;quot;替代&amp;quot;。当AI模型从训练走向推理、从实验室走向生产环境时，每一家云厂商都发现：为特定工作负载优化的芯片，效率可以高出30%-50%。&lt;/p>
+&lt;p>更关键的是，2025年6月17日，迈威尔科技在Custom AI投资者日上宣布：&lt;strong>将2028年数据中心潜在市场规模（TAM）预期从750亿美元上修至940亿美元，其中定制XPU芯片市场规模达到400亿美元，年复合增长率高达47%&lt;/strong>。&lt;/p>
+&lt;p>迈威尔科技与微软、亚马逊的多代定制芯片项目已经开始量产。这不是概念，是真实的订单和收入。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>定制ASIC芯片的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;半导体周期股&amp;quot;来估值——跟着资本开支周期波动。这个逻辑在传统数据中心时代是对的，但在AI时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>2026财年Q1营收&lt;/strong>：18.95亿美元，同比增长63%，创下历史新高&lt;/li>
+&lt;li>&lt;strong>数据中心业务收入&lt;/strong>：同比增长76%，占总收入76%&lt;/li>
+&lt;li>&lt;strong>AI定制芯片业务&lt;/strong>：预计2025-2028年保持47%的年复合增长率&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着迈威尔科技正在从&amp;quot;传统芯片设计公司&amp;quot;变成&amp;quot;AI基础设施提供商&amp;quot;。传统的半导体需求跟着经济周期波动，但AI带来的需求是结构性增长的——只要大模型还在进化，算力需求就不会停。&lt;/p>
+&lt;p>市场愿意给迈威尔科技更高估值的原因：它不再是一家普通的芯片公司，而是云厂商构建AI算力底座时不可或缺的合作伙伴。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是迈威尔科技，而不是其他芯片公司？&lt;/p>
+&lt;p>定制ASIC市场有很多玩家，为什么迈威尔科技能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，全栈定制能力。&lt;/strong> 迈威尔科技不仅设计芯片，还提供从架构设计、先进封装到互联技术的完整解决方案——这意味着云厂商可以&amp;quot;一站式&amp;quot;解决算力需求。&lt;/p>
+&lt;p>&lt;strong>第二，头部客户锁定。&lt;/strong> 微软、亚马逊、谷歌等云巨头已经与迈威尔科技建立了多年的合作关系。定制芯片的认证周期长达2-3年，客户切换成本极高。&lt;/p>
+&lt;p>&lt;strong>第三，技术代际领先。&lt;/strong> 迈威尔科技正在布局2nm制程、CPO（光电共封装）等前沿技术，其XPU配套组件市场预计将以90%的年复合增长率增长，几乎每年翻倍。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。迈威尔科技花了10年时间，投入了数十亿美元研发，才形成了今天的技术积累。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品，但很难复制它的生态和客户关系。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越聪明，数据中心算力需求越大；算力需求越大，定制芯片越紧缺；定制芯片越紧缺，迈威尔科技越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI大模型从训练走向推理，云厂商加速自研芯片部署，定制ASIC市场迎来爆发期。&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：迈威尔科技上调2028年数据中心TAM预期至940亿美元，定制XPU市场年复合增长率达47%。&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：作为全球第二大定制ASIC供应商，迈威尔科技与微软、亚马逊的深度合作已进入量产阶段，业绩进入高速增长期。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>江波龙：从华强北柜台到AI存储龙头的逆袭</title><link>https://dondrub3.com/jibai/2026-05-25-%E6%B1%9F%E6%B3%A2%E9%BE%99/</link><pubDate>Mon, 25 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-25-%E6%B1%9F%E6%B3%A2%E9%BE%99/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
 &lt;p>你刚在手机上拍了一段4K视频，点击保存后，两秒后就出现在了相册里。你以为是手机反应快，其实背后是&lt;strong>存储芯片&lt;/strong>在以每秒数千兆字节的速度写入数据。&lt;/p>
 &lt;p>每一次拍照、每一次下载APP、每一次游戏存档，都有数十亿个存储单元在同时工作。这些存储单元之间，需要被精准地寻址、读写、管理——就像一座超级图书馆，需要在毫秒级时间内找到并调取任何一本书。&lt;/p>
 &lt;p>而负责管理这些&amp;quot;数字图书馆&amp;quot;的&lt;strong>存储模组&lt;/strong>，叫做&lt;strong>企业级SSD&lt;/strong>。&lt;/p>
