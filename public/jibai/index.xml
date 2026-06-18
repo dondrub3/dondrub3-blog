@@ -1,4 +1,535 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>既白 | 产品故事 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/jibai/</link><description>Recent content in 既白 | 产品故事 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Fri, 05 Jun 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/jibai/index.xml" rel="self" type="application/rss+xml"/><item><title>中兴通讯：当'连接'遇见'算力'，通信巨头的第二曲线</title><link>https://dondrub3.com/jibai/2026-06-05-%E4%B8%AD%E5%85%B4%E9%80%9A%E8%AE%AF/</link><pubDate>Fri, 05 Jun 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-06-05-%E4%B8%AD%E5%85%B4%E9%80%9A%E8%AE%AF/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>既白 | 产品故事 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/jibai/</link><description>Recent content in 既白 | 产品故事 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Thu, 18 Jun 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/jibai/index.xml" rel="self" type="application/rss+xml"/><item><title>华虹宏力：藏在每一颗芯片里的隐形冠军</title><link>https://dondrub3.com/jibai/2026-06-18-%E5%8D%8E%E8%99%B9%E5%AE%8F%E5%8A%9B/</link><pubDate>Thu, 18 Jun 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-06-18-%E5%8D%8E%E8%99%B9%E5%AE%8F%E5%8A%9B/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你按下电动汽车的启动按钮，电机瞬间响应；你插上手机充电器，电流稳定流入；你打开空调，压缩机平稳运转。&lt;/p>
+&lt;p>这些看似平常的操作，背后都有一颗颗指甲盖大小的芯片在默默工作——它们叫功率器件，负责控制电流的开关和转换。&lt;/p>
+&lt;p>而这些功率器件，有相当一部分产自一家你可能从未听说过的公司：&lt;strong>华虹宏力&lt;/strong>。&lt;/p>
+&lt;p>当全球半导体产业进入&amp;quot;后摩尔时代&amp;quot;，当新能源汽车和AI算力需求爆发，当&amp;quot;国产替代&amp;quot;成为国家战略——这家专注于&amp;quot;特色工艺&amp;quot;的晶圆代工企业，正在经历一场静默而深刻的价值重估。&lt;/p>
+&lt;p>这就是今天市场热议华虹宏力的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2025年，全球半导体市场呈现两极分化。&lt;/p>
+&lt;p>一边是先进制程的&amp;quot;军备竞赛&amp;quot;：台积电、三星在3nm、2nm节点上你追我赶，投入动辄数百亿美元。&lt;/p>
+&lt;p>另一边是成熟制程的&amp;quot;供需紧张&amp;quot;：55nm、90nm、130nm这些&amp;quot;落后&amp;quot;工艺，产能却持续满载，甚至供不应求。&lt;/p>
+&lt;p>表面看，这是AI算力需求带动的结构性变化——先进制程做AI芯片，成熟制程做配套器件。但深入一点看，你会发现一个更底层的逻辑：&lt;strong>在半导体产业，&amp;ldquo;够用就好&amp;quot;的特色工艺，正在获得前所未有的战略价值&lt;/strong>。&lt;/p>
+&lt;p>华虹宏力，正是这一趋势的最大受益者。&lt;/p>
+&lt;p>公司2025年前三季度实现营业收入125.83亿元，同比增长19.82%；产能利用率连续七个季度保持满载。不是因为追上了最先进制程，而是因为它选择了一条差异化的路——&lt;strong>不做&amp;quot;最尖端的&amp;rdquo;，做&amp;quot;最需要的&amp;quot;&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要了">【第一个故事】为什么突然重要了&lt;/h2>
+&lt;p>让我们回到那个按下电动车启动按钮的场景。&lt;/p>
+&lt;p>2020年，一辆电动车平均需要约300颗功率器件；2025年，这个数字已经超过500颗。IGBT、MOSFET、SiC器件——这些听起来陌生的名词，是电动车电机控制、电池管理、充电桩的核心。&lt;/p>
+&lt;p>而功率器件的制造，恰恰不需要最先进的3nm工艺。它们需要耐高压、耐高温、低损耗的&amp;quot;特色工艺&amp;quot;——这正是华虹宏力深耕20年的领域。&lt;/p>
+&lt;p>华虹宏力的故事进入第三阶段：&lt;strong>从&amp;quot;国产替代的可选项&amp;quot;变成&amp;quot;供应链安全的必选项&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为全球功率器件产能高度集中。当地缘政治风险上升，当&amp;quot;断供&amp;quot;成为悬在头顶的达摩克利斯之剑，拥有自主可控的功率器件制造能力，就不再是成本问题，而是生存问题。&lt;/p>
+&lt;p>更关键的是，华虹无锡基地的全球首条12英寸功率器件生产线，正在打破&amp;quot;功率器件只能用8英寸制造&amp;quot;的行业惯例。更大的晶圆尺寸意味着更低的成本和更高的效率——这是华虹宏力对全球功率器件产业的游戏规则改写。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>半导体代工企业的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场习惯用&amp;quot;制程先进性&amp;quot;来评判代工厂——越先进，估值越高。这个逻辑在台积电身上验证过无数次，但在华虹宏力身上需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>产能利用率&lt;/strong>：连续七个季度满载，8英寸和12英寸产线均保持100%以上&lt;/li>
+&lt;li>&lt;strong>营收增长&lt;/strong>：2025年前三季度同比增长19.82%，12英寸产线贡献持续提升&lt;/li>
+&lt;li>&lt;strong>技术壁垒&lt;/strong>：全球首家同时具备8英寸和12英寸功率器件代工能力，深沟槽超级结（DT-SJ）工艺业界领先&lt;/li>
+&lt;li>&lt;strong>客户结构&lt;/strong>：覆盖英飞凌、德州仪器等国际巨头，以及国内新能源汽车、工控领域头部客户&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着华虹宏力正在从&amp;quot;跟随者&amp;quot;变成&amp;quot;定义者&amp;quot;。传统的代工厂跟着客户定义产品，但华虹宏力通过工艺创新，正在帮助客户定义下一代功率器件的标准。&lt;/p>
+&lt;p>市场愿意给华虹宏力更高估值的原因：它不再是一家单纯的&amp;quot;制造服务商&amp;quot;，而是特色工艺领域的&amp;quot;技术平台&amp;quot;。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是华虹宏力，而不是其他代工厂？&lt;/p>
+&lt;p>功率器件代工领域有很多玩家，为什么华虹宏力能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，稀缺产能卡位。&lt;/strong> 全球12英寸功率器件产能极度稀缺，华虹宏力拥有全球首条、也是目前规模最大的12英寸功率器件生产线。无锡一期月产能9.45万片，二期（华虹九厂）规划月产能8.3万片——这种规模优势，无法复制。&lt;/p>
+&lt;p>&lt;strong>第二，工艺 Know-how 积累。&lt;/strong> 功率器件不是标准化产品，不同应用场景需要不同的工艺调校。华虹宏力20年的量产经验，形成了深厚的工艺数据库和客户协同开发能力。新进入者可以买到设备，但买不到&amp;quot;手感&amp;quot;。&lt;/p>
+&lt;p>&lt;strong>第三，国产替代红利。&lt;/strong> 在中美科技博弈的大背景下，国内芯片设计企业优先选择本土代工厂。华虹宏力作为大陆第二大、全球第五大晶圆代工厂，是&amp;quot;国产替代&amp;quot;浪潮的直接受益者。&lt;/p>
+&lt;p>&lt;strong>第四，集团资源整合。&lt;/strong> 华虹集团旗下的上海华力（先进逻辑工艺）未来有望注入上市公司，形成&amp;quot;先进+特色&amp;quot;的双轮驱动格局。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。华虹宏力花了20年，投入数百亿，才形成了今天的护城河。&lt;/p>
+&lt;p>竞争对手可以模仿它的业务模式，但很难复制它的资源禀赋和时间积累。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>新能源越普及，功率器件越重要；功率器件越重要，特色工艺越值钱；特色工艺越值钱，华虹宏力越被低估。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：全球半导体产业进入&amp;quot;后摩尔时代&amp;quot;，特色工艺的战略价值凸显；新能源汽车和AI算力需求驱动功率器件市场爆发。&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：华虹宏力拥有全球首条12英寸功率器件生产线，是全球产能最大的功率器件代工厂，深度受益于国产替代浪潮。&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：无锡二期产能爬坡顺利，连续七个季度产能满载；工艺平台持续升级，从&amp;quot;制造服务商&amp;quot;向&amp;quot;技术平台&amp;quot;转型，估值逻辑重构。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>华正新材：藏在每一块电路板里的AI算力密码</title><link>https://dondrub3.com/jibai/2026-06-17-%E5%8D%8E%E6%AD%A3%E6%96%B0%E6%9D%90/</link><pubDate>Wed, 17 Jun 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-06-17-%E5%8D%8E%E6%AD%A3%E6%96%B0%E6%9D%90/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在手机上刷完一条短视频，下一秒打开购物App，首页就精准推送了你刚才看的那款商品。你以为是巧合，其实背后是数据中心里成千上万台服务器在实时分析你的每一次点击、每一次停留。&lt;/p>
+&lt;p>每一次滑动屏幕，都有数百万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p>
+&lt;p>而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong>PCB电路板&lt;/strong>。PCB电路板的&amp;quot;心脏&amp;quot;，叫做&lt;strong>覆铜板&lt;/strong>。&lt;/p>
+&lt;p>当AI大模型训练需要的数据量呈指数级增长，这些&amp;quot;心脏&amp;quot;的跳动频率也在加快。问题是：生产这些&amp;quot;心脏&amp;quot;的工厂，产能跟得上吗？&lt;/p>
+&lt;p>这就是今天市场疯狂追捧&lt;strong>华正新材&lt;/strong>的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年6月17日，A股PCB概念板块集体爆发，华正新材、深南电路、生益科技等多股涨停，科创50指数大涨超4%。&lt;/p>
+&lt;p>表面看，这是受AI算力需求持续爆发的刺激——英伟达新一代GPU发布，全球AI军备竞赛升级。按理说，AI算力利好芯片、利好光模块，和覆铜板八竿子打不着。但市场偏偏选了覆铜板——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的产业链传导逻辑&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI服务器的算力密度在提升，对PCB的性能要求也在跃迁&lt;/strong>。&lt;/p>
+&lt;p>华正新材，国内覆铜板行业领军企业，6月17日股价涨停，8天5板，续创历史新高。&lt;/p>
+&lt;p>不是因为&amp;quot;蹭热点&amp;quot;，而是因为它的&lt;strong>高速覆铜板已经开始批量供货AI服务器&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要了">【第一个故事】为什么突然重要了&lt;/h2>
+&lt;p>让我们回到那个刷短视频的场景。&lt;/p>
+&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家以为AI只是&amp;quot;软件的游戏&amp;quot;。&lt;/p>
+&lt;p>2024年，英伟达GPU一卡难求，市场意识到&amp;quot;算力才是瓶颈&amp;quot;。光模块、服务器开始涨价。&lt;/p>
+&lt;p>2026年，故事进入第三阶段：&lt;strong>AI服务器的性能瓶颈，已经从&amp;quot;算力芯片&amp;quot;转移到&amp;quot;信号传输&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为GPU算力和数据传输的关系，不是简单的&amp;quot;一对一&amp;quot;。一张高端GPU需要配合多张高速PCB板才能发挥全部性能。当AI模型参数量从百亿级扩展到万亿级时，数据传输的延迟和损耗成为新的瓶颈。&lt;/p>
+&lt;p>更关键的是，&lt;strong>高速覆铜板的技术门槛正在抬高&lt;/strong>。传统覆铜板已经无法满足AI服务器对低介电损耗、低热膨胀系数的要求。这意味着，行业正在从&amp;quot;低端产能过剩&amp;quot;向&amp;quot;高端供不应求&amp;quot;切换。&lt;/p>
+&lt;p>华正新材的&lt;strong>Ultra low loss等级高速覆铜板&lt;/strong>已经开始批量销售，应用于AI服务器、交换机、光模块等细分市场。无卤Ultra low loss等级材料已获得国际知名芯片终端认可。这不是概念，是&lt;strong>已经落地的订单&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>覆铜板行业的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——跟着铜价和下游需求波动，毛利率低、竞争格局差。这个逻辑在传统覆铜板时代是对的，但在高速覆铜板时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>2025年上半年营收20.95亿元&lt;/strong>，同比增长7.88%&lt;/li>
+&lt;li>&lt;strong>净利润4266.90万元&lt;/strong>，同比激增327.86%&lt;/li>
+&lt;li>&lt;strong>研发投入9487万元&lt;/strong>，同比增长4.79%，重点推进高端覆铜板、半导体封装材料&lt;/li>
+&lt;li>&lt;strong>高速覆铜板销售占比显著提升&lt;/strong>，产品结构持续优化&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着华正新材正在从&amp;quot;传统覆铜板制造商&amp;quot;变成&amp;quot;高端电子材料供应商&amp;quot;。传统的覆铜板跟着铜价和下游需求波动，但AI算力带来的需求是&lt;strong>结构性、持续性&lt;/strong>的——只要AI军备竞赛还在，高速覆铜板的需求就不会停。&lt;/p>
+&lt;p>市场愿意给华正新材更高估值的原因：它不再是一家&amp;quot;周期股&amp;quot;，而是&amp;quot;AI算力基础设施的卖铲人&amp;quot;。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是华正新材，而不是其他覆铜板公司？&lt;/p>
+&lt;p>覆铜板行业有很多玩家，为什么华正新材能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，技术领先。&lt;/strong> 华正新材在高速覆铜板领域已经实现Ultra low loss等级材料的批量销售，无卤Ultra low loss等级材料获国际知名芯片终端认可，Ultra low loss（Low CTE）材料通过国内头部终端认证。技术代际领先，竞争对手难以追赶。&lt;/p>
+&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> 高速覆铜板的客户认证周期长达1-2年，一旦进入供应链，切换成本极高。华正新材已经通过国内外头部终端认证，客户粘性强。&lt;/p>
+&lt;p>&lt;strong>第三，产能布局。&lt;/strong> 公司珠海基地于2024年下半年投产，2025年处于产能爬坡阶段；泰国覆铜板生产基地项目处于规划阶段，投资总额不超过6000万美元，未来将成为拓展海外市场的重要支点。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。华正新材花了&lt;strong>20多年&lt;/strong>，投入了&lt;strong>数十亿研发资金&lt;/strong>，才形成了今天的技术积累和客户资源。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品，但很难复制它的&lt;strong>技术沉淀和客户关系&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越聪明，数据传输量越大；传输量越大，高速覆铜板越紧缺；高速覆铜板越紧缺，华正新材越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求正在爆发式增长，对PCB的性能要求持续跃迁&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：AI服务器算力密度提升，高速覆铜板从&amp;quot;可选&amp;quot;变成&amp;quot;必需&amp;quot;&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：华正新材的Ultra low loss等级高速覆铜板已批量供货AI服务器，业绩进入高速增长期&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>中船特气：芯片制造的'呼吸'，国产替代的隐秘冠军</title><link>https://dondrub3.com/jibai/2026-06-16-%E4%B8%AD%E8%88%B9%E7%89%B9%E6%B0%94/</link><pubDate>Tue, 16 Jun 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-06-16-%E4%B8%AD%E8%88%B9%E7%89%B9%E6%B0%94/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在手机上下单了一部最新款的AI手机，三天后就收到了快递。你以为是物流高效，其实背后是一场精密到原子级别的制造协作。&lt;/p>
+&lt;p>每一次芯片的刻蚀、清洗、沉积，都需要数百种高纯度气体的精准配合。这些气体就像芯片制造过程中的&amp;quot;呼吸&amp;quot;——没有它们，再先进的制程设备也只是废铁。而在这些&amp;quot;呼吸&amp;quot;中，有一种气体专门负责在纳米级的电路之间搭建&amp;quot;桥梁&amp;quot;，它就是&lt;strong>六氟化钨&lt;/strong>。&lt;/p>
+&lt;p>当AI芯片的需求从&amp;quot;有没有&amp;quot;变成&amp;quot;够不够快&amp;quot;，六氟化钨的消耗量正在以指数级增长。问题是：生产这种&amp;quot;芯片呼吸&amp;quot;的工厂，产能跟得上吗？&lt;/p>
+&lt;p>这就是今天市场追捧中船特气的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年6月16日，工业气体概念板块集体拉升，中船特气股价创下近期新高。&lt;/p>
+&lt;p>表面看，这是受AI算力需求持续爆发的刺激——英伟达新品发布、国内大模型竞赛白热化。按理说，AI利好的是算力芯片、服务器整机，和工业气体八竿子打不着。但市场偏偏选了中船特气——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的产业链传导&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI芯片的军备竞赛，正在把上游材料逼入供不应求的临界点&lt;/strong>。&lt;/p>
+&lt;p>中船特气，国内电子特气龙头，全球六氟化钨产能第一，股价近期持续走强。&lt;/p>
+&lt;p>不是因为概念炒作，而是因为订单真的来了。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要了">【第一个故事】为什么突然重要了&lt;/h2>
+&lt;p>让我们回到那个&amp;quot;芯片呼吸&amp;quot;的比喻。&lt;/p>
+&lt;p>2023年，ChatGPT引爆全球AI热潮，市场开始炒作算力概念。但当时大家关注的是&amp;quot;谁有GPU&amp;quot;——英伟达、AMD、国内的算力租赁商。&lt;/p>
+&lt;p>2024年，市场意识到&amp;quot;有GPU不够，还得有光模块&amp;quot;——中际旭创、新易盛等光通信公司开始被重估。&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>市场终于发现，没有电子特气，光模块和GPU都只是空中楼阁&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为先进制程芯片的制造，和电子特气的关系，不是简单的&amp;quot;一对一&amp;quot;。一张H100芯片的制造，需要消耗数十倍于传统芯片的特种气体。当AI芯片从&amp;quot;小规模试验&amp;quot;扩展到&amp;quot;大规模量产&amp;quot;时，电子特气的需求量不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>更关键的是，2025年全球六氟化钨市场出现了供给缺口。日本产能供货卡壳，海外大厂急需寻找替代货源。这意味着，&lt;strong>拥有全球最大六氟化钨生产基地的中船特气，迎来了历史性的窗口期&lt;/strong>。&lt;/p>
+&lt;p>中船特气的高纯度六氟化钨已经开始放量供应国内外头部晶圆厂。这不是概念，是已经到账的订单。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>电子特气的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;化工周期股&amp;quot;来估值——看产能利用率、看产品价格波动、看下游景气度。这个逻辑在传统半导体时代是对的，但在AI驱动的先进制程时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>2025年营收22.6亿元，同比增长15.88%&lt;/li>
+&lt;li>2025年净利润3.46亿元，同比增长12.43%&lt;/li>
+&lt;li>三氟甲磺酸系列产品产能居世界第一，客户覆盖中国、印度、日本&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着中船特气正在从&amp;quot;化工供应商&amp;quot;变成&amp;quot;半导体基础设施&amp;quot;。传统的化工产品跟着下游景气度波动，但AI芯片带来的电子特气需求是刚性且持续的——只要算力竞赛还在，气体消耗就不会停。&lt;/p>
+&lt;p>市场愿意给中船特气更高估值的原因：它不再是一家&amp;quot;卖气体的化工厂&amp;quot;，而是&amp;quot;芯片制造的呼吸系统&amp;quot;。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是中船特气，而不是其他电子特气公司？&lt;/p>
+&lt;p>电子特气行业有很多玩家，为什么中船特气能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，技术代差。&lt;/strong> 中船特气的六氟化钨纯度达到99.999%以上，这是国内唯一能稳定供应先进制程（7nm及以下）的厂商。技术门槛有多高？全球能做到这个纯度的，不超过5家。&lt;/p>
+&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> 电子特气进入晶圆厂的供应链，需要2-3年的认证周期。一旦认证通过，切换供应商的成本极高——任何气体纯度的波动都可能导致整批晶圆报废。中船特气已经进入台积电、中芯国际、长江存储等头部客户的供应链，这种关系不是一朝一夕能复制的。&lt;/p>
+&lt;p>&lt;strong>第三，规模效应。&lt;/strong> 公司拥有全球最大六氟化钨生产基地，三氟甲磺酸产能660吨、双（三氟甲磺酰）亚胺锂最大产能600吨，均居世界第一。规模带来的成本优势，让竞争对手难以在价格上形成威胁。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。中船特气花了20年，投入了数十亿研发资金，才形成了今天的技术积累和产能布局。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品规格，但很难复制它的认证关系、技术沉淀和规模效应。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越聪明，芯片制程越先进；制程越先进，电子特气消耗量越大；消耗量越大，中船特气越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI算力需求爆发带动先进制程芯片产能扩张，六氟化钨等电子特气出现供给缺口&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：全球六氟化钨供需关系、国产替代进程、先进制程渗透率&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：中船特气拥有全球最大六氟化钨产能，技术纯度领先，已进入头部晶圆厂供应链，订单持续放量&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>铜冠铜箔：AI时代的'血管'，为什么是它？</title><link>https://dondrub3.com/jibai/2026-06-15-%E9%93%9C%E5%86%A0%E9%93%9C%E7%AE%94/</link><pubDate>Mon, 15 Jun 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-06-15-%E9%93%9C%E5%86%A0%E9%93%9C%E7%AE%94/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在手机上刷到一条&amp;quot;如何挑选猫粮&amp;quot;的短视频，两分钟后打开购物App，首页就精准推送了几款热门猫粮。你以为是巧合，其实背后是AI大模型在实时分析你的每一次点击、每一次停留。&lt;/p>
+&lt;p>每一次滑动屏幕，都有成千上万台AI服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p>
+&lt;p>而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong>高端铜箔&lt;/strong>。&lt;/p>
+&lt;p>当AI大模型变得越来越聪明，这些&amp;quot;血管&amp;quot;的需求量也在爆发式增长。问题是：生产这些&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p>
+&lt;p>这就是今天市场疯狂追捧&lt;strong>铜冠铜箔&lt;/strong>的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年6月15日，创业板指大涨近5%，PCB概念板块掀起涨停潮。截至收盘，逾30只个股涨停或涨超10%，板块指数单日大涨6.8%。铜冠铜箔（301217.SZ）领涨，年内累计涨超396%。&lt;/p>
+&lt;p>表面看，这是受美伊停火协议的刺激——全球股市集体大涨，资金风险偏好回升。&lt;strong>按理说，中东停火利好石油、黄金，和铜箔八竿子打不着。但市场偏偏选了铜箔&lt;/strong>——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的风险偏好回升&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI算力需求正在从&amp;quot;预期&amp;quot;走向&amp;quot;兑现&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>铜冠铜箔，国内电子铜箔领域的领军企业，2026年一季度净利润同比暴涨2138.17%。&lt;/p>
+&lt;p>不是因为中东停火，而是因为AI服务器对高端铜箔的需求正在爆发。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
+&lt;p>&lt;strong>让我们回到那个刷短视频的场景。&lt;/strong>&lt;/p>
+&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家只看到了&amp;quot;算力&amp;quot;，没看到&amp;quot;连接算力的血管&amp;quot;。&lt;/p>
+&lt;p>2024年，英伟达新一代GPU发布，市场意识到：光有芯片不够，数据传输才是瓶颈。一台AI服务器需要的HVLP（高频超低轮廓）铜箔，是传统服务器的8倍。&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>国产HVLP铜箔开始放量&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为AI芯片和数据传输的关系，不是简单的&amp;quot;一对一&amp;quot;。一张高端GPU需要搭配多层高速PCB板，而每张PCB板需要数平方米的HVLP铜箔。当AI服务器从&amp;quot;实验室&amp;quot;扩展到&amp;quot;数据中心&amp;quot;时，HVLP铜箔的需求量不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>更关键的是，2024年之前，高端HVLP铜箔几乎被日韩企业垄断，国产替代空间巨大。&lt;/p>
+&lt;p>铜冠铜箔的HVLP铜箔2025年上半年产量已超越2024年全年水平。这不是概念，是订单。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>&lt;strong>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/strong>&lt;/p>
+&lt;p>铜箔行业的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——跟着铜价波动、跟着下游需求波动。这个逻辑在&amp;quot;低端铜箔时代&amp;quot;是对的，但在&amp;quot;高端铜箔时代&amp;quot;需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>2025年上半年公司归母净利润3495万元，同比由亏转盈&lt;/li>
+&lt;li>高端HVLP铜箔产量已超去年全年水平&lt;/li>
+&lt;li>高频高速基板用铜箔（HVLP+RTF）产量占PCB铜箔总产量的比例已突破30%&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着铜冠铜箔正在从&amp;quot;低端代工&amp;quot;变成&amp;quot;高端供应商&amp;quot;。传统的铜箔需求跟着铜价波动，但AI服务器带来的需求是&amp;quot;刚性&amp;quot;的——只要AI还在发展，高端铜箔的需求就不会停。&lt;/p>
+&lt;p>市场愿意给铜冠铜箔更高估值的原因：它不再是一家&amp;quot;材料加工厂&amp;quot;，而是&amp;quot;AI基础设施的血管供应商&amp;quot;。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>&lt;strong>估值重构给了买入的理由，但问题是——为什么是铜冠铜箔，而不是其他铜箔公司？&lt;/strong>&lt;/p>
+&lt;p>铜箔行业有很多玩家，为什么铜冠铜箔能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，技术领先。&lt;/strong> 公司拥有多条HVLP铜箔完整产线，2024年推出了性能更优的HVLP2铜箔，关键表面粗糙度指标进一步降低了20%，性能已与国际先进水平接轨，并首次实现出口。&lt;/p>
+&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> 高端铜箔的认证周期长达1-2年，一旦进入供应链，切换成本极高。铜冠铜箔已获得国际著名终端企业认证，在AI服务器等高端产品上获得广泛应用。&lt;/p>
+&lt;p>&lt;strong>第三，规模效应。&lt;/strong> 公司拥有电子铜箔产品总产能8万吨/年，是国内产能最大的铜箔企业之一。规模优势带来成本优势，成本优势带来定价权。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。铜冠铜箔花了15年，从2010年成立之初依赖低端锂电铜箔代工，到2021年攻克高端HVLP铜箔、实现国际市场零的突破，再到如今业绩迎来指数级增长。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品，但很难复制它的&amp;quot;时间+投入&amp;quot;。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越聪明，数据传输量越大；传输量越大，HVLP铜箔越紧缺；HVLP铜箔越紧缺，铜冠铜箔越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求正在爆发式增长，AI服务器对高端铜箔的需求激增。&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：单台AI服务器需要的HVLP铜箔是传统服务器的8倍，且国产替代空间巨大。&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：作为国内高端铜箔龙头，铜冠铜箔的HVLP铜箔产量已超去年全年，业绩进入高速增长期。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>佰维存储：你的手机相册，正在催生一家百亿级芯片公司</title><link>https://dondrub3.com/jibai/2026-06-12-%E4%BD%B0%E7%BB%B4%E5%AD%98%E5%82%A8/</link><pubDate>Fri, 12 Jun 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-06-12-%E4%BD%B0%E7%BB%B4%E5%AD%98%E5%82%A8/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚用手机拍了一段4K视频，两分钟后打开相册，那段视频已经自动同步到云端，还能流畅地分享给朋友。你以为是手机快，其实背后是&lt;strong>存储芯片&lt;/strong>在毫秒级地完成读写、压缩、传输。&lt;/p>
+&lt;p>每一次拍照、每一段视频、每一个APP的加载，都有成千上万颗存储芯片在同时工作。这些芯片之间，需要&lt;strong>高速、稳定、大容量的数据存取&lt;/strong>——就像人体的记忆系统，既要记得快，又要记得准，还要记得久。&lt;/p>
+&lt;p>而实现这种&amp;quot;记忆功能&amp;quot;的核心部件，叫做&lt;strong>存储芯片&lt;/strong>。&lt;/p>
+&lt;p>当AI手机、AI电脑开始普及，这些&amp;quot;数字记忆&amp;quot;的需求量正在呈指数级增长。问题是：生产这些芯片的工厂，产能跟得上吗？&lt;/p>
+&lt;p>这就是今天市场疯狂追捧&lt;strong>佰维存储&lt;/strong>的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2025年6月12日，存储芯片概念表现活跃，佰维存储股价续创新高。&lt;/p>
+&lt;p>表面看，这是受美伊局势缓和的刺激——全球风险偏好回升，科技股集体反弹。按理说，中东局势利好石油、黄金，和存储芯片八竿子打不着。但市场偏偏选了存储芯片——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;&lt;strong>AI算力需求正在从云端走向终端&lt;/strong>&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>存储芯片行业正从周期底部走向景气上行&lt;/strong>。&lt;/p>
+&lt;p>佰维存储，作为国内领先的存储芯片设计+封测一体化企业，2025年营收预计突破113亿元，同比增长近70%。&lt;/p>
+&lt;p>不是因为&amp;quot;概念炒作&amp;quot;，而是因为&lt;strong>AI驱动的存储需求爆发，叠加行业涨价周期，公司进入了业绩兑现期&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
+&lt;p>让我们回到那个拍视频的场景。&lt;/p>
+&lt;p>2023年，ChatGPT引爆AI热潮，市场开始炒作&amp;quot;AI概念股&amp;quot;。但当时大家只关注算力——GPU、服务器、大模型。存储芯片？那只是&amp;quot;配套&amp;quot;而已。&lt;/p>
+&lt;p>2024年，市场意识到：没有存储，算力就是无米之炊。AI训练需要海量数据缓存，AI推理需要高速读写支持。存储芯片从&amp;quot;配角&amp;quot;变成了&amp;quot;刚需&amp;quot;。&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>AI从云端走向终端&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为AI手机和AI电脑的关系，不是简单的&amp;quot;软件升级&amp;quot;。一部普通手机需要8GB内存，一部AI手机需要16GB甚至24GB；一台普通电脑需要512GB存储，一台AI电脑需要1TB起步。当智能终端从&amp;quot;尝鲜&amp;quot;扩展到&amp;quot;普及&amp;quot;时，存储芯片的需求量不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>更关键的是，&lt;strong>存储芯片正在涨价&lt;/strong>。2025年11月，SanDisk发布涨价函，NAND闪存合约价格大幅上调50%。这意味着什么？意味着存储行业已经从&amp;quot;价格战&amp;quot;转向&amp;quot;产能战&amp;quot;，掌握技术和产能的公司将收割周期红利。&lt;/p>
+&lt;p>佰维存储的&lt;strong>eMMC、UFS、SSD&lt;/strong>产品线已经开始放量，客户覆盖全球头部手机厂商。这不是概念，是&lt;strong>已经到账的订单&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>存储芯片的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——看存储价格涨跌、看库存周期、看供需平衡。这个逻辑在&amp;quot;存储作为 commodity&amp;quot;的时代是对的，但在&amp;quot;存储作为 AI 基础设施&amp;quot;的时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>2025年营收113.02亿元，同比增长68.82%&lt;/strong>——营收规模较2024年近乎翻倍&lt;/li>
+&lt;li>&lt;strong>扣非净利润增长1072.25%&lt;/strong>——盈利能力大幅改善，告别亏损&lt;/li>
+&lt;li>&lt;strong>大力拓展全球头部客户&lt;/strong>——从&amp;quot;国产替代&amp;quot;走向&amp;quot;全球竞争&amp;quot;&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着佰维存储正在从&amp;quot;&lt;strong>周期驱动的代工厂&lt;/strong>&amp;ldquo;变成&amp;rdquo;&lt;strong>技术驱动的品牌厂商&lt;/strong>&amp;quot;。传统的存储需求跟着消费电子周期波动，但AI带来的需求是&lt;strong>结构性、持续性&lt;/strong>的——只要AI还在迭代，智能终端还在升级，存储需求就不会停。&lt;/p>
+&lt;p>市场愿意给佰维存储更高估值的原因：它不再是一家&amp;quot;跟着周期吃饭&amp;quot;的芯片公司，而是&amp;quot;&lt;strong>AI时代的数据基础设施提供商&lt;/strong>&amp;quot;。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是佰维存储，而不是其他存储芯片公司？&lt;/p>
+&lt;p>存储芯片行业有很多玩家，为什么佰维存储能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，技术领先。&lt;/strong> 佰维存储是国内少数具备&amp;quot;设计+封测&amp;quot;一体化能力的存储厂商——从芯片设计到封装测试，全流程自主可控。这意味着更快的迭代速度、更低的成本、更强的定制化能力。&lt;/p>
+&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> 存储芯片进入手机、电脑的供应链，需要经过长达1-2年的认证周期。一旦进入，客户切换成本极高。佰维存储已经打入全球头部手机厂商供应链，这种&amp;quot;先发优势&amp;quot;不是后来者能轻易复制的。&lt;/p>
+&lt;p>&lt;strong>第三，产能布局。&lt;/strong> 公司在深圳、合肥等地建有先进的封测产线，产能规模位居国内前列。在存储涨价周期中，产能就是利润——你能生产多少，就能卖出多少。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。佰维存储花了&lt;strong>10余年&lt;/strong>，投入了&lt;strong>数十亿研发资金&lt;/strong>，才形成了今天的技术积累和客户基础。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品规格，但很难复制它的&lt;strong>产业生态&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越普及，终端存储需求越大；存储需求越大，涨价周期越长；涨价周期越长，佰维存储越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI驱动的智能终端升级，带动存储芯片需求爆发，行业进入涨价周期&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：AI手机/电脑渗透率提升 → 单机存储容量翻倍 → 存储芯片量价齐升&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：佰维存储作为国内存储芯片龙头，技术+客户+产能三重壁垒，业绩进入高速增长期&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>新易盛：当AI的'血管'开始堵车</title><link>https://dondrub3.com/jibai/2026-06-11-%E6%96%B0%E6%98%93%E7%9B%9B/</link><pubDate>Thu, 11 Jun 2026 20:30:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-06-11-%E6%96%B0%E6%98%93%E7%9B%9B/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在ChatGPT里输入了一个复杂的问题，几秒钟后，它给出了一个详尽而准确的回答。你以为是魔法，其实背后是成千上万台服务器在并行运算。&lt;/p>
+&lt;p>每一次提问，都有数以亿计的数据包在全球数据中心之间穿梭。这些数据中心之间，需要超高带宽、超低延迟的连接——就像人体的血管输送血液一样，一旦堵塞，整个系统就会瘫痪。&lt;/p>
+&lt;p>而连接这些AI数据中心的&amp;quot;血管&amp;quot;，叫做&lt;strong>光模块&lt;/strong>。&lt;/p>
+&lt;p>当AI大模型变得越来越聪明，这些&amp;quot;血管&amp;quot;里的数据流量也在指数级增长。问题是：生产这些高端&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p>
+&lt;p>这就是今天市场剧烈波动背后的核心焦虑。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年6月11日，CPO（光电共封装）概念股集体回落，新易盛盘中一度大跌超8%，最终收跌4.55%。&lt;/p>
+&lt;p>表面看，这是受英伟达股价回调的拖累——全球AI芯片龙头下跌，产业链跟着承压。按理说，英伟达跌利好AMD、利好英特尔，和光模块八竿子打不着。但市场偏偏选了光模块——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的预期修正&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI算力投资正在从&amp;quot;野蛮扩张&amp;quot;走向&amp;quot;精算回报&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>新易盛，全球光模块龙头之一，股价从年初的高点已回调近30%。&lt;/p>
+&lt;p>不是因为业绩不好，而是因为市场在重新评估：当AI基础设施投资开始算细账，光模块的高增长还能持续多久？&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要了">【第一个故事】为什么突然重要了&lt;/h2>
+&lt;p>让我们回到那个ChatGPT回答问题的场景。&lt;/p>
+&lt;p>2023年，ChatGPT爆火，市场开始炒AI概念。但当时大家只关注&amp;quot;谁在做大模型&amp;quot;——OpenAI、谷歌、百度。&lt;/p>
+&lt;p>2024年，市场意识到&amp;quot;卖铲子的比挖金子的更赚钱&amp;quot;——英伟达、AMD的芯片供不应求。光模块作为芯片的&amp;quot;配套血管&amp;quot;，开始被关注。&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>光模块从&amp;quot;配角&amp;quot;变成了&amp;quot;瓶颈&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为GPU和光模块的关系，不是简单的&amp;quot;一对一&amp;quot;。一张英伟达H100需要8个800G光模块，一张B200需要更多。当数据中心从&amp;quot;百卡级&amp;quot;扩展到&amp;quot;万卡级&amp;quot;时，光模块的需求量不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>更关键的是，技术迭代到了临界点。800G正在放量，1.6T即将商用。这意味着，旧产能需要淘汰，新产能亟待释放。&lt;/p>
+&lt;p>新易盛的800G产品已经批量出货，1.6T产品正在客户验证中。这不是概念，是已经写在财报里的数字——2025年Q1，营收40.52亿元，同比增长264%；净利润15.73亿元，同比增长385%。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>光模块的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;通信设备配件&amp;quot;来估值——跟着运营商资本开支波动，周期性明显，给20倍PE都算高。这个逻辑在4G时代是对的，但在AI时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>毛利率49.16%&lt;/strong>——比行业平均高出近20个百分点&lt;/li>
+&lt;li>&lt;strong>净利率33.27%&lt;/strong>——在制造业里堪称奢侈&lt;/li>
+&lt;li>&lt;strong>ROE 14.52%&lt;/strong>——单季度数据，年化后更加惊人&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着新易盛正在从&amp;quot;通信配件商&amp;quot;变成&amp;quot;AI基础设施供应商&amp;quot;。传统的光模块跟着运营商预算波动，但AI带来的需求是刚性且持续的——只要大模型还在训练，只要推理需求还在增长，光模块就停不下来。&lt;/p>
+&lt;p>市场愿意给新易盛更高估值的原因：它不再是一家&amp;quot;周期股&amp;quot;，而是&amp;quot;AI时代的卖水人&amp;quot;。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是新易盛，而不是其他光模块公司？&lt;/p>
+&lt;p>光模块行业有很多玩家，为什么新易盛能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，技术领先。&lt;/strong> 新易盛是国内最早量产800G光模块的厂商之一，1.6T产品也已进入客户验证阶段。在光通信这个技术迭代极快的行业，先发优势就是护城河。&lt;/p>
+&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> 光模块需要通过设备商和云厂商的严格认证，周期长达6-12个月。新易盛已经进入英伟达、谷歌、亚马逊等全球顶级云厂商的供应链，客户切换成本极高。&lt;/p>
+&lt;p>&lt;strong>第三，规模效应。&lt;/strong> 新易盛的产能规模在国内数一数二，单位成本比竞争对手低10-15%。在价格敏感的光模块市场，这意味着更高的利润率和更强的定价权。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。新易盛花了近10年，投入了数十亿研发资金，才形成了今天的技术积累和客户关系。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品，但很难复制它的生态。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越聪明，数据中心越拥挤；数据中心越拥挤，光模块越紧缺；光模块越紧缺，新易盛越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求正在爆发式增长，数据中心的算力规模持续扩张，光模块作为核心连接器件迎来历史性机遇。&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：算力规模越大，光模块的需求量就越大，且新一代GPU对高速光模块的依赖度更高。技术迭代（800G→1.6T）带来产品升级和单价提升。&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：作为全球光模块龙头，新易盛的800G产品已经放量，1.6T产品即将商用，业绩进入高速增长期，毛利率和净利率均处于行业领先水平。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>中国平安：连续14年分红的背后，是'保险+医疗养老'的双轮驱动</title><link>https://dondrub3.com/jibai/2026-06-10-%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89/</link><pubDate>Wed, 10 Jun 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-06-10-%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在医院做完体检，报告上几个指标飘红。医生建议你定期复查，但你心里没底——什么时候该去？去哪家医院？排队要多久？你正发愁，手机突然弹出一条消息：&amp;ldquo;您的平安家庭医生已为您预约三甲医院专家号，下周三上午9点。&amp;rdquo;&lt;/p>
+&lt;p>你以为是巧合，其实背后是一套&lt;strong>管理式医疗体系&lt;/strong>在实时运转。&lt;/p>
+&lt;p>每一次就医，都有成千上万名医生、护士、AI助手在协同。这些医疗服务之间，需要&lt;strong>一个整合支付方和供应方的枢纽&lt;/strong>——就像人体的神经系统协调各个器官一样。&lt;/p>
+&lt;p>而扮演这个&amp;quot;神经系统&amp;quot;角色的，叫做&lt;strong>综合金融+医疗养老生态圈&lt;/strong>。&lt;/p>
+&lt;p>当中国60岁以上人口突破3亿，当&amp;quot;看病难、养老难&amp;quot;成为每个家庭的痛点，这种&amp;quot;保险+服务&amp;quot;的模式正在从&amp;quot;可选&amp;quot;变成&amp;quot;必需&amp;quot;。问题是：能把这套体系跑通的公司，有几家？&lt;/p>
+&lt;p>这就是今天市场重新审视中国平安的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年3月26日，中国平安发布2025年年报，宣布全年现金分红总额488.91亿元，连续14年保持上涨。&lt;/p>
+&lt;p>表面看，这是受业绩增长的刺激——归母营运利润1,344.15亿元，同比增长10.3%；扣非净利润1,437.73亿元，同比增长22.5%。按理说，业绩好利好股价、利好短期情绪，和&lt;strong>长期分红能力&lt;/strong>八竿子打不着。但市场偏偏选了&amp;quot;连续14年分红增长&amp;quot;这个点——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的确定性&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>在利率下行、资产荒的时代，能持续创造稳定现金流、并愿意与股东分享的公司，正在获得估值溢价&lt;/strong>。&lt;/p>
+&lt;p>中国平安，国内保险行业龙头，2025年寿险新业务价值368.97亿元，同比增长29.3%。&lt;/p>
+&lt;p>不是因为&amp;quot;保险卖得好&amp;quot;这个表面原因，而是因为&amp;quot;综合金融+医疗养老&amp;quot;双轮驱动战略正在进入收获期。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要了">【第一个故事】为什么突然重要了&lt;/h2>
+&lt;p>让我们回到那个体检报告飘红的场景。&lt;/p>
+&lt;p>2020年，平安提出&amp;quot;综合金融+医疗养老&amp;quot;战略，市场开始关注。但当时大家认为这是&amp;quot;概念&amp;quot;——保险和医疗养老，看起来是两个行业，怎么整合？&lt;/p>
+&lt;p>2023年，平安医疗养老生态圈初步成型，市场意识到这可能是一条差异化路径。但质疑仍在：这种模式能赚钱吗？&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>医疗养老正在成为第二增长曲线&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为保险和医疗养老的关系，不是简单的&amp;quot;1+1&amp;quot;。&lt;strong>1个持有医疗养老权益的客户，其寿险新单件均保费是普通客户的1.5倍；居家养老权益客户，件均提升至5.2倍；高品质养老权益客户，件均更是提升至23.4倍&lt;/strong>。当客户从&amp;quot;买保险&amp;quot;扩展到&amp;quot;买服务&amp;quot;时，客户价值不是线性增加，而是指数级放大。&lt;/p>
+&lt;p>更关键的是，2025年平安寿险使用医疗养老服务的客户数达到1,829.8万人，享有医疗养老生态圈服务权益的客户留存率高达93%。这意味着，医疗养老不仅是获客工具，更是&lt;strong>锁定客户终身价值&lt;/strong>的护城河。&lt;/p>
+&lt;p>平安的&amp;quot;管理式医疗模式&amp;quot;已经开始兑现。这不是概念，是&lt;strong>实实在在的保费增长和利润贡献&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>保险股的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——看投资收益、看利率环境、看股市涨跌。这个逻辑在资产驱动时代是对的，但在服务驱动时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>2025年寿险新业务价值368.97亿元，同比增长29.3%&lt;/strong>——这是衡量寿险增长质量的核心指标&lt;/li>
+&lt;li>&lt;strong>新业务价值率28.5%，同比上升5.8个百分点&lt;/strong>——说明保单质量在提升，不是&amp;quot;赔本赚吆喝&amp;quot;&lt;/li>
+&lt;li>&lt;strong>代理人渠道人均新业务价值同比增长17.2%&lt;/strong>——说明代理人效率在提升，不是靠&amp;quot;人海战术&amp;quot;&lt;/li>
+&lt;li>&lt;strong>银保渠道新业务价值同比增长138.0%&lt;/strong>——说明多渠道战略见效&lt;/li>
+&lt;li>&lt;strong>13个月保单继续率97.4%，25个月保单继续率94.9%&lt;/strong>——说明客户满意度高，续保意愿强&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着中国平安正在从&amp;quot;卖保单的公司&amp;quot;变成&amp;quot;管理客户全生命周期风险与健康的平台&amp;quot;。传统的保险需求跟着经济周期波动，但医疗养老带来的需求是&lt;strong>刚性且持续增长&lt;/strong>的——只要人口老龄化还在，只要医疗需求还在，这个飞轮就不会停。&lt;/p>
+&lt;p>市场愿意给中国平安全新估值的原因：它不再是一家保险公司，而是&lt;strong>中国领先的医疗生态运营商&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是中国平安，而不是其他保险公司？&lt;/p>
+&lt;p>保险行业有很多玩家，为什么平安能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，综合金融的账户锁定效应。&lt;/strong> 截至2025年末，集团个人客户数2.51亿，持有3类及以上产品的客户留存率高达99%。客户一旦在平安开了多个账户，切换成本极高。&lt;/p>
+&lt;p>&lt;strong>第二，医疗养老生态的护城河。&lt;/strong> 平安拥有约5万名内外部医生团队，签约专家医生超3,500位，国内合作理赔服务医院数超3.7万家，国内百强医院和三甲医院合作覆盖率100%。这不是一朝一夕能复制的。&lt;/p>
+&lt;p>&lt;strong>第三，科技赋能的降本增效。&lt;/strong> 2025年，AI医生辅助诊疗准确率95.1%，AI坐席服务量约17.02亿次，覆盖80%的客服总量。科技不仅提升了客户体验，更降低了服务成本——第四季度单次问诊成本同比下降45%。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。平安花了&lt;strong>十几年&lt;/strong>，投入了&lt;strong>数千亿&lt;/strong>，才形成了今天的医疗养老生态圈。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品，但很难复制它的&lt;strong>生态整合能力&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>老龄化越深入，医疗养老需求越旺盛；医疗养老需求越旺盛，平安生态圈的价值越凸显；生态圈价值越凸显，中国平安越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：中国进入&amp;quot;长寿时代&amp;quot;，60岁以上人口突破3亿，高质量医疗养老服务成为迫切需求&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：医疗养老权益能显著提升客户价值（件均保费提升1.5-23.4倍），并带来极高的客户留存率（93%）&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：中国平安凭借&amp;quot;综合金融+医疗养老&amp;quot;双轮驱动，新业务价值增长29.3%，连续14年分红上涨，正在从保险公司转型为医疗生态运营商&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>盛新锂能：你手机电池里的'白色石油'，正在经历一场静默革命</title><link>https://dondrub3.com/jibai/2026-06-09-%E7%9B%9B%E6%96%B0%E9%94%82%E8%83%BD/</link><pubDate>Tue, 09 Jun 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-06-09-%E7%9B%9B%E6%96%B0%E9%94%82%E8%83%BD/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在手机上看完一条关于新能源汽车的视频，十分钟后打开购物App，首页就跳出了几款车载充电器的推荐。你以为是巧合，其实背后是算法在实时分析你的每一次点击、每一次停留。&lt;/p>
+&lt;p>每一次滑动屏幕，都有成千上万台服务器在运算；每一次运算，都需要消耗电力；而每一度电的存储，都离不一种银白色的金属——锂。&lt;/p>
+&lt;p>全球每年生产的锂电池超过10亿块。这些电池里，都需要一种核心材料——就像人体的血液输送氧气一样。&lt;/p>
+&lt;p>而生产这种核心材料的公司，叫做&lt;strong>盛新锂能&lt;/strong>。&lt;/p>
+&lt;p>当你的手机从20%充到100%，当你的电动车从城市的一头开到另一头，当储能电站把白天的太阳能留到夜晚使用——这些场景的背后，都有盛新锂能生产的锂盐在发挥作用。&lt;/p>
+&lt;p>问题是：当新能源革命加速，这些&amp;quot;白色石油&amp;quot;的供给，跟得上吗？&lt;/p>
+&lt;p>这就是今天市场追捧盛新锂能的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2025年6月9日，锂矿概念板块午后震荡反弹，盛新锂能强势涨停，天华新能、国城矿业、永杉锂业、融捷股份、赣锋锂业、永兴材料纷纷跟涨。&lt;/p>
+&lt;p>表面看，这是受中国5月出口数据超预期的刺激——出口同比增19.4%，贸易顺差1054.3亿美元，市场情绪整体回暖。按理说，出口数据利好制造业、利好出口型企业，和锂矿这种上游资源股八竿子打不着。但市场偏偏选了锂矿——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的风险偏好回升与产业周期拐点&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>锂价正在从&amp;quot;暴跌寻底&amp;quot;走向&amp;quot;供需再平衡&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>盛新锂能，中国锂业龙头之一，手握130万吨LCE（碳酸锂当量）资源储备，拥有13.7万吨锂盐产能，今日强势涨停。&lt;/p>
+&lt;p>不是因为出口数据好看，而是因为市场开始意识到——锂价的至暗时刻可能已经过去。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要了">【第一个故事】为什么突然重要了&lt;/h2>
+&lt;p>让我们回到那个充电的场景。&lt;/p>
+&lt;p>2022年，碳酸锂价格从5万元/吨飙升至近60万元/吨，市场开始疯狂追捧锂矿股。但当时大家只看到了&amp;quot;涨价&amp;quot;，没看懂&amp;quot;周期&amp;quot;。&lt;/p>
+&lt;p>2023-2024年，全球锂矿产能大扩张，碳酸锂价格一路暴跌至5万元/吨以下，市场陷入恐慌，锂矿股被杀得片甲不留。&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>供需格局正在发生微妙变化&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为新能源汽车和储能的需求，不是简单的&amp;quot;线性增长&amp;quot;。2025年全球新能源汽车销量预计突破2000万辆，储能装机量预计翻倍。当&amp;quot;电动化&amp;quot;从&amp;quot;政策驱动&amp;quot;扩展到&amp;quot;市场自发&amp;quot;，当储能电站从&amp;quot;示范工程&amp;quot;变成&amp;quot;标配设施&amp;quot;，锂的需求量不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>更关键的是，&lt;strong>供给端出现了结构性瓶颈&lt;/strong>。全球优质锂矿资源稀缺，新建矿山从勘探到投产需要5-7年；盐湖提锂虽然成本低，但扩产周期长、技术门槛高。这意味着，即使现在锂价低迷，真正的供给释放也要等到2028年以后。&lt;/p>
+&lt;p>盛新锂能的印尼6万吨锂盐项目已经投产，木绒锂矿300万吨/年产能正在建设中，阿根廷盐湖项目稳步推进。这不是概念，是实打实的产能释放。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>锂矿股的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——看锂价、算利润、给PE。这个逻辑在锂价波动剧烈的时候是对的，但在新能源革命的大背景下需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>资源储备&lt;/strong>：盛新锂能手握130万吨LCE资源，包括四川木绒锂矿（品位1.62%，四川最高）、津巴布韦萨比星锂矿（品位1.98%，当地最高）、阿根廷盐湖项目&lt;/li>
+&lt;li>&lt;strong>产能规模&lt;/strong>：已建成锂盐产能13.7万吨，位居世界前列；金属锂产能500吨，超薄锂带已批量供货&lt;/li>
+&lt;li>&lt;strong>客户结构&lt;/strong>：比亚迪、宁德时代、中创新航、SK On、LGES等头部电池企业都是其客户&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着盛新锂能正在从&amp;quot;单纯的锂盐加工企业&amp;quot;变成&amp;quot;资源+技术双驱动的综合锂业平台&amp;quot;。传统的周期股跟着商品价格波动，但资源+技术的双轮驱动带来的竞争优势是结构性的——只要新能源革命还在，需求就不会停。&lt;/p>
+&lt;p>市场愿意给盛新锂能更高估值的原因：它不再是一家&amp;quot;加工企业&amp;quot;，而是新能源产业链的&amp;quot;基础设施&amp;quot;。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是盛新锂能，而不是其他锂业公司？&lt;/p>
+&lt;p>锂行业有很多玩家，为什么盛新锂能能脱颖而出？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，资源禀赋优异。&lt;/strong> 木绒锂矿Li2O品位1.62%，是四川地区品位最高的矿山之一；萨比星锂矿品位1.98%，是津巴布韦品位最高的在产矿山。高品位意味着低开采成本、高经济效益。&lt;/p>
+&lt;p>&lt;strong>第二，垂直一体化布局。&lt;/strong> 从锂矿采选到锂盐生产，再到金属锂深加工，盛新锂能已形成完整产业链。这种一体化不仅降低成本，更重要的是保障供应链安全——在资源争夺日益激烈的今天，这是核心竞争力。&lt;/p>
+&lt;p>&lt;strong>第三，技术领先。&lt;/strong> 公司已成功实现超薄超宽锂带批量生产，这是固态电池的关键材料。当行业还在争论固态电池什么时候量产时，盛新锂能已经卡位上游材料环节。&lt;/p>
+&lt;p>&lt;strong>第四，全球化产能。&lt;/strong> 印尼6万吨锂盐项目是海外建成的产能规模最大的矿石提锂项目，阿根廷盐湖项目稳步推进。这种全球化布局，让盛新锂能既能服务中国客户，也能触达欧美市场。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。盛新锂能花了10多年时间，投入了上百亿资金，才形成了今天的资源+技术+产能的综合竞争力。&lt;/p>
+&lt;p>竞争对手可以模仿它的某一项业务，但很难复制它的整体生态。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>电动车越普及，锂的需求越旺盛；锂的需求越旺盛，优质资源越稀缺；优质资源越稀缺，盛新锂能越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：全球新能源汽车和储能需求持续增长，锂作为核心原材料的战略地位日益凸显&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：锂价经历两年暴跌后，供需格局正在边际改善；优质锂矿资源的稀缺性将长期存在&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：盛新锂能手握130万吨LCE资源、13.7万吨锂盐产能，垂直一体化布局+固态电池材料卡位，具备长期竞争优势&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>中望软件：当物理世界遇上AI，CAD龙头迎来新叙事</title><link>https://dondrub3.com/jibai/2026-06-08-%E4%B8%AD%E6%9C%9B%E8%BD%AF%E4%BB%B6/</link><pubDate>Mon, 08 Jun 2026 19:30:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-06-08-%E4%B8%AD%E6%9C%9B%E8%BD%AF%E4%BB%B6/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在手机上刷到一个新款机械键盘的测评视频，三天后打开淘宝，首页就精准推荐了同款键盘的多个配色版本。你以为是巧合，其实背后是推荐算法在实时分析你的每一次点击、每一次停留。&lt;/p>
+&lt;p>每一次滑动屏幕，都有成千上万台服务器在运算。但很少有人想过：这些服务器里运行的软件，是怎么设计出来的？&lt;/p>
+&lt;p>每一款你用的手机、每一台你开的汽车、每一栋你走进的办公楼——在它们变成实物之前，都需要先在电脑里&amp;quot;画&amp;quot;出来。工程师们需要在虚拟空间里构建三维模型、模拟力学性能、优化结构设计。这个过程，就像建筑师在动工前必须先画出详细的图纸。&lt;/p>
+&lt;p>而用来&amp;quot;画&amp;quot;这些图纸的工具，叫做&lt;strong>CAD（计算机辅助设计）软件&lt;/strong>。&lt;/p>
+&lt;p>当制造业向智能化转型，这些&amp;quot;数字画笔&amp;quot;的需求量也在激增。问题是：生产这些&amp;quot;画笔&amp;quot;的中国公司，能抓住这波浪潮吗？&lt;/p>
+&lt;p>这就是今天市场疯狂追捧&lt;strong>中望软件&lt;/strong>的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年6月8日，A股工业软件板块逆势走强，中望软件20CM涨停。&lt;/p>
+&lt;p>表面看，这是受&amp;quot;物理AI&amp;quot;概念的刺激——英伟达GTC大会上黄仁勋力推AI与物理仿真结合，全球资本追捧相关标的。&lt;strong>按理说，物理AI利好算力芯片、利好云计算，和CAD软件八竿子打不着。但市场偏偏选了中望软件&lt;/strong>——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的产业逻辑&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>中国制造业的&amp;quot;数字底座&amp;quot;正在经历国产替代的关键窗口期&lt;/strong>。&lt;/p>
+&lt;p>中望软件，国产CAD龙头，连续两个交易日涨幅偏离值累计达30%，触发异常波动公告。&lt;/p>
+&lt;p>不是因为蹭上了物理AI的热点，而是因为市场终于意识到——工业软件的国产替代，已经从&amp;quot;政策驱动&amp;quot;走向&amp;quot;需求兑现&amp;quot;。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
+&lt;p>&lt;strong>让我们回到那个刷机械键盘视频的场景。&lt;/strong>&lt;/p>
+&lt;p>2020年前，中国工程师设计产品时，打开的几乎是清一色的国外软件——AutoCAD、SolidWorks、CATIA。这些软件好用，但贵，而且随时面临&amp;quot;断供&amp;quot;风险。&lt;/p>
+&lt;p>2020年后，信创浪潮兴起，政策开始推动核心工业软件国产化。但当时大家普遍认为：国产CAD能用，但不好用，替代国外软件遥遥无期。&lt;/p>
+&lt;p>2023年，故事进入第三阶段：&lt;strong>国产CAD开始从&amp;quot;能用&amp;quot;走向&amp;quot;好用&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为制造业的数字化转型，不是简单的&amp;quot;软件替换&amp;quot;。当中国企业从&amp;quot;代工制造&amp;quot;向&amp;quot;自主研发&amp;quot;转型时，对设计软件的需求不是线性增加，而是结构性升级——从二维制图转向三维建模，从单一设计转向协同研发。&lt;/p>
+&lt;p>更关键的是，AI技术的渗透。AI辅助设计、智能参数优化、自动化仿真——这些新功能正在重新定义CAD软件的竞争力。&lt;/p>
+&lt;p>中望软件的3D CAD产品已经开始在高端制造领域放量。这不是概念，是订单。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>&lt;strong>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/strong>&lt;/p>
+&lt;p>工业软件的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;软件公司&amp;quot;来估值——看PE、看增速、看毛利率。这个逻辑在消费软件时代是对的，但在工业软件时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>2025年营收&lt;/strong>：8.94亿元，同比增长0.68%&lt;/li>
+&lt;li>&lt;strong>2025年净利润&lt;/strong>：2153万元，同比减少66.34%&lt;/li>
+&lt;li>&lt;strong>研发投入&lt;/strong>：占营收比例超过50%，持续高投入&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着中望软件正在从&amp;quot;软件销售商&amp;quot;变成&amp;quot;基础设施提供商&amp;quot;。传统的软件授权收入跟着经济周期波动，但工业软件带来的价值是嵌入式的——只要制造业还在，设计需求就不会停。&lt;/p>
+&lt;p>市场愿意给中望软件更高估值的原因：它不再是一家普通的软件公司，而是中国制造业数字化转型的&amp;quot;数字底座&amp;quot;。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>&lt;strong>估值重构给了买入的理由，但问题是——为什么是中望软件，而不是其他工业软件公司？&lt;/strong>&lt;/p>
+&lt;p>国产CAD有很多玩家，为什么中望软件能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，技术积累深厚。&lt;/strong> 中望软件花了20多年时间，从二维CAD起步，逐步攻克三维几何建模内核这一&amp;quot;卡脖子&amp;quot;技术。这不是一朝一夕能复制的。&lt;/p>
+&lt;p>&lt;strong>第二，客户生态锁定。&lt;/strong> CAD软件的切换成本极高——工程师的学习成本、历史数据的迁移成本、上下游的协同成本。中望软件已经服务了超过90万家企业客户，形成了强大的生态粘性。&lt;/p>
+&lt;p>&lt;strong>第三，信创政策红利。&lt;/strong> 在党政军及关键行业，国外软件的使用受到限制。中望软件作为国产CAD龙头，是替代的首选标的。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。中望软件花了20年，投入了数十亿研发资金，才形成了今天的技术积累。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品功能，但很难复制它的技术底蕴和客户生态。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越智能，工业设计越高效；工业设计越高效，国产CAD越刚需；国产CAD越刚需，中望软件越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：中国制造业数字化转型加速，工业软件国产替代进入关键窗口期&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：AI技术渗透+信创政策推动，国产CAD从&amp;quot;能用&amp;quot;走向&amp;quot;好用&amp;quot;&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：中望软件作为国产CAD龙头，技术积累深厚，客户生态锁定，是产业变革的最大受益者&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>中兴通讯：当'连接'遇见'算力'，通信巨头的第二曲线</title><link>https://dondrub3.com/jibai/2026-06-05-%E4%B8%AD%E5%85%B4%E9%80%9A%E8%AE%AF/</link><pubDate>Fri, 05 Jun 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-06-05-%E4%B8%AD%E5%85%B4%E9%80%9A%E8%AE%AF/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
 &lt;p>你刚在地铁上刷完一条短视频，出站时导航软件已经实时规划好了最优路线。你以为是巧合，其实背后是数以亿计的数据正在通过5G网络以毫秒级的速度传输。&lt;/p>
 &lt;p>每一次点击、每一次滑动，都有成千上万台基站和服务器在协同工作。这些设备之间，需要高速、稳定、低延迟的连接——就像人体的神经系统传递信号一样。&lt;/p>
 &lt;p>而构建这些&amp;quot;神经中枢&amp;quot;的核心设备，叫做&lt;strong>通信基站&lt;/strong>。&lt;/p>

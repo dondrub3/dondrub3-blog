@@ -1,4 +1,121 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI算力 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/tags/ai%E7%AE%97%E5%8A%9B/</link><description>Recent content in AI算力 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Thu, 04 Jun 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/tags/ai%E7%AE%97%E5%8A%9B/index.xml" rel="self" type="application/rss+xml"/><item><title>中船特气：AI算力背后的'空气'供应商</title><link>https://dondrub3.com/jibai/2026-06-04-%E4%B8%AD%E8%88%B9%E7%89%B9%E6%B0%94/</link><pubDate>Thu, 04 Jun 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-06-04-%E4%B8%AD%E8%88%B9%E7%89%B9%E6%B0%94/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI算力 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/tags/ai%E7%AE%97%E5%8A%9B/</link><description>Recent content in AI算力 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Wed, 17 Jun 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/tags/ai%E7%AE%97%E5%8A%9B/index.xml" rel="self" type="application/rss+xml"/><item><title>华正新材：藏在每一块电路板里的AI算力密码</title><link>https://dondrub3.com/jibai/2026-06-17-%E5%8D%8E%E6%AD%A3%E6%96%B0%E6%9D%90/</link><pubDate>Wed, 17 Jun 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-06-17-%E5%8D%8E%E6%AD%A3%E6%96%B0%E6%9D%90/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在手机上刷完一条短视频，下一秒打开购物App，首页就精准推送了你刚才看的那款商品。你以为是巧合，其实背后是数据中心里成千上万台服务器在实时分析你的每一次点击、每一次停留。&lt;/p>
+&lt;p>每一次滑动屏幕，都有数百万台服务器在运算。这些服务器之间，需要传输海量的数据——就像人体的血管输送血液一样。&lt;/p>
+&lt;p>而连接这些服务器的&amp;quot;血管&amp;quot;，叫做&lt;strong>PCB电路板&lt;/strong>。PCB电路板的&amp;quot;心脏&amp;quot;，叫做&lt;strong>覆铜板&lt;/strong>。&lt;/p>
+&lt;p>当AI大模型训练需要的数据量呈指数级增长，这些&amp;quot;心脏&amp;quot;的跳动频率也在加快。问题是：生产这些&amp;quot;心脏&amp;quot;的工厂，产能跟得上吗？&lt;/p>
+&lt;p>这就是今天市场疯狂追捧&lt;strong>华正新材&lt;/strong>的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年6月17日，A股PCB概念板块集体爆发，华正新材、深南电路、生益科技等多股涨停，科创50指数大涨超4%。&lt;/p>
+&lt;p>表面看，这是受AI算力需求持续爆发的刺激——英伟达新一代GPU发布，全球AI军备竞赛升级。按理说，AI算力利好芯片、利好光模块，和覆铜板八竿子打不着。但市场偏偏选了覆铜板——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的产业链传导逻辑&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI服务器的算力密度在提升，对PCB的性能要求也在跃迁&lt;/strong>。&lt;/p>
+&lt;p>华正新材，国内覆铜板行业领军企业，6月17日股价涨停，8天5板，续创历史新高。&lt;/p>
+&lt;p>不是因为&amp;quot;蹭热点&amp;quot;，而是因为它的&lt;strong>高速覆铜板已经开始批量供货AI服务器&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要了">【第一个故事】为什么突然重要了&lt;/h2>
+&lt;p>让我们回到那个刷短视频的场景。&lt;/p>
+&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家以为AI只是&amp;quot;软件的游戏&amp;quot;。&lt;/p>
+&lt;p>2024年，英伟达GPU一卡难求，市场意识到&amp;quot;算力才是瓶颈&amp;quot;。光模块、服务器开始涨价。&lt;/p>
+&lt;p>2026年，故事进入第三阶段：&lt;strong>AI服务器的性能瓶颈，已经从&amp;quot;算力芯片&amp;quot;转移到&amp;quot;信号传输&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为GPU算力和数据传输的关系，不是简单的&amp;quot;一对一&amp;quot;。一张高端GPU需要配合多张高速PCB板才能发挥全部性能。当AI模型参数量从百亿级扩展到万亿级时，数据传输的延迟和损耗成为新的瓶颈。&lt;/p>
+&lt;p>更关键的是，&lt;strong>高速覆铜板的技术门槛正在抬高&lt;/strong>。传统覆铜板已经无法满足AI服务器对低介电损耗、低热膨胀系数的要求。这意味着，行业正在从&amp;quot;低端产能过剩&amp;quot;向&amp;quot;高端供不应求&amp;quot;切换。&lt;/p>
+&lt;p>华正新材的&lt;strong>Ultra low loss等级高速覆铜板&lt;/strong>已经开始批量销售，应用于AI服务器、交换机、光模块等细分市场。无卤Ultra low loss等级材料已获得国际知名芯片终端认可。这不是概念，是&lt;strong>已经落地的订单&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>覆铜板行业的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——跟着铜价和下游需求波动，毛利率低、竞争格局差。这个逻辑在传统覆铜板时代是对的，但在高速覆铜板时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>2025年上半年营收20.95亿元&lt;/strong>，同比增长7.88%&lt;/li>
+&lt;li>&lt;strong>净利润4266.90万元&lt;/strong>，同比激增327.86%&lt;/li>
+&lt;li>&lt;strong>研发投入9487万元&lt;/strong>，同比增长4.79%，重点推进高端覆铜板、半导体封装材料&lt;/li>
+&lt;li>&lt;strong>高速覆铜板销售占比显著提升&lt;/strong>，产品结构持续优化&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着华正新材正在从&amp;quot;传统覆铜板制造商&amp;quot;变成&amp;quot;高端电子材料供应商&amp;quot;。传统的覆铜板跟着铜价和下游需求波动，但AI算力带来的需求是&lt;strong>结构性、持续性&lt;/strong>的——只要AI军备竞赛还在，高速覆铜板的需求就不会停。&lt;/p>
+&lt;p>市场愿意给华正新材更高估值的原因：它不再是一家&amp;quot;周期股&amp;quot;，而是&amp;quot;AI算力基础设施的卖铲人&amp;quot;。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是华正新材，而不是其他覆铜板公司？&lt;/p>
+&lt;p>覆铜板行业有很多玩家，为什么华正新材能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，技术领先。&lt;/strong> 华正新材在高速覆铜板领域已经实现Ultra low loss等级材料的批量销售，无卤Ultra low loss等级材料获国际知名芯片终端认可，Ultra low loss（Low CTE）材料通过国内头部终端认证。技术代际领先，竞争对手难以追赶。&lt;/p>
+&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> 高速覆铜板的客户认证周期长达1-2年，一旦进入供应链，切换成本极高。华正新材已经通过国内外头部终端认证，客户粘性强。&lt;/p>
+&lt;p>&lt;strong>第三，产能布局。&lt;/strong> 公司珠海基地于2024年下半年投产，2025年处于产能爬坡阶段；泰国覆铜板生产基地项目处于规划阶段，投资总额不超过6000万美元，未来将成为拓展海外市场的重要支点。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。华正新材花了&lt;strong>20多年&lt;/strong>，投入了&lt;strong>数十亿研发资金&lt;/strong>，才形成了今天的技术积累和客户资源。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品，但很难复制它的&lt;strong>技术沉淀和客户关系&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越聪明，数据传输量越大；传输量越大，高速覆铜板越紧缺；高速覆铜板越紧缺，华正新材越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求正在爆发式增长，对PCB的性能要求持续跃迁&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：AI服务器算力密度提升，高速覆铜板从&amp;quot;可选&amp;quot;变成&amp;quot;必需&amp;quot;&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：华正新材的Ultra low loss等级高速覆铜板已批量供货AI服务器，业绩进入高速增长期&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>新易盛：当AI的'血管'开始堵车</title><link>https://dondrub3.com/jibai/2026-06-11-%E6%96%B0%E6%98%93%E7%9B%9B/</link><pubDate>Thu, 11 Jun 2026 20:30:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-06-11-%E6%96%B0%E6%98%93%E7%9B%9B/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在ChatGPT里输入了一个复杂的问题，几秒钟后，它给出了一个详尽而准确的回答。你以为是魔法，其实背后是成千上万台服务器在并行运算。&lt;/p>
+&lt;p>每一次提问，都有数以亿计的数据包在全球数据中心之间穿梭。这些数据中心之间，需要超高带宽、超低延迟的连接——就像人体的血管输送血液一样，一旦堵塞，整个系统就会瘫痪。&lt;/p>
+&lt;p>而连接这些AI数据中心的&amp;quot;血管&amp;quot;，叫做&lt;strong>光模块&lt;/strong>。&lt;/p>
+&lt;p>当AI大模型变得越来越聪明，这些&amp;quot;血管&amp;quot;里的数据流量也在指数级增长。问题是：生产这些高端&amp;quot;血管&amp;quot;的工厂，产能跟得上吗？&lt;/p>
+&lt;p>这就是今天市场剧烈波动背后的核心焦虑。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年6月11日，CPO（光电共封装）概念股集体回落，新易盛盘中一度大跌超8%，最终收跌4.55%。&lt;/p>
+&lt;p>表面看，这是受英伟达股价回调的拖累——全球AI芯片龙头下跌，产业链跟着承压。按理说，英伟达跌利好AMD、利好英特尔，和光模块八竿子打不着。但市场偏偏选了光模块——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的预期修正&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI算力投资正在从&amp;quot;野蛮扩张&amp;quot;走向&amp;quot;精算回报&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>新易盛，全球光模块龙头之一，股价从年初的高点已回调近30%。&lt;/p>
+&lt;p>不是因为业绩不好，而是因为市场在重新评估：当AI基础设施投资开始算细账，光模块的高增长还能持续多久？&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要了">【第一个故事】为什么突然重要了&lt;/h2>
+&lt;p>让我们回到那个ChatGPT回答问题的场景。&lt;/p>
+&lt;p>2023年，ChatGPT爆火，市场开始炒AI概念。但当时大家只关注&amp;quot;谁在做大模型&amp;quot;——OpenAI、谷歌、百度。&lt;/p>
+&lt;p>2024年，市场意识到&amp;quot;卖铲子的比挖金子的更赚钱&amp;quot;——英伟达、AMD的芯片供不应求。光模块作为芯片的&amp;quot;配套血管&amp;quot;，开始被关注。&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>光模块从&amp;quot;配角&amp;quot;变成了&amp;quot;瓶颈&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为GPU和光模块的关系，不是简单的&amp;quot;一对一&amp;quot;。一张英伟达H100需要8个800G光模块，一张B200需要更多。当数据中心从&amp;quot;百卡级&amp;quot;扩展到&amp;quot;万卡级&amp;quot;时，光模块的需求量不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>更关键的是，技术迭代到了临界点。800G正在放量，1.6T即将商用。这意味着，旧产能需要淘汰，新产能亟待释放。&lt;/p>
+&lt;p>新易盛的800G产品已经批量出货，1.6T产品正在客户验证中。这不是概念，是已经写在财报里的数字——2025年Q1，营收40.52亿元，同比增长264%；净利润15.73亿元，同比增长385%。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>光模块的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;通信设备配件&amp;quot;来估值——跟着运营商资本开支波动，周期性明显，给20倍PE都算高。这个逻辑在4G时代是对的，但在AI时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>毛利率49.16%&lt;/strong>——比行业平均高出近20个百分点&lt;/li>
+&lt;li>&lt;strong>净利率33.27%&lt;/strong>——在制造业里堪称奢侈&lt;/li>
+&lt;li>&lt;strong>ROE 14.52%&lt;/strong>——单季度数据，年化后更加惊人&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着新易盛正在从&amp;quot;通信配件商&amp;quot;变成&amp;quot;AI基础设施供应商&amp;quot;。传统的光模块跟着运营商预算波动，但AI带来的需求是刚性且持续的——只要大模型还在训练，只要推理需求还在增长，光模块就停不下来。&lt;/p>
+&lt;p>市场愿意给新易盛更高估值的原因：它不再是一家&amp;quot;周期股&amp;quot;，而是&amp;quot;AI时代的卖水人&amp;quot;。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是新易盛，而不是其他光模块公司？&lt;/p>
+&lt;p>光模块行业有很多玩家，为什么新易盛能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，技术领先。&lt;/strong> 新易盛是国内最早量产800G光模块的厂商之一，1.6T产品也已进入客户验证阶段。在光通信这个技术迭代极快的行业，先发优势就是护城河。&lt;/p>
+&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> 光模块需要通过设备商和云厂商的严格认证，周期长达6-12个月。新易盛已经进入英伟达、谷歌、亚马逊等全球顶级云厂商的供应链，客户切换成本极高。&lt;/p>
+&lt;p>&lt;strong>第三，规模效应。&lt;/strong> 新易盛的产能规模在国内数一数二，单位成本比竞争对手低10-15%。在价格敏感的光模块市场，这意味着更高的利润率和更强的定价权。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。新易盛花了近10年，投入了数十亿研发资金，才形成了今天的技术积累和客户关系。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品，但很难复制它的生态。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越聪明，数据中心越拥挤；数据中心越拥挤，光模块越紧缺；光模块越紧缺，新易盛越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI大模型的训练和推理需求正在爆发式增长，数据中心的算力规模持续扩张，光模块作为核心连接器件迎来历史性机遇。&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：算力规模越大，光模块的需求量就越大，且新一代GPU对高速光模块的依赖度更高。技术迭代（800G→1.6T）带来产品升级和单价提升。&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：作为全球光模块龙头，新易盛的800G产品已经放量，1.6T产品即将商用，业绩进入高速增长期，毛利率和净利率均处于行业领先水平。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>中船特气：AI算力背后的'空气'供应商</title><link>https://dondrub3.com/jibai/2026-06-04-%E4%B8%AD%E8%88%B9%E7%89%B9%E6%B0%94/</link><pubDate>Thu, 04 Jun 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-06-04-%E4%B8%AD%E8%88%B9%E7%89%B9%E6%B0%94/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
 &lt;p>你刚在手机上下单了一台新电脑，三天后就送到了家门口。你以为是快递快，其实背后是整个半导体产业链在高速运转。&lt;/p>
 &lt;p>每一块芯片，从设计到制造，需要经过上千道工序。在这些工序中，约70%的环节都依赖一种你看不见、摸不着，却至关重要的材料——就像人体的血液输送氧气和养分一样。&lt;/p>
 &lt;p>而这种材料，叫做&lt;strong>电子特种气体&lt;/strong>。&lt;/p>
