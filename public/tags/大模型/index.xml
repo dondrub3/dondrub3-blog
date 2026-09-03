@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>大模型 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</link><description>Recent content in 大模型 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Thu, 27 Aug 2026 19:30:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml"/><item><title>智谱：当AI从'工具'变成'基础设施'</title><link>https://dondrub3.com/jibai/2026-08-27-%E6%99%BA%E8%B0%B1/</link><pubDate>Thu, 27 Aug 2026 19:30:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-08-27-%E6%99%BA%E8%B0%B1/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在微信上问了一句&amp;quot;明天北京天气怎么样&amp;quot;，两秒后手机就弹出了精准的天气预报和穿衣建议。你以为是简单的搜索，其实背后是大语言模型在实时理解你的意图、调用天气API、生成自然语言回复。&lt;/p>
+&lt;p>每一次对话，都有成千上万台服务器在运算。这些服务器之间，需要处理海量的文本、图像、语音数据——就像人体的神经系统传递信号一样。&lt;/p>
+&lt;p>而支撑这些&amp;quot;神经信号&amp;quot;传输和处理的&lt;strong>基座大模型&lt;/strong>，叫做&lt;strong>智谱GLM&lt;/strong>。&lt;/p>
+&lt;p>当越来越多的APP开始内置AI助手，当越来越多的企业开始用大模型改造业务流程，这些&amp;quot;AI大脑&amp;quot;的需求量正在呈指数级增长。问题是：能做出顶级大模型的公司，全球有几家？&lt;/p>
+&lt;p>这就是今天市场追捧**智谱（02513.HK）**的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年8月27日，港股AI概念股集体爆发，智谱大涨12.62%，收于1160港元，成交额高达76.54亿港元。&lt;/p>
+&lt;p>表面看，这是受美股科技股反弹的刺激——英伟达财报超预期，全球AI板块风险偏好回升。按理说，美股科技股利好美股AI板块，和港股八竿子打不着。但市场偏偏选了港股AI——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;AI产业正在从预期走向兑现&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>中国大模型正在从&amp;quot;追赶&amp;quot;走向&amp;quot;并跑&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>智谱，全球首家以通用人工智能基座模型为核心业务的港股上市公司，自2026年1月8日上市以来，股价从发行价116.2港元最高飙升至2980港元，涨幅超过24倍。&lt;/p>
+&lt;p>不是因为概念炒作，而是因为&lt;strong>GLM-5.3-Flash开源后海外爆火&lt;/strong>，证明了其技术实力已经获得全球开发者认可。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
+&lt;p>让我们回到那个微信问天气的场景。&lt;/p>
+&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家普遍认为，中国大模型落后美国至少2-3年。&lt;/p>
+&lt;p>2024年，智谱GLM-4发布，市场意识到中国大模型正在快速追赶。阿里、腾讯、美团等巨头纷纷投资，智谱估值从43亿飙升至200亿。&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>智谱成为全球大模型第一股，在港交所挂牌上市&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为大模型和应用的关系，不是简单的&amp;quot;一对一&amp;quot;。一个AI助手需要调用数十个API，处理多模态输入，背后是一个庞大的模型生态。当应用场景从&amp;quot;聊天机器人&amp;quot;扩展到&amp;quot;企业级AI基础设施&amp;quot;时，对基座大模型的需求不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>更关键的是，&lt;strong>GLM-5.3-Flash开源后在海外爆火&lt;/strong>，被称为&amp;quot;牛来&amp;quot;（国产算力卡扛起大梁）。这意味着，智谱的技术路线已经得到全球开发者验证。&lt;/p>
+&lt;p>智谱的AutoGLM智能体已经开始规模化落地。这不是概念，是订单。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>AI大模型公司的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;软件公司&amp;quot;来估值——看营收、看利润、看PE。这个逻辑在&amp;quot;AI 1.0时代&amp;quot;是对的，但在&amp;quot;大模型时代&amp;quot;需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>年营收&lt;/strong>：8.02亿港元（2025年），同比增长130%&lt;/li>
+&lt;li>&lt;strong>累计融资&lt;/strong>：超过160亿元人民币，估值突破400亿元&lt;/li>
+&lt;li>&lt;strong>股价表现&lt;/strong>：上市8个月涨幅超10倍，52周涨幅879%&lt;/li>
+&lt;li>&lt;strong>市值&lt;/strong>：5401亿港元（约700亿美元）&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着智谱正在从&amp;quot;创业公司&amp;quot;变成&amp;quot;AI基础设施提供商&amp;quot;。传统的软件公司跟着项目周期波动，但大模型带来的需求是&lt;strong>持续性&lt;/strong>的——只要AI应用还在增长，对基座模型的需求就不会停。&lt;/p>
+&lt;p>市场愿意给智谱更高估值的原因：它不再是一家&amp;quot;AI创业公司&amp;quot;，而是&lt;strong>中国版OpenAI&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是智谱，而不是其他大模型公司？&lt;/p>
+&lt;p>AI大模型赛道有很多玩家（六小虎：智谱、MiniMax、百川智能、月之暗面、阶跃星辰、零一万物），为什么智谱能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，清华系技术基因。&lt;/strong> 智谱核心团队来自清华大学计算机系，拥有深厚的学术积累。GLM（General Language Model）架构是自主研发，不是简单的GPT复刻。&lt;/p>
+&lt;p>&lt;strong>第二，国资背书+巨头加持。&lt;/strong> 阿里、腾讯、美团、中关村科学城等顶级资本持续加注，最新估值已达400亿元。国资入局意味着政策层面的认可和支持。&lt;/p>
+&lt;p>&lt;strong>第三，率先上市，资本优势。&lt;/strong> 作为首家登陆港股的AI大模型公司，智谱拥有更充裕的资金进行技术研发和生态建设。2026年1月IPO募资净额约41.73亿港元。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。智谱花了6年时间，累计投入超过160亿元融资，才形成了今天的技术积累。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品，但很难复制它的&lt;strong>技术生态+资本实力+政策资源&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI应用越普及，对基座大模型的需求越大；需求越大，智谱的技术优势越明显；优势越明显，智谱越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI大模型从&amp;quot;预期&amp;quot;走向&amp;quot;兑现&amp;quot;，智谱GLM-5.3-Flash开源后海外爆火，证明技术实力获得全球认可。&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：AI应用渗透率越高，对基座大模型的依赖度就越高；智谱作为国产大模型龙头，将直接受益于AI基础设施化趋势。&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：全球大模型第一股，清华系技术基因，国资+巨头背书，率先上市获得资本优势，GLM系列模型技术领先。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>智谱：当AI开始替你写代码</title><link>https://dondrub3.com/jibai/2026-08-24-%E6%99%BA%E8%B0%B1/</link><pubDate>Mon, 24 Aug 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-08-24-%E6%99%BA%E8%B0%B1/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在Cursor里输入一句&amp;quot;帮我写一个Python爬虫，抓取雪球热门股票数据&amp;quot;，三秒后，完整的代码已经出现在屏幕上，连异常处理都帮你写好了。你以为是巧合，其实背后是大模型在实时理解你的意图、拆解任务、生成代码。&lt;/p>
+&lt;p>每一次敲下回车，都有成千上万台GPU在运算。这些算力之间，需要智能调度——就像一个交响乐团需要指挥。而指挥这些算力为你服务的&amp;quot;大脑&amp;quot;，叫做&lt;strong>大模型&lt;/strong>。&lt;/p>
+&lt;p>当越来越多的开发者开始用AI写代码，这些&amp;quot;大脑&amp;quot;的需求量也在爆发式增长。问题是：生产这些&amp;quot;大脑&amp;quot;的工厂，产能跟得上吗？&lt;/p>
+&lt;p>这就是今天市场激烈讨论智谱的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年8月18日，港股大模型板块重挫，智谱三日股价回撤超30%，盘中最低摸到990港元。&lt;/p>
+&lt;p>表面看，这是受美股科技股大跌的拖累——纳斯达克指数连续回调，资金风险偏好下降。按理说，美股科技股大跌利好避险资产，和AI概念股八竿子打不着。但市场偏偏选了AI——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的估值重构&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>大模型行业正在从&amp;quot;技术竞赛&amp;quot;走向&amp;quot;价值验证&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>智谱，全球首家上市的通用大模型公司，源自清华KEG实验室，2026年1月以116.2港元上市，一度触及2980港元历史高位，市值一度超过500亿港元。&lt;/p>
+&lt;p>不是因为炒作，而是因为它是中国唯一一家同时做到&amp;quot;7千亿级前沿MoE架构+全栈自研+商业化闭环&amp;quot;的大模型公司。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要了">【第一个故事】为什么突然重要了&lt;/h2>
+&lt;p>让我们回到那个用AI写代码的场景。&lt;/p>
+&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家以为这只是&amp;quot;聊天工具&amp;quot;，离真正创造价值还很远。&lt;/p>
+&lt;p>2024年，GitHub Copilot用户突破100万，市场意识到AI可以辅助编程。但大多数人仍认为这是&amp;quot;锦上添花&amp;quot;。&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>AI开始独立完成复杂工程任务&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为大模型和代码的关系，不是简单的&amp;quot;一对一&amp;quot;。一个复杂项目需要数千行代码、数百个模块协同。当开发场景从&amp;quot;写几行脚本&amp;quot;扩展到&amp;quot;构建完整应用&amp;quot;时，大模型的调用量不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>更关键的是，2025年8月，智谱发布GLM-5.3，编程能力较上一代提升50%，能够在单次任务中持续、自主地工作长达8小时，完成从规划、执行到迭代优化的完整闭环。&lt;/p>
+&lt;p>智谱的MaaS API平台ARR（年度经常性收入）已经达到17亿元，同比增长60倍。这不是概念，是订单。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>大模型公司的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;软件公司&amp;quot;来估值——看PS（市销率）、看利润率。这个逻辑在&amp;quot;卖软件&amp;quot;时代是对的，但在&amp;quot;卖智能&amp;quot;时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>2025年营收7.24亿元，同比增长132%&lt;/li>
+&lt;li>MaaS API平台ARR达17亿元，同比增长60倍&lt;/li>
+&lt;li>综合毛利率41%，显著高于行业平均水平&lt;/li>
+&lt;li>API涨价83%，调用量反增400%&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着智谱正在从&amp;quot;技术供应商&amp;quot;变成&amp;quot;基础设施&amp;quot;。传统的软件需求跟着经济周期波动，但AI带来的需求是刚需且持续的——只要企业还在数字化转型，对智能的需求就不会停。&lt;/p>
+&lt;p>市场愿意给智谱更高估值的原因：它不再是一家&amp;quot;软件公司&amp;quot;，而是&amp;quot;AI基础设施提供商&amp;quot;。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是智谱，而不是其他大模型公司？&lt;/p>
+&lt;p>大模型赛道有很多玩家——月之暗面、MiniMax、字节跳动、百度、阿里，为什么智谱能率先上市并占据龙头地位？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，技术领先。&lt;/strong> 智谱拥有自研的GLM（General Language Model）预训练架构，不同于OpenAI的GPT和Google的BERT，走出了一条独特的技术路线。清华KEG实验室发表超过500篇AI顶会论文，构建了深厚的理论体系，直接转化为智谱GLM模型底层的知识注入与复杂推理能力。&lt;/p>
+&lt;p>&lt;strong>第二，客户锁定。&lt;/strong> 大模型API的集成成本极高——企业一旦将智谱的API接入自己的系统，切换成本巨大。智谱的MaaS平台已经服务了数万家企业客户，形成了强大的客户粘性。&lt;/p>
+&lt;p>&lt;strong>第三，规模效应。&lt;/strong> 智谱是国内收入规模最大的大模型公司，2025年营收7.24亿元。规模越大，数据越多，模型越好，客户越多——形成了飞轮效应。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。智谱花了6年时间，从清华实验室的一个研究项目，成长为全球大模型第一股。竞争对手可以模仿它的产品，但很难复制它的技术积累和学术底蕴。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越聪明，代码生成量越大；代码生成量越大，大模型调用越频繁；大模型调用越频繁，智谱越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI编程助手正在从&amp;quot;辅助工具&amp;quot;进化为&amp;quot;独立开发者&amp;quot;，企业对大模型的需求从&amp;quot;尝鲜&amp;quot;走向&amp;quot;刚需&amp;quot;。&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：大模型的调用量与代码复杂度呈指数关系，当AI开始处理复杂工程任务时，API调用量将爆发式增长。&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：作为全球大模型第一股，智谱拥有自研GLM架构、清华学术基因、17亿ARR的商业化闭环，是AI基础设施赛道最确定的受益者。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item></channel></rss>

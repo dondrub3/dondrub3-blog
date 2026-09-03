@@ -1,4 +1,125 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>人工智能 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link><description>Recent content in 人工智能 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Fri, 29 May 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml"/><item><title>联想集团：AI时代的入口之争</title><link>https://dondrub3.com/jibai/2026-05-29-%E8%81%94%E6%83%B3%E9%9B%86%E5%9B%A2/</link><pubDate>Fri, 29 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-29-%E8%81%94%E6%83%B3%E9%9B%86%E5%9B%A2/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>人工智能 on Dondrub3 | 3P实验室</title><link>https://dondrub3.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link><description>Recent content in 人工智能 on Dondrub3 | 3P实验室</description><generator>Hugo -- 0.146.0</generator><language>zh</language><lastBuildDate>Thu, 27 Aug 2026 19:30:00 +0800</lastBuildDate><atom:link href="https://dondrub3.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml"/><item><title>智谱：当AI从'工具'变成'基础设施'</title><link>https://dondrub3.com/jibai/2026-08-27-%E6%99%BA%E8%B0%B1/</link><pubDate>Thu, 27 Aug 2026 19:30:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-08-27-%E6%99%BA%E8%B0%B1/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在微信上问了一句&amp;quot;明天北京天气怎么样&amp;quot;，两秒后手机就弹出了精准的天气预报和穿衣建议。你以为是简单的搜索，其实背后是大语言模型在实时理解你的意图、调用天气API、生成自然语言回复。&lt;/p>
+&lt;p>每一次对话，都有成千上万台服务器在运算。这些服务器之间，需要处理海量的文本、图像、语音数据——就像人体的神经系统传递信号一样。&lt;/p>
+&lt;p>而支撑这些&amp;quot;神经信号&amp;quot;传输和处理的&lt;strong>基座大模型&lt;/strong>，叫做&lt;strong>智谱GLM&lt;/strong>。&lt;/p>
+&lt;p>当越来越多的APP开始内置AI助手，当越来越多的企业开始用大模型改造业务流程，这些&amp;quot;AI大脑&amp;quot;的需求量正在呈指数级增长。问题是：能做出顶级大模型的公司，全球有几家？&lt;/p>
+&lt;p>这就是今天市场追捧**智谱（02513.HK）**的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年8月27日，港股AI概念股集体爆发，智谱大涨12.62%，收于1160港元，成交额高达76.54亿港元。&lt;/p>
+&lt;p>表面看，这是受美股科技股反弹的刺激——英伟达财报超预期，全球AI板块风险偏好回升。按理说，美股科技股利好美股AI板块，和港股八竿子打不着。但市场偏偏选了港股AI——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;AI产业正在从预期走向兑现&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>中国大模型正在从&amp;quot;追赶&amp;quot;走向&amp;quot;并跑&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>智谱，全球首家以通用人工智能基座模型为核心业务的港股上市公司，自2026年1月8日上市以来，股价从发行价116.2港元最高飙升至2980港元，涨幅超过24倍。&lt;/p>
+&lt;p>不是因为概念炒作，而是因为&lt;strong>GLM-5.3-Flash开源后海外爆火&lt;/strong>，证明了其技术实力已经获得全球开发者认可。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要">【第一个故事】为什么突然重要&lt;/h2>
+&lt;p>让我们回到那个微信问天气的场景。&lt;/p>
+&lt;p>2023年，ChatGPT横空出世，市场开始炒作AI概念。但当时大家普遍认为，中国大模型落后美国至少2-3年。&lt;/p>
+&lt;p>2024年，智谱GLM-4发布，市场意识到中国大模型正在快速追赶。阿里、腾讯、美团等巨头纷纷投资，智谱估值从43亿飙升至200亿。&lt;/p>
+&lt;p>2025年，故事进入第三阶段：&lt;strong>智谱成为全球大模型第一股，在港交所挂牌上市&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为大模型和应用的关系，不是简单的&amp;quot;一对一&amp;quot;。一个AI助手需要调用数十个API，处理多模态输入，背后是一个庞大的模型生态。当应用场景从&amp;quot;聊天机器人&amp;quot;扩展到&amp;quot;企业级AI基础设施&amp;quot;时，对基座大模型的需求不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>更关键的是，&lt;strong>GLM-5.3-Flash开源后在海外爆火&lt;/strong>，被称为&amp;quot;牛来&amp;quot;（国产算力卡扛起大梁）。这意味着，智谱的技术路线已经得到全球开发者验证。&lt;/p>
+&lt;p>智谱的AutoGLM智能体已经开始规模化落地。这不是概念，是订单。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>AI大模型公司的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;软件公司&amp;quot;来估值——看营收、看利润、看PE。这个逻辑在&amp;quot;AI 1.0时代&amp;quot;是对的，但在&amp;quot;大模型时代&amp;quot;需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>年营收&lt;/strong>：8.02亿港元（2025年），同比增长130%&lt;/li>
+&lt;li>&lt;strong>累计融资&lt;/strong>：超过160亿元人民币，估值突破400亿元&lt;/li>
+&lt;li>&lt;strong>股价表现&lt;/strong>：上市8个月涨幅超10倍，52周涨幅879%&lt;/li>
+&lt;li>&lt;strong>市值&lt;/strong>：5401亿港元（约700亿美元）&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着智谱正在从&amp;quot;创业公司&amp;quot;变成&amp;quot;AI基础设施提供商&amp;quot;。传统的软件公司跟着项目周期波动，但大模型带来的需求是&lt;strong>持续性&lt;/strong>的——只要AI应用还在增长，对基座模型的需求就不会停。&lt;/p>
+&lt;p>市场愿意给智谱更高估值的原因：它不再是一家&amp;quot;AI创业公司&amp;quot;，而是&lt;strong>中国版OpenAI&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是智谱，而不是其他大模型公司？&lt;/p>
+&lt;p>AI大模型赛道有很多玩家（六小虎：智谱、MiniMax、百川智能、月之暗面、阶跃星辰、零一万物），为什么智谱能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，清华系技术基因。&lt;/strong> 智谱核心团队来自清华大学计算机系，拥有深厚的学术积累。GLM（General Language Model）架构是自主研发，不是简单的GPT复刻。&lt;/p>
+&lt;p>&lt;strong>第二，国资背书+巨头加持。&lt;/strong> 阿里、腾讯、美团、中关村科学城等顶级资本持续加注，最新估值已达400亿元。国资入局意味着政策层面的认可和支持。&lt;/p>
+&lt;p>&lt;strong>第三，率先上市，资本优势。&lt;/strong> 作为首家登陆港股的AI大模型公司，智谱拥有更充裕的资金进行技术研发和生态建设。2026年1月IPO募资净额约41.73亿港元。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。智谱花了6年时间，累计投入超过160亿元融资，才形成了今天的技术积累。&lt;/p>
+&lt;p>竞争对手可以模仿它的产品，但很难复制它的&lt;strong>技术生态+资本实力+政策资源&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI应用越普及，对基座大模型的需求越大；需求越大，智谱的技术优势越明显；优势越明显，智谱越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI大模型从&amp;quot;预期&amp;quot;走向&amp;quot;兑现&amp;quot;，智谱GLM-5.3-Flash开源后海外爆火，证明技术实力获得全球认可。&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：AI应用渗透率越高，对基座大模型的依赖度就越高；智谱作为国产大模型龙头，将直接受益于AI基础设施化趋势。&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：全球大模型第一股，清华系技术基因，国资+巨头背书，率先上市获得资本优势，GLM系列模型技术领先。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>传智教育：AI时代的人才'印刷机'</title><link>https://dondrub3.com/jibai/2026-08-04-%E4%BC%A0%E6%99%BA%E6%95%99%E8%82%B2/</link><pubDate>Tue, 04 Aug 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-08-04-%E4%BC%A0%E6%99%BA%E6%95%99%E8%82%B2/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
+&lt;p>你刚在招聘网站上刷到一个&amp;quot;AI训练师&amp;quot;的岗位，月薪2万起步。你心动了，点进去看要求——&amp;ldquo;熟悉Python、了解大模型原理、能独立完成提示词优化&amp;rdquo;。你懵了：这些我都不会啊。&lt;/p>
+&lt;p>两小时后，你在B站搜索&amp;quot;AI入门教程&amp;quot;，第一个跳出来的就是&amp;quot;黑马程序员&amp;quot;的免费课程。你以为是巧合，其实背后是一家职业教育公司在精准捕捉你的焦虑。&lt;/p>
+&lt;p>每一次技术革命，都有成千上万的人面临&amp;quot;技能过时&amp;quot;的恐惧。这些人需要重新学习——就像干旱的土地渴望雨水一样。&lt;/p>
+&lt;p>而生产这些&amp;quot;雨水&amp;quot;的工厂，叫做&lt;strong>职业教育&lt;/strong>。&lt;/p>
+&lt;p>当AI开始替代白领工作，当&amp;quot;提示词工程师&amp;quot;成为新职业，当每个人都担心自己会不会被AI淘汰——&lt;strong>学习AI，已经从&amp;quot;可选项&amp;quot;变成了&amp;quot;必选项&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>问题是：教AI的&amp;quot;老师&amp;quot;，产能跟得上吗？&lt;/p>
+&lt;p>这就是今天市场疯狂追捧传智教育的原因。&lt;/p>
+&lt;hr>
+&lt;h2 id="宏观事件反常即信号">【宏观事件】反常即信号&lt;/h2>
+&lt;p>2026年8月4日，传智教育（003032）再次一字涨停，迎来7连板。&lt;/p>
+&lt;p>表面看，这是受AI应用端反复走强的刺激——OpenAI发布新模型、国内大模型竞赛白热化。按理说，这些利好应该流向算力股、模型股，和一家做职业培训的公司八竿子打不着。但市场偏偏选了传智教育——这说明资金已经不在乎&amp;quot;事件本身&amp;quot;，而在乎&amp;quot;事件背后的需求爆发&amp;quot;。&lt;/p>
+&lt;p>深入一点看，你会发现一个更底层的逻辑：&lt;strong>AI人才缺口正在从&amp;quot;隐性焦虑&amp;quot;变成&amp;quot;显性刚需&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>传智教育，国内AI人才培训龙头，7个交易日股价翻倍。&lt;/p>
+&lt;p>不是因为&amp;quot;教育板块轮动&amp;quot;这种表面原因，而是因为&lt;strong>它站在了AI产业化的关键节点上&lt;/strong>——当技术从实验室走向工厂，最需要的是什么？是会用技术的人。&lt;/p>
+&lt;hr>
+&lt;h2 id="第一个故事为什么突然重要了">【第一个故事】为什么突然重要了&lt;/h2>
+&lt;p>让我们回到那个招聘网站的场景。&lt;/p>
+&lt;p>2023年，ChatGPT横空出世，市场开始炒作&amp;quot;AI概念&amp;quot;。但当时大家的认知局限在&amp;quot;大模型公司会赚大钱&amp;quot;。&lt;/p>
+&lt;p>2024年，百度、阿里、字节纷纷发布大模型，市场意识到&amp;quot;算力是卖铲子的&amp;quot;。&lt;/p>
+&lt;p>2026年，故事进入第三阶段：&lt;strong>AI正在从&amp;quot;技术竞赛&amp;quot;走向&amp;quot;产业落地&amp;quot;&lt;/strong>。&lt;/p>
+&lt;p>为什么？&lt;/p>
+&lt;p>因为技术供给和人才需求的关系，不是简单的&amp;quot;一对一&amp;quot;。一个大模型需要10个算法工程师来训练，但需要1000个应用工程师来落地。当AI应用场景从&amp;quot;聊天机器人&amp;quot;扩展到&amp;quot;智能制造、金融风控、医疗诊断&amp;quot;时，AI人才的需求量不是线性增加，而是指数级增加。&lt;/p>
+&lt;p>数据显示，2026年上半年AI行业新发职位同比增长21.08%，人才能力与岗位需求的结构性错配持续存在。&lt;/p>
+&lt;p>更关键的是，&lt;strong>传统IT培训巨头正在退出战场&lt;/strong>。达内教育剥离成人培训业务，标志着行业供给加速出清。&lt;/p>
+&lt;p>传智教育的&amp;quot;AI具身智能机器人开发&amp;quot;新学科首期班报名已完成，将于今年10月正式开班，课程对接智元、众擎等头部厂商。这不是概念，是已经落地的订单。&lt;/p>
+&lt;hr>
+&lt;h2 id="第二个故事值不值这个价">【第二个故事】值不值这个价&lt;/h2>
+&lt;p>需求爆发解释了&amp;quot;为什么涨&amp;quot;，但投资者更关心的是——这种涨，值不值得追？&lt;/p>
+&lt;p>职业教育的估值，历来是个难题。&lt;/p>
+&lt;p>传统上，市场把它当作&amp;quot;周期股&amp;quot;来估值——跟着IT行业招聘周期波动。这个逻辑在&amp;quot;教Java、教前端&amp;quot;的时代是对的，但在&amp;quot;教AI&amp;quot;的时代需要重新审视。&lt;/p>
+&lt;p>让我们看几个数字：&lt;/p>
+&lt;ul>
+&lt;li>2025年，公司总营收同比增长超54%&lt;/li>
+&lt;li>2026年上半年，预计归母净利润2800万元至4000万元，同比增长488.72%至655.32%，实现扭亏为盈&lt;/li>
+&lt;li>经营现金流由负转正，净流入超8000万元&lt;/li>
+&lt;li>研发费用率20.4%，显著高于行业平均&lt;/li>
+&lt;/ul>
+&lt;p>这些数字意味着什么？&lt;/p>
+&lt;p>意味着传智教育正在从&amp;quot;一家IT培训机构&amp;quot;变成&amp;quot;AI时代的基础设施&amp;quot;。传统的培训需求跟着招聘周期波动，但AI带来的需求是&lt;strong>刚性且持续&lt;/strong>的——只要技术还在迭代，学习就不会停。&lt;/p>
+&lt;p>市场愿意给传智教育更高估值的原因：它不再是一家&amp;quot;教育公司&amp;quot;，而是&lt;strong>AI产业化的&amp;quot;人才印刷机&amp;quot;&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="第三个故事为什么是这一家">【第三个故事】为什么是这一家&lt;/h2>
+&lt;p>估值重构给了买入的理由，但问题是——为什么是传智教育，而不是其他培训机构？&lt;/p>
+&lt;p>职业教育有很多玩家，为什么传智教育能独占鳌头？&lt;/p>
+&lt;p>答案在于它的&lt;strong>结构性优势&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>第一，课程研发的先发优势。&lt;/strong> 早在2024年，公司管理层便捕捉到AI技术变革的趋势，着手布局相关软件开发课程的AI方向转型。2026年，公司已落实&amp;quot;全面拥抱AI&amp;quot;战略，全新推出&amp;quot;AI智能应用开发&amp;quot;&amp;ldquo;AI大模型开发&amp;quot;&amp;ldquo;AI设计&amp;quot;&amp;ldquo;AI漫剧&amp;quot;等课程。竞争对手可以模仿课程大纲，但很难复制已经打磨了两年的教学体系。&lt;/p>
+&lt;p>&lt;strong>第二，双品牌矩阵的协同效应。&lt;/strong> 公司推出&amp;quot;传智AI&amp;quot;子品牌，与&amp;quot;黑马程序员&amp;quot;形成双品牌战略布局——前者聚焦AI应用人才培养，后者聚焦AI开发人才培养。潜在培训客群从传统IT从业者延伸至金融、财务、法律等白领人群。这不是简单的产品线扩展，而是对整个AI人才市场的全覆盖。&lt;/p>
+&lt;p>&lt;strong>第三，产教融合的深度壁垒。&lt;/strong> 公司先后举办宿迁传智中专和大同数据科技职业学院，业务由非学历短训延伸至全日制学历教育。截至2025年末，公司累计出版教材191本，其中15本入选&amp;quot;十四五&amp;quot;职业教育国家规划教材，并与2,600余所高校开展课程内容及教学支持合作。这种&amp;quot;学历+非学历&amp;quot;的双轨模式，竞争对手很难复制。&lt;/p>
+&lt;p>这些优势不是一朝一夕建立起来的。传智教育花了20年，投入了数十亿，才形成了今天的积累。&lt;/p>
+&lt;p>竞争对手可以模仿它的课程，但很难复制它的生态。&lt;/p>
+&lt;hr>
+&lt;h2 id="收尾三句话闭环">【收尾】三句话闭环&lt;/h2>
+&lt;blockquote>
+&lt;p>AI越普及，人才缺口越大；人才缺口越大，培训需求越旺；培训需求越旺，传智教育越值钱。&lt;/p>&lt;/blockquote>
+&lt;p>或者按标准框架理解：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>事件&lt;/strong>：AI产业化加速，应用场景从&amp;quot;聊天机器人&amp;quot;扩展到千行百业，AI人才需求爆发式增长&lt;/li>
+&lt;li>&lt;strong>关键变量&lt;/strong>：传统IT培训巨头退出，行业供给出清，传智教育作为龙头充分受益&lt;/li>
+&lt;li>&lt;strong>公司利好&lt;/strong>：双品牌矩阵覆盖AI应用与开发人才，产教融合构建深度壁垒，业绩进入高速增长期&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>免责声明：本文仅为产品故事写作练习，不构成任何投资建议。股市有风险，投资需谨慎。&lt;/em>&lt;/p></description></item><item><title>联想集团：AI时代的入口之争</title><link>https://dondrub3.com/jibai/2026-05-29-%E8%81%94%E6%83%B3%E9%9B%86%E5%9B%A2/</link><pubDate>Fri, 29 May 2026 19:00:00 +0800</pubDate><guid>https://dondrub3.com/jibai/2026-05-29-%E8%81%94%E6%83%B3%E9%9B%86%E5%9B%A2/</guid><description>&lt;h2 id="开头身边的故事">【开头】身边的故事&lt;/h2>
 &lt;p>你刚在电脑上打开一份PPT，AI助手自动帮你生成了大纲；你刚在浏览器里搜索了一个问题，侧边栏就弹出了AI总结。你以为是巧合，其实背后是大模型在实时理解你的每一次操作、每一个意图。&lt;/p>
 &lt;p>每一次点击，都有成千上万台设备在运算。这些设备之间，需要有人工智能来协调——就像人体的神经系统传递指令一样。&lt;/p>
 &lt;p>而连接这些设备的&amp;quot;神经中枢&amp;quot;，叫做&lt;strong>AI PC&lt;/strong>。&lt;/p>
